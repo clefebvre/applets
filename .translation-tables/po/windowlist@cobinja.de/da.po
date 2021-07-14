@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 20:01+0200\n"
+"PO-Revision-Date: 2020-12-24 10:23+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 3.2/applet.js:1286 4.0/applet.js:1393
+msgid "Preferences"
+msgstr "Indstillinger"
+
+#: 3.2/applet.js:1290 4.0/applet.js:1397
+msgid "About..."
+msgstr "Om …"
+
+#: 3.2/applet.js:1294 4.0/applet.js:1401
+msgid "Configure..."
+msgstr "Konfigurér …"
+
+#: 3.2/applet.js:1298 4.0/applet.js:1405
+#, javascript-format
+msgid "Remove '%s'"
+msgstr "Fjern “%s”"
+
+#: 3.2/applet.js:1307 4.0/applet.js:1414
+msgid "Open new window"
+msgstr "Åbn nyt vindue"
+
+#: 3.2/applet.js:1313 4.0/applet.js:1420
+msgid "Pin to this workspace"
+msgstr "Fastgør til dette arbejdsområde"
+
+#: 3.2/applet.js:1327 4.0/applet.js:1434
+msgid "Pin to other workspaces"
+msgstr "Fastgør til andre arbejdsområder"
+
+#: 3.2/applet.js:1359 4.0/applet.js:1507
+msgid "Only on this workspace"
+msgstr "Kun på dette arbejdsområde"
+
+#: 3.2/applet.js:1362 4.0/applet.js:1510
+msgid "Visible on all workspaces"
+msgstr "Synlig på alle arbejdsområder"
+
+#: 3.2/applet.js:1364 4.0/applet.js:1511
+msgid "Move to another workspace"
+msgstr "Flyt til et andet arbejdsområde"
+
+#: 3.2/applet.js:1384 4.0/applet.js:1530
+msgid "Move to another monitor"
+msgstr "Flyt til en anden skærm"
+
+#: 3.2/applet.js:1392 4.0/applet.js:1538
+msgid "Monitor"
+msgstr "Skærm"
+
+#: 3.2/applet.js:1404 4.0/applet.js:1554
+msgid "Restore"
+msgstr "Gendan"
+
+#: 3.2/applet.js:1409 4.0/applet.js:1559
+msgid "Minimize"
+msgstr "Minimér"
+
+#: 3.2/applet.js:1415 4.0/applet.js:1565
+msgid "Unmaximize"
+msgstr "Gendan"
+
+#: 3.2/applet.js:1422 4.0/applet.js:1572
+msgid "Close others"
+msgstr "Luk andre"
+
+#: 3.2/applet.js:1433 4.0/applet.js:1583
+msgid "Close all"
+msgstr "Luk alle"
+
+#: 3.2/applet.js:1442 4.0/applet.js:1592
+msgid "Close"
+msgstr "Luk"
+
+#: 4.0/applet.js:1475
+msgid "Places"
+msgstr "Steder"
+
+#. metadata.json->name
+msgid "CobiWindowList"
+msgstr "CobiWindowList"
+
+#. metadata.json->description
+msgid "A window list with app grouping and window previews"
+msgstr ""
+"Vinduesliste med gruppering af programmer og forhåndsvisning af vinduer"
+
+#. 3.2->settings-schema.json->section1->description
+#. 4.0->settings-schema.json->section1->description
+msgid "Captions"
+msgstr "Titler"
+
+#. 3.2->settings-schema.json->caption-type->options
+#. 4.0->settings-schema.json->caption-type->options
+msgid "Name"
+msgstr "Navn"
+
+#. 3.2->settings-schema.json->caption-type->options
+#. 4.0->settings-schema.json->caption-type->options
+msgid "Title"
+msgstr "Titel"
+
+#. 3.2->settings-schema.json->caption-type->description
+#. 4.0->settings-schema.json->caption-type->description
+msgid "Caption type"
+msgstr "Titeltype"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "None"
+msgstr "Ingen"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "All"
+msgstr "Alle"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "Running"
+msgstr "Kørende"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "Focused"
+msgstr "Fokuseret"
+
+#. 3.2->settings-schema.json->display-caption-for->description
+#. 4.0->settings-schema.json->display-caption-for->description
+msgid "Display Caption For"
+msgstr "Vis titler for"
+
+#. 3.2->settings-schema.json->label-width->units
+#. 4.0->settings-schema.json->label-width->units
+msgid "pixels"
+msgstr "pixler"
+
+#. 3.2->settings-schema.json->label-width->description
+#. 4.0->settings-schema.json->label-width->description
+msgid "Label width"
+msgstr "Etiketbredde"
+
+#. 3.2->settings-schema.json->label-animation->description
+#. 4.0->settings-schema.json->label-animation->description
+msgid "Animate label"
+msgstr "Animér etiket"
+
+#. 3.2->settings-schema.json->label-animation-time->units
+#. 3.2->settings-schema.json->animation-time->units
+#. 3.2->settings-schema.json->preview-timeout-show->units
+#. 3.2->settings-schema.json->preview-timeout-hide->units
+#. 4.0->settings-schema.json->label-animation-time->units
+#. 4.0->settings-schema.json->animation-time->units
+#. 4.0->settings-schema.json->preview-timeout-show->units
+#. 4.0->settings-schema.json->preview-timeout-hide->units
+msgid "milliseconds"
+msgstr "millisekunder"
+
+#. 3.2->settings-schema.json->label-animation-time->description
+#. 4.0->settings-schema.json->label-animation-time->description
+msgid "Label animation time"
+msgstr "Varighed af etiketanimation"
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "Never"
+msgstr "Aldrig"
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "Always"
+msgstr "Altid"
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "2 or more windows"
+msgstr "To eller flere vinduer"
+
+#. 3.2->settings-schema.json->display-number->description
+#. 4.0->settings-schema.json->display-number->description
+msgid "Display Number"
+msgstr "Vis antal"
+
+#. 3.2->settings-schema.json->section2->description
+#. 4.0->settings-schema.json->section2->description
+msgid "Icons"
+msgstr "Ikoner"
+
+#. 3.2->settings-schema.json->group-windows->description
+#. 4.0->settings-schema.json->group-windows->description
+msgid "Group Windows"
+msgstr "Gruppér vinduer"
+
+#. 3.2->settings-schema.json->group-windows->tooltip
+#. 4.0->settings-schema.json->group-windows->tooltip
+msgid ""
+"If windows are grouped, all windows from an application are managed by the "
+"same button,\n"
+"if not grouped, all windows get an own button"
+msgstr ""
+"Hvis vinduer er grupperede, håndteres alle et programs vinduer med den samme "
+"knap.\n"
+"Hvis de ikke er grupperede, har alle vinduer deres egen knap."
+
+#. 3.2->settings-schema.json->display-pinned->description
+#. 4.0->settings-schema.json->display-pinned->description
+msgid "Display Favorites"
+msgstr "Vis favoritter"
+
+#. 3.2->settings-schema.json->animation-time->description
+#. 4.0->settings-schema.json->animation-time->description
+msgid "Animation Time"
+msgstr "Animationsvarighed"
+
+#. 3.2->settings-schema.json->animation-time->tooltip
+#. 4.0->settings-schema.json->animation-time->tooltip
+msgid "The flashing time when a new window is opened via a button"
+msgstr "Animationstiden når et vindue åbnes via en knap"
+
+#. 3.2->settings-schema.json->show-windows-for-current-monitor->description
+#. 4.0->settings-schema.json->show-windows-for-current-monitor->description
+msgid "Only show windows on the same monitor"
+msgstr "Vis kun vinduer på den samme skærm"
+
+#. 3.2->settings-schema.json->show-windows-for-current-monitor->tooltip
+#. 4.0->settings-schema.json->show-windows-for-current-monitor->tooltip
+msgid ""
+"If enabled, this applet instance only manages windows\n"
+"that are displayed on the same monitor"
+msgstr ""
+"Hvis aktiveret håndterer panelprogrammet kun vinduer,\n"
+"som vises på den samme skærm"
+
+#. 3.2->settings-schema.json->section3->description
+#. 4.0->settings-schema.json->section3->description
+msgid "Preview menu"
+msgstr "Forhåndsvisningsmenu"
+
+#. 3.2->settings-schema.json->menu-show-on-click->description
+#. 4.0->settings-schema.json->menu-show-on-click->description
+msgid "Show on click"
+msgstr "Vis ved klik"
+
+#. 3.2->settings-schema.json->menu-show-on-click->tooltip
+#. 4.0->settings-schema.json->menu-show-on-click->tooltip
+msgid ""
+"If enabled, a popup menu with a list of current windows will show when "
+"clicking\n"
+"(Only with 2 or more windows)"
+msgstr ""
+"Hvis aktiveret vil en pop op-menu med en liste over aktuelle vinduer blive "
+"vist ved klik\n"
+"(Kun ved to eller flere vinduer)"
+
+#. 3.2->settings-schema.json->menu-show-on-hover->description
+#. 4.0->settings-schema.json->menu-show-on-hover->description
+msgid "Show on hover"
+msgstr "Vis, når markøren føres hen over"
+
+#. 3.2->settings-schema.json->menu-show-on-hover->tooltip
+#. 4.0->settings-schema.json->menu-show-on-hover->tooltip
+msgid ""
+"If enabled, a popup menu with a list of current windows will show when "
+"hovering"
+msgstr ""
+"Hvis aktiveret vil en pop op-menu med en liste over aktuelle vinduer blive "
+"vist, når markøren føres henover"
+
+#. 3.2->settings-schema.json->show-previews->description
+#. 4.0->settings-schema.json->show-previews->description
+msgid "Show previews"
+msgstr "Vis forhåndsvisninger"
+
+#. 3.2->settings-schema.json->show-previews->tooltip
+#. 4.0->settings-schema.json->show-previews->tooltip
+msgid ""
+"If enabled, the popup menu will show window previews\n"
+"(Always disabled when running Cinnamon in Software Rendering Mode)"
+msgstr ""
+"Hvis aktiveret vil der vises en miniature af vinduet\n"
+"(altid deaktiveret når Cinnamon kører i softwaregengivelsestilstand)"
+
+#. 3.2->settings-schema.json->number-of-unshrunk-previews->units
+#. 4.0->settings-schema.json->number-of-unshrunk-previews->units
+msgid "Windows"
+msgstr "Vinduer"
+
+#. 3.2->settings-schema.json->number-of-unshrunk-previews->description
+#. 4.0->settings-schema.json->number-of-unshrunk-previews->description
+msgid "Number of unshrunk previews"
+msgstr "Antal uformindskede forhåndsvisninger"
+
+#. 3.2->settings-schema.json->preview-timeout-show->description
+#. 4.0->settings-schema.json->preview-timeout-show->description
+msgid "Timeout Show"
+msgstr "Forsinkelse når vindue vises"
+
+#. 3.2->settings-schema.json->preview-timeout-show->tooltip
+#. 4.0->settings-schema.json->preview-timeout-show->tooltip
+msgid ""
+"The waiting time for the popup menu to show, when hovering a button\n"
+"(Not used when moving directly to a different button in the list)"
+msgstr ""
+"Ventetiden før miniaturevinduet vises\n"
+"(anvendes ikke, når der flyttes til en anden knap i listen)"
+
+#. 3.2->settings-schema.json->preview-timeout-hide->description
+#. 4.0->settings-schema.json->preview-timeout-hide->description
+msgid "Timeout Hide"
+msgstr "Forsinkelse når vindue skjules"
+
+#. 3.2->settings-schema.json->preview-timeout-hide->tooltip
+#. 4.0->settings-schema.json->preview-timeout-hide->tooltip
+msgid ""
+"The waiting time for the popup menu to hide, when leaving a button\n"
+"(Not used when moving directly to a different button in the list)"
+msgstr ""
+"Ventetiden før miniaturevinduet skjules, når en knap forlades\n"
+"(anvendes ikke, når der flyttes til en anden knap i listen)"
+
+#. 3.2->settings-schema.json->preview-close-on-middle-click->description
+#. 4.0->settings-schema.json->preview-close-on-middle-click->description
+msgid "Close window on mouse-wheel click"
+msgstr "Luk vindue ved klik med musehjulet"

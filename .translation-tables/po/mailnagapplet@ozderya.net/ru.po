@@ -1,0 +1,167 @@
+# Russian translation for mailnagapplet@ozderya.net.
+# Gena <genaloner@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-21 19:27+0800\n"
+"PO-Revision-Date: 2021-02-16 11:23+0100\n"
+"Last-Translator: Gena <genaloner@gmail.com>\n"
+"Language-Team: русский <>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: applet.js:165
+msgid "just now"
+msgstr "только что"
+
+#: applet.js:169
+msgid "1 minute ago"
+msgstr "1 минуту назад"
+
+#: applet.js:173
+msgid " minutes ago"
+msgstr " минут(ы/у) назад"
+
+#: applet.js:177
+msgid "1 hour ago"
+msgstr "1 час назад"
+
+#: applet.js:181
+msgid " hours ago"
+msgstr " час(a/ов) назад"
+
+#: applet.js:188
+msgid "yesterday"
+msgstr "вчера"
+
+#: applet.js:192
+msgid " days ago"
+msgstr " дн(ей/я) назад"
+
+#: applet.js:196
+msgid " weeks ago"
+msgstr " недел(ь/ю/и) назад"
+
+#: applet.js:281
+msgid "Configure Mailnag"
+msgstr "Настроить Mailnag"
+
+#: applet.js:360
+msgid "Mailnag daemon stopped working!"
+msgstr "Демон Mailnag перестал работать!"
+
+#: applet.js:364
+msgid "Mailnag daemon isn't running! Do you have it installed?"
+msgstr "Демон Mailnag не запущен! Вы его устанавливали?"
+
+#: applet.js:593
+#, c-format
+msgid "You have %d new mails!"
+msgstr "Новых непрочитанных писем: %d"
+
+#: applet.js:594 applet.js:639
+msgid "Mark All Read"
+msgstr "Отметить все как прочитанное"
+
+#: applet.js:602
+msgid "You have new mail!"
+msgstr "Вы получили новое письмо"
+
+#: applet.js:604
+msgid "Mark Read"
+msgstr "Отметить как прочитанное"
+
+#: applet.js:687 applet.js:749
+msgid "No unread mails."
+msgstr "Нет непрочитанных писем"
+
+#: applet.js:725
+msgid "Mailnag daemon is not running!"
+msgstr "Демон Mailnag не запущен!"
+
+#: applet.js:738
+#, c-format
+msgid "You have a mail from %s!"
+msgstr "Вы получили сообщение от %s!"
+
+#: applet.js:744
+#, c-format
+msgid "You have %d unread mails!"
+msgstr "Непрочитанных писем: %d"
+
+#: applet.js:760
+msgid "Click to see error!"
+msgstr "Нажмите, чтобы посмотреть ошибку!"
+
+#: applet.js:761
+msgid "Error: "
+msgstr "Ошибка:"
+
+#. mailnagapplet@ozderya.net->metadata.json->name
+msgid "Mailnag"
+msgstr "Mailnag"
+
+#. mailnagapplet@ozderya.net->metadata.json->description
+msgid "Mailnag mail notifier applet"
+msgstr "Апплет оповещений для Mailnag"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->description
+msgid "Show notifications"
+msgstr "Показывать оповещения"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->tooltip
+msgid ""
+"Enables display of mail arrived notifications by applet. Make sure you "
+"disable mailnag notification plugin, otherwise you will have duplicates."
+msgstr ""
+"Включает уведомления о письмах через апплет. Убедитесь, что вы отключили "
+"плагин уведомлений Mailnag, иначе уведомления будут дублироваться."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->description
+msgid "Mail client to launch (or webpage)"
+msgstr "Почтовый клиент для запуска (или веб-страницы)"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->tooltip
+msgid ""
+"Enter the command to launch your mail client here. You can also enter a web "
+"address that starts with 'http'."
+msgstr ""
+"Введите команду для запуска почтового клиента здесь. Вы также можете ввести "
+"веб-адрес, начинающийся с «http»."
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->description
+msgid "Launch mail client on click"
+msgstr "Запуск почтового клиента по клику"
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->tooltip
+msgid "Mail client is launched when clicked on a menu item."
+msgstr "Запуск почтового клиента при нажатии на элемент меню."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->description
+msgid "On middle click:"
+msgstr "По клику средней кнопки мыши:"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->tooltip
+msgid "What to do when middle clicked on applet icon"
+msgstr "Что делать при нажатии средней кнопки мыши на значке апплета"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Mark all read"
+msgstr "Отметить все как прочитанные"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Launch mail client"
+msgstr "Запустить почтовый клиент"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Do nothing"
+msgstr "Ничего не делать"

@@ -1,0 +1,25 @@
+# DESCRIPTION IN FILE LANGUAGE / DESCRIPTION IN ENGLISH
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: <filipekaue@protonmail.com> \n"
+"POT-Creation-Date: 2020-07-25 14:50-0300\n"
+"PO-Revision-Date: 2020-12-17 16:05+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: NAME <name@domain.com>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. settings-schema.json->custom-color->description
+msgid "Customize the applet colors"
+msgstr ""
+
+#. settings-schema.json->custom-color->tooltip
+msgid ""
+"When this option is disabled, the applet will try to find the accent color "
+"color of the theme"
+msgstr ""

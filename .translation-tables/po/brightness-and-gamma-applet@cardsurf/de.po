@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-01 14:00+0800\n"
+"PO-Revision-Date: 2021-02-17 09:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:168
+msgid "The following packages were not found:"
+msgstr "Die folgenden Pakete wurden nicht gefunden:"
+
+#: applet.js:169
+msgid "Please install the above packages to use the applet"
+msgstr "Bitte die obigen Pakete installieren, um das Applet zu benutzen"
+
+#: applet.js:524
+msgid "Screen"
+msgstr "Bildschirm"
+
+#: applet.js:568
+msgid "Outputs"
+msgstr "Ausgang"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->options_type->options
+#: appletGui.js:162
+msgid "Brightness"
+msgstr "Helligkeit"
+
+#: appletGui.js:163
+msgid "Red"
+msgstr "Rot"
+
+#: appletGui.js:164
+msgid "Green"
+msgstr "Grün"
+
+#: appletGui.js:165
+msgid "Blue"
+msgstr "Blau"
+
+#. brightness-and-gamma-applet@cardsurf->metadata.json->description
+msgid "Sets brightness and gamma levels of a screen"
+msgstr "Helligkeits- und Gamma-Werte eines Bildschirms festlegen"
+
+#. brightness-and-gamma-applet@cardsurf->metadata.json->name
+msgid "Brightness and gamma applet"
+msgstr "Helligkeit und Gamma-Applet"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->gui_start->description
+msgid "Gui"
+msgstr "Grafische Benutzeroberfläche"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->values_start->description
+msgid "Values"
+msgstr "Werte"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_gamma->description
+msgid "Maximum gamma"
+msgstr "Maximaler Gamma-Wert"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_gamma->tooltip
+msgid "A maximum value of gamma. Value from 51% to 200%."
+msgstr "Ein maximaler Gamma-Wert. Wert von 51% bis 200%."
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_gamma->units
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_gamma->units
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_brightness->units
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_brightness->units
+msgid "%"
+msgstr "%"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_gamma->description
+msgid "Minimum gamma"
+msgstr "Minimaler Gamma-Wert"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_gamma->tooltip
+msgid "A minimum value of gamma. Value from 10% to 50%."
+msgstr "Ein minimaler Gamma-Wert. Wert von 10% bis 50%."
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_brightness->description
+msgid "Minimum brightness"
+msgstr "Minimale Helligkeit"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->minimum_brightness->tooltip
+msgid "A minimum value of brightness. Value from 10% to 50%."
+msgstr "Ein minimaler Helligkeitswert. Wert von 10% bis 50%."
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_brightness->description
+msgid "Maximum brightness"
+msgstr "Maximale Helligkeit"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->maximum_brightness->tooltip
+msgid "A maximum value of brightness. Value from 51% to 200%."
+msgstr "Ein maximaler Helligkeitswert. Wert von 51% bis 200%."
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->gui_icon_filepath->description
+msgid "Icon"
+msgstr "Symbol"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->gui_icon_filepath->tooltip
+msgid "An icon displayed in a panel"
+msgstr "Ein Symbol, das in der Leiste angezeigt wird"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->save_every->description
+msgid "Save every"
+msgstr "Speichern alle"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->save_every->tooltip
+msgid "How often to save last used values"
+msgstr "Wie oft die zuletzt verwendeten Werte gespeichert werden sollen"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->save_every->units
+msgid "seconds"
+msgstr "Sekunden"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->update_scroll->description
+msgid "Adjust brightness scroll"
+msgstr "Helligkeit durch Scrollen regulieren"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->update_scroll->tooltip
+msgid "Allows to adjust a brightness value on a mouse scroll"
+msgstr "Ermöglicht das Ändern des Helligkeitswertes durch Scrollen mit der Maus"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->scroll_step->description
+msgid "Scroll step"
+msgstr "Scrollweite"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->scroll_step->tooltip
+msgid "A percentage of a brightness value to adjust on a mouse scroll"
+msgstr "Helligkeitswert in Prozent, der beim Scrollen mit der Maus verändert wird"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->options_type->description
+msgid "Show"
+msgstr "Anzeigen"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->options_type->tooltip
+msgid "Values shown in user interface"
+msgstr "In der Benutzeroberfläche angezeigte Werte"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->options_type->options
+msgid "All"
+msgstr "Alles"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->options_type->options
+msgid "Gamma"
+msgstr "Gamma"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_startup->description
+msgid "Apply at startup"
+msgstr "Beim Start anwenden"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_startup->tooltip
+msgid "Apply values at applet startup"
+msgstr "Werte beim Applet-Start anwenden"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_every->description
+msgid "Apply every"
+msgstr "Anwenden alle"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_every->tooltip
+msgid "How often to apply values. 0 means that values are not applied periodically."
+msgstr "Wie oft die Werte angewendet werden sollen. 0 bedeutet, dass die Werte nicht periodisch angewendet werden."
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_asynchronously->description
+msgid "Apply asynchronously"
+msgstr "Asynchron anwenden"
+
+#. brightness-and-gamma-applet@cardsurf->settings-
+#. schema.json->apply_asynchronously->tooltip
+msgid "Apply values in a background process"
+msgstr "Werte in einem Hintergrundprozess anwenden"

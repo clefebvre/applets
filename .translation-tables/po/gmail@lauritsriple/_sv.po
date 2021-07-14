@@ -1,0 +1,54 @@
+# SWedish translation for gmail@lauritsriple.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gmail@lauritsriple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 03:30+0200\n"
+"PO-Revision-Date: 2017-05-23 17:24+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:133
+msgid "INFO: Install python libaries from terminal"
+msgstr ""
+
+#: applet.js:133
+msgid "You need pip3:"
+msgstr ""
+
+#: applet.js:133
+msgid "You need python-feedparser:"
+msgstr ""
+
+#: applet.js:133
+msgid "You need python keyring and python keyring-alt:"
+msgstr ""
+
+#: applet.js:133
+msgid "and"
+msgstr ""
+
+#: applet.js:135
+msgid "INFO: Are you getting this message? You should not!"
+msgstr ""
+
+#: applet.js:135
+msgid ""
+"Check internet connection\n"
+"Install the needed python libaries\n"
+"Configure password correctly"
+msgstr ""
+
+#: applet.js:138
+msgid "ERROR: Error from json parser"
+msgstr ""

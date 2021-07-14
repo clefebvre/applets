@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 23:23+0100\n"
+"PO-Revision-Date: 2017-05-08 14:37+0200\n"
+"Last-Translator: Niko Krause <nikokrause@gmx.de>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2017-03-22 07:22+0000\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: 4.2/applet.js:635
+msgid "Search for results on the web"
+msgstr ""
+
+#: 4.2/applet.js:3280
+msgid "Clear all recent documents"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator-layout->title
+#. 4.2->settings-schema.json->quicklauncher-separator-layout->title
+msgid "Quicklauncher Separators"
+msgstr ""
+
+#. 3.4->settings-schema.json->custom-quicklauncher-places->title
+#. 4.2->settings-schema.json->custom-quicklauncher-places->title
+msgid "Quicklauncher Places"
+msgstr ""
+
+#. 3.4->settings-schema.json->custom-quicklauncher-apps->title
+#. 4.2->settings-schema.json->custom-quicklauncher-apps->title
+msgid "Quicklauncher Applications"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->description
+#. 4.2->settings-schema.json->quicklauncher-separator1->description
+msgid "Separator below user account info box"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator2->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator3->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator1->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator2->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator3->tooltip
+msgid "Choose whether or not to show this separator."
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->description
+#. 4.2->settings-schema.json->quicklauncher-places->description
+msgid "Custom Quicklauncher Places"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Visible"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+msgid "Directory"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Custom Label"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Custom Icon"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator2->description
+#. 4.2->settings-schema.json->quicklauncher-separator2->description
+msgid "Separator below quicklauncher places"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-apps->description
+#. 4.2->settings-schema.json->quicklauncher-apps->description
+msgid "Custom Quicklauncher Applications"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Command"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator3->description
+#. 4.2->settings-schema.json->quicklauncher-separator3->description
+msgid "Separator above quit buttons"
+msgstr ""
+
+#. 4.2->settings-schema.json->websearch->title
+msgid "Web Search"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search-engine->title
+#. 4.2->settings-schema.json->web-search->description
+msgid "Web Search Engine"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-custom->description
+msgid "Use a custom icon and label"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-custom->tooltip
+msgid "Check this to specify a custom icon and label"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-label->description
+msgid "Text"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->description
+msgid "Reverse quit button order"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->tooltip
+msgid ""
+"Choose whether to display the 'Quit' button first or last. (Has no effect on "
+"'DropDown' layout.)"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Use"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Name"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "URL"
+msgstr ""

@@ -1,0 +1,329 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2019-10-24 21:44+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr "(Fare clic con il tasto destro per aprire la cartella)"
+
+#: applet.js:170
+msgid "Places"
+msgstr "Posizioni"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Cerca nella cartella Home"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "SISTEMA"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Cerca nel File System"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "DOCUMENTI RECENTI"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Pulisci"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Computer"
+
+#: applet.js:404
+msgid "File System"
+msgstr "File System"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Rete"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Cestino"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Apri..."
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Apri la cartella contenente..."
+
+#: search.py:85
+msgid "Search"
+msgstr "Ricerca"
+
+#: search.py:106
+msgid "Start in"
+msgstr "Avvia in"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Seleziona una cartella"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Segui i collegamenti simbolici"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Cerca files nascosti"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Usa espressioni regolari"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Ferma"
+
+#: search.py:140
+msgid "File"
+msgstr "File"
+
+#: search.py:156
+msgid "Path"
+msgstr "Percorso"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Cercando..."
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Ricercata Interrotta"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Cercando: "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Errore: autorizzazioni insufficienti per leggere la cartella"
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Ricerca Completata"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Tralasciando"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - directory già cercata"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Places Center"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Fornisce un layout di facile lettura per accedere alle tue posizioni"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Places Center è un'applet Cinnamon ricca di funzionalità e multipiattaforma "
+"che consente di accedere facilmente a tutti i luoghi più utilizzati. Sentiti "
+"libero di contribuire inviando richieste pull, segnalazioni di bug e "
+"richieste di funzionalità al mio repository github."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autore"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - Aggiunta la configurabilità al clic centrale"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Generale"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Utente"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "Sistema"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Documenti recenti"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Impostazioni pannello"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Impostazioni menù"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Sezione utente"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Sezione sistema"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Icona pannello"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr ""
+"Accetta il nome dell'icona o il percorso diretto (supporta le icone "
+"simboliche)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Testo pannello"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Scorciatoia menù"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Dimensione dell'icona del menù"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Apri al clic centrale"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Lascia vuoto per disabilitare"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Mostra desktop"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Posizioni personalizzate"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Elenco dei percorsi URI/file da includere. Le voci possono essere separate "
+"da una virgola (,) o da una nuova riga. È possibile impostare il nome da "
+"visualizzare aggiungendo: nomePersonalizzato dopo la posizione. Puoi anche "
+"impostare un nome icona aggiungendo: nomeIcona dopo il nome personalizzato."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Mostra cestino"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Mai"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Sempre"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Quando non vuoto"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Mostra computer"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Mostra file system"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Mostra volumi"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Mostra solo le unità montate"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Mostra rete"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Mostra documenti recenti"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr "Tutti i Documenti Recenti"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Numero da mostrare"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr "Privacy"

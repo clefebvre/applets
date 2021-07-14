@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-28 16:20+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:36
+msgid "Service launcher"
+msgstr "服务启动器"
+
+#. serviceLauncher@hulygun->metadata.json->description
+msgid "Description"
+msgstr "说明"
+
+#. serviceLauncher@hulygun->metadata.json->name
+msgid "Service Launcher"
+msgstr "服务启动器"
+
+#. serviceLauncher@hulygun->settings-schema.json->services->description
+msgid "Set services"
+msgstr "设置服务"
+
+#. serviceLauncher@hulygun->settings-schema.json->services->tooltip
+msgid "use pattern Human Name:service.name;HumanName 2:service2.name"
+msgstr "使用范例 人名:服务名称;人名2:服务2名称"
+
+#. serviceLauncher@hulygun->settings-schema.json->header->description
+msgid "Set avaible services"
+msgstr "设置可用的服务"

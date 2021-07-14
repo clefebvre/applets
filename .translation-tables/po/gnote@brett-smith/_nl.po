@@ -1,0 +1,31 @@
+# Gnote Cinnamon Applet.
+# Copyright (C) 2019
+# This file is distributed under the same license as the Gnote package.
+# tanktarta@gmail.com, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-26 18:09+0000\n"
+"PO-Revision-Date: 2019-12-26 18:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: English <tanktarta@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:302
+msgid "Gnote stopped working!"
+msgstr ""
+
+#: applet.js:305
+msgid "Gnote isn't running! Do you have it installed?"
+msgstr ""
+
+#: applet.js:425
+msgid "Click to see error!"
+msgstr ""

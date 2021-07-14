@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: 2019-10-16 21:59+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: applet.js\n"
+"X-Poedit-SearchPath-1: pdf-manager.py\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr "Gestisci il tuo PDF"
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "Unisci PDF"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "Estrai PDF"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "Riduci dimensione del PDF"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "Ruota PDF a sinistra"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "Ruota PDF a destra"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "Capovolgi PDF verticalmente"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "Apri Visualizzatore"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr "Apri Evince"
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "Apri PDF Mod"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "Apri PDF Editor"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr "È necessaria l'installazione di PDF Toolkit"
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+"Vuoi installare PDF Toolkit? Le tue operazioni verranno eseguite dopo "
+"l'installazione."
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+"Installazione fallita. Vuoi provare ancora? Le tue operazioni verranno "
+"eseguite dopo l'installazione."
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "Seleziona il tuo PDF..."
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "File PDF"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr "Riduzione PDF"
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr "I tuoi PDF si stanno riducendo... Non manipolare i file selezionati!"
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "Salva come..."
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr "Estrai le seguenti pagine (esempio: 1-10 15-17):"
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr "Estrai pagine pari"
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr "Estrai pagine dispari"
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr ""
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "Installa gli strumenti di PDFManager"

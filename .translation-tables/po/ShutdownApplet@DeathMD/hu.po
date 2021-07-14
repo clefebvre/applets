@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 23:50+0800\n"
+"PO-Revision-Date: 2021-04-03 21:06+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:37 applet.js:63
+msgid "Shutdown"
+msgstr "Leállítás"
+
+#: applet.js:44
+msgid "Screen Lock"
+msgstr "Képernyőzárolás"
+
+#: applet.js:50
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: applet.js:55
+msgid "Restart"
+msgstr "Újraindítás"
+
+#: applet.js:59
+msgid "Log Out"
+msgstr "Kijelentkezés"
+
+#. ShutdownApplet@DeathMD->metadata.json->description
+msgid "An applet to shutdown, restart and suspend your system."
+msgstr ""
+"Kisalkalmazás a rendszer leállításához, újraindításához és felfüggesztéséhez."
+
+#. ShutdownApplet@DeathMD->metadata.json->name
+msgid "Shutdown Applet"
+msgstr "Leállítás kisalkalmazás"

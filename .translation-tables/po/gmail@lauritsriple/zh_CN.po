@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 03:30+0200\n"
+"PO-Revision-Date: 2017-04-23 10:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:86 applet.js:170
+msgid "No new mail"
+msgstr "没有新邮件"
+
+#: applet.js:130
+msgid "Something went wrong"
+msgstr "出错了"
+
+#: applet.js:133
+#, fuzzy
+msgid "INFO: Install python libaries from terminal"
+msgstr "从终端安装python库"
+
+#: applet.js:133
+msgid "How To"
+msgstr "指引"
+
+#: applet.js:133
+msgid "guide"
+msgstr "向导"
+
+#: applet.js:133
+msgid "You need pip3:"
+msgstr ""
+
+#: applet.js:133
+msgid "You need python-feedparser:"
+msgstr ""
+
+#: applet.js:133
+msgid "You need python keyring and python keyring-alt:"
+msgstr ""
+
+#: applet.js:133
+msgid "and"
+msgstr ""
+
+#: applet.js:135
+msgid "INFO: Are you getting this message? You should not!"
+msgstr ""
+
+#: applet.js:135
+msgid "ERROR"
+msgstr "错误"
+
+#: applet.js:135
+#, fuzzy
+msgid ""
+"Check internet connection\n"
+"Install the needed python libaries\n"
+"Configure password correctly"
+msgstr ""
+"请检查互联网连接\n"
+"安装所需的python库\n"
+"正确配置密码"
+
+#: applet.js:138
+msgid "ERROR: Error from json parser"
+msgstr ""
+
+#: applet.js:161
+msgid "New mail"
+msgstr "新邮件"
+
+#: applet.js:163
+msgid "New mails"
+msgstr "新邮件"
+
+#: applet.js:172
+msgid "No new mails"
+msgstr "没有新邮件"
+
+#: applet.js:172
+msgid "Have a nice day"
+msgstr "祝您今天愉快"
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->description
+msgid "Username:"
+msgstr "用户名："
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->tooltip
+msgid "Set your username"
+msgstr "设置您的用户名"
+
+#. gmail@lauritsriple->settings-schema.json->head->description
+msgid ""
+"Store your username and password.\n"
+"Uses the keyring so password is not stored in cleartext.\n"
+"It might take a while (2-10seconds) before the password\n"
+"gets visible removed after you press the button.\n"
+"If your gmail adress is usernam@gmail.com, only put in the username part "
+"here.\n"
+"There are still some issues so you might have to press the button a couple "
+"of time.\n"
+"If the password changes to something else, dont press it again."
+msgstr ""
+"储存您的用户名和密码。\n"
+"使用密钥环，密码不会明文储存。\n"
+"在您按下按钮之后，\n"
+"可能要花一些时间（2-10秒）移除密码可见性。\n"
+"如果您的gmail地址是用户名@gmail.com，只需在这里输入用户名的部分。\n"
+"因为还有一些问题，所以您可能需要按多几次按钮。\n"
+"如果密码更改为别的内容，请不要再按了。"
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->description
+msgid "Password:"
+msgstr "密码："
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->tooltip
+msgid "Set your password"
+msgstr "设置您的密码"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->description
+msgid "Save username and password"
+msgstr "保存用户名和密码"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->tooltip
+msgid "Click to save username and password"
+msgstr "点击保存用户名和密码"
+
+#. gmail@lauritsriple->metadata.json->description
+msgid "Shows most recent mails, and how many unread messages you have."
+msgstr "显示最近的邮件和未读邮件数量。"
+
+#. gmail@lauritsriple->metadata.json->name
+msgid "GmailNotifier"
+msgstr "Gmail通知"
+
+#~ msgid ""
+#~ "You need pip3, 'sudo apt-get install pip3'\n"
+#~ "You need python-feedparser, 'sudo pip3 install feedparser'\n"
+#~ "You need python keyring and python keyring-alt, 'sudo pip3 install "
+#~ "keyrings' and 'sudo pip3 install keyrings-alt'"
+#~ msgstr ""
+#~ "您需要pip3，‘sudo apt-get install pip3’\n"
+#~ "您需要python-feedparser，‘sudo pip3 install feedparser’\n"
+#~ "您需要python keyring and和python keyring-alt，‘sudo pip3 install "
+#~ "keyrings’和‘sudo pip3 install keyrings-alt‘"
+
+#~ msgid "Could not get json from python"
+#~ msgstr "无法从python获取json"

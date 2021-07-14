@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: printers@linuxman Versie 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2019-11-18 18:53+0100\n"
+"Last-Translator: Jurien (French77) <Jurien@protonmail.com>\n"
+"Language-Team: Jurien Jurien@protonmail.com\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "Toon icoon"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "Altijd"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "Wanneer printers bestaan"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "Tijdens het afdrukken"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "Wanneer moet het pictogram worden weergegeven"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "Printer fouten"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "Toon printer foutpictogram"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "Documenten tellen"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "Toon aantal documenten naast pictogram"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "Document Nummer"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "Toon elk documentnummer op de printlijst"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "Stuur naar de voorgrond"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "Documenten kunnen naar de voorgrond worden verstuurd"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "Symbolische pictogrammen"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "Gebruik symbolische pictogrammen"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr "Hulptoepassing opnieuw laden"
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr "CUPS opnieuw opstarten"
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "Printers"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "Annuleer alle taken"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "op"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "Beheer opdrachten en printers"
+
+

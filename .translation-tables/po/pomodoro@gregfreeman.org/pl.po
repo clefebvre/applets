@@ -1,0 +1,274 @@
+# Polish translations for Pomodoro package
+# Polskie tłumaczenia dla pakietu Pomodoro.
+# Copyright (C) 2016 Karol Musur
+# This file is distributed under The MIT License (MIT)
+# Karol Musur <kamusur@gmail.com>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:26+0100\n"
+"PO-Revision-Date: 2021-02-16 11:26+0100\n"
+"Last-Translator: Karol Musur <kamusur@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+
+# notifications
+#: applet.js:394
+msgid "Pomodoro started"
+msgstr "Pomodoro rozpoczęte"
+
+#: applet.js:437 applet.js:737
+msgid "Waiting to start"
+msgstr ""
+
+#: applet.js:455
+#, javascript-format
+msgid "Pomodori %d, set %d running"
+msgstr ""
+
+#: applet.js:462
+msgid "Let's go to work!"
+msgstr ""
+
+#: applet.js:477
+msgid "Take a short break"
+msgstr "Czas na krótką przerwę"
+
+#: applet.js:478
+#, fuzzy
+msgid "Short break running"
+msgstr "Czas trwania krótkiej przerwy:  "
+
+#: applet.js:497
+msgid "Take a long break"
+msgstr "Czas na długą przerwę"
+
+#: applet.js:499
+#, fuzzy
+msgid "Long break running"
+msgstr "Czas trwania długiej przerwy:  "
+
+#: applet.js:533
+msgid "Pomodoro ended"
+msgstr "Pomodoro zakończone"
+
+#: applet.js:665
+msgid "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+msgstr ""
+
+# applet menu
+#. metadata.json->name
+#: applet.js:837
+msgid "Pomodoro Timer"
+msgstr "Pomodoro"
+
+#: applet.js:848
+msgid "Completed"
+msgstr "Ukończone"
+
+#: applet.js:861
+msgid "Reset Timer"
+msgstr "Zresetuj pomodoro"
+
+#: applet.js:873
+msgid "Reset Counts and Timer"
+msgstr "Zresetuj pomodoro i ilość ukończonych pomodoro"
+
+#: applet.js:886
+msgid "What is this?"
+msgstr "Co to jest pomodoro?"
+
+#: applet.js:943
+msgid "None"
+msgstr "Nic"
+
+# dialog
+#: applet.js:973
+msgid "Switch Off Pomodoro"
+msgstr "Wyłącz Pomodoro"
+
+#: applet.js:979
+msgid "Start a new Pomodoro"
+msgstr "Rozpocznij nowe Pomodoro"
+
+#: applet.js:985
+msgid "Hide"
+msgstr "Ukryj"
+
+#: applet.js:997
+msgid "Pomodoro set finished, you deserve a break!"
+msgstr "Pomodoro zakończone, zasługujesz na przerwę!"
+
+#: applet.js:1005
+msgid "Your break is over, start another pomodoro!"
+msgstr "Koniec przerwy, rozpocznij kolejne pomodoro!"
+
+#: applet.js:1010
+#, fuzzy, javascript-format
+msgid "A new pomodoro begins in %s."
+msgstr "Nowe pomodoro zacznie się za "
+
+#: applet.js:1021
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: applet.js:1022
+#, javascript-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: applet.js:1024
+#, javascript-format
+msgid "%s and %s"
+msgstr ""
+
+#: applet.js:1048
+msgid "Continue Current Pomodoro"
+msgstr ""
+
+#: applet.js:1054
+#, fuzzy
+msgid "Pause Pomodoro"
+msgstr "Rozpocznij nowe Pomodoro"
+
+#: applet.js:1065
+msgid "Short break finished, ready to continue?"
+msgstr ""
+
+#. settings-schema.json->head_durations->description
+msgid "Durations (minutes)"
+msgstr "Czas trwania (w minutach)"
+
+#. settings-schema.json->pomodoro_duration->description
+#, fuzzy
+msgid "Pomodoro Duration:"
+msgstr "Czas trwania jednego pomodoro:  "
+
+#. settings-schema.json->short_break_duration->description
+#, fuzzy
+msgid "Short Break Duration:"
+msgstr "Czas trwania krótkiej przerwy:  "
+
+#. settings-schema.json->long_break_duration->description
+#, fuzzy
+msgid "Long Break Duration:"
+msgstr "Czas trwania długiej przerwy:  "
+
+#. settings-schema.json->pomodori_number->description
+#, fuzzy
+msgid "Number of pomodori before long break:"
+msgstr "Liczba pomodoro przed długą przerwą:  "
+
+#. settings-schema.json->head_options->description
+msgid "Options"
+msgstr "Ustawienia"
+
+#. settings-schema.json->show_dialog_messages->description
+msgid "Show Dialog Messages"
+msgstr "Pokazuj powiadomienia"
+
+#. settings-schema.json->auto_start_after_short_break_ends->description
+#, fuzzy
+msgid "Auto start after a short break ends"
+msgstr "Automatycznie rozpocznij nowe pomodoro gdy przerwa się skończy"
+
+#. settings-schema.json->auto_start_after_break_ends->description
+msgid "Auto start a new pomodoro after a break ends"
+msgstr "Automatycznie rozpocznij nowe pomodoro gdy przerwa się skończy"
+
+#. settings-schema.json->display_icon->description
+msgid "Display the pomodoro icon in the applet panel"
+msgstr "Wyświetlaj ikonę pomodoro w panelu apletów"
+
+#. settings-schema.json->use_symbolic_icon->description
+#, fuzzy
+msgid "Use a symbolic icon in the applet panel"
+msgstr "Wyświetlaj ikonę pomodoro w panelu apletów"
+
+#. settings-schema.json->show_timer->description
+#, fuzzy
+msgid "Show the pomodoro timer in the applet panel"
+msgstr "Wyświetlaj ikonę pomodoro w panelu apletów"
+
+#. settings-schema.json->head_sounds->description
+msgid "Sounds"
+msgstr "Dźwięki"
+
+#. settings-schema.json->sox-info->description
+msgid "Please install 'sox' and restart Cinnamon to use the sound feature!"
+msgstr ""
+
+#. settings-schema.json->timer_sound->description
+msgid "Play Timer Sound"
+msgstr "Odtwarzaj dźwięk odliczania"
+
+#. settings-schema.json->timer_sound_file->description
+#, fuzzy
+msgid "Timer Sound File"
+msgstr "Dźwięk odliczania "
+
+#. settings-schema.json->timer_sound_volume->description
+#. settings-schema.json->break_sound_volume->description
+#. settings-schema.json->warn_sound_volume->description
+#. settings-schema.json->start_sound_volume->description
+msgid "Sound volume:"
+msgstr ""
+
+#. settings-schema.json->break_sound->description
+msgid "Play Break Sound"
+msgstr "Odtwarzaj dźwięk przerwy"
+
+#. settings-schema.json->break_sound_file->description
+#, fuzzy
+msgid "Break Sound File"
+msgstr "Dźwięk przerwy "
+
+#. settings-schema.json->warn_sound->description
+msgid "Play Warn Sound"
+msgstr "Odtwarzaj dźwięk ostrzeżenia"
+
+#. settings-schema.json->warn_sound_delay->description
+#, fuzzy
+msgid "Warn Delay (in secs):"
+msgstr ""
+"Ilość czasu pozostałego gdy zabrzmi dźwięk ostrzeżenia (w sekundach):  "
+
+#. settings-schema.json->warn_sound_file->description
+#, fuzzy
+msgid "Warn Sound File"
+msgstr "Dźwięk ostrzeżenia "
+
+#. settings-schema.json->start_sound->description
+#, fuzzy
+msgid "Play Start Sound"
+msgstr "Odtwarzaj dźwięk ostrzeżenia"
+
+#. settings-schema.json->start_sound_file->description
+#, fuzzy
+msgid "Start Sound File"
+msgstr "Dźwięk ostrzeżenia "
+
+#. metadata.json->description
+msgid "Great tool for boosted productivity!"
+msgstr ""
+
+#~ msgid "Settings"
+#~ msgstr "Ustawienia"
+
+#~ msgid "%d minutes and %d seconds"
+#~ msgstr "%d minut i %d sekund"

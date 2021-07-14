@@ -1,0 +1,322 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2017-05-21 09:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "订阅网址无效"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr "条未读条目！"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "正在加载订阅"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "订阅阅读器"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "标记全部已读"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "刷新"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "管理订阅"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "设置"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "没有未读的订阅"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "订阅"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "右键点击打开订阅： \n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "标记全部文章已读"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "标记下面"
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr "篇文章已读"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "更新订阅网址"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "发布于："
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "标记文章已读"
+
+#: applet.js:958
+msgid "d) "
+msgstr "天) "
+
+#: applet.js:960
+msgid "h) "
+msgstr "小时) "
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr "(<1小时) "
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "管理您的订阅"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "实例名称："
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "添加/移除订阅列表"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "启用"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "网址"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "自定义标题"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "通知"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "显示已读"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "间隔"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "显示图片"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "导入"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "导入OPML(_I)"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "从OPML文件导入订阅"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "导入订阅文件(_I)"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "从文件导入订阅"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "导出"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "导出订阅文件(_E)"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "导出订阅到文件"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "选项"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "切换隐藏字段(_T)"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "显示或隐藏隐藏字段"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "更改将会被丢弃，是否继续？"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "您确定吗？"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "新实例（列表）名称"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "添加新实例（列表）"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "保存配置文件失败"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "选择一个OPML订阅文件"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "OPML文件"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "选择一个OPML订阅文件"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "文本文件"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "所有文件"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "文件已导入"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "%d订阅已导入"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "导入OPML失败"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "保存订阅文件"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "无法导出文件，例外：%s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "无法导出文件"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "显示RSS新闻订阅"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "订阅阅读器"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "订阅网址"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "管理订阅..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr "启动订阅管理应用程序以添加/移除/编辑订阅"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "订阅"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "条目的最大数量"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "管理该订阅要显示的最大条目数量"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "分钟"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "更新间隔"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "检查新条目之间的间隔"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "显示新条目的通知"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "如果选中将会为新条目显示一个弹窗通知"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr "选中此项在Looking Glass中启用调试记录"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "选中此项将启用调试水平记录"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "订阅实例名称"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "不要更改，这是通过管理订阅窗口所更改的。"

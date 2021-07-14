@@ -1,0 +1,337 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-08 17:18+0100\n"
+"PO-Revision-Date: 2021-02-08 17:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 4.6/utils.js:61
+#, javascript-format
+msgid "Please also install the '%s' package."
+msgstr "Bitte auch das Paket »%s« installieren."
+
+#: 4.6/applet.js:159
+#, javascript-format
+msgid "Can't play  %s"
+msgstr "%s kann nicht abgespielt werden"
+
+#: 4.6/applet.js:159
+msgid ""
+"Make sure that the URL is valid and you have a stable internet connection. "
+"Don't hestitate to open an Issue on Github if the problem persists."
+msgstr ""
+"Stellen Sie sicher, dass die verwendete URL gültig  ist und Sie über eine "
+"stabile Internetverbindung verfügen. Zögern Sie nicht das Problem auf Github "
+"zu melden, sollte es bestehen bleiben."
+
+#: 4.6/applet.js:177 3.0/applet.js:140
+msgid "Stop"
+msgstr "Anhalten"
+
+#. 4.6->settings-schema.json->station-list-section->title
+#. 3.0->settings-schema.json->page1->title
+#. 3.0->settings-schema.json->tree->description
+#: 4.6/applet.js:184
+msgid "List of stations"
+msgstr "Liste der Radiostationen"
+
+#: 4.6/applet.js:199
+msgid "Copy current song title"
+msgstr "Aktuellen Liedtitel kopieren"
+
+#: 4.6/applet.js:202
+msgid "Download from Youtube"
+msgstr "Von Youtube herunterladen"
+
+#: 4.6/applet.js:215
+msgid "Can't copy current Song. Is the Radio playing?"
+msgstr ""
+"Aktueller Liedtitel konnte nicht kopiert werden. Ist das Radio eingeschaltet?"
+
+#: 4.6/applet.js:235
+#, javascript-format
+msgid "download finished. File saved to %s"
+msgstr "Download beendet. Die Datei wurde unter %s gespeichert."
+
+#: 4.6/applet.js:237
+msgid "Couldn't download song from Youtube due to an Error."
+msgstr ""
+"Das Lied konnte aufgrund eines Fehlers nicht von Youtube heruntergeladen "
+"werden. "
+
+#: 4.6/applet.js:238
+msgid "See Logs for more information"
+msgstr "Mehr Informationen finden Sie in den Logs."
+
+#: 4.6/applet.js:304
+#, fuzzy
+msgid ""
+"couldn't install required dependencies. Make sure you are connected to the "
+"internet. See the Logs for more information"
+msgstr ""
+"Notwendige Abhängigkeiten konnten nicht installiert werden. Stellen Sie "
+"sicher, dass Sie mit dem  Internet verbunden sind. Mehr Informationen finden "
+"Sie in den Logs"
+
+#: 4.6/applet.js:319
+msgid "Can't increase Volume. Volume already at maximum."
+msgstr ""
+"Die Lautstärke kann nicht weiter erhöht werden, da bereits die maximale "
+"Lautstärke erreicht ist."
+
+#. metadata.json->name
+#: 3.0/applet.js:99 3.0/applet.js:117 3.0/applet.js:143 3.0/applet.js:153
+msgid "Radio++"
+msgstr "Radio++"
+
+#: 3.0/applet.js:130
+#, javascript-format
+msgid "Playing %s"
+msgstr "Sie hören %s"
+
+#: 3.0/applet.js:149
+msgid "Stop Radio++"
+msgstr "Radio++ anhalten"
+
+#: 3.0/applet.js:183
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr "Bitte das Paket »%s« installieren."
+
+#: 4.6/download-dialog-mpris.py:36 4.6/download-dialog-youtube-dl.py:36
+msgid "Download Confirmation Dialog"
+msgstr "Download-Bestätigungsdialog"
+
+#: 4.6/download-dialog-mpris.py:39
+#, python-format
+msgid ""
+"The radio applet depends on the '%s' plugin. It's a 3rd party plugin for "
+"mpv, which allows controlling the radio player with the sound applet."
+msgstr ""
+"Das Radio-Applet hängt von dem Plugin »%s« ab. Das ist ein Plugin von einem "
+"Drittanbieter, das die Steuerung des Radios mit dem Klang-Applet ermöglicht."
+
+#: 4.6/download-dialog-mpris.py:39
+msgid "Do you want to proceed the download at your own risk?"
+msgstr "Den Download auf eigene Gefahr fortsetzen?"
+
+#: 4.6/download-dialog-mpris.py:40
+msgid "Cancel download"
+msgstr "Download abbrechen"
+
+#: 4.6/download-dialog-mpris.py:41 4.6/download-dialog-youtube-dl.py:41
+msgid "More info"
+msgstr "Weitere Informationen"
+
+#: 4.6/download-dialog-mpris.py:42
+msgid "Download plugin at my own risk"
+msgstr "Plugin auf eigenes Risiko herunterladen"
+
+#: 4.6/download-dialog-youtube-dl.py:39
+#, python-format
+msgid ""
+"This function depends on the newest version of the '%s' apt package. "
+"Currently the newest version of this package is only included in the Debian "
+"package respository but not yet in the default Linux Mint repositories."
+msgstr ""
+"Diese Funktion benötigt die neueste Version den '%s' apt Packets. Aktuell "
+"ist diese Version lediglich in dem Debian Repository aber nicht in den "
+"standardmäßig von Linux Mint verwendeten Repositorien vorhanden. "
+
+#: 4.6/download-dialog-youtube-dl.py:39
+msgid "Do you want to proceed the Installation at your own risk?"
+msgstr "Den Download auf eigene Gefahr fortsetzen?"
+
+#: 4.6/download-dialog-youtube-dl.py:40
+msgid "Cancel Installation"
+msgstr "Installation abbrechen"
+
+#: 4.6/download-dialog-youtube-dl.py:42
+msgid "Install at my own risk"
+msgstr "Plugin auf eigenes Risiko herunterladen"
+
+#. metadata.json->description
+msgid "A simple radio applet for Cinnamon"
+msgstr "Ein einfaches Radio-Applet für Cinnamon"
+
+#. 4.6->settings-schema.json->radio-stations-page->title
+msgid "Radio Stations"
+msgstr "Radiostationen"
+
+#. 4.6->settings-schema.json->preferences-page->title
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#. 4.6->settings-schema.json->find-station-section->title
+msgid "Find station"
+msgstr "Radiostation finden"
+
+#. 4.6->settings-schema.json->appearance-section->title
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#. 4.6->settings-schema.json->volume-section->title
+msgid "Volume"
+msgstr "Lautstärke"
+
+#. 4.6->settings-schema.json->youtube-section->title
+msgid "Youtube Download"
+msgstr "Youtube Download"
+
+#. 4.6->settings-schema.json->tree->columns->title
+#. 3.0->settings-schema.json->tree->columns->title
+msgid "Show in list"
+msgstr "In Liste anzeigen"
+
+#. 4.6->settings-schema.json->tree->columns->title
+#. 3.0->settings-schema.json->tree->columns->title
+msgid "Title"
+msgstr "Titel"
+
+#. 4.6->settings-schema.json->tree->columns->title
+#. 3.0->settings-schema.json->tree->columns->title
+msgid "URL"
+msgstr "URL"
+
+#. 4.6->settings-schema.json->streamurl-button->description
+#. 3.0->settings-schema.json->streamurl-button->description
+msgid "Open radio stream URL search engine"
+msgstr "URL-Suchmaschine für Radiostreams öffnen"
+
+#. 4.6->settings-schema.json->streamurl-button->tooltip
+#. 3.0->settings-schema.json->streamurl-button->tooltip
+msgid "Opens a website, which helps you to determine radio stream URLs."
+msgstr "Öffnet eine Webseite, die beim Ermitteln von Radiostream-URLs hilft."
+
+#. 4.6->settings-schema.json->radiolist-button->description
+#. 3.0->settings-schema.json->radiolist-button->description
+msgid "Show URL-list of radio stations"
+msgstr "URL-Liste von Radiostationen anzeigen"
+
+#. 4.6->settings-schema.json->radiolist-button->tooltip
+#. 3.0->settings-schema.json->radiolist-button->tooltip
+msgid "Opens a website, which lists URLs of radio stations."
+msgstr "Öffnet eine Website, die URLs von Radiosendern auflistet."
+
+#. 4.6->settings-schema.json->icon-type->description
+msgid "Icon type"
+msgstr "Icon Typ"
+
+#. 4.6->settings-schema.json->icon-type->options
+msgid "Symbolic"
+msgstr "Symbolisch"
+
+#. 4.6->settings-schema.json->icon-type->options
+msgid "Full Color"
+msgstr "Mehrfarbig"
+
+#. 4.6->settings-schema.json->icon-type->options
+msgid "Bicolor"
+msgstr "Zweifarbig"
+
+#. 4.6->settings-schema.json->color-on->description
+msgid "Color of symbolic icon when playing a radio station"
+msgstr "Farbe des symbolischen Icons, wenn das Radio läuft"
+
+#. 4.6->settings-schema.json->channel-on-panel->description
+msgid "Show current radio station on the panel"
+msgstr "Radiostation in der Leiste anzeigen"
+
+#. 4.6->settings-schema.json->keep-volume-between-sessions->description
+msgid "Remember volume after stopping the radio"
+msgstr "Lautstärke nach Beenden des Radios speichern"
+
+#. 4.6->settings-schema.json->initial-volume->description
+msgid "Initial volume"
+msgstr "Anfängliche Lautstärke"
+
+#. 4.6->settings-schema.json->initial-volume->tooltip
+msgid ""
+"The initial volume is applied when clicking on a radio stream and no other "
+"radio stream is already running"
+msgstr ""
+"Die anfängliche Lautstärke wird verwendet, wenn beim Klicken auf eine "
+"Radiostation noch keine andere Radiostation abgespielt wird"
+
+#. 4.6->settings-schema.json->music-download-dir-select->description
+msgid "Download directory"
+msgstr "Download Verzeichnis"
+
+#. 4.6->settings-schema.json->music-download-dir-select->tooltip
+msgid ""
+"Songs downloaded from Youtube will be saved to this directory. This feature "
+"can be found in the right-click-menu of the applet"
+msgstr ""
+"Von Youtube heruntergeladene Lieder werden in diesem Verzeichnis "
+"gespeichert. Diese Funktion kann im Rechtsklick-Menu des Applets gefunden "
+"werden. "
+
+#. 3.0->settings-schema.json->page2->title
+#. 3.0->settings-schema.json->section2->title
+msgid "Icon"
+msgstr "Icon"
+
+#. 3.0->settings-schema.json->section1->title
+msgid "Radio"
+msgstr "Radio"
+
+#. 3.0->settings-schema.json->section3->title
+msgid "Symbolic Icon Color"
+msgstr "Farbe des symbolischen Icons"
+
+#. 3.0->settings-schema.json->icon-type->description
+msgid "Type"
+msgstr "Typ"
+
+#. 3.0->settings-schema.json->icon-type->options
+msgid "Symbolic Icon"
+msgstr "Symbolisches Icon"
+
+#. 3.0->settings-schema.json->icon-type->options
+msgid "Full Color Icon"
+msgstr "Farbiges Icon"
+
+#. 3.0->settings-schema.json->icon-type->options
+msgid "Bicolor Icon"
+msgstr "Zweifarbiges Icon"
+
+#. 3.0->settings-schema.json->color-on->description
+msgid "Color of Symbolic Icon when playing a radio"
+msgstr "Farbe des symbolischen Icons, wenn das Radio läuft"
+
+#~ msgid ""
+#~ "Can't increase Volume. Volume already at maximum. Change the Maximum "
+#~ "Volume in the Settings to further increase the Volume."
+#~ msgstr ""
+#~ "Die Lautstärke kann nicht weiter erhöht werden, da bereits die maximale "
+#~ "Lautstärke erreicht ist. Ändern Sie die maximale Lautstärke in den "
+#~ "Einstellungen um sie weiter zu erhöhen."
+
+#~ msgid "Audio Player"
+#~ msgstr "Audio-Player"
+
+#~ msgid "Panel"
+#~ msgstr "Leiste"
+
+#~ msgid "Maximum Volume"
+#~ msgstr "Höchste Lautstärke"
+
+#~ msgid ""
+#~ "This simple radio for Cinnamon. Require moc player. In setting you may "
+#~ "add, edit and remove stations."
+#~ msgstr ""
+#~ "Einfaches Radio für Cinnamon. Benötigt den »moc«-Audioplayer. Hinzufügen, "
+#~ "bearbeiten und entfernen von Radiostationen in den Einstellungen möglich."

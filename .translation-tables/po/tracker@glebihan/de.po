@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-28 11:55+0200\n"
+"PO-Revision-Date: 2017-09-28 12:02+0200\n"
+"Last-Translator: Peter Moser <pitiz29a@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:19
+msgid "Software"
+msgstr "Software"
+
+#: applet.js:20
+msgid "Pictures"
+msgstr "Bilder"
+
+#: applet.js:21
+msgid "Videos"
+msgstr "Videos"
+
+#: applet.js:22
+msgid "Music"
+msgstr "Musik"
+
+#: applet.js:23
+msgid "Folders"
+msgstr "Verzeichnisse"
+
+#: applet.js:24
+msgid "Other Files"
+msgstr "Andere Dateien"
+
+#: applet.js:163
+msgid "Indexing Preferences"
+msgstr "Indizierungseinstellungen"
+
+#: applet.js:177
+msgid "Search files using Tracker"
+msgstr "Durchsuche Dateien mit Tracker"
+
+#: applet.js:189
+msgid "Type to search..."
+msgstr "Tippen startet die Suche..."
+
+#. tracker@glebihan->settings-schema.json->launch_shortcut->description
+msgid "Keyboard shortcut to show the search entry"
+msgstr "Tastaturkürzel für das Suchfeld"
+
+#. tracker@glebihan->metadata.json->description
+msgid "Search for files and applications using Tracker"
+msgstr "Durchsuche Dateien und Anwendungen mit Tracker"
+
+#. tracker@glebihan->metadata.json->name
+msgid "Search using Tracker"
+msgstr "Suche mit Tracker"

@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 13:13+0800\n"
+"PO-Revision-Date: 2021-04-03 21:01+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:51
+msgid "Panel Edit mode"
+msgstr "Panelszerkesztő üzemmód"
+
+#: applet.js:57
+msgid "Add applets to the panel"
+msgstr "Kisalkalmazás hozzáadása a panelhez"
+
+#. show-hide-applets@mohammad-sn->metadata.json->description
+msgid ""
+"hide a few applet to have a neater panel, and make them show up again by a "
+"click"
+msgstr ""
+"rejtsen el néhány kisalkalmazást, a rendezettebb panel érdekében, később "
+"újra megjelenítheti azokat egy kattintással"
+
+#. show-hide-applets@mohammad-sn->metadata.json->name
+msgid "Drawer (show/hide applets)"
+msgstr "Fiók (kisalkalmazások megjelenítése / elrejtése)"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->description
+msgid "Hide on hovering again"
+msgstr "Elrejtés, ha az egér újra rámutat"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->tooltip
+msgid "toggle visibility of applets on mouse hover"
+msgstr "kapcsolja be az kisalkalmazások láthatóságát ha az egér rámutat"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiderstime->description
+msgid "Reshowers' autohide delay: "
+msgstr "Újra megjelenő kisalkalmazások automatikus elrejtésének késleltetése: "
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohiderstime->units
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->description
+msgid "Disable start time autohide"
+msgstr "Letiltja a kezdési idő automatikus elrejtését"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->tooltip
+msgid "if not in autohide mode"
+msgstr "ha nem automatikus elrejtés módban"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->head->description
+msgid "Settings for show-hide-applets@mohammad-sn"
+msgstr "Show-hide-applets@mohammad-sn beállításai"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->description
+msgid "Autohide"
+msgstr "Automatikus elrejtés"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->tooltip
+msgid ""
+"check if you want to hide applets automatically, unless you should click on "
+"applet to do so"
+msgstr ""
+"jelölje be, ha automatikusan el akarja rejteni a kisalkalmazásokat, különben "
+"a kisalkalmazásra kell kattintania ehhez"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiders->description
+msgid "Autohide reshowing applets"
+msgstr "Újra megjelenő kisalkalmazások automatikus elrektése"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->description
+msgid "Hover activates/hides after "
+msgstr "Az egér rámutatás aktiválja / elrejti ennyi idő múlva "
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->units
+msgid "miliseconds"
+msgstr "ezredmásodperc"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->description
+msgid "Autohide after "
+msgstr "Automatikus elrejtés ennyi idő múlva "
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->description
+msgid "Activate on hover"
+msgstr "Aktiválódjon ha az egér rámutat"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->tooltip
+msgid "show applets on mouse hover"
+msgstr "kisalkalmazások megjelenítése ha az egér rámutat"

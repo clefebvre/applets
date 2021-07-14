@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-15 14:50+0100\n"
+"PO-Revision-Date: 2017-04-20 02:48+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:80
+#, fuzzy
+msgid "Click here to pick a color"
+msgstr "点击这里选择一种颜色"
+
+#: applet.js:136
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:158
+#, javascript-format
+msgid "Color code '%s' copied to clipboard."
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->pick-notification->description
+msgid "Show picked color code in a popup notification"
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->pick-notification->tooltip
+msgid ""
+"Show the picked color code, which has been copied to the clipboard, in a "
+"popup notification."
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->head->description
+msgid "Color Pick Settings"
+msgstr "颜色选择设置"
+
+#. color-picker@fmete->settings-schema.json->head1->description
+msgid "Applet Settings"
+msgstr "小程序设置"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->description
+#, fuzzy
+msgid "Color code format"
+msgstr "颜色选择器"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->tooltip
+msgid ""
+"Select the format of the color code, which will be copied to the clipboard "
+"by the color picker."
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #XXXXXX"
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: 250,250,250"
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #xxxxxx"
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: (250,250,250)"
+msgstr ""
+
+#. color-picker@fmete->settings-schema.json->icon-name->description
+#, fuzzy
+msgid "The icon to use in the panel"
+msgstr "要在面板中使用的图标："
+
+#. color-picker@fmete->settings-schema.json->icon-name->tooltip
+msgid "Select an icon file, or you can type an icon name into the entry box"
+msgstr "选择一个图标文件，或您可以在输入框中键入图标名称"
+
+#. color-picker@fmete->settings-schema.json->keybinding-test->description
+msgid "Keybinding, which activates the color picker"
+msgstr ""
+
+#. color-picker@fmete->metadata.json->description
+msgid ""
+"Use the color picker to select a color on the screen. The color value (HEX "
+"or RGB) will be copied to the clipboard."
+msgstr ""
+
+#. color-picker@fmete->metadata.json->name
+msgid "Color Picker"
+msgstr "颜色选择器"
+
+#~ msgid "Click on applet to pick color"
+#~ msgstr "点击小程序选择颜色"
+
+#~ msgid "Please Select Color Pick Option:"
+#~ msgstr "请选择颜色选择选项："
+
+#~ msgid ""
+#~ "A combo selection can select between int, boolean, float, and string "
+#~ "values"
+#~ msgstr "组合选择可以在int、boolean、float，以及string值之间选择"
+
+#~ msgid "00,00,00"
+#~ msgstr "00,00,00"
+
+#~ msgid "#XXXXXX"
+#~ msgstr "#XXXXXX"
+
+#~ msgid "(00,00,00)"
+#~ msgstr "(00,00,00)"
+
+#~ msgid "#xxxxxx"
+#~ msgstr "#xxxxxx"
+
+#~ msgid "Set the keybinding here to activate an action: "
+#~ msgstr "在这里设置激活操作的键绑定："

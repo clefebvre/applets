@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-08 12:52+0100\n"
+"PO-Revision-Date: 2021-04-02 23:01+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:32
+msgid "Click here to restart Cinnamon"
+msgstr "Cinnamon újraindításához kattintson ide"
+
+#. restart-cinnamon@kolle->settings-schema.json->header-settings->description
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#. restart-cinnamon@kolle->settings-schema.json->use-symbolic-
+#. icon->description
+msgid "Use symbolic icon"
+msgstr "Szimbolikus ikon használata"
+
+#. restart-cinnamon@kolle->metadata.json->description
+msgid "Click on the applet to restart Cinnamon"
+msgstr "Cinnamon újraindításához kattintson a kisalkalmazásra"
+
+#. restart-cinnamon@kolle->metadata.json->contributors
+msgid "bimsebasse: added symbolic icon"
+msgstr "bimsebasse: szimbolikus ikon hozzáadva"
+
+#. restart-cinnamon@kolle->metadata.json->name
+msgid "Restart Cinnamon"
+msgstr "Cinnamon újraindítása"

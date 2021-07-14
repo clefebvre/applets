@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 01:51+0800\n"
+"PO-Revision-Date: 2017-10-22 08:46+0300\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:27
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+#: applet.js:132
+msgid "%A %B %e, %Y"
+msgstr "%A %B %e, %Y"
+
+#: applet.js:277
+msgid "Edit World Clocks"
+msgstr "Редактирай световните часовници"
+
+#: applet.js:279
+msgid "Date and Time Settings"
+msgstr "Настройки на час и дата"
+
+#: world_clock_calendar_settings.py:76
+msgid "Display Name"
+msgstr "Име за показване"
+
+#: world_clock_calendar_settings.py:88
+msgid "Timezone"
+msgstr "Часова зона"
+
+#: world_clock_calendar_settings.py:126
+msgid "Time format for World Clocks"
+msgstr "Формат на часа"
+
+#: world_clock_calendar_settings.py:135
+msgid "Browse valid timezone values by country (online)"
+msgstr "Преглед на валидните стойности на часовите зони по държава (онлайн)"
+
+#: world_clock_calendar_settings.py:214
+msgid "Coordinated Universal Time"
+msgstr "Координирано универсално време"
+
+#. calendar@simonwiles.net->metadata.json->name
+msgid "World Clock Calendar"
+msgstr "Световен часовник и календар"
+
+#. calendar@simonwiles.net->metadata.json->description
+msgid ""
+"Fork of the Cinnamon calendar applet with support for displaying multiple "
+"timezones"
+msgstr "Форк на аплета \"Календар\" с поддръжка на множество часови зони"
+
+#. calendar@simonwiles.net->settings-schema.json->custom-format->description
+msgid "Date format:"
+msgstr "Формат на датата"
+
+#. calendar@simonwiles.net->settings-schema.json->custom-format->tooltip
+msgid "Set your custom format here."
+msgstr "Задайте вашия формат тук"
+
+#. calendar@simonwiles.net->settings-schema.json->header->description
+msgid "World-Clock Settings"
+msgstr "Настройки на световния часовник"
+
+#. calendar@simonwiles.net->settings-schema.json->show-week-
+#. numbers->description
+msgid "Show week numbers in calendar"
+msgstr "Показвай номерата на седмиците в календара"
+
+#. calendar@simonwiles.net->settings-schema.json->show-week-numbers->tooltip
+msgid "Check this to show week numbers in the calendar."
+msgstr "Маркирай тук, за да се показват номерата на седмиците в календара"
+
+#. calendar@simonwiles.net->settings-schema.json->worldclock-setup-
+#. button->description
+msgid "Configure World-clocks"
+msgstr "Конфигуриране на световните часовници"
+
+#. calendar@simonwiles.net->settings-schema.json->worldclock-setup-
+#. button->tooltip
+msgid "Add, remove and configure additional clocks and format."
+msgstr "Добави, премахни или конфигурирай формата на допълнителните часовници."
+
+#. calendar@simonwiles.net->settings-schema.json->format-button->description
+msgid "Show information on date format syntax"
+msgstr "Показва информация за синтаксиса на датата"
+
+#. calendar@simonwiles.net->settings-schema.json->format-button->tooltip
+msgid "Click this button to know more about the syntax for date formats."
+msgstr ""
+"Натисни този бутон за да научиш повече за синтаксиса на форматите за дата."
+
+#. calendar@simonwiles.net->settings-schema.json->use-custom-
+#. format->description
+msgid "Use a custom date format"
+msgstr "Използвай потребителски формат за датата"
+
+#. calendar@simonwiles.net->settings-schema.json->use-custom-format->tooltip
+msgid ""
+"Check this to define a custom format for the date in the calendar applet."
+msgstr ""
+"Натисни тук за да определиш потребителски формат на  датата в календара на "
+"аплета."

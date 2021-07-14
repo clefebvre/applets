@@ -1,0 +1,234 @@
+# sound150@claudiux Applet POT File.
+# Copyright (C) 2018 Claudiux <claude.clerc@gmail.com>
+# This file is distributed under the same license as the cinnamon package.
+# FIRST AUTHOR Claudiux <claude.clerc@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sound150@claudiux v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-31 22:37+0200\n"
+"PO-Revision-Date: 2018-04-13 19:27+0200\n"
+"Last-Translator: claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. metadata.json->name
+msgid "Sound 150%"
+msgstr "Sonido 150%"
+
+#. metadata.json->description
+msgid ""
+"An applet, based on the Cinnamon one, to control sound (up to 150% of "
+"nominal volume) and music"
+msgstr ""
+"Un applet, basado en el de Cinnamon, para controlar el sonido (hasta el 150% "
+"del volumen nominal) y la música"
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "150%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "140%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "130%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "120%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "110%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "100%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "90%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "80%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "70%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "60%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "50%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "40%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->options
+#. 3.4->settings-schema.json->percentMaxVol->options
+msgid "30%"
+msgstr ""
+
+#. 2.8->settings-schema.json->percentMaxVol->description
+#. 3.4->settings-schema.json->percentMaxVol->description
+#. 4.4->settings-schema.json->setAmplification->description
+#. 4.6->settings-schema.json->setAmplification->description
+msgid "Maximum volume control"
+msgstr "Control de volumen máximo"
+
+#. 2.8->settings-schema.json->percentMaxVol->tooltip
+#. 3.4->settings-schema.json->percentMaxVol->tooltip
+msgid ""
+"You can try to increase the volume of your sound card up to 150% of its "
+"nominal value. Use with caution. You can also set a value less than 100%, "
+"for example on a child's computer."
+msgstr ""
+"Puede intentar aumentar el volumen de su tarjeta de sonido hasta un 150% de "
+"su valor nominal. Usar con precaución. También puede establecer un valor "
+"inferior al 100%, por ejemplo, en la computadora de un niño."
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+msgid "10%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+msgid "9%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+msgid "8%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+msgid "7%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "6%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "5%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "4%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "3%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "2%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->options
+#. 3.4->settings-schema.json->stepVolume->options
+#. 4.4->settings-schema.json->stepVolume->options
+#. 4.6->settings-schema.json->stepVolume->options
+msgid "1%"
+msgstr ""
+
+#. 2.8->settings-schema.json->stepVolume->tooltip
+#. 3.4->settings-schema.json->stepVolume->tooltip
+#. 4.4->settings-schema.json->stepVolume->tooltip
+#. 4.6->settings-schema.json->stepVolume->tooltip
+msgid "% of nominal volume"
+msgstr "% del volumen nominal"
+
+#. 2.8->settings-schema.json->stepVolume->description
+#. 3.4->settings-schema.json->stepVolume->description
+#. 4.4->settings-schema.json->stepVolume->description
+#. 4.6->settings-schema.json->stepVolume->description
+msgid "+/-"
+msgstr ""
+
+#. 2.8->settings-schema.json->adaptColor->description
+#. 3.4->settings-schema.json->adaptColor->description
+#. 4.4->settings-schema.json->adaptColor->description
+#. 4.6->settings-schema.json->adaptColor->description
+msgid "Adjust the color of the icon to the volume"
+msgstr "Ajustar el color del icono al volumen"
+
+#. 2.8->settings-schema.json->adaptColor->tooltip
+#. 3.4->settings-schema.json->adaptColor->tooltip
+#. 4.4->settings-schema.json->adaptColor->tooltip
+#. 4.6->settings-schema.json->adaptColor->tooltip
+msgid "From 101% to 115%: yellow; from 116% to 130%: orange; beyond 130%: red."
+msgstr ""
+"Del 101% al 115%: amarillo; de 116% a 130%: naranja; más allá del 130%: rojo."
+
+#. 3.4->settings-schema.json->magneticOn->description
+#. 4.4->settings-schema.json->magneticOn->description
+#. 4.6->settings-schema.json->magneticOn->description
+msgid "Magnetize the 'Volume 100%' mark"
+msgstr "Magnetizar el signo del 100% del volumen"
+
+#. 3.4->settings-schema.json->magneticOn->tooltip
+#. 4.4->settings-schema.json->magneticOn->tooltip
+#. 4.6->settings-schema.json->magneticOn->tooltip
+msgid ""
+"When checked, the 'Volume 100%' mark becomes magnetic: the volume is "
+"automatically set to 100% when the distance between the volume value and "
+"100% is lesser than a half-step."
+msgstr ""
+"Cuando está marcada, la marca 'Volumen 100%' se vuelve magnética: el volumen "
+"se ajusta automáticamente al 100% cuando la diferencia entre el valor del "
+"volumen y el 100% es inferior a medio paso."
+
+#. 4.6->settings-schema.json->keyOpen->description
+msgid "Show menu"
+msgstr ""
+
+#. 4.6->settings-schema.json->keyOpen->tooltip
+msgid "Set keybinding(s) to show the sound applet menu."
+msgstr ""
+
+#~ msgid "Step"
+#~ msgstr "Paso"

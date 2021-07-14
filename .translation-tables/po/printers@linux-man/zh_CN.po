@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2017-03-11 18:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "显示图标"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "始终"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "当打印机退出时"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "当打印时"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "何时显示图标"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "打印机出错"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "显示打印机出错图标"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "文档计数"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "在图标旁显示文档计数"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "文档编号"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "在打印列表上显示每个文档编号"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "发送到前台"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "文档可以发送到前台"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "符号图标"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "使用符号图标"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr ""
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr ""
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "打印机"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "取消所有作业"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "在"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "管理作业和打印机"

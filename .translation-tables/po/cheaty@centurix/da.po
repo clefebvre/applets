@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 08:50+0800\n"
+"PO-Revision-Date: 2017-07-15 20:53+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:53
+msgid "version"
+msgstr "version"
+
+#: applet.js:53
+msgid "Author:"
+msgstr "Forfatter:"
+
+#: applet.js:53
+msgid "Email:"
+msgstr "E-mail:"
+
+#: applet.js:53
+msgid "Repository:"
+msgstr "Arkiv:"
+
+#: applet.js:124
+msgid "Cheaty: Easy access cheatsheets"
+msgstr "Kodeoversigt: Lettilgængelige kodeoversigter"
+
+#: applet.js:209
+msgid "Configure..."
+msgstr "Konfigurér ..."
+
+#: applet.js:223
+msgid "Code copied to the clipboard"
+msgstr "Kode kopieret til udklipsholderen"
+
+#. cheaty@centurix->metadata.json->description
+msgid "An applet to provide quick access to a variety of cheat sheets."
+msgstr "Et panelprogram som giver hurtig adgang til en række kodeoversigter."
+
+#. cheaty@centurix->metadata.json->name
+msgid "Cheaty - Cheatsheet keeper"
+msgstr "Kodeoversigt - Opbevaring af kodeoversigter"
+
+#. cheaty@centurix->settings-schema.json->cheatsheetFolder->description
+msgid "cheatsheetFolder"
+msgstr "kodeoversigtsmappe"

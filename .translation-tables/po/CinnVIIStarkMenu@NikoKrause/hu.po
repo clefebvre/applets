@@ -1,0 +1,1217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 23:23+0100\n"
+"PO-Revision-Date: 2021-02-17 10:01+0100\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: 3.2/applet.js:175 2.6/applet.js:176
+msgid "Please enter your password to uninstall this application"
+msgstr "Adja meg a jelszavát az alkalmazás eltávolításához"
+
+#: 3.2/applet.js:258 2.6/applet.js:259 3.4/applet.js:258 4.2/applet.js:460
+msgid "Add to panel"
+msgstr "Hozzáadás a panelhez"
+
+#: 3.2/applet.js:261 2.6/applet.js:262 3.4/applet.js:261 4.2/applet.js:464
+msgid "Add to desktop"
+msgstr "Hozzáadás az asztalhoz"
+
+#: 3.2/applet.js:265 2.6/applet.js:266 3.4/applet.js:265 4.2/applet.js:469
+msgid "Remove from favorites"
+msgstr "Eltávolítás a Kedvencek közül"
+
+#: 3.2/applet.js:268 2.6/applet.js:269 3.4/applet.js:268 4.2/applet.js:472
+msgid "Add to favorites"
+msgstr "Hozzáadás a Kedvencekhez"
+
+#: 3.2/applet.js:272 2.6/applet.js:273 3.4/applet.js:272 4.2/applet.js:477
+msgid "Uninstall"
+msgstr "Eltávolítás"
+
+#: 3.2/applet.js:276 2.6/applet.js:277 3.4/applet.js:276 4.2/applet.js:453
+#: 4.2/applet.js:456
+msgid "Run with NVIDIA GPU"
+msgstr "NVIDIA GPU használatával"
+
+#: 3.2/applet.js:439 3.2/applet.js:473 2.6/applet.js:426 2.6/applet.js:460
+#: 3.4/applet.js:436 3.4/applet.js:470 4.2/applet.js:289 4.2/applet.js:569
+msgid "No description available"
+msgstr "Nem áll rendelkezésre leírás"
+
+#: 3.2/applet.js:740 2.6/applet.js:3327 3.4/applet.js:737 4.2/applet.js:827
+msgid "This file is no longer available"
+msgstr "Ez a fájl már nem létezik"
+
+#: 3.2/applet.js:790 2.6/applet.js:761 3.4/applet.js:787 4.2/applet.js:841
+msgid "Open with"
+msgstr "Megnyitás ezzel"
+
+#: 3.2/applet.js:836 2.6/applet.js:807 3.4/applet.js:833 4.2/applet.js:887
+msgid "Other application..."
+msgstr "Egyéb alkalmazás…"
+
+#: 3.2/applet.js:911 2.6/applet.js:884 3.4/applet.js:908 4.2/applet.js:3279
+msgid "Clear list"
+msgstr "Lista törlése"
+
+#: 3.2/applet.js:957 2.6/applet.js:932 3.4/applet.js:954 4.2/applet.js:902
+msgid "All Applications"
+msgstr "Minden alkalmazás"
+
+#: 3.2/applet.js:986 2.6/applet.js:960 3.4/applet.js:983 4.2/applet.js:3226
+msgid "Places"
+msgstr "Helyek"
+
+#: 3.2/applet.js:1010 2.6/applet.js:984 3.4/applet.js:1007 4.2/applet.js:3264
+msgid "Recent Files"
+msgstr "Legutóbbi fájlok"
+
+#: 3.2/applet.js:1637 3.2/applet.js:1831 2.6/applet.js:1611 2.6/applet.js:1798
+#: 3.4/applet.js:1580 3.4/applet.js:1765 4.2/applet.js:1453 4.2/applet.js:1633
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: 3.2/applet.js:1639 2.6/applet.js:1613 3.4/applet.js:1582 4.2/applet.js:1455
+msgid "Lock Screen"
+msgstr "Zárolási képernyő"
+
+#: 3.2/applet.js:1824 2.6/applet.js:1791 3.4/applet.js:1758 4.2/applet.js:1626
+msgid "Shutdown the computer"
+msgstr "Számítógép kikapcsolása"
+
+#: 3.2/applet.js:1825 2.6/applet.js:1792 3.4/applet.js:1759 4.2/applet.js:1627
+msgid "Leave the session"
+msgstr "Kilépés a munkamenetből"
+
+#: 3.2/applet.js:1826 2.6/applet.js:1793 3.4/applet.js:1760 4.2/applet.js:1628
+msgid "Lock the screen"
+msgstr "A képernyő zárolása"
+
+#: 3.2/applet.js:1828 3.2/applet.js:1829 2.6/applet.js:1795 2.6/applet.js:1796
+#: 3.4/applet.js:1762 3.4/applet.js:1763 4.2/applet.js:1630 4.2/applet.js:1631
+msgid "Quit"
+msgstr "Kilépés"
+
+#: 3.2/applet.js:1840 3.2/applet.js:1844 2.6/applet.js:1807 2.6/applet.js:1811
+#: 3.4/applet.js:1774 3.4/applet.js:1778 4.2/applet.js:1642 4.2/applet.js:1646
+msgid "Lock screen"
+msgstr "Képernyő zárolása"
+
+#: 3.2/applet.js:2051
+msgid "All Programs"
+msgstr "Minden program"
+
+#: 3.2/applet.js:2051
+msgid "Favorites"
+msgstr "Kedvencek"
+
+#: 3.2/applet.js:2052
+msgid "Documents"
+msgstr "Dokumentumok"
+
+#: 3.2/applet.js:2052
+msgid "nemo Documents"
+msgstr "Nemo Dokumentumok"
+
+#: 3.2/applet.js:2053
+msgid "Pictures"
+msgstr "Képek"
+
+#: 3.2/applet.js:2053
+msgid "nemo Pictures"
+msgstr "Nemo Képek"
+
+#: 3.2/applet.js:2054
+msgid "Music"
+msgstr "Zene"
+
+#: 3.2/applet.js:2054
+msgid "nemo Music"
+msgstr "Nemo Zene"
+
+#: 3.2/applet.js:2055
+msgid "Videos"
+msgstr "Videók"
+
+#: 3.2/applet.js:2055
+msgid "nemo Videos"
+msgstr "Nemo Videók"
+
+#: 3.2/applet.js:2056
+msgid "Downloads"
+msgstr "Letöltések"
+
+#: 3.2/applet.js:2056
+msgid "nemo Downloads"
+msgstr "Nemo Letöltések"
+
+#. 3.2->settings-schema.json->menu->title
+#. 3.4->settings-schema.json->menu->title
+#. 4.2->settings-schema.json->menu->title
+#: 3.2/applet.js:2072 2.6/applet.js:2022 3.4/applet.js:1998 4.2/applet.js:1871
+msgid "Menu"
+msgstr "Menü"
+
+#: 3.2/applet.js:3513 2.6/applet.js:3359 3.4/applet.js:3469
+msgid "No recent documents"
+msgstr "Nincsenek nemrég használt fájlok"
+
+#: 3.2/applet.js:3899 2.6/applet.js:3670 3.4/applet.js:3849
+msgid "Type to search..."
+msgstr "Gépeljen a kereséshez…"
+
+#: 3.2/applet.js:4427 2.6/applet.js:4172 3.4/applet.js:4376
+msgid "No results found"
+msgstr "Nincs találat"
+
+#: 3.2/applet.js:4429 2.6/applet.js:4174 3.4/applet.js:4378
+#, javascript-format
+msgid "%d result found"
+msgid_plural "%d results found"
+msgstr[0] "%d találat"
+msgstr[1] "%d találat"
+
+#: 4.2/applet.js:635
+msgid "Search for results on the web"
+msgstr "Keresés a világhálón"
+
+#: 4.2/applet.js:3280
+msgid "Clear all recent documents"
+msgstr "Legutóbbiak listájának törlése"
+
+#. metadata.json->name
+msgid "CinnVIIStarkMenu"
+msgstr "CinnVIIStarkMenu"
+
+#. metadata.json->description
+msgid ""
+"Cinnamon Menu with the look of the Windows 7 Start Menu or the MATE Menu"
+msgstr "Cinnamon menü Windows 7 Start menü vagy MATE menü kinézettel"
+
+#. 3.2->settings-schema.json->panel->title
+#. 3.4->settings-schema.json->panel->title
+#. 4.2->settings-schema.json->panel->title
+msgid "Panel"
+msgstr "Panel"
+
+#. 3.2->settings-schema.json->sidebar->title
+#. 3.4->settings-schema.json->sidebar->title
+#. 4.2->settings-schema.json->sidebar->title
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#. 3.2->settings-schema.json->quicklauncher->title
+#. 3.4->settings-schema.json->quicklauncher->title
+#. 4.2->settings-schema.json->quicklauncher->title
+msgid "Quicklauncher"
+msgstr "Gyorsindító"
+
+#. 3.2->settings-schema.json->panel-appear->title
+#. 3.4->settings-schema.json->panel-appear->title
+#. 4.2->settings-schema.json->panel-appear->title
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#. 3.2->settings-schema.json->panel-behave->title
+#. 3.2->settings-schema.json->menu-behave->title
+#. 3.4->settings-schema.json->panel-behave->title
+#. 3.4->settings-schema.json->menu-behave->title
+#. 4.2->settings-schema.json->panel-behave->title
+#. 4.2->settings-schema.json->menu-behave->title
+msgid "Behavior"
+msgstr "Viselkedés"
+
+#. 3.2->settings-schema.json->menu-appear->title
+#. 3.4->settings-schema.json->menu-appear->title
+#. 4.2->settings-schema.json->menu-appear->title
+msgid "Layout and content"
+msgstr "Elrendezés és tartalom"
+
+#. 3.2->settings-schema.json->menu-icons->title
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->menu-icons->title
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->menu-icons->title
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Icons and Labels"
+msgstr "Ikonok és címkék"
+
+#. 3.2->settings-schema.json->sidebar-layout->title
+#. 2.6->settings-schema.json->head-sidebar-layout->description
+#. 3.4->settings-schema.json->sidebar-layout->title
+#. 4.2->settings-schema.json->sidebar-layout->title
+msgid "Sidebar Layout"
+msgstr "Oldalsáv elrendezés"
+
+#. 3.2->settings-schema.json->quitmenu-layout->title
+#. 3.4->settings-schema.json->quitmenu-layout->title
+#. 4.2->settings-schema.json->quitmenu-layout->title
+msgid "Quit Menu Layout"
+msgstr "Kilépés menü elrendezése"
+
+#. 3.2->settings-schema.json->custom-quicklauncher->title
+#. 2.6->settings-schema.json->head-custom-quicklauncher->description
+msgid "Custom Quicklauncher"
+msgstr "Egyedi Gyorsindító"
+
+#. 3.2->settings-schema.json->menu-layout->options
+#. 2.6->settings-schema.json->menu-layout->options
+#. 3.4->settings-schema.json->menu-layout->options
+#. 4.2->settings-schema.json->menu-layout->options
+msgid "Stark-Menu"
+msgstr "Stark menü"
+
+#. 3.2->settings-schema.json->menu-layout->options
+#. 2.6->settings-schema.json->menu-layout->options
+#. 3.4->settings-schema.json->menu-layout->options
+#. 4.2->settings-schema.json->menu-layout->options
+msgid "MATE-Menu"
+msgstr "MATE menü"
+
+#. 3.2->settings-schema.json->menu-layout->description
+#. 2.6->settings-schema.json->menu-layout->description
+#. 3.4->settings-schema.json->menu-layout->description
+#. 4.2->settings-schema.json->menu-layout->description
+msgid "Menu layout"
+msgstr "Menü elrendezés"
+
+#. 3.2->settings-schema.json->menu-layout->tooltip
+#. 2.6->settings-schema.json->menu-layout->tooltip
+#. 3.4->settings-schema.json->menu-layout->tooltip
+#. 4.2->settings-schema.json->menu-layout->tooltip
+msgid "Choose between Stark-Menu and MATE-Menu layout"
+msgstr "Válasszon a Stark menü és a MATE menü elrendezések közül"
+
+#. 3.2->settings-schema.json->overlay-key->description
+#. 2.6->settings-schema.json->overlay-key->description
+#. 3.4->settings-schema.json->overlay-key->description
+#. 4.2->settings-schema.json->overlay-key->description
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Gyorsbillentyű a menü megnyitásához és bezárásához"
+
+#. 3.2->settings-schema.json->menu-icon-custom->description
+#. 2.6->settings-schema.json->menu-icon-custom->description
+#. 3.4->settings-schema.json->menu-icon-custom->description
+msgid "Use a custom icon"
+msgstr "Saját ikon használata"
+
+#. 3.2->settings-schema.json->menu-icon-custom->tooltip
+#. 2.6->settings-schema.json->menu-icon-custom->tooltip
+#. 3.4->settings-schema.json->menu-icon-custom->tooltip
+msgid "Unchecking this allows the theme to set the icon"
+msgstr "A kijelölés megszüntetésével a téma állíthat be ikont"
+
+#. 3.2->settings-schema.json->menu-icon->description
+#. 2.6->settings-schema.json->menu-icon->description
+#. 3.4->settings-schema.json->menu-icon->description
+#. 4.2->settings-schema.json->menu-icon->description
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Icon"
+msgstr "Ikon"
+
+#. 3.2->settings-schema.json->menu-icon->tooltip
+#. 2.6->settings-schema.json->menu-icon->tooltip
+#. 3.4->settings-schema.json->menu-icon->tooltip
+#. 4.2->settings-schema.json->menu-icon->tooltip
+msgid "Select an icon to show in the panel."
+msgstr "Panelen megjelenítendő ikon kiválasztása."
+
+#. 3.2->settings-schema.json->menu-label->description
+#. 2.6->settings-schema.json->menu-label->description
+#. 3.4->settings-schema.json->menu-label->description
+msgid "'Menu'-Button label"
+msgstr "„Menü” gomb címke"
+
+#. 3.2->settings-schema.json->menu-label->tooltip
+#. 2.6->settings-schema.json->menu-label->tooltip
+#. 3.4->settings-schema.json->menu-label->tooltip
+#. 4.2->settings-schema.json->menu-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr "Adja meg a panelen megjelenítendő szöveget."
+
+#. 3.2->settings-schema.json->all-programs-label->description
+#. 2.6->settings-schema.json->all-programs-label->description
+#. 3.4->settings-schema.json->all-programs-label->description
+#. 4.2->settings-schema.json->all-programs-label->description
+msgid "'All Programs'-Button label"
+msgstr "„Minden alkalmazás” gomb címke"
+
+#. 3.2->settings-schema.json->all-programs-label->tooltip
+#. 2.6->settings-schema.json->all-programs-label->tooltip
+#. 3.4->settings-schema.json->all-programs-label->tooltip
+#. 4.2->settings-schema.json->all-programs-label->tooltip
+msgid "Enter custom text for the 'All Programs' button."
+msgstr "Adja meg a „Minden alkalmazás” gombon megjelenítendő szöveget."
+
+#. 3.2->settings-schema.json->favorites-label->description
+#. 2.6->settings-schema.json->favorites-label->description
+#. 3.4->settings-schema.json->favorites-label->description
+#. 4.2->settings-schema.json->favorites-label->description
+msgid "'Favorites'-Button label"
+msgstr "„Kedvencek” gomb címke"
+
+#. 3.2->settings-schema.json->favorites-label->tooltip
+#. 2.6->settings-schema.json->favorites-label->tooltip
+#. 3.4->settings-schema.json->favorites-label->tooltip
+#. 4.2->settings-schema.json->favorites-label->tooltip
+msgid "Enter custom text for the 'Favorites' button."
+msgstr "Adja meg a „Kedvencek” gombon megjelenítendő szöveget."
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->description
+#. 2.6->settings-schema.json->show-apps-description-on-buttons->description
+#. 3.4->settings-schema.json->show-apps-description-on-buttons->description
+#. 4.2->settings-schema.json->show-apps-description-on-buttons->description
+msgid "Show application's description under their titles"
+msgstr "Alkalmazás leírások megjelenítése"
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 2.6->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 3.4->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 4.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+msgid ""
+"Choose whether or not to show the application description on the application "
+"buttons."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e az alkalmazás leírások megjelenítését a "
+"gombokon."
+
+#. 3.2->settings-schema.json->show-places->description
+#. 2.6->settings-schema.json->show-places->description
+#. 3.4->settings-schema.json->show-places->description
+#. 4.2->settings-schema.json->show-places->description
+msgid "Show bookmarks and places"
+msgstr "Könyvjelzők és helyek megjelenítése"
+
+#. 3.2->settings-schema.json->show-places->tooltip
+#. 2.6->settings-schema.json->show-places->tooltip
+#. 3.4->settings-schema.json->show-places->tooltip
+#. 4.2->settings-schema.json->show-places->tooltip
+msgid "Choose whether or not to show bookmarks and places in the menu."
+msgstr "Válassza ki, hogy mutassa-e a könyvjelzőket és a helyeket a menüben."
+
+#. 3.2->settings-schema.json->enable-autoscroll->description
+#. 2.6->settings-schema.json->enable-autoscroll->description
+#. 3.4->settings-schema.json->enable-autoscroll->description
+#. 4.2->settings-schema.json->enable-autoscroll->description
+msgid "Enable autoscrolling in application list"
+msgstr "Automatikus görgetés az alkalmazás listában"
+
+#. 3.2->settings-schema.json->enable-autoscroll->tooltip
+#. 2.6->settings-schema.json->enable-autoscroll->tooltip
+#. 3.4->settings-schema.json->enable-autoscroll->tooltip
+#. 4.2->settings-schema.json->enable-autoscroll->tooltip
+msgid ""
+"Choose whether or not to enable smooth autoscrolling in the application list."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e az automatikus görgetést az alkalmazás "
+"listában."
+
+#. 3.2->settings-schema.json->search-filesystem->description
+#. 2.6->settings-schema.json->search-filesystem->description
+#. 3.4->settings-schema.json->search-filesystem->description
+#. 4.2->settings-schema.json->search-filesystem->description
+msgid "Enable filesystem path entry in search box"
+msgstr "Fájlrendszer elérési út használatának engedélyezése a keresőmezőben"
+
+#. 3.2->settings-schema.json->search-filesystem->tooltip
+#. 2.6->settings-schema.json->search-filesystem->tooltip
+#. 3.4->settings-schema.json->search-filesystem->tooltip
+#. 4.2->settings-schema.json->search-filesystem->tooltip
+msgid "Allows path entry in the menu search box."
+msgstr "Elérési út írható a menü keresőmezőjébe."
+
+#. 3.2->settings-schema.json->activate-on-hover->description
+#. 2.6->settings-schema.json->activate-on-hover->description
+#. 3.4->settings-schema.json->activate-on-hover->description
+#. 4.2->settings-schema.json->activate-on-hover->description
+msgid "Open the menu when I move my mouse over it"
+msgstr "Menü megnyitása, ha az egérmutató felette van"
+
+#. 3.2->settings-schema.json->activate-on-hover->tooltip
+#. 2.6->settings-schema.json->activate-on-hover->tooltip
+#. 3.4->settings-schema.json->activate-on-hover->tooltip
+#. 4.2->settings-schema.json->activate-on-hover->tooltip
+msgid "Enable opening the menu when the mouse enters the applet"
+msgstr "Menü megnyitása, ha az egérmutató a kisalkalmazás felett van"
+
+#. 3.2->settings-schema.json->hover-delay->units
+#. 2.6->settings-schema.json->hover-delay->units
+#. 3.4->settings-schema.json->hover-delay->units
+#. 4.2->settings-schema.json->hover-delay->units
+msgid "milliseconds"
+msgstr "ezredmásodperc"
+
+#. 3.2->settings-schema.json->hover-delay->description
+#. 3.4->settings-schema.json->hover-delay->description
+#. 4.2->settings-schema.json->hover-delay->description
+msgid "Menu hover delay"
+msgstr "Menü megjelenés késleltetése"
+
+#. 3.2->settings-schema.json->hover-delay->tooltip
+#. 3.4->settings-schema.json->hover-delay->tooltip
+#. 4.2->settings-schema.json->hover-delay->tooltip
+msgid "Delay before the menu opens when hovered"
+msgstr "Késleltetés a rámutatott menüelem megjelenítése előtt"
+
+#. 3.2->settings-schema.json->enable-animation->description
+#. 2.6->settings-schema.json->enable-animation->description
+#. 3.4->settings-schema.json->enable-animation->description
+#. 4.2->settings-schema.json->enable-animation->description
+msgid "Use menu animations"
+msgstr "Menü animáció használata"
+
+#. 3.2->settings-schema.json->enable-animation->tooltip
+#. 2.6->settings-schema.json->enable-animation->tooltip
+#. 3.4->settings-schema.json->enable-animation->tooltip
+#. 4.2->settings-schema.json->enable-animation->tooltip
+msgid "Allow the menu to animate on open and close"
+msgstr "Megnyitás és bezárás animáció megjelenítése a menüben"
+
+#. 3.2->settings-schema.json->menu-editor-button->description
+#. 2.6->settings-schema.json->menu-editor-button->description
+#. 3.4->settings-schema.json->menu-editor-button->description
+#. 4.2->settings-schema.json->menu-editor-button->description
+msgid "Open the menu editor"
+msgstr "Menüszerkesztő megnyitása"
+
+#. 3.2->settings-schema.json->menu-editor-button->tooltip
+#. 2.6->settings-schema.json->menu-editor-button->tooltip
+#. 3.4->settings-schema.json->menu-editor-button->tooltip
+#. 4.2->settings-schema.json->menu-editor-button->tooltip
+msgid "Press this button to customize your menu entries."
+msgstr "Nyomja meg ezt a gombot a menüelemek testreszabásához."
+
+#. 3.2->settings-schema.json->show-category-icons->description
+#. 2.6->settings-schema.json->show-category-icons->description
+#. 3.4->settings-schema.json->show-category-icons->description
+#. 4.2->settings-schema.json->show-category-icons->description
+msgid "Show category icons"
+msgstr "Kategóriaikonok megjelenítése"
+
+#. 3.2->settings-schema.json->show-category-icons->tooltip
+#. 2.6->settings-schema.json->show-category-icons->tooltip
+#. 3.4->settings-schema.json->show-category-icons->tooltip
+#. 4.2->settings-schema.json->show-category-icons->tooltip
+msgid "Choose whether or not to show icons on categories."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e az ikonok megjelenítését a kategóriáknál."
+
+#. 3.2->settings-schema.json->show-application-icons->description
+#. 2.6->settings-schema.json->show-application-icons->description
+#. 3.4->settings-schema.json->show-application-icons->description
+#. 4.2->settings-schema.json->show-application-icons->description
+msgid "Show application icons"
+msgstr "Alkalmazásikonok megjelenítése"
+
+#. 3.2->settings-schema.json->show-application-icons->tooltip
+#. 2.6->settings-schema.json->show-application-icons->tooltip
+#. 3.4->settings-schema.json->show-application-icons->tooltip
+#. 4.2->settings-schema.json->show-application-icons->tooltip
+msgid "Choose whether or not to show icons on applications."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e az ikonok megjelenítését az alkalmazásokban."
+
+#. 3.2->settings-schema.json->show-context-menu-icons->description
+#. 2.6->settings-schema.json->show-context-menu-icons->description
+#. 3.4->settings-schema.json->show-context-menu-icons->description
+msgid "Show context menu icons"
+msgstr "Ikonok megjelenítése a helyi menüben"
+
+#. 3.2->settings-schema.json->show-context-menu-icons->tooltip
+#. 2.6->settings-schema.json->show-context-menu-icons->tooltip
+#. 3.4->settings-schema.json->show-context-menu-icons->tooltip
+msgid "Choose whether or not to show icons on context menus."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e a ikonok megjelenítését a helyi menüben."
+
+#. 3.2->settings-schema.json->show-favorite-icons->description
+#. 2.6->settings-schema.json->show-favorite-icons->description
+#. 3.4->settings-schema.json->show-favorite-icons->description
+#. 4.2->settings-schema.json->show-favorite-icons->description
+msgid "Show favorite icons"
+msgstr "Kedvenc ikonok megjelenítése"
+
+#. 3.2->settings-schema.json->show-favorite-icons->tooltip
+#. 2.6->settings-schema.json->show-favorite-icons->tooltip
+#. 3.4->settings-schema.json->show-favorite-icons->tooltip
+#. 4.2->settings-schema.json->show-favorite-icons->tooltip
+msgid "Choose whether or not to show icons on favorites."
+msgstr "Válassza ki, hogy bekapcsolja-e a kedvencek ikonjainak megjelenítését."
+
+#. 3.2->settings-schema.json->favorite-button-size->units
+#. 2.6->settings-schema.json->favorite-button-size->units
+#. 3.4->settings-schema.json->favorite-button-size->units
+#. 4.2->settings-schema.json->favorite-button-size->units
+msgid "pixels"
+msgstr "képpont"
+
+#. 3.2->settings-schema.json->favorite-button-size->description
+#. 2.6->settings-schema.json->favorite-button-size->description
+#. 3.4->settings-schema.json->favorite-button-size->description
+#. 4.2->settings-schema.json->favorite-button-size->description
+msgid "Size of the favorite buttons"
+msgstr "Gyosindító gombok mérete"
+
+#. 3.2->settings-schema.json->favorite-button-size->tooltip
+#. 2.6->settings-schema.json->favorite-button-size->tooltip
+#. 3.4->settings-schema.json->favorite-button-size->tooltip
+#. 4.2->settings-schema.json->favorite-button-size->tooltip
+msgid "Change the size of the favorite buttons"
+msgstr "Gyorsindító gombok méretének megváltoztatása"
+
+#. 3.2->settings-schema.json->show-sidebar->description
+#. 2.6->settings-schema.json->show-sidebar->description
+#. 3.4->settings-schema.json->show-sidebar->description
+#. 4.2->settings-schema.json->show-sidebar->description
+msgid "Show sidebar on menu"
+msgstr "Oldalsáv vagy menü megjelenítése"
+
+#. 3.2->settings-schema.json->show-sidebar->tooltip
+#. 2.6->settings-schema.json->show-sidebar->tooltip
+#. 3.4->settings-schema.json->show-sidebar->tooltip
+#. 4.2->settings-schema.json->show-sidebar->tooltip
+msgid "Choose whether or not to show the sidebar."
+msgstr "Megjelenjen-e ez az oldalsáv."
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "User picture and user name"
+msgstr "Fiók kép és felhasználói név"
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "User picture only"
+msgstr "Csak fiók kép"
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "Hide"
+msgstr "Elrejtés"
+
+#. 3.2->settings-schema.json->user-box-layout->description
+#. 2.6->settings-schema.json->user-box-layout->description
+#. 3.4->settings-schema.json->user-box-layout->description
+#. 4.2->settings-schema.json->user-box-layout->description
+msgid "User account info box style"
+msgstr "Felhasználói fiók információk megjelenítésének stílusa"
+
+#. 3.2->settings-schema.json->user-box-layout->tooltip
+#. 2.6->settings-schema.json->user-box-layout->tooltip
+#. 3.4->settings-schema.json->user-box-layout->tooltip
+#. 4.2->settings-schema.json->user-box-layout->tooltip
+msgid "Choose whether to show the user name and/or user picture."
+msgstr "Válassza ki, hogy megjelenjen-e a felhasználói név és a fiók kép."
+
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Icons only"
+msgstr "Csak ikonok"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Labels only"
+msgstr "Csak címkék"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->description
+#. 2.6->settings-schema.json->quicklauncher-layout->description
+#. 3.4->settings-schema.json->quicklauncher-layout->description
+#. 4.2->settings-schema.json->quicklauncher-layout->description
+msgid "Quicklauncher button style"
+msgstr "Gyorsindító gombok stílusa"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->tooltip
+#. 2.6->settings-schema.json->quicklauncher-layout->tooltip
+#. 3.4->settings-schema.json->quicklauncher-layout->tooltip
+#. 4.2->settings-schema.json->quicklauncher-layout->tooltip
+msgid ""
+"Choose whether to show icons and/or labels on the quicklauncher buttons."
+msgstr ""
+"Válassza ki, hogy bekapcsolja-e az az ikonok és címkék megjelenítését a "
+"gyorsindító gombokon."
+
+#. 3.2->settings-schema.json->show-shutdown-menu->description
+#. 2.6->settings-schema.json->show-shutdown-menu->description
+#. 3.4->settings-schema.json->show-shutdown-menu->description
+#. 4.2->settings-schema.json->show-shutdown-menu->description
+msgid "Show quit buttons"
+msgstr "Kilépési menü megjelenítése"
+
+#. 3.2->settings-schema.json->show-shutdown-menu->tooltip
+#. 2.6->settings-schema.json->show-shutdown-menu->tooltip
+#. 3.4->settings-schema.json->show-shutdown-menu->tooltip
+#. 4.2->settings-schema.json->show-shutdown-menu->tooltip
+msgid "Choose whether or not to show the quit buttons."
+msgstr "Megjelenítse-e a kilépési gombokat."
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "DropDown"
+msgstr "Legördülő"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "Vertical"
+msgstr "Függőleges"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->description
+#. 2.6->settings-schema.json->shutdown-menu-layout->description
+#. 3.4->settings-schema.json->shutdown-menu-layout->description
+#. 4.2->settings-schema.json->shutdown-menu-layout->description
+msgid "Quit buttons layout"
+msgstr "Kilépés gombok elrendezése"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->tooltip
+#. 2.6->settings-schema.json->shutdown-menu-layout->tooltip
+#. 3.4->settings-schema.json->shutdown-menu-layout->tooltip
+#. 4.2->settings-schema.json->shutdown-menu-layout->tooltip
+msgid "Choose the layout of the quit options."
+msgstr "Válassza ki a kilépési lehetőségek elrendezését."
+
+#. 3.2->settings-schema.json->shutdown-label->description
+#. 2.6->settings-schema.json->shutdown-label->description
+#. 3.4->settings-schema.json->shutdown-label->description
+#. 4.2->settings-schema.json->shutdown-label->description
+msgid "'Quit'-Button label"
+msgstr "„Kilépés” gomb címke"
+
+#. 3.2->settings-schema.json->shutdown-label->tooltip
+#. 2.6->settings-schema.json->shutdown-label->tooltip
+#. 3.4->settings-schema.json->shutdown-label->tooltip
+#. 4.2->settings-schema.json->shutdown-label->tooltip
+msgid "Enter custom text for the 'Quit' button."
+msgstr "Adja meg a „Kilépés” gombon megjelenítendő szöveget."
+
+#. 3.2->settings-schema.json->quicklauncher-0-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-1-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-2-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-3-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-4-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-5-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-6-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-7-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-8-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-9-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-10-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-11-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-12-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-13-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-14-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-15-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-16-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-17-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-18-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-19-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-0-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-1-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-2-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-3-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-4-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-5-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-6-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-7-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-8-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-9-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-10-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-11-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-12-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-13-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-14-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-15-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-16-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-17-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-18-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-19-checkbox->description
+msgid "Show quicklauncher on the sidebar"
+msgstr "Gyorsindító megjelenítése az oldalsávon"
+
+#. 3.2->settings-schema.json->quicklauncher-0-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-checkbox->tooltip
+msgid "Choose whether or not to show this quicklauncher in the sidebar."
+msgstr "Megjelenjen-e ez a gyorsindító az oldalsávon."
+
+#. 3.2->settings-schema.json->quicklauncher-0-label->description
+#. 3.2->settings-schema.json->quicklauncher-1-label->description
+#. 3.2->settings-schema.json->quicklauncher-2-label->description
+#. 3.2->settings-schema.json->quicklauncher-3-label->description
+#. 3.2->settings-schema.json->quicklauncher-4-label->description
+#. 3.2->settings-schema.json->quicklauncher-5-label->description
+#. 3.2->settings-schema.json->quicklauncher-6-label->description
+#. 3.2->settings-schema.json->quicklauncher-7-label->description
+#. 3.2->settings-schema.json->quicklauncher-8-label->description
+#. 3.2->settings-schema.json->quicklauncher-9-label->description
+#. 3.2->settings-schema.json->quicklauncher-10-label->description
+#. 3.2->settings-schema.json->quicklauncher-11-label->description
+#. 3.2->settings-schema.json->quicklauncher-12-label->description
+#. 3.2->settings-schema.json->quicklauncher-13-label->description
+#. 3.2->settings-schema.json->quicklauncher-14-label->description
+#. 3.2->settings-schema.json->quicklauncher-15-label->description
+#. 3.2->settings-schema.json->quicklauncher-16-label->description
+#. 3.2->settings-schema.json->quicklauncher-17-label->description
+#. 3.2->settings-schema.json->quicklauncher-18-label->description
+#. 3.2->settings-schema.json->quicklauncher-19-label->description
+#. 2.6->settings-schema.json->quicklauncher-0-label->description
+#. 2.6->settings-schema.json->quicklauncher-1-label->description
+#. 2.6->settings-schema.json->quicklauncher-2-label->description
+#. 2.6->settings-schema.json->quicklauncher-3-label->description
+#. 2.6->settings-schema.json->quicklauncher-4-label->description
+#. 2.6->settings-schema.json->quicklauncher-5-label->description
+#. 2.6->settings-schema.json->quicklauncher-6-label->description
+#. 2.6->settings-schema.json->quicklauncher-7-label->description
+#. 2.6->settings-schema.json->quicklauncher-8-label->description
+#. 2.6->settings-schema.json->quicklauncher-9-label->description
+#. 2.6->settings-schema.json->quicklauncher-10-label->description
+#. 2.6->settings-schema.json->quicklauncher-11-label->description
+#. 2.6->settings-schema.json->quicklauncher-12-label->description
+#. 2.6->settings-schema.json->quicklauncher-13-label->description
+#. 2.6->settings-schema.json->quicklauncher-14-label->description
+#. 2.6->settings-schema.json->quicklauncher-15-label->description
+#. 2.6->settings-schema.json->quicklauncher-16-label->description
+#. 2.6->settings-schema.json->quicklauncher-17-label->description
+#. 2.6->settings-schema.json->quicklauncher-18-label->description
+#. 2.6->settings-schema.json->quicklauncher-19-label->description
+msgid "Quicklauncher label"
+msgstr "Gyorsindító címke"
+
+#. 3.2->settings-schema.json->quicklauncher-0-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-label->tooltip
+msgid "Enter label for the quicklauncher"
+msgstr "Adja meg a gyorsindító címkéjét"
+
+#. 3.2->settings-schema.json->quicklauncher-0-icon->description
+#. 3.2->settings-schema.json->quicklauncher-1-icon->description
+#. 3.2->settings-schema.json->quicklauncher-2-icon->description
+#. 3.2->settings-schema.json->quicklauncher-3-icon->description
+#. 3.2->settings-schema.json->quicklauncher-4-icon->description
+#. 3.2->settings-schema.json->quicklauncher-5-icon->description
+#. 3.2->settings-schema.json->quicklauncher-6-icon->description
+#. 3.2->settings-schema.json->quicklauncher-7-icon->description
+#. 3.2->settings-schema.json->quicklauncher-8-icon->description
+#. 3.2->settings-schema.json->quicklauncher-9-icon->description
+#. 3.2->settings-schema.json->quicklauncher-10-icon->description
+#. 3.2->settings-schema.json->quicklauncher-11-icon->description
+#. 3.2->settings-schema.json->quicklauncher-12-icon->description
+#. 3.2->settings-schema.json->quicklauncher-13-icon->description
+#. 3.2->settings-schema.json->quicklauncher-14-icon->description
+#. 3.2->settings-schema.json->quicklauncher-15-icon->description
+#. 3.2->settings-schema.json->quicklauncher-16-icon->description
+#. 3.2->settings-schema.json->quicklauncher-17-icon->description
+#. 3.2->settings-schema.json->quicklauncher-18-icon->description
+#. 3.2->settings-schema.json->quicklauncher-19-icon->description
+#. 2.6->settings-schema.json->quicklauncher-0-icon->description
+#. 2.6->settings-schema.json->quicklauncher-1-icon->description
+#. 2.6->settings-schema.json->quicklauncher-2-icon->description
+#. 2.6->settings-schema.json->quicklauncher-3-icon->description
+#. 2.6->settings-schema.json->quicklauncher-4-icon->description
+#. 2.6->settings-schema.json->quicklauncher-5-icon->description
+#. 2.6->settings-schema.json->quicklauncher-6-icon->description
+#. 2.6->settings-schema.json->quicklauncher-7-icon->description
+#. 2.6->settings-schema.json->quicklauncher-8-icon->description
+#. 2.6->settings-schema.json->quicklauncher-9-icon->description
+#. 2.6->settings-schema.json->quicklauncher-10-icon->description
+#. 2.6->settings-schema.json->quicklauncher-11-icon->description
+#. 2.6->settings-schema.json->quicklauncher-12-icon->description
+#. 2.6->settings-schema.json->quicklauncher-13-icon->description
+#. 2.6->settings-schema.json->quicklauncher-14-icon->description
+#. 2.6->settings-schema.json->quicklauncher-15-icon->description
+#. 2.6->settings-schema.json->quicklauncher-16-icon->description
+#. 2.6->settings-schema.json->quicklauncher-17-icon->description
+#. 2.6->settings-schema.json->quicklauncher-18-icon->description
+#. 2.6->settings-schema.json->quicklauncher-19-icon->description
+msgid "Quicklauncher icon"
+msgstr "Gyorsindító ikon"
+
+#. 3.2->settings-schema.json->quicklauncher-0-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-icon->tooltip
+msgid ""
+"Select an icon file or type an icon name into the entry box for the "
+"quicklauncher"
+msgstr ""
+"Válasszon ki egy ikon-fájlt, vagy írja be az ikon nevét a beviteli mezőbe "
+"gyorsindítóhoz."
+
+#. 3.2->settings-schema.json->quicklauncher-0-command->description
+#. 3.2->settings-schema.json->quicklauncher-1-command->description
+#. 3.2->settings-schema.json->quicklauncher-2-command->description
+#. 3.2->settings-schema.json->quicklauncher-3-command->description
+#. 3.2->settings-schema.json->quicklauncher-4-command->description
+#. 3.2->settings-schema.json->quicklauncher-5-command->description
+#. 3.2->settings-schema.json->quicklauncher-6-command->description
+#. 3.2->settings-schema.json->quicklauncher-7-command->description
+#. 3.2->settings-schema.json->quicklauncher-8-command->description
+#. 3.2->settings-schema.json->quicklauncher-9-command->description
+#. 3.2->settings-schema.json->quicklauncher-10-command->description
+#. 3.2->settings-schema.json->quicklauncher-11-command->description
+#. 3.2->settings-schema.json->quicklauncher-12-command->description
+#. 3.2->settings-schema.json->quicklauncher-13-command->description
+#. 3.2->settings-schema.json->quicklauncher-14-command->description
+#. 3.2->settings-schema.json->quicklauncher-15-command->description
+#. 3.2->settings-schema.json->quicklauncher-16-command->description
+#. 3.2->settings-schema.json->quicklauncher-17-command->description
+#. 3.2->settings-schema.json->quicklauncher-18-command->description
+#. 3.2->settings-schema.json->quicklauncher-19-command->description
+#. 2.6->settings-schema.json->quicklauncher-0-command->description
+#. 2.6->settings-schema.json->quicklauncher-1-command->description
+#. 2.6->settings-schema.json->quicklauncher-2-command->description
+#. 2.6->settings-schema.json->quicklauncher-3-command->description
+#. 2.6->settings-schema.json->quicklauncher-4-command->description
+#. 2.6->settings-schema.json->quicklauncher-5-command->description
+#. 2.6->settings-schema.json->quicklauncher-6-command->description
+#. 2.6->settings-schema.json->quicklauncher-7-command->description
+#. 2.6->settings-schema.json->quicklauncher-8-command->description
+#. 2.6->settings-schema.json->quicklauncher-9-command->description
+#. 2.6->settings-schema.json->quicklauncher-10-command->description
+#. 2.6->settings-schema.json->quicklauncher-11-command->description
+#. 2.6->settings-schema.json->quicklauncher-12-command->description
+#. 2.6->settings-schema.json->quicklauncher-13-command->description
+#. 2.6->settings-schema.json->quicklauncher-14-command->description
+#. 2.6->settings-schema.json->quicklauncher-15-command->description
+#. 2.6->settings-schema.json->quicklauncher-16-command->description
+#. 2.6->settings-schema.json->quicklauncher-17-command->description
+#. 2.6->settings-schema.json->quicklauncher-18-command->description
+#. 2.6->settings-schema.json->quicklauncher-19-command->description
+msgid "Command to launch"
+msgstr "Elindítandó parancs"
+
+#. 3.2->settings-schema.json->quicklauncher-0-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-command->tooltip
+msgid "Enter command to start the quicklauncher"
+msgstr "Adjon meg a gyorsindítóhoz parancsot"
+
+#. 3.2->settings-schema.json->quicklauncher-1-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-command->tooltip
+msgid "Enter command for the quicklauncher"
+msgstr "Adjon meg a gyorsindítóhoz parancsot"
+
+#. 2.6->settings-schema.json->head-menu-layout->description
+msgid "Stark-Menu/MATE-Menu"
+msgstr "Start menü / MATE menü"
+
+#. 2.6->settings-schema.json->head-settings->description
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#. 2.6->settings-schema.json->hover-delay->description
+msgid "Category hover delay"
+msgstr "Kategória megjelenés késleltetése"
+
+#. 2.6->settings-schema.json->hover-delay->tooltip
+msgid "Delay between switching categories"
+msgstr "Késleltetés a kategóriák közötti váltásnál"
+
+#. 2.6->settings-schema.json->head-button-show-hide-icons->description
+msgid "Icons"
+msgstr "Ikonok"
+
+#. 3.4->settings-schema.json->quicklauncher-separator-layout->title
+#. 4.2->settings-schema.json->quicklauncher-separator-layout->title
+msgid "Quicklauncher Separators"
+msgstr "Gyorsindító elválasztók"
+
+#. 3.4->settings-schema.json->custom-quicklauncher-places->title
+#. 4.2->settings-schema.json->custom-quicklauncher-places->title
+msgid "Quicklauncher Places"
+msgstr "Gyorsindító helyek"
+
+#. 3.4->settings-schema.json->custom-quicklauncher-apps->title
+#. 4.2->settings-schema.json->custom-quicklauncher-apps->title
+msgid "Quicklauncher Applications"
+msgstr "Gyorsindító alkalmazások"
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->description
+#. 4.2->settings-schema.json->quicklauncher-separator1->description
+msgid "Separator below user account info box"
+msgstr "Elválasztó megjelenítése a felhasználói fiók információk terület alatt"
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator2->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator3->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator1->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator2->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator3->tooltip
+msgid "Choose whether or not to show this separator."
+msgstr "Válassza ki, hogy bekapcsolja-e az elválasztók megjelenítését."
+
+#. 3.4->settings-schema.json->quicklauncher-places->description
+#. 4.2->settings-schema.json->quicklauncher-places->description
+msgid "Custom Quicklauncher Places"
+msgstr "Egyedi Gyorsindító helyek"
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Visible"
+msgstr "Látható"
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+msgid "Directory"
+msgstr "Könyvtár"
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Custom Label"
+msgstr "Egyedi címke"
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Custom Icon"
+msgstr "Egyedi ikon"
+
+#. 3.4->settings-schema.json->quicklauncher-separator2->description
+#. 4.2->settings-schema.json->quicklauncher-separator2->description
+msgid "Separator below quicklauncher places"
+msgstr "Elválasztó megjelenítése a gyorsindító terület alatt"
+
+#. 3.4->settings-schema.json->quicklauncher-apps->description
+#. 4.2->settings-schema.json->quicklauncher-apps->description
+msgid "Custom Quicklauncher Applications"
+msgstr "Egyedi Gyorsindító alkalmazások"
+
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Command"
+msgstr "Parancs"
+
+#. 3.4->settings-schema.json->quicklauncher-separator3->description
+#. 4.2->settings-schema.json->quicklauncher-separator3->description
+msgid "Separator above quit buttons"
+msgstr "Elválasztó megjelenítése a kilépés gombok felett"
+
+#. 4.2->settings-schema.json->websearch->title
+msgid "Web Search"
+msgstr "Keresés a világhálón"
+
+#. 4.2->settings-schema.json->web-search-engine->title
+#. 4.2->settings-schema.json->web-search->description
+msgid "Web Search Engine"
+msgstr "Alapértelmezett keresőmotor"
+
+#. 4.2->settings-schema.json->menu-custom->description
+msgid "Use a custom icon and label"
+msgstr "Egyéni ikon és címke használata"
+
+#. 4.2->settings-schema.json->menu-custom->tooltip
+msgid "Check this to specify a custom icon and label"
+msgstr "Jelölje be az egyéni ikon és címke megadásához"
+
+#. 4.2->settings-schema.json->menu-label->description
+msgid "Text"
+msgstr "Szöveg"
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->description
+msgid "Reverse quit button order"
+msgstr "Fordított kilépési gomb sorrend"
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->tooltip
+msgid ""
+"Choose whether to display the 'Quit' button first or last. (Has no effect on "
+"'DropDown' layout.)"
+msgstr ""
+"Válassza ki, hogy a „Kilépés” gomb az első vagy az utolsó legyen. (Nincs "
+"hatása a „Legördülő” elrendezés esetében.)"
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Use"
+msgstr "Használat"
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Name"
+msgstr "Név"
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "URL"
+msgstr "URL"
+
+#~ msgid "Please provide your password to uninstall this application"
+#~ msgstr "Adja meg a jelszavát az alkalmazás eltávolításához"

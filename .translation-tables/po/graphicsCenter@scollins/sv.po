@@ -1,0 +1,128 @@
+# Swedish translation for graphicsCenter@scollins.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: graphicsCenter@scollins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 15:47+0100\n"
+"PO-Revision-Date: 2017-05-17 04:20+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:169
+msgid "Clear"
+msgstr "Rensa"
+
+#: applet.js:224
+msgid "Graphics"
+msgstr "Grafik"
+
+#: applet.js:304
+msgid "LAUNCHERS"
+msgstr "PROGRAM"
+
+#: applet.js:329
+msgid "PICTURES"
+msgstr "BILDER"
+
+#: applet.js:340
+msgid "Open folder"
+msgstr "Öppna mappen"
+
+#: applet.js:367
+msgid "RECENT DOCUMENTS"
+msgstr "TIDIGARE DOKUMENT"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panelikon"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Accepterar ikonnamn eller direkt sökväg (stödjer symboliska ikoner)"
+
+#. graphicsCenter@scollins->settings-schema.json->showPictures->description
+msgid "Show contents of pictures directory"
+msgstr "Visa innehåll i Bilder"
+
+#. graphicsCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Menysnabbtangent"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Menyikonstorlek"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. graphicsCenter@scollins->settings-schema.json->pictures->description
+msgid "Pictures"
+msgstr "Bilder"
+
+#. graphicsCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Antal att visa"
+
+#. graphicsCenter@scollins->settings-schema.json->pictureSize->description
+msgid "Thumbnail size"
+msgstr "Miniatyrstorlek"
+
+#. graphicsCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#. graphicsCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Paneltext"
+
+#. graphicsCenter@scollins->settings-schema.json->recursePictures->description
+msgid "Show contents of subfolders"
+msgstr "Visa innehåll i undermappar"
+
+#. graphicsCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Använd alternativ mapp"
+
+#. graphicsCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Visa tidigare dokument"
+
+#. graphicsCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Tidigare dokument"
+
+#. graphicsCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your picture needs"
+msgstr "Tillhandahåller en enkel och snabb resurs för dina bildbehov"
+
+#. graphicsCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Author"
+
+#. graphicsCenter@scollins->metadata.json->comments
+msgid ""
+"Graphics Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your graphics programs and pictures. Feel "
+"free to contribute by submitting pull requests, bug reports and feature "
+"requests to my github repo."
+msgstr ""
+"Grafikcenter är ett funktionsrikt, plattformsöverskridande Cinnamon "
+"panelprogram som tillhandahåller enkel åtkomst till dina grafikprogram och "
+"bilder. Bidra gärna med kodbidrag, felrapporter och funktionsönskemål på min "
+"GitHub-sida."
+
+#. graphicsCenter@scollins->metadata.json->name
+msgid "Graphics Center"
+msgstr "Grafikcenter"

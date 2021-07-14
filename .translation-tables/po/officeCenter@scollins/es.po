@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 12:45+0100\n"
+"PO-Revision-Date: 2018-09-08 20:29+0200\n"
+"Last-Translator: Germán Franco <dev.germanfr@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:165
+msgid "Clear"
+msgstr "Limpiar"
+
+#: applet.js:221
+msgid "Office"
+msgstr "Ofimática"
+
+#: applet.js:301
+msgid "LAUNCHERS"
+msgstr "ACCESO DIRECTO"
+
+#: applet.js:317
+msgid "DOCUMENTS"
+msgstr "DOCUMENTOS"
+
+#: applet.js:328
+msgid "Open folder"
+msgstr "Abrir carpeta"
+
+#: applet.js:354
+msgid "RECENT DOCUMENTS"
+msgstr "DOCUMENTOS RECIENTES"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Icono del panel"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Se acepta nombre de icono o ruta directa (soporta iconos simbólicos)"
+
+#. officeCenter@scollins->settings-schema.json->documents->description
+msgid "Documents"
+msgstr "Documentos"
+
+#. officeCenter@scollins->settings-schema.json->docMax->description
+msgid "Limit number of documents shown to"
+msgstr "Limitar número de documentos que se muestran a"
+
+#. officeCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Atajo de teclado del menú"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->description
+msgid "Icon size"
+msgstr "Tamaño de los iconos"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. officeCenter@scollins->settings-schema.json->recurseDocuments->description
+msgid "Include subfolders"
+msgstr "Incluir subcarpetas"
+
+#. officeCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Cantidad que mostrar"
+
+#. officeCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Preferencias generales"
+
+#. officeCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Texto del panel"
+
+#. officeCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Usar otra carpeta"
+
+#. officeCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Mostrar documentos recientes"
+
+#. officeCenter@scollins->settings-schema.json->showDocuments->description
+msgid "Show contents of documents folder"
+msgstr "Mostrar el contenido de la carpeta «Documentos»"
+
+#. officeCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Documentos recientes"
+
+#. officeCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your office needs"
+msgstr "Un recurso rápido y sencillo para todas tus necesidades de ofimática"
+
+#. officeCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autor"
+
+#. officeCenter@scollins->metadata.json->comments
+msgid ""
+"Office Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your office programs and documents. Feel free "
+"to contribute by submitting pull requests, bug reports and feature requests "
+"to my github repo."
+msgstr ""
+"El centro de ofimática es una applet para Cinnamon con multitud de "
+"funcionalidades y multiplataforma, que te facilita la forma de acceder a tus "
+"documentos y programas de ofimática. Siéntete libre de contribuir con \"pull "
+"requests\", reportando bugs o haciendo sugerencias en mi repositorio en "
+"GitHub."
+
+#. officeCenter@scollins->metadata.json->name
+msgid "Office Center"
+msgstr "Centro de ofimática"

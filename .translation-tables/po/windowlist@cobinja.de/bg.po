@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 20:01+0200\n"
+"PO-Revision-Date: 2017-10-19 05:53+0300\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 3.2/applet.js:1286 4.0/applet.js:1393
+msgid "Preferences"
+msgstr ""
+
+#: 3.2/applet.js:1290 4.0/applet.js:1397
+msgid "About..."
+msgstr ""
+
+#: 3.2/applet.js:1294 4.0/applet.js:1401
+msgid "Configure..."
+msgstr ""
+
+#: 3.2/applet.js:1298 4.0/applet.js:1405
+#, javascript-format
+msgid "Remove '%s'"
+msgstr ""
+
+#: 3.2/applet.js:1307 4.0/applet.js:1414
+msgid "Open new window"
+msgstr "Отвори нов прозорец"
+
+#: 3.2/applet.js:1313 4.0/applet.js:1420
+msgid "Pin to this workspace"
+msgstr "Закачи на това работно място"
+
+#: 3.2/applet.js:1327 4.0/applet.js:1434
+msgid "Pin to other workspaces"
+msgstr "Закачи на друго работно място"
+
+#: 3.2/applet.js:1359 4.0/applet.js:1507
+#, fuzzy
+msgid "Only on this workspace"
+msgstr "Закачи на това работно място"
+
+#: 3.2/applet.js:1362 4.0/applet.js:1510
+#, fuzzy
+msgid "Visible on all workspaces"
+msgstr "Закачи на друго работно място"
+
+#: 3.2/applet.js:1364 4.0/applet.js:1511
+#, fuzzy
+msgid "Move to another workspace"
+msgstr "Закачи на друго работно място"
+
+#: 3.2/applet.js:1384 4.0/applet.js:1530
+msgid "Move to another monitor"
+msgstr "Премести до друг монитор"
+
+#: 3.2/applet.js:1392 4.0/applet.js:1538
+msgid "Monitor"
+msgstr ""
+
+#: 3.2/applet.js:1404 4.0/applet.js:1554
+msgid "Restore"
+msgstr ""
+
+#: 3.2/applet.js:1409 4.0/applet.js:1559
+#, fuzzy
+msgid "Minimize"
+msgstr "Демаксимизиране"
+
+#: 3.2/applet.js:1415 4.0/applet.js:1565
+msgid "Unmaximize"
+msgstr "Демаксимизиране"
+
+#: 3.2/applet.js:1422 4.0/applet.js:1572
+msgid "Close others"
+msgstr ""
+
+#: 3.2/applet.js:1433 4.0/applet.js:1583
+msgid "Close all"
+msgstr ""
+
+#: 3.2/applet.js:1442 4.0/applet.js:1592
+msgid "Close"
+msgstr ""
+
+#: 4.0/applet.js:1475
+msgid "Places"
+msgstr ""
+
+#. metadata.json->name
+msgid "CobiWindowList"
+msgstr ""
+
+#. metadata.json->description
+msgid "A window list with app grouping and window previews"
+msgstr "Списък прозорци с групиране по приложение и преглед"
+
+#. 3.2->settings-schema.json->section1->description
+#. 4.0->settings-schema.json->section1->description
+msgid "Captions"
+msgstr "Надписи"
+
+#. 3.2->settings-schema.json->caption-type->options
+#. 4.0->settings-schema.json->caption-type->options
+msgid "Name"
+msgstr "Име"
+
+#. 3.2->settings-schema.json->caption-type->options
+#. 4.0->settings-schema.json->caption-type->options
+msgid "Title"
+msgstr "Заглавие"
+
+#. 3.2->settings-schema.json->caption-type->description
+#. 4.0->settings-schema.json->caption-type->description
+msgid "Caption type"
+msgstr "Вид на надписите"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "None"
+msgstr "Никой"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "All"
+msgstr "Всички"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "Running"
+msgstr "Работещи"
+
+#. 3.2->settings-schema.json->display-caption-for->options
+#. 4.0->settings-schema.json->display-caption-for->options
+msgid "Focused"
+msgstr "На фокус"
+
+#. 3.2->settings-schema.json->display-caption-for->description
+#. 4.0->settings-schema.json->display-caption-for->description
+msgid "Display Caption For"
+msgstr "Покажи надписи за"
+
+#. 3.2->settings-schema.json->label-width->units
+#. 4.0->settings-schema.json->label-width->units
+msgid "pixels"
+msgstr ""
+
+#. 3.2->settings-schema.json->label-width->description
+#. 4.0->settings-schema.json->label-width->description
+msgid "Label width"
+msgstr "Ширина на заглавието"
+
+#. 3.2->settings-schema.json->label-animation->description
+#. 4.0->settings-schema.json->label-animation->description
+msgid "Animate label"
+msgstr "Анимирано заглавие"
+
+#. 3.2->settings-schema.json->label-animation-time->units
+#. 3.2->settings-schema.json->animation-time->units
+#. 3.2->settings-schema.json->preview-timeout-show->units
+#. 3.2->settings-schema.json->preview-timeout-hide->units
+#. 4.0->settings-schema.json->label-animation-time->units
+#. 4.0->settings-schema.json->animation-time->units
+#. 4.0->settings-schema.json->preview-timeout-show->units
+#. 4.0->settings-schema.json->preview-timeout-hide->units
+msgid "milliseconds"
+msgstr ""
+
+#. 3.2->settings-schema.json->label-animation-time->description
+#. 4.0->settings-schema.json->label-animation-time->description
+msgid "Label animation time"
+msgstr "Време на анимация"
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "Never"
+msgstr ""
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "Always"
+msgstr "Винаги"
+
+#. 3.2->settings-schema.json->display-number->options
+#. 4.0->settings-schema.json->display-number->options
+msgid "2 or more windows"
+msgstr "При два или повече прозореца"
+
+#. 3.2->settings-schema.json->display-number->description
+#. 4.0->settings-schema.json->display-number->description
+msgid "Display Number"
+msgstr "Покажи бройка"
+
+#. 3.2->settings-schema.json->section2->description
+#. 4.0->settings-schema.json->section2->description
+msgid "Icons"
+msgstr ""
+
+#. 3.2->settings-schema.json->group-windows->description
+#. 4.0->settings-schema.json->group-windows->description
+msgid "Group Windows"
+msgstr "Групирай прозорците"
+
+#. 3.2->settings-schema.json->group-windows->tooltip
+#. 4.0->settings-schema.json->group-windows->tooltip
+msgid ""
+"If windows are grouped, all windows from an application are managed by the "
+"same button,\n"
+"if not grouped, all windows get an own button"
+msgstr ""
+"Ако има групиране на прозорци, всички прозорци на едно приложение се "
+"управляват от един бутон,\n"
+"ако няма групиране, всеки прозорец има отделен бутон"
+
+#. 3.2->settings-schema.json->display-pinned->description
+#. 4.0->settings-schema.json->display-pinned->description
+msgid "Display Favorites"
+msgstr "Показвай любими"
+
+#. 3.2->settings-schema.json->animation-time->description
+#. 4.0->settings-schema.json->animation-time->description
+msgid "Animation Time"
+msgstr "Време на анимация"
+
+#. 3.2->settings-schema.json->animation-time->tooltip
+#. 4.0->settings-schema.json->animation-time->tooltip
+msgid "The flashing time when a new window is opened via a button"
+msgstr "Време на примигване, когато нов прозорец в отворен от бутона"
+
+#. 3.2->settings-schema.json->show-windows-for-current-monitor->description
+#. 4.0->settings-schema.json->show-windows-for-current-monitor->description
+msgid "Only show windows on the same monitor"
+msgstr "Показвай само прозорците от този монитор"
+
+#. 3.2->settings-schema.json->show-windows-for-current-monitor->tooltip
+#. 4.0->settings-schema.json->show-windows-for-current-monitor->tooltip
+msgid ""
+"If enabled, this applet instance only manages windows\n"
+"that are displayed on the same monitor"
+msgstr ""
+"Ако е включено, тази инстанция на аплета ще управлява прозорците,\n"
+"които се покзват на същия монитор"
+
+#. 3.2->settings-schema.json->section3->description
+#. 4.0->settings-schema.json->section3->description
+#, fuzzy
+msgid "Preview menu"
+msgstr "Преглед"
+
+#. 3.2->settings-schema.json->menu-show-on-click->description
+#. 4.0->settings-schema.json->menu-show-on-click->description
+#, fuzzy
+msgid "Show on click"
+msgstr "Покажи при посочване"
+
+#. 3.2->settings-schema.json->menu-show-on-click->tooltip
+#. 4.0->settings-schema.json->menu-show-on-click->tooltip
+msgid ""
+"If enabled, a popup menu with a list of current windows will show when "
+"clicking\n"
+"(Only with 2 or more windows)"
+msgstr ""
+
+#. 3.2->settings-schema.json->menu-show-on-hover->description
+#. 4.0->settings-schema.json->menu-show-on-hover->description
+msgid "Show on hover"
+msgstr "Покажи при посочване"
+
+#. 3.2->settings-schema.json->menu-show-on-hover->tooltip
+#. 4.0->settings-schema.json->menu-show-on-hover->tooltip
+msgid ""
+"If enabled, a popup menu with a list of current windows will show when "
+"hovering"
+msgstr ""
+
+#. 3.2->settings-schema.json->show-previews->description
+#. 4.0->settings-schema.json->show-previews->description
+#, fuzzy
+msgid "Show previews"
+msgstr "Преглед"
+
+#. 3.2->settings-schema.json->show-previews->tooltip
+#. 4.0->settings-schema.json->show-previews->tooltip
+msgid ""
+"If enabled, the popup menu will show window previews\n"
+"(Always disabled when running Cinnamon in Software Rendering Mode)"
+msgstr ""
+"Ако е включено, изкачащо меню ще се показва при преглед на прозорците\n"
+"\n"
+"(Винаги е изключено когато ползвате Cinnamon в режим на софтуерно рендиране)"
+
+#. 3.2->settings-schema.json->number-of-unshrunk-previews->units
+#. 4.0->settings-schema.json->number-of-unshrunk-previews->units
+#, fuzzy
+msgid "Windows"
+msgstr "Групирай прозорците"
+
+#. 3.2->settings-schema.json->number-of-unshrunk-previews->description
+#. 4.0->settings-schema.json->number-of-unshrunk-previews->description
+msgid "Number of unshrunk previews"
+msgstr ""
+
+#. 3.2->settings-schema.json->preview-timeout-show->description
+#. 4.0->settings-schema.json->preview-timeout-show->description
+msgid "Timeout Show"
+msgstr "Закъснение при показване"
+
+#. 3.2->settings-schema.json->preview-timeout-show->tooltip
+#. 4.0->settings-schema.json->preview-timeout-show->tooltip
+msgid ""
+"The waiting time for the popup menu to show, when hovering a button\n"
+"(Not used when moving directly to a different button in the list)"
+msgstr ""
+"Време на изчакване преди покзване на изкачащия прозорец при посочване на "
+"бутона\n"
+"(Не се използва при директно преместване към различен бутон в списъка)"
+
+#. 3.2->settings-schema.json->preview-timeout-hide->description
+#. 4.0->settings-schema.json->preview-timeout-hide->description
+msgid "Timeout Hide"
+msgstr "Закъснение при скриване"
+
+#. 3.2->settings-schema.json->preview-timeout-hide->tooltip
+#. 4.0->settings-schema.json->preview-timeout-hide->tooltip
+msgid ""
+"The waiting time for the popup menu to hide, when leaving a button\n"
+"(Not used when moving directly to a different button in the list)"
+msgstr ""
+"Време на изчакване преди скриване на изкачащия прозорец при отдалечаване от "
+"бутона\n"
+"(Не се използва при директно преместване към различен бутон в списъка)"
+
+#. 3.2->settings-schema.json->preview-close-on-middle-click->description
+#. 4.0->settings-schema.json->preview-close-on-middle-click->description
+msgid "Close window on mouse-wheel click"
+msgstr "Затвори прозореца при клик с колелцето на мишката"
+
+#~ msgid "Remove this applet"
+#~ msgstr "Премахни този аплет"
+
+#~ msgid "Smart"
+#~ msgstr "Умно"

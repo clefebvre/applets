@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Places with Terminal Launcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 04:18+0200\n"
+"PO-Revision-Date: 2017-04-30 15:22+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:109
+msgid "Places and bookmarks"
+msgstr "Lokacije i zabilješke"
+
+#: applet.js:116
+msgid "Refresh bookmarks..."
+msgstr "Osvježi zabilješke..."
+
+#: applet.js:119
+msgid "Change default programs..."
+msgstr "Promijeni zadanu aplikaciju..."
+
+#: applet.js:163
+msgid "Computer"
+msgstr "Računalo"
+
+#: applet.js:171
+msgid "File System"
+msgstr "Datotečni sustav"
+
+#. places-with-terminal@mtwebster->settings-schema.json->show-
+#. terminal->description
+msgid "Add terminal button to menu items"
+msgstr "Dodaj tipku terminala u stavke izbornika"
+
+#. places-with-terminal@mtwebster->settings-schema.json->icon->description
+msgid "icon"
+msgstr "ikona"
+
+#. places-with-terminal@mtwebster->metadata.json->description
+msgid "Access your places and bookmarks, or launch a terminal at that location"
+msgstr ""
+"Pristupite svojim lokacijama i zabilješkama ili pokrenite terminal u lokaciji"
+
+#. places-with-terminal@mtwebster->metadata.json->name
+msgid "Places with Terminal Launcher"
+msgstr "Lokacije s pokretačem terminala"

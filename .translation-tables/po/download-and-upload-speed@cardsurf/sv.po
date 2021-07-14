@@ -1,0 +1,428 @@
+# Swedish translation for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2017-04-29 14:01+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:437
+#, fuzzy
+msgid "Network interfaces"
+msgstr "Nätverksgränssnitt"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "Total datamängd börjar"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "Programstart"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "I dag"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "I går"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "3 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "5 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "7 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "10 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "14 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "30 dagar sedan"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "Anpassat datum"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "GUI"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "Kompakt"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "Stor"
+
+#: applet.js:825
+msgid "b"
+msgstr ""
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "Totalt nerladdat:"
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "Totalt uppladdat:"
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "Visar användningen av ett nätverksgränssnitt"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "Ner- och uppladdningshastighet"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "Show"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "Medelhastighet per sekund"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "Mängden överförd data"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "Värden visas i panelen"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "Enhet"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "Byte"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "Bit"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "Basdataenhet visad i panelen"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "seconds"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "Beräkna varje"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "Hur ofta ner- och uppladdningshastigheten skall beräknas"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr ""
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "Typ"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "Panelikonens utseende"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Download first"
+msgstr "Nerladdningsikon"
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Upload first"
+msgstr "Uppladdningsikon"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "Decimaler"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "Auto"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0"
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1"
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2"
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3"
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr "Antal decimaler i ner- och uppladdningshastigheten, i panelen"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "CSS-stil för paneltext"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "CSS-stil som tillämpas på text i panelen"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "Nerladdningsikon"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "Uppladdningsikon"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr ""
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "CSS-stil för popup-text"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr "CSS-stil som tillämpas på texten i panelikonens hovrings-popup"
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "CSS-stil för popup-siffror"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr "CSS-stil som tillämpas på siffror i panelikonens hovrings-popup"
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+#, fuzzy
+msgid "bytes"
+msgstr "Byte"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+#, fuzzy
+msgid "A minimum download value to display in the panel"
+msgstr "Ikon som visas intill uppladdningshastigheten i panelen"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+#, fuzzy
+msgid "A minimum upload value to display in the panel"
+msgstr "Ikon som visas intill uppladdningshastigheten i panelen"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "Total datamängd"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr "Visa total mängd ner- och uppladdad data vid hovring"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr "Visa hovrings-popup med total mängd ner- och uppladdad data"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "Start"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr "Starttid för beräkning av total mängd ner- och uppladdad data"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "Anpassat datum"
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"Anpassat datum i formatet YYYY-MM-DD, används som startid. Detta alternativ "
+"tillämpas om \"Anpassat datum\" valts i kombinationslistan under \"Start\"."
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "Spara varje"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr ""
+"Hur ofta totala mängden ner- och uppladdad data skall sparas i filen. 0 "
+"innebär att ingen data sparas i filen."
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "Datagränser"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "MB"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "Databegränsning"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr "Maxgräns för ner- och uppladdad data. 0 betyder obegränsad datamängd."
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "Visa använd andel av datagräns"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "Ingen"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "Cirkel"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "Text"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr "Visa använd procentandel av angiven datagräns i panelen"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr "Kör kommando när angiven datagräns uppnåtts"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr ""
+"Anropa ett kommando när mängden ner- och uppladdad data uppnår angiven gräns"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "Kommando"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "Kommando att anropa"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "Anslutningar"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "Lista aktuella internetanslutningar vid vänsterklick"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr ""
+"Öppna ett terminalfönster med en lista över aktuella anslutningar, vid "
+"vänsterklick på panelikonen. Nästa klick stänger terminal igen."
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "Kommando"
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr "Kommando som används för att lista nuvarande internetanslutningar"
+
+#~ msgid "Settings for download-and-upload-speed@cardsurf"
+#~ msgstr "Settings for download-and-upload-speed@cardsurf"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr "Ikon som visas intill nerladdningshastigheten i panelen"

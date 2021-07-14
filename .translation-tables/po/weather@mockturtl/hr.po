@@ -1,0 +1,2520 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <trebelnik2@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-15 22:54+0100\n"
+"PO-Revision-Date: 2021-04-12 20:51+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: 3.0/applet.js:166 3.0/applet.js:426 3.0/applet.js:2131 3.8/main.js:31
+msgid "Error"
+msgstr "Greška"
+
+#: 3.0/applet.js:167 3.0/applet.js:169 3.0/applet.js:171 3.0/applet.js:174
+#: 3.0/applet.js:177 3.0/applet.js:178 3.0/applet.js:179 3.0/applet.js:180
+#: 3.8/main.js:32 3.8/main.js:34 3.8/main.js:36 3.8/main.js:39 3.8/main.js:42
+#: 3.8/main.js:43 3.8/main.js:44 3.8/main.js:45
+msgid "Service Error"
+msgstr "Greška usluge"
+
+#: 3.0/applet.js:168 3.8/main.js:33
+msgid "Incorrect API Key"
+msgstr "Neispravan API ključ"
+
+#: 3.0/applet.js:170 3.8/main.js:35
+msgid "Incorrect Location Format"
+msgstr "Neispravan format lokacije"
+
+#: 3.0/applet.js:172 3.8/main.js:37
+msgid "Key Blocked"
+msgstr "Ključ je blokiran"
+
+#: 3.0/applet.js:173 3.8/main.js:38
+msgid "Can't find location"
+msgstr "Nemoguć pronalazak lokacije"
+
+#: 3.0/applet.js:175 3.8/main.js:40
+msgid "No Api Key"
+msgstr "Nema API ključa"
+
+#: 3.0/applet.js:176 3.8/main.js:41
+msgid "No Location"
+msgstr "Nema lokacije"
+
+#: 3.0/applet.js:181 3.8/main.js:46
+msgid "Missing Packages"
+msgstr "Nedostaje paket"
+
+#: 3.0/applet.js:182 3.8/main.js:47
+msgid "Location not covered"
+msgstr "Lokacija nije pokrivena"
+
+#: 3.0/applet.js:193 3.0/applet.js:378 3.8/lib/notification_service.js:9
+msgid "Weather Applet"
+msgstr "Aplet vremena"
+
+#: 3.0/applet.js:217 3.8/main.js:261
+msgid "..."
+msgstr "..."
+
+#: 3.0/applet.js:218 3.8/main.js:262
+msgid "Click to open"
+msgstr "Klikni za otvaranje"
+
+#: 3.0/applet.js:232 3.0/applet.js:1244 3.8/main.js:273
+#: 3.8/ui_elements/uiCurrentWeather.js:134
+msgid "Refresh"
+msgstr "Osvježi"
+
+#: 3.0/applet.js:272
+msgid "API returned status code between 400 and 500"
+msgstr "API je vratio kôd stanja između 400 i 500"
+
+#: 3.0/applet.js:426 3.0/applet.js:2032 3.0/applet.js:2036 3.0/applet.js:2040
+#: 3.0/applet.js:2049 3.0/applet.js:2062 3.0/applet.js:2066 3.0/applet.js:2070
+#: 3.0/applet.js:2083 3.0/applet.js:2131
+#: 3.8/location_services/locationstore.js:141
+#: 3.8/location_services/locationstore.js:145
+#: 3.8/location_services/locationstore.js:149
+msgid "Location Store"
+msgstr "Pohrana lokacije"
+
+#: 3.0/applet.js:426
+msgid "You can't save a location obtained automatically, sorry"
+msgstr "Ne možete spremiti automatski dobivenu lokaciju, nažalost"
+
+#: 3.0/applet.js:601
+msgid "Could not get weather information"
+msgstr "Nemoguće dobivanje informacija vremena"
+
+#: 3.0/applet.js:624 3.8/main.js:135
+msgid ""
+"Unexpected Error While Refreshing Weather, please see log in Looking Glass"
+msgstr ""
+"Dogodila se neočekivana greška pri osvježavanju vremena, pogledajte Cinnamon "
+"napredne kontrole i upravljanje"
+
+#: 3.0/applet.js:670 3.8/main.js:393
+msgid ""
+"Could not update weather for a while...\n"
+"are you connected to the internet?"
+msgstr ""
+"Nemoguća nadopuna prognoze duže vrijeme...\n"
+"jeste li povezani s internetom?"
+
+#: 3.0/applet.js:684
+msgid "Network Error, please check logs in Looking Glass"
+msgstr ""
+"Mrežna greška, provjerite zapise u Cinnamon naprednim kontrolama i "
+"upravljanju"
+
+#: 3.0/applet.js:969 3.0/applet.js:1110
+msgid "As of"
+msgstr "Nadopunjeno u"
+
+#: 3.0/applet.js:1108 3.8/ui_elements/uiBar.js:37
+msgid "Powered by"
+msgstr "Pogonjeno od strane"
+
+#: 3.0/applet.js:1113
+msgid "from you"
+msgstr "od vas"
+
+#: 3.0/applet.js:1132 3.8/ui_elements/uiHourlyForecasts.js:214
+msgid "mm"
+msgstr "mm"
+
+#: 3.0/applet.js:1132 3.0/darkSky.js:71 3.8/providers/darkSky.js:23
+#: 3.8/ui_elements/uiHourlyForecasts.js:214
+msgid "in"
+msgstr "u"
+
+#: 3.0/applet.js:1205 3.0/met_uk.js:421 3.8/providers/met_uk.js:296
+#: 3.8/ui_elements/uiBar.js:98
+msgid "mi"
+msgstr "mi"
+
+#: 3.0/applet.js:1206 3.0/met_uk.js:422 3.8/providers/met_uk.js:297
+#: 3.8/ui_elements/uiBar.js:99
+msgid "km"
+msgstr "km"
+
+#: 3.0/applet.js:1227 3.8/ui.js:128
+msgid "Loading current weather ..."
+msgstr "Učitavanje trenutne prognoze..."
+
+#: 3.0/applet.js:1230 3.8/ui.js:131
+msgid "Loading future weather ..."
+msgstr "Učitavanje buduće prognoze..."
+
+#: 3.0/applet.js:1280 3.8/ui_elements/uiCurrentWeather.js:77
+msgid "Loading ..."
+msgstr "Učitavanje..."
+
+#: 3.0/applet.js:1329 3.8/ui_elements/uiCurrentWeather.js:101
+msgid "Temperature"
+msgstr "Temperatura"
+
+#: 3.0/applet.js:1330 3.8/ui_elements/uiCurrentWeather.js:102
+msgid "Humidity"
+msgstr "Vlažnost"
+
+#: 3.0/applet.js:1331 3.8/ui_elements/uiCurrentWeather.js:103
+msgid "Pressure"
+msgstr "Tlak"
+
+#: 3.0/applet.js:1332 3.8/providers/climacellV4.js:170
+#: 3.8/providers/climacellV4.js:177 3.8/providers/climacellV4.js:178
+#: 3.8/providers/climacellV4.js:184 3.8/ui_elements/uiCurrentWeather.js:104
+msgid "Wind"
+msgstr "Vjetar"
+
+#: 3.0/applet.js:1639 3.8/config.js:174
+msgid "Make sure you entered a location or use Automatic location instead"
+msgstr ""
+"Pobrinite se da ste upisali lokaciju ili umjesto koristite Automatsku "
+"lokaciju"
+
+#: 3.0/applet.js:1877 3.8/location_services/nominatim.js:30
+msgid "Could not find location based on address, please check if it's right"
+msgstr ""
+"Nemoguć pronalazak lokacije temeljene na adresi, provjerite je li ispravna"
+
+#: 3.0/applet.js:1901 3.8/location_services/nominatim.js:51
+msgid "Failed to call Geolocation API, see Looking Glass for errors."
+msgstr ""
+"Neuspjeli poziv Geolocation API-ja, pogledajte Napredne kontrole i "
+"upravljanja za više grešaka."
+
+#: 3.0/applet.js:2032 3.0/applet.js:2036
+#: 3.8/location_services/locationstore.js:141
+#: 3.8/location_services/locationstore.js:145
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: 3.0/applet.js:2032 3.8/location_services/locationstore.js:141
+msgid "You can only save correct locations when the applet is not refreshing"
+msgstr "Možete spremiti samo ispravne lokacije kada se aplet ne osvježava"
+
+#: 3.0/applet.js:2036 3.8/location_services/locationstore.js:145
+msgid "You can't save an incorrect location"
+msgstr "Ne možete spremiti neispravnu lokaciju"
+
+#: 3.0/applet.js:2040 3.0/applet.js:2062 3.0/applet.js:2066 3.0/applet.js:2070
+#: 3.8/location_services/locationstore.js:149
+msgid "Info"
+msgstr "Informacije"
+
+#: 3.0/applet.js:2040 3.8/location_services/locationstore.js:149
+msgid "Location is already saved"
+msgstr "Lokacija je već spremljena"
+
+#: 3.0/applet.js:2049 3.0/applet.js:2083
+msgid "Success"
+msgstr "Uspješno"
+
+#: 3.0/applet.js:2049
+msgid "Location is saved to library"
+msgstr "Lokacija je spremljena u spremište"
+
+#: 3.0/applet.js:2062
+msgid "You can't remove a location while the applet is refreshing"
+msgstr "Ne možete ukloniti lokaciju tijekom osvježavanja apleta"
+
+#: 3.0/applet.js:2066
+msgid "You can't remove an incorrect location"
+msgstr "Ne možete ukloniti neispravnu lokaciju"
+
+#: 3.0/applet.js:2070
+msgid "Location is not in storage, can't delete"
+msgstr "Lokacija nije u spremištu, nemoguće brisanje"
+
+#: 3.0/applet.js:2083
+msgid "Location is deleted from library"
+msgstr "Lokacija je obrisana iz spremišta"
+
+#: 3.0/applet.js:2131
+msgid ""
+"Failed to load in data from location storage, please see the logs for more "
+"information"
+msgstr ""
+"Neuspjelo učitavanje podataka iz spremišta lokacije, pogledajte zapis za "
+"više informacija"
+
+#: 3.0/climacell.js:163 3.0/darkSky.js:143 3.0/openWeatherMap.js:129
+#: 3.0/us_weather.js:322 3.0/weatherbit.js:202 3.0/yahoo.js:141
+#: 3.8/providers/climacell.js:89 3.8/providers/climacellV4.js:71
+#: 3.8/providers/darkSky.js:82 3.8/providers/openWeatherMap.js:63
+#: 3.8/providers/us_weather.js:187 3.8/providers/visualcrossing.js:63
+#: 3.8/providers/weatherbit.js:98
+msgid "Feels Like"
+msgstr "Kao da je"
+
+#: 3.0/climacell.js:174 3.0/darkSky.js:189 3.0/yahoo.js:166
+#: 3.8/providers/climacell.js:100 3.8/providers/darkSky.js:128
+msgid "Failed to Process Weather Info"
+msgstr "Neuspjela obrada informacija vremena"
+
+#: 3.0/climacell.js:224
+msgid ""
+"Please enter API key in settings,\n"
+"or get one first on https://developer.climacell.co/sign-up"
+msgstr ""
+"Upišite API ključ u postavkama,\n"
+"ili ga nabavite na https://developer.climacell.co/sign-up"
+
+#: 3.0/climacell.js:239 3.0/darkSky.js:229 3.0/weatherbit.js:331
+#: 3.8/providers/climacell.js:152 3.8/providers/darkSky.js:156
+#: 3.8/providers/weatherbit.js:216
+msgid ""
+"Please Make sure you\n"
+"entered the API key correctly and your account is not locked"
+msgstr ""
+"Pobrinite se da ste upisali API ključ\n"
+"ispravno i vaš račun nije zaključan"
+
+#: 3.0/climacell.js:248 3.8/providers/climacell.js:162
+#: 3.8/providers/climacellV4.js:40
+#, fuzzy
+msgid ""
+"Please Make sure you\n"
+"entered the API key that you have from Climacell"
+msgstr ""
+"Pobrinite se da ste upisali\n"
+"Climacell API ključ ispravno"
+
+#: 3.0/climacell.js:259 3.0/climacell.js:260 3.0/met_norway.js:308
+#: 3.0/met_norway.js:309 3.0/met_norway.js:315 3.0/met_norway.js:322
+#: 3.0/met_norway.js:329 3.0/met_uk.js:617 3.0/met_uk.js:624 3.0/met_uk.js:631
+#: 3.0/met_uk.js:632 3.8/providers/climacell.js:173
+#: 3.8/providers/climacell.js:174 3.8/providers/climacellV4.js:213
+#: 3.8/providers/met_norway.js:239 3.8/providers/met_norway.js:240
+#: 3.8/providers/met_norway.js:246 3.8/providers/met_norway.js:253
+#: 3.8/providers/met_norway.js:260 3.8/providers/met_uk.js:492
+#: 3.8/providers/met_uk.js:499 3.8/providers/met_uk.js:506
+#: 3.8/providers/met_uk.js:507 3.8/providers/visualcrossing.js:230
+msgid "Heavy rain"
+msgstr "Jaka kiša"
+
+#: 3.0/climacell.js:266 3.0/climacell.js:267 3.0/met_norway.js:483
+#: 3.0/met_norway.js:484 3.0/met_norway.js:490 3.0/us_weather.js:484
+#: 3.0/us_weather.js:533 3.0/us_weather.js:534 3.0/us_weather.js:541
+#: 3.0/yahoo.js:448 3.8/providers/climacell.js:180
+#: 3.8/providers/climacell.js:181 3.8/providers/climacellV4.js:198
+#: 3.8/providers/climacellV4.js:199 3.8/providers/climacellV4.js:205
+#: 3.8/providers/climacellV4.js:212 3.8/providers/climacellV4.js:254
+#: 3.8/providers/climacellV4.js:261 3.8/providers/climacellV4.js:268
+#: 3.8/providers/danishMI.js:186 3.8/providers/danishMI.js:187
+#: 3.8/providers/danishMI.js:228 3.8/providers/met_norway.js:414
+#: 3.8/providers/met_norway.js:415 3.8/providers/met_norway.js:421
+#: 3.8/providers/us_weather.js:378 3.8/providers/us_weather.js:427
+#: 3.8/providers/us_weather.js:428 3.8/providers/us_weather.js:435
+#: 3.8/providers/visualcrossing.js:222
+msgid "Rain"
+msgstr "Kiša"
+
+#: 3.0/climacell.js:273 3.0/climacell.js:274 3.0/met_norway.js:392
+#: 3.0/met_norway.js:393 3.0/met_norway.js:399 3.0/met_norway.js:406
+#: 3.0/met_norway.js:413 3.0/met_uk.js:589 3.0/met_uk.js:596 3.0/met_uk.js:610
+#: 3.0/met_uk.js:611 3.0/openWeatherMap.js:381 3.8/providers/climacell.js:187
+#: 3.8/providers/climacell.js:188 3.8/providers/climacellV4.js:206
+#: 3.8/providers/met_norway.js:323 3.8/providers/met_norway.js:324
+#: 3.8/providers/met_norway.js:330 3.8/providers/met_norway.js:337
+#: 3.8/providers/met_norway.js:344 3.8/providers/met_uk.js:464
+#: 3.8/providers/met_uk.js:471 3.8/providers/met_uk.js:485
+#: 3.8/providers/met_uk.js:486 3.8/providers/openWeatherMap.js:344
+#: 3.8/providers/visualcrossing.js:232
+msgid "Light rain"
+msgstr "Slaba kiša"
+
+#: 3.0/climacell.js:280 3.8/providers/climacell.js:194
+#: 3.8/providers/climacellV4.js:269 3.8/providers/visualcrossing.js:206
+msgid "Heavy freezing rain"
+msgstr "Jaka ledena kiša"
+
+#: 3.0/climacell.js:281 3.0/climacell.js:287 3.0/climacell.js:288
+#: 3.0/climacell.js:295 3.0/openWeatherMap.js:386 3.0/us_weather.js:505
+#: 3.0/us_weather.js:506 3.0/us_weather.js:512 3.0/us_weather.js:513
+#: 3.0/us_weather.js:519 3.8/providers/climacell.js:195
+#: 3.8/providers/climacell.js:201 3.8/providers/climacell.js:202
+#: 3.8/providers/climacell.js:209 3.8/providers/climacellV4.js:255
+#: 3.8/providers/openWeatherMap.js:349 3.8/providers/us_weather.js:399
+#: 3.8/providers/us_weather.js:400 3.8/providers/us_weather.js:406
+#: 3.8/providers/us_weather.js:407 3.8/providers/us_weather.js:413
+msgid "Freezing rain"
+msgstr "Ledena kiša"
+
+#: 3.0/climacell.js:294 3.8/providers/climacell.js:208
+#: 3.8/providers/climacellV4.js:262 3.8/providers/visualcrossing.js:208
+msgid "Light freezing rain"
+msgstr "Slaba ledena kiša"
+
+#: 3.0/climacell.js:301 3.8/providers/climacell.js:215
+msgid "Light freezing drizzle"
+msgstr "Slabo ledeno rominjanje"
+
+#: 3.0/climacell.js:302 3.8/providers/climacell.js:216
+#: 3.8/providers/climacellV4.js:248
+msgid "Freezing drizzle"
+msgstr "Ledeno rominjanje"
+
+#: 3.0/climacell.js:308 3.0/climacell.js:309 3.8/providers/climacell.js:222
+#: 3.8/providers/climacell.js:223 3.8/providers/visualcrossing.js:188
+msgid "Light drizzle"
+msgstr "Slabo rominjanje"
+
+#: 3.0/climacell.js:315 3.8/providers/climacell.js:229
+#: 3.8/providers/climacellV4.js:283
+msgid "Heavy ice pellets"
+msgstr "Jaka tuča"
+
+#: 3.0/climacell.js:316 3.0/climacell.js:322 3.0/climacell.js:323
+#: 3.0/climacell.js:330 3.8/providers/climacell.js:230
+#: 3.8/providers/climacell.js:236 3.8/providers/climacell.js:237
+#: 3.8/providers/climacell.js:244 3.8/providers/climacellV4.js:275
+#: 3.8/providers/climacellV4.js:276 3.8/providers/climacellV4.js:282
+#: 3.8/providers/climacellV4.js:289
+msgid "Ice pellets"
+msgstr "Tuča"
+
+#: 3.0/climacell.js:329 3.8/providers/climacell.js:243
+#: 3.8/providers/climacellV4.js:290
+msgid "Light ice pellets"
+msgstr "Slaba tuča"
+
+#: 3.0/climacell.js:336 3.0/climacell.js:337 3.0/met_norway.js:364
+#: 3.0/met_norway.js:365 3.0/met_norway.js:371 3.0/met_norway.js:378
+#: 3.0/met_norway.js:385 3.0/met_uk.js:701 3.0/met_uk.js:708 3.0/met_uk.js:715
+#: 3.0/met_uk.js:716 3.0/openWeatherMap.js:393 3.8/providers/climacell.js:250
+#: 3.8/providers/climacell.js:251 3.8/providers/climacellV4.js:241
+#: 3.8/providers/danishMI.js:263 3.8/providers/met_norway.js:295
+#: 3.8/providers/met_norway.js:296 3.8/providers/met_norway.js:302
+#: 3.8/providers/met_norway.js:309 3.8/providers/met_norway.js:316
+#: 3.8/providers/met_uk.js:576 3.8/providers/met_uk.js:583
+#: 3.8/providers/met_uk.js:590 3.8/providers/met_uk.js:591
+#: 3.8/providers/openWeatherMap.js:356 3.8/providers/visualcrossing.js:248
+msgid "Heavy snow"
+msgstr "Jak snijeg"
+
+#: 3.0/climacell.js:343 3.0/climacell.js:344 3.0/met_norway.js:539
+#: 3.0/met_norway.js:540 3.0/met_norway.js:546 3.0/openWeatherMap.js:392
+#: 3.0/us_weather.js:477 3.0/us_weather.js:478 3.0/yahoo.js:452
+#: 3.8/providers/climacell.js:257 3.8/providers/climacell.js:258
+#: 3.8/providers/climacellV4.js:219 3.8/providers/climacellV4.js:220
+#: 3.8/providers/climacellV4.js:233 3.8/providers/climacellV4.js:240
+#: 3.8/providers/danishMI.js:172 3.8/providers/danishMI.js:256
+#: 3.8/providers/met_norway.js:470 3.8/providers/met_norway.js:471
+#: 3.8/providers/met_norway.js:477 3.8/providers/openWeatherMap.js:355
+#: 3.8/providers/us_weather.js:371 3.8/providers/us_weather.js:372
+#: 3.8/providers/visualcrossing.js:242
+msgid "Snow"
+msgstr "Snijeg"
+
+#: 3.0/climacell.js:350 3.0/climacell.js:351 3.0/met_norway.js:448
+#: 3.0/met_norway.js:449 3.0/met_norway.js:455 3.0/met_norway.js:462
+#: 3.0/met_norway.js:469 3.0/met_uk.js:680 3.0/met_uk.js:687 3.0/met_uk.js:694
+#: 3.0/met_uk.js:695 3.0/openWeatherMap.js:391 3.8/providers/climacellV4.js:234
+#: 3.8/providers/met_norway.js:379 3.8/providers/met_norway.js:380
+#: 3.8/providers/met_norway.js:386 3.8/providers/met_norway.js:393
+#: 3.8/providers/met_norway.js:400 3.8/providers/met_uk.js:555
+#: 3.8/providers/met_uk.js:562 3.8/providers/met_uk.js:569
+#: 3.8/providers/met_uk.js:570 3.8/providers/openWeatherMap.js:354
+#: 3.8/providers/visualcrossing.js:250
+msgid "Light snow"
+msgstr "Slab snijeg"
+
+#: 3.0/climacell.js:357 3.0/climacell.js:358 3.8/providers/climacell.js:271
+#: 3.8/providers/climacell.js:272 3.8/providers/climacellV4.js:226
+#: 3.8/providers/climacellV4.js:227
+msgid "Flurries"
+msgstr "Snježni pljusak"
+
+#: 3.0/climacell.js:364 3.0/climacell.js:365 3.0/openWeatherMap.js:366
+#: 3.0/us_weather.js:550 3.0/us_weather.js:551 3.8/providers/climacell.js:278
+#: 3.8/providers/climacell.js:279 3.8/providers/climacellV4.js:296
+#: 3.8/providers/climacellV4.js:297 3.8/providers/danishMI.js:270
+#: 3.8/providers/danishMI.js:271 3.8/providers/openWeatherMap.js:329
+#: 3.8/providers/us_weather.js:444 3.8/providers/us_weather.js:445
+#: 3.8/providers/visualcrossing.js:254
+msgid "Thunderstorm"
+msgstr "Grmljavinski pljusak"
+
+#: 3.0/climacell.js:371 3.0/climacell.js:372 3.8/providers/climacell.js:285
+#: 3.8/providers/climacell.js:286 3.8/providers/climacellV4.js:164
+msgid "Light fog"
+msgstr "Slaba magla"
+
+#: 3.0/climacell.js:378 3.0/climacell.js:379 3.0/met_norway.js:301
+#: 3.0/met_norway.js:302 3.0/met_uk.js:568 3.0/met_uk.js:569
+#: 3.0/openWeatherMap.js:405 3.0/us_weather.js:620 3.0/us_weather.js:621
+#: 3.8/providers/climacell.js:292 3.8/providers/climacell.js:293
+#: 3.8/providers/climacellV4.js:156 3.8/providers/climacellV4.js:157
+#: 3.8/providers/climacellV4.js:163 3.8/providers/met_norway.js:232
+#: 3.8/providers/met_norway.js:233 3.8/providers/met_uk.js:443
+#: 3.8/providers/met_uk.js:444 3.8/providers/openWeatherMap.js:368
+#: 3.8/providers/us_weather.js:514 3.8/providers/us_weather.js:515
+#: 3.8/providers/visualcrossing.js:196
+msgid "Fog"
+msgstr "Magla"
+
+#: 3.0/climacell.js:385 3.0/climacell.js:386 3.0/met_norway.js:287
+#: 3.0/met_norway.js:288 3.0/met_uk.js:575 3.0/met_uk.js:576 3.0/yahoo.js:462
+#: 3.8/providers/climacell.js:299 3.8/providers/climacell.js:300
+#: 3.8/providers/climacellV4.js:128 3.8/providers/climacellV4.js:129
+#: 3.8/providers/danishMI.js:165 3.8/providers/danishMI.js:166
+#: 3.8/providers/met_norway.js:218 3.8/providers/met_norway.js:219
+#: 3.8/providers/met_uk.js:450 3.8/providers/met_uk.js:451
+msgid "Cloudy"
+msgstr "Oblačno"
+
+#: 3.0/climacell.js:392 3.0/climacell.js:393 3.0/us_weather.js:428
+#: 3.0/us_weather.js:429 3.0/us_weather.js:463 3.8/providers/climacell.js:306
+#: 3.8/providers/climacell.js:307 3.8/providers/climacellV4.js:149
+#: 3.8/providers/climacellV4.js:150 3.8/providers/us_weather.js:322
+#: 3.8/providers/us_weather.js:323 3.8/providers/us_weather.js:357
+msgid "Mostly cloudy"
+msgstr "Pretežno oblačno"
+
+#: 3.0/climacell.js:399 3.0/climacell.js:400 3.0/met_norway.js:476
+#: 3.0/met_norway.js:477 3.0/met_uk.js:540 3.0/met_uk.js:541 3.0/met_uk.js:547
+#: 3.0/met_uk.js:548 3.0/us_weather.js:421 3.0/us_weather.js:422
+#: 3.0/us_weather.js:456 3.8/providers/climacell.js:313
+#: 3.8/providers/climacell.js:314 3.8/providers/climacellV4.js:142
+#: 3.8/providers/climacellV4.js:143 3.8/providers/danishMI.js:158
+#: 3.8/providers/danishMI.js:159 3.8/providers/met_norway.js:407
+#: 3.8/providers/met_norway.js:408 3.8/providers/met_uk.js:415
+#: 3.8/providers/met_uk.js:416 3.8/providers/met_uk.js:422
+#: 3.8/providers/met_uk.js:423 3.8/providers/us_weather.js:315
+#: 3.8/providers/us_weather.js:316 3.8/providers/us_weather.js:350
+msgid "Partly cloudy"
+msgstr "Djelomično oblačno"
+
+#: 3.0/climacell.js:406 3.0/climacell.js:407 3.8/providers/climacell.js:320
+#: 3.8/providers/climacell.js:321 3.8/providers/climacellV4.js:135
+#: 3.8/providers/climacellV4.js:136
+msgid "Mostly clear"
+msgstr "Pretežno vedro"
+
+#: 3.0/climacell.js:413 3.0/climacell.js:414 3.0/met_uk.js:526
+#: 3.0/met_uk.js:527 3.0/openWeatherMap.js:411 3.0/us_weather.js:407
+#: 3.0/us_weather.js:408 3.0/us_weather.js:442 3.0/yahoo.js:465
+#: 3.8/providers/climacell.js:327 3.8/providers/climacell.js:328
+#: 3.8/providers/climacellV4.js:121 3.8/providers/climacellV4.js:122
+#: 3.8/providers/danishMI.js:151 3.8/providers/danishMI.js:152
+#: 3.8/providers/met_uk.js:401 3.8/providers/met_uk.js:402
+#: 3.8/providers/openWeatherMap.js:374 3.8/providers/us_weather.js:301
+#: 3.8/providers/us_weather.js:302 3.8/providers/us_weather.js:336
+#: 3.8/providers/visualcrossing.js:266
+msgid "Clear"
+msgstr "Vedro"
+
+#: 3.0/climacell.js:413 3.0/climacell.js:414 3.0/met_uk.js:533
+#: 3.0/met_uk.js:534 3.0/yahoo.js:466 3.8/providers/climacell.js:327
+#: 3.8/providers/climacell.js:328 3.8/providers/climacellV4.js:121
+#: 3.8/providers/climacellV4.js:122 3.8/providers/met_uk.js:408
+#: 3.8/providers/met_uk.js:409
+msgid "Sunny"
+msgstr "Sunčano"
+
+#: 3.0/climacell.js:421 3.0/climacell.js:422 3.0/met_norway.js:568
+#: 3.0/met_norway.js:569 3.0/met_uk.js:519 3.0/met_uk.js:520 3.0/met_uk.js:554
+#: 3.0/met_uk.js:555 3.0/met_uk.js:743 3.0/met_uk.js:744 3.0/us_weather.js:627
+#: 3.0/us_weather.js:628 3.8/providers/climacell.js:335
+#: 3.8/providers/climacell.js:336 3.8/providers/climacellV4.js:113
+#: 3.8/providers/climacellV4.js:114 3.8/providers/met_norway.js:499
+#: 3.8/providers/met_norway.js:500 3.8/providers/met_uk.js:394
+#: 3.8/providers/met_uk.js:395 3.8/providers/met_uk.js:429
+#: 3.8/providers/met_uk.js:430 3.8/providers/met_uk.js:618
+#: 3.8/providers/met_uk.js:619 3.8/providers/us_weather.js:521
+#: 3.8/providers/us_weather.js:522
+msgid "Unknown"
+msgstr "Nepoznato"
+
+#: 3.0/darkSky.js:71 3.8/providers/darkSky.js:23
+msgid "and"
+msgstr "i"
+
+#: 3.0/darkSky.js:71 3.8/providers/darkSky.js:23
+msgid "until"
+msgstr "do"
+
+#: 3.0/darkSky.js:71 3.8/providers/darkSky.js:23
+msgid "Possible"
+msgstr "Moguće"
+
+#: 3.0/darkSky.js:211
+msgid ""
+"Please enter API key in settings,\n"
+"or get one first on https://darksky.net/dev/register"
+msgstr ""
+"Upišite API ključ u postavkama,\n"
+"ili ga nabavite na https://darksky.net/dev/register"
+
+#: 3.0/darkSky.js:238 3.8/providers/darkSky.js:166
+#, fuzzy
+msgid ""
+"Please Make sure you\n"
+"entered the API key that you have from DarkSky"
+msgstr ""
+"Pobrinite se da ste upisali\n"
+"DarkSky API ključ ispravno"
+
+#: 3.0/ipApi.js:89 3.8/location_services/ipApi.js:38
+msgid "Could not obtain location"
+msgstr "Nemoguće dobivanje lokacije"
+
+#: 3.0/ipApi.js:95 3.8/location_services/ipApi.js:44
+msgid ""
+"Location Service responded with errors, please see the logs in Looking Glass"
+msgstr ""
+"Usluga lokacije je odgovorila greškom, pogledajte zapise u Cinnamon "
+"naprednim kontrolama i upravljanju"
+
+#: 3.0/met_norway.js:131 3.8/providers/met_norway.js:64
+msgid "Cloudiness"
+msgstr "Naoblaka"
+
+#: 3.0/met_norway.js:280 3.0/met_norway.js:281 3.0/openWeatherMap.js:412
+#: 3.8/providers/met_norway.js:211 3.8/providers/met_norway.js:212
+#: 3.8/providers/openWeatherMap.js:375
+msgid "Clear sky"
+msgstr "Vedro"
+
+#: 3.0/met_norway.js:294 3.0/met_norway.js:295 3.0/yahoo.js:468
+#: 3.8/providers/met_norway.js:225 3.8/providers/met_norway.js:226
+msgid "Fair"
+msgstr "Vedro"
+
+#: 3.0/met_norway.js:316 3.8/providers/met_norway.js:247
+msgid "Heavy rain and thunder"
+msgstr "Jaka olujna kiša"
+
+#: 3.0/met_norway.js:323 3.8/providers/met_norway.js:254
+msgid "Heavy rain showers"
+msgstr "Snažni snježni pljuskvi"
+
+#: 3.0/met_norway.js:330 3.8/providers/met_norway.js:261
+msgid "Heavy rain showers and thunder"
+msgstr "Snažni olujni snježni pljuskovi"
+
+#: 3.0/met_norway.js:336 3.0/met_norway.js:337 3.0/met_norway.js:343
+#: 3.0/met_norway.js:350 3.0/met_norway.js:357 3.8/providers/met_norway.js:267
+#: 3.8/providers/met_norway.js:268 3.8/providers/met_norway.js:274
+#: 3.8/providers/met_norway.js:281 3.8/providers/met_norway.js:288
+msgid "Heavy sleet"
+msgstr "Jaka susnježica"
+
+#: 3.0/met_norway.js:344 3.8/providers/met_norway.js:275
+msgid "Heavy sleet and thunder"
+msgstr "Jaka olujna susnježica"
+
+#: 3.0/met_norway.js:351 3.8/providers/met_norway.js:282
+msgid "Heavy sleet showers"
+msgstr "Snažan snježni pljusak"
+
+#: 3.0/met_norway.js:358 3.8/providers/met_norway.js:289
+msgid "Heavy sleet showers and thunder"
+msgstr "Snažan olujni snježni pljusak"
+
+#: 3.0/met_norway.js:372 3.8/providers/met_norway.js:303
+msgid "Heavy snow and thunder"
+msgstr "Jak snijeg s grmljavinom"
+
+#: 3.0/met_norway.js:379 3.8/providers/danishMI.js:264
+#: 3.8/providers/met_norway.js:310
+msgid "Heavy snow showers"
+msgstr "Snažan snježni pljusak"
+
+#: 3.0/met_norway.js:386 3.8/providers/met_norway.js:317
+msgid "Heavy snow showers and thunder"
+msgstr "Snažan snježni pljusak s grmljavinom"
+
+#: 3.0/met_norway.js:400 3.8/providers/met_norway.js:331
+msgid "Light rain and thunder"
+msgstr "Slaba kiša s grmljavinom"
+
+#: 3.0/met_norway.js:407 3.8/providers/met_norway.js:338
+msgid "Light rain showers"
+msgstr "Slabi pljuskovi"
+
+#: 3.0/met_norway.js:414 3.8/providers/met_norway.js:345
+msgid "Light rain showers and thunder"
+msgstr "Slabi pljuskovi s grmljavinom"
+
+#: 3.0/met_norway.js:420 3.0/met_norway.js:421 3.0/met_norway.js:427
+#: 3.0/met_norway.js:434 3.0/met_norway.js:441 3.8/providers/met_norway.js:351
+#: 3.8/providers/met_norway.js:352 3.8/providers/met_norway.js:358
+#: 3.8/providers/met_norway.js:365 3.8/providers/met_norway.js:372
+msgid "Light sleet"
+msgstr "Slaba susnježica"
+
+#: 3.0/met_norway.js:428 3.8/providers/met_norway.js:359
+msgid "Light sleet and thunder"
+msgstr "Slaba susnježica s grmljavinom"
+
+#: 3.0/met_norway.js:435 3.8/providers/met_norway.js:366
+msgid "Light sleet showers"
+msgstr "Slab snježni pljusak"
+
+#: 3.0/met_norway.js:442 3.8/providers/met_norway.js:373
+msgid "Light sleet showers and thunder"
+msgstr "Slab snježni pljusak s grmljavinom"
+
+#: 3.0/met_norway.js:456 3.8/providers/met_norway.js:387
+msgid "Light snow and thunder"
+msgstr "Slabi snjeg s grmljavinom"
+
+#: 3.0/met_norway.js:463 3.8/providers/met_norway.js:394
+msgid "Light snow showers"
+msgstr "Slab snježni pljusak"
+
+#: 3.0/met_norway.js:470 3.8/providers/met_norway.js:401
+msgid "Light snow showers and thunder"
+msgstr "Slab snježni pljusak s grmljavinom"
+
+#: 3.0/met_norway.js:491 3.8/providers/met_norway.js:422
+msgid "Rain and thunder"
+msgstr "Kiša s grmljavinom"
+
+#: 3.0/met_norway.js:497 3.0/met_norway.js:498 3.0/met_norway.js:504
+#: 3.0/us_weather.js:542 3.8/providers/danishMI.js:229
+#: 3.8/providers/danishMI.js:235 3.8/providers/met_norway.js:428
+#: 3.8/providers/met_norway.js:429 3.8/providers/met_norway.js:435
+#: 3.8/providers/us_weather.js:436 3.8/providers/visualcrossing.js:228
+msgid "Rain showers"
+msgstr "Kišni pljuskovi"
+
+#: 3.0/met_norway.js:505 3.8/providers/met_norway.js:436
+msgid "Rain showers and thunder"
+msgstr "Kišni pljuskovi s grmljavinom"
+
+#: 3.0/met_norway.js:511 3.0/met_norway.js:512 3.0/met_norway.js:518
+#: 3.0/met_norway.js:525 3.0/met_norway.js:532 3.0/met_uk.js:638
+#: 3.0/met_uk.js:645 3.0/met_uk.js:652 3.0/met_uk.js:653
+#: 3.0/openWeatherMap.js:394 3.0/us_weather.js:491 3.0/us_weather.js:492
+#: 3.0/us_weather.js:498 3.0/us_weather.js:499 3.0/us_weather.js:526
+#: 3.0/us_weather.js:527 3.0/yahoo.js:454 3.8/providers/met_norway.js:442
+#: 3.8/providers/met_norway.js:443 3.8/providers/met_norway.js:449
+#: 3.8/providers/met_norway.js:456 3.8/providers/met_norway.js:463
+#: 3.8/providers/met_uk.js:513 3.8/providers/met_uk.js:520
+#: 3.8/providers/met_uk.js:527 3.8/providers/met_uk.js:528
+#: 3.8/providers/openWeatherMap.js:357 3.8/providers/us_weather.js:385
+#: 3.8/providers/us_weather.js:386 3.8/providers/us_weather.js:392
+#: 3.8/providers/us_weather.js:393 3.8/providers/us_weather.js:420
+#: 3.8/providers/us_weather.js:421
+msgid "Sleet"
+msgstr "Susnježica"
+
+#: 3.0/met_norway.js:519 3.8/providers/met_norway.js:450
+msgid "Sleet and thunder"
+msgstr "Susnježica s grmljavinom"
+
+#: 3.0/met_norway.js:526 3.8/providers/met_norway.js:457
+msgid "Sleet showers"
+msgstr "Snježni pljusak"
+
+#: 3.0/met_norway.js:533 3.8/providers/met_norway.js:464
+msgid "Sleet showers and thunder"
+msgstr "Snježni pljusak s grmljavinom"
+
+#: 3.0/met_norway.js:547 3.8/providers/met_norway.js:478
+msgid "Snow and thunder"
+msgstr "Snjeg s grmljavinom"
+
+#: 3.0/met_norway.js:553 3.0/met_norway.js:554 3.0/met_norway.js:560
+#: 3.8/providers/danishMI.js:257 3.8/providers/met_norway.js:484
+#: 3.8/providers/met_norway.js:485 3.8/providers/met_norway.js:491
+#: 3.8/providers/visualcrossing.js:246
+msgid "Snow showers"
+msgstr "Snježni pljusak"
+
+#: 3.0/met_norway.js:561 3.8/providers/met_norway.js:492
+msgid "Snow showers and thunder"
+msgstr "Snježni pljusak s grmljavinom"
+
+#: 3.0/met_uk.js:162 3.0/met_uk.js:192 3.0/met_uk.js:239 3.0/us_weather.js:151
+#: 3.0/us_weather.js:179
+msgid "Unexpected response from API"
+msgstr "Neočekivan API odgovor"
+
+#: 3.0/met_uk.js:316 3.8/providers/met_uk.js:171
+msgid "Visibility"
+msgstr "Vidljivost"
+
+#: 3.0/met_uk.js:340 3.0/openWeatherMap.js:190 3.0/us_weather.js:334
+#: 3.0/weatherbit.js:212 3.8/providers/met_uk.js:195
+#: 3.8/providers/openWeatherMap.js:143 3.8/providers/us_weather.js:199
+#: 3.8/providers/weatherbit.js:108
+msgid "Failed to Process Current Weather Info"
+msgstr "Neuspjela obrada trenutnih informacija vremena"
+
+#: 3.0/met_uk.js:364 3.0/met_uk.js:400 3.0/us_weather.js:371
+#: 3.0/weatherbit.js:239 3.0/weatherbit.js:274 3.8/providers/met_uk.js:219
+#: 3.8/providers/met_uk.js:255 3.8/providers/us_weather.js:266
+#: 3.8/providers/weatherbit.js:135 3.8/providers/weatherbit.js:170
+msgid "Failed to Process Forecast Info"
+msgstr "Neuspjela obrada informacije prognoze"
+
+#: 3.0/met_uk.js:408
+msgid "Very poor - Less than"
+msgstr "Vrlo slabo - Manje od"
+
+#: 3.0/met_uk.js:410
+msgid "Poor - Between"
+msgstr "Slabo - Između"
+
+#: 3.0/met_uk.js:412
+msgid "Moderate - Between"
+msgstr "Umjereno - Između"
+
+#: 3.0/met_uk.js:414
+msgid "Good - Between"
+msgstr "Dobro - Između"
+
+#: 3.0/met_uk.js:416
+msgid "Very good - Between"
+msgstr "Vrlo dobro - Između"
+
+#: 3.0/met_uk.js:417
+msgid "Excellent - More than"
+msgstr "Izvrsno - Manje od"
+
+#: 3.0/met_uk.js:561 3.0/met_uk.js:562 3.0/openWeatherMap.js:401
+#: 3.8/providers/met_uk.js:436 3.8/providers/met_uk.js:437
+#: 3.8/providers/openWeatherMap.js:364 3.8/providers/visualcrossing.js:218
+msgid "Mist"
+msgstr "Sumaglica"
+
+#: 3.0/met_uk.js:582 3.0/met_uk.js:583 3.0/us_weather.js:435
+#: 3.0/us_weather.js:436 3.0/us_weather.js:470 3.8/providers/met_uk.js:457
+#: 3.8/providers/met_uk.js:458 3.8/providers/us_weather.js:329
+#: 3.8/providers/us_weather.js:330 3.8/providers/us_weather.js:364
+#: 3.8/providers/visualcrossing.js:262
+msgid "Overcast"
+msgstr "Oblačno"
+
+#: 3.0/met_uk.js:590 3.0/met_uk.js:597 3.8/providers/met_uk.js:465
+#: 3.8/providers/met_uk.js:472
+msgid "Light rain shower"
+msgstr "Slabi pljuskovi"
+
+#: 3.0/met_uk.js:603 3.0/met_uk.js:604 3.0/openWeatherMap.js:373
+#: 3.0/yahoo.js:445 3.8/providers/climacellV4.js:191
+#: 3.8/providers/climacellV4.js:192 3.8/providers/climacellV4.js:247
+#: 3.8/providers/met_uk.js:478 3.8/providers/met_uk.js:479
+#: 3.8/providers/openWeatherMap.js:336 3.8/providers/visualcrossing.js:184
+msgid "Drizzle"
+msgstr "Rominjanje"
+
+#: 3.0/met_uk.js:618 3.0/met_uk.js:625 3.8/providers/met_uk.js:493
+#: 3.8/providers/met_uk.js:500
+msgid "Heavy rain shower"
+msgstr "Jači pljuskovi"
+
+#: 3.0/met_uk.js:639 3.0/met_uk.js:646 3.8/providers/met_uk.js:514
+#: 3.8/providers/met_uk.js:521
+msgid "Sleet shower"
+msgstr "Snježni pljusak"
+
+#: 3.0/met_uk.js:659 3.0/met_uk.js:666 3.0/met_uk.js:673 3.0/met_uk.js:674
+#: 3.0/yahoo.js:453 3.8/providers/met_uk.js:534 3.8/providers/met_uk.js:541
+#: 3.8/providers/met_uk.js:548 3.8/providers/met_uk.js:549
+#: 3.8/providers/visualcrossing.js:260
+msgid "Hail"
+msgstr "Tuča"
+
+#: 3.0/met_uk.js:660 3.0/met_uk.js:667 3.8/providers/met_uk.js:535
+#: 3.8/providers/met_uk.js:542
+msgid "Hail shower"
+msgstr "Jaka tuča"
+
+#: 3.0/met_uk.js:681 3.0/met_uk.js:688 3.8/providers/met_uk.js:556
+#: 3.8/providers/met_uk.js:563
+msgid "Light snow shower"
+msgstr "Slab snježni pljusak"
+
+#: 3.0/met_uk.js:702 3.0/met_uk.js:709 3.8/providers/met_uk.js:577
+#: 3.8/providers/met_uk.js:584
+msgid "Heavy snow shower"
+msgstr "Snažan snježni pljusak"
+
+#: 3.0/met_uk.js:722 3.0/met_uk.js:729 3.0/met_uk.js:736 3.0/met_uk.js:737
+#: 3.8/providers/met_uk.js:597 3.8/providers/met_uk.js:604
+#: 3.8/providers/met_uk.js:611 3.8/providers/met_uk.js:612
+msgid "Thunder"
+msgstr "Grmljavina"
+
+#: 3.0/met_uk.js:723 3.0/met_uk.js:730 3.8/providers/met_uk.js:598
+#: 3.8/providers/met_uk.js:605
+msgid "Thunder shower"
+msgstr "Grmljavinski pljuskovi"
+
+#: 3.0/openWeatherMap.js:238 3.8/providers/openWeatherMap.js:194
+msgid "Please make sure Location is in the correct format in the Settings"
+msgstr "Pobrinite se da je lokacija u postavkama upisana ispravnim formatom"
+
+#: 3.0/openWeatherMap.js:242 3.8/providers/openWeatherMap.js:198
+msgid "Make sure you entered the correct key in settings"
+msgstr "Pobrinite se da ste upisali ispravan ključ u postavkama"
+
+#: 3.0/openWeatherMap.js:246 3.0/openWeatherMap.js:266
+#: 3.8/providers/openWeatherMap.js:202 3.8/providers/openWeatherMap.js:227
+msgid ""
+"Location not found, make sure location is available or it is in the correct "
+"format"
+msgstr ""
+"Lokacija nije pronađena, pobrinite se da je lokacija dostupna ili da je "
+"upisana u ispravnom formatu"
+
+#: 3.0/openWeatherMap.js:250 3.8/providers/openWeatherMap.js:206
+msgid "If this problem persists, please contact the Author of this applet"
+msgstr "Ako se problem nastavi, kontaktirajte autora ovog apleta"
+
+#: 3.0/openWeatherMap.js:254 3.8/providers/openWeatherMap.js:210
+msgid "Unknown Error, please see the logs in Looking Glass"
+msgstr ""
+"Nepoznata greška, pogledajte zapise Cinnamon naprednim kontrolama i "
+"upravljanju"
+
+#: 3.0/openWeatherMap.js:362 3.8/providers/openWeatherMap.js:325
+msgid "Thunderstorm with light rain"
+msgstr "Grmljavinski pljusak sa slabom kišom"
+
+#: 3.0/openWeatherMap.js:363 3.8/providers/openWeatherMap.js:326
+msgid "Thunderstorm with rain"
+msgstr "Grmljavinski pljusak s kišom"
+
+#: 3.0/openWeatherMap.js:364 3.8/providers/openWeatherMap.js:327
+msgid "Thunderstorm with heavy rain"
+msgstr "Grmljavinski pljusak s jakom kišom"
+
+#: 3.0/openWeatherMap.js:365 3.8/providers/openWeatherMap.js:328
+msgid "Light thunderstorm"
+msgstr "Slabi grmljavinski pljusak"
+
+#: 3.0/openWeatherMap.js:367 3.8/providers/openWeatherMap.js:330
+msgid "Heavy thunderstorm"
+msgstr "Snažni grmljavinski pljusak"
+
+#: 3.0/openWeatherMap.js:368 3.8/providers/openWeatherMap.js:331
+msgid "Ragged thunderstorm"
+msgstr "Oštri grmljavinski pljusak"
+
+#: 3.0/openWeatherMap.js:369 3.8/providers/openWeatherMap.js:332
+msgid "Thunderstorm with light drizzle"
+msgstr "Grmljavinski pljusak sa slabim rominjanjem"
+
+#: 3.0/openWeatherMap.js:370 3.8/providers/openWeatherMap.js:333
+msgid "Thunderstorm with drizzle"
+msgstr "Grmljavinski pljusak s rominjanjem"
+
+#: 3.0/openWeatherMap.js:371 3.8/providers/openWeatherMap.js:334
+msgid "Thunderstorm with heavy drizzle"
+msgstr "Grmljavinski pljusak s jačim rominjanjem"
+
+#: 3.0/openWeatherMap.js:372 3.8/providers/openWeatherMap.js:335
+msgid "Light intensity drizzle"
+msgstr "Slabo rominjanje"
+
+#: 3.0/openWeatherMap.js:374 3.8/providers/openWeatherMap.js:337
+msgid "Heavy intensity drizzle"
+msgstr "Jače rominjanje"
+
+#: 3.0/openWeatherMap.js:375 3.8/providers/openWeatherMap.js:338
+msgid "Light intensity drizzle rain"
+msgstr "Kiša sa slabim rominjanjem"
+
+#: 3.0/openWeatherMap.js:376 3.8/providers/openWeatherMap.js:339
+msgid "Drizzle rain"
+msgstr "Kiša s rominjanjem"
+
+#: 3.0/openWeatherMap.js:377 3.8/providers/openWeatherMap.js:340
+msgid "Heavy intensity drizzle rain"
+msgstr "Kiša s jačim rominjanjem"
+
+#: 3.0/openWeatherMap.js:378 3.8/providers/openWeatherMap.js:341
+msgid "Shower rain and drizzle"
+msgstr "Pljusak s rominjanjem"
+
+#: 3.0/openWeatherMap.js:379 3.8/providers/openWeatherMap.js:342
+msgid "Heavy shower rain and drizzle"
+msgstr "Jak pljusak s rominjanjem"
+
+#: 3.0/openWeatherMap.js:380 3.8/providers/openWeatherMap.js:343
+msgid "Shower drizzle"
+msgstr "Pljusak s rominjanjem"
+
+#: 3.0/openWeatherMap.js:382 3.8/providers/danishMI.js:193
+#: 3.8/providers/danishMI.js:194 3.8/providers/openWeatherMap.js:345
+msgid "Moderate rain"
+msgstr "Umjerena kiša"
+
+#: 3.0/openWeatherMap.js:383 3.8/providers/openWeatherMap.js:346
+msgid "Heavy intensity rain"
+msgstr "Jaka kiša"
+
+#: 3.0/openWeatherMap.js:384 3.8/providers/openWeatherMap.js:347
+msgid "Very heavy rain"
+msgstr "Vrlo jaka kiša"
+
+#: 3.0/openWeatherMap.js:385 3.8/providers/openWeatherMap.js:348
+msgid "Extreme rain"
+msgstr "Olujna kiša"
+
+#: 3.0/openWeatherMap.js:387 3.8/providers/openWeatherMap.js:350
+msgid "Light intensity shower rain"
+msgstr "Slabi pljuskovi"
+
+#: 3.0/openWeatherMap.js:388 3.8/providers/openWeatherMap.js:351
+msgid "Shower rain"
+msgstr "Pljuskovi"
+
+#: 3.0/openWeatherMap.js:389 3.8/providers/openWeatherMap.js:352
+msgid "Heavy intensity shower rain"
+msgstr "Jači pljuskovi"
+
+#: 3.0/openWeatherMap.js:390 3.8/providers/openWeatherMap.js:353
+msgid "Ragged shower rain"
+msgstr "Oštri pljuskovi"
+
+#: 3.0/openWeatherMap.js:395 3.8/providers/openWeatherMap.js:358
+msgid "Shower sleet"
+msgstr "Susnježica ili pljuskovi"
+
+#: 3.0/openWeatherMap.js:396 3.8/providers/openWeatherMap.js:359
+msgid "Light rain and snow"
+msgstr "Slaba kiša sa snijegom"
+
+#: 3.0/openWeatherMap.js:397 3.8/providers/danishMI.js:200
+#: 3.8/providers/danishMI.js:201 3.8/providers/danishMI.js:207
+#: 3.8/providers/danishMI.js:242 3.8/providers/danishMI.js:249
+#: 3.8/providers/openWeatherMap.js:360
+msgid "Rain and snow"
+msgstr "Kiša sa snijegom"
+
+#: 3.0/openWeatherMap.js:398 3.8/providers/openWeatherMap.js:361
+msgid "Light shower snow"
+msgstr "Slab sniježni pljusak"
+
+#: 3.0/openWeatherMap.js:399 3.8/providers/openWeatherMap.js:362
+msgid "Shower snow"
+msgstr "Sniježni pljusak"
+
+#: 3.0/openWeatherMap.js:400 3.8/providers/openWeatherMap.js:363
+msgid "Heavy shower snow"
+msgstr "Snažan sniježni pljusak"
+
+#: 3.0/openWeatherMap.js:402 3.0/us_weather.js:585 3.0/us_weather.js:586
+#: 3.8/providers/openWeatherMap.js:365 3.8/providers/us_weather.js:479
+#: 3.8/providers/us_weather.js:480
+msgid "Smoke"
+msgstr "Dim"
+
+#: 3.0/openWeatherMap.js:403 3.0/us_weather.js:592 3.0/us_weather.js:593
+#: 3.0/yahoo.js:457 3.8/providers/openWeatherMap.js:366
+#: 3.8/providers/us_weather.js:486 3.8/providers/us_weather.js:487
+msgid "Haze"
+msgstr "Izmaglica"
+
+#: 3.0/openWeatherMap.js:404 3.8/providers/openWeatherMap.js:367
+msgid "Sand, dust whirls"
+msgstr "Pijesak, vrtlozi prašine"
+
+#: 3.0/openWeatherMap.js:406 3.8/providers/openWeatherMap.js:369
+msgid "Sand"
+msgstr "Pijesak"
+
+#: 3.0/openWeatherMap.js:407 3.0/us_weather.js:578 3.0/us_weather.js:579
+#: 3.0/yahoo.js:455 3.8/providers/openWeatherMap.js:370
+#: 3.8/providers/us_weather.js:472 3.8/providers/us_weather.js:473
+msgid "Dust"
+msgstr "Prašina"
+
+#: 3.0/openWeatherMap.js:408 3.8/providers/openWeatherMap.js:371
+msgid "Volcanic ash"
+msgstr "Vulkanski pepeo"
+
+#: 3.0/openWeatherMap.js:409 3.8/providers/openWeatherMap.js:372
+#: 3.8/providers/visualcrossing.js:252
+msgid "Squalls"
+msgstr "Udari vjetra"
+
+#: 3.0/openWeatherMap.js:410 3.0/us_weather.js:557 3.0/us_weather.js:558
+#: 3.0/yahoo.js:436 3.8/providers/openWeatherMap.js:373
+#: 3.8/providers/us_weather.js:451 3.8/providers/us_weather.js:452
+msgid "Tornado"
+msgstr "Tornado"
+
+#: 3.0/openWeatherMap.js:413 3.8/providers/openWeatherMap.js:376
+msgid "Sky is clear"
+msgstr "Vedro"
+
+#: 3.0/openWeatherMap.js:414 3.8/providers/openWeatherMap.js:377
+msgid "Clouds"
+msgstr "Oblačno"
+
+#: 3.0/openWeatherMap.js:415 3.0/us_weather.js:414 3.0/us_weather.js:415
+#: 3.0/us_weather.js:449 3.8/providers/openWeatherMap.js:378
+#: 3.8/providers/us_weather.js:308 3.8/providers/us_weather.js:309
+#: 3.8/providers/us_weather.js:343
+msgid "Few clouds"
+msgstr "Mjestimično oblačno"
+
+#: 3.0/openWeatherMap.js:416 3.8/providers/openWeatherMap.js:379
+msgid "Scattered clouds"
+msgstr "Raspršeni oblaci"
+
+#: 3.0/openWeatherMap.js:417 3.8/providers/openWeatherMap.js:380
+msgid "Broken clouds"
+msgstr "Razbijeni oblaci"
+
+#: 3.0/openWeatherMap.js:418 3.8/providers/openWeatherMap.js:381
+msgid "Overcast clouds"
+msgstr "Naoblaka"
+
+#: 3.0/us_weather.js:120
+msgid "Could not get forecast for your area"
+msgstr "Nemoguće dobivanje prognoze za vaše područje"
+
+#: 3.0/us_weather.js:231 3.8/providers/us_weather.js:95
+msgid "Location is outside US, please use a different provider."
+msgstr "Lokacija je van SAD-a, koristite drugog pružatelja usluge."
+
+#: 3.0/us_weather.js:394 3.8/providers/us_weather.js:289
+msgid "Failed to Process Hourly Forecast Info"
+msgstr "Neuspjela obrada informacije prognoze po satu"
+
+#: 3.0/us_weather.js:443 3.8/providers/us_weather.js:337
+msgid "Clear and windy"
+msgstr "Vedro i vjetrovito"
+
+#: 3.0/us_weather.js:450 3.8/providers/us_weather.js:344
+msgid "Few clouds and windy"
+msgstr "Mjestimično oblačno i vjetrovito"
+
+#: 3.0/us_weather.js:457 3.8/providers/us_weather.js:351
+msgid "Partly cloudy and windy"
+msgstr "Djelomično oblačno i vjetrovito"
+
+#: 3.0/us_weather.js:464 3.8/providers/us_weather.js:358
+msgid "Mostly cloudy and windy"
+msgstr "Pretežno oblačno i vjetrovito"
+
+#: 3.0/us_weather.js:471 3.8/providers/us_weather.js:365
+msgid "Overcast and windy"
+msgstr "Oblačno i vjetrovito"
+
+#: 3.0/us_weather.js:485 3.8/providers/us_weather.js:379
+msgid "Snowy rain"
+msgstr "Susnježica"
+
+#: 3.0/us_weather.js:520 3.8/providers/us_weather.js:414
+msgid "Freezing rain and snow"
+msgstr "Ledena kiša sa snijegom"
+
+#: 3.0/us_weather.js:564 3.0/us_weather.js:565 3.0/utils.js:336
+#: 3.0/yahoo.js:438 3.8/utils.js:212 3.8/providers/us_weather.js:458
+#: 3.8/providers/us_weather.js:459
+msgid "Hurricane"
+msgstr "Uragan"
+
+#: 3.0/us_weather.js:571 3.0/utils.js:331 3.8/utils.js:207
+#: 3.8/providers/us_weather.js:465
+msgid "Storm"
+msgstr "Oluja"
+
+#: 3.0/us_weather.js:572 3.8/providers/us_weather.js:466
+msgid "Tropical storm"
+msgstr "Tropska oluja"
+
+#: 3.0/us_weather.js:599 3.0/us_weather.js:600 3.0/yahoo.js:470
+#: 3.8/providers/us_weather.js:493 3.8/providers/us_weather.js:494
+msgid "Hot"
+msgstr "Vruće"
+
+#: 3.0/us_weather.js:606 3.0/us_weather.js:607 3.0/yahoo.js:461
+#: 3.8/providers/us_weather.js:500 3.8/providers/us_weather.js:501
+msgid "Cold"
+msgstr "Hladno"
+
+#: 3.0/us_weather.js:613 3.0/us_weather.js:614 3.0/yahoo.js:477
+#: 3.8/providers/us_weather.js:507 3.8/providers/us_weather.js:508
+msgid "Blizzard"
+msgstr "Mećava"
+
+#: 3.0/utils.js:146 3.8/utils.js:88
+msgid "Today"
+msgstr "Danas"
+
+#: 3.0/utils.js:148 3.8/utils.js:90
+msgid "Tomorrow"
+msgstr "Sutra"
+
+#: 3.0/utils.js:204
+msgid "Sunday"
+msgstr "Nedjelja"
+
+#: 3.0/utils.js:204
+msgid "Monday"
+msgstr "Ponedjeljak"
+
+#: 3.0/utils.js:204
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: 3.0/utils.js:204
+msgid "Wednesday"
+msgstr "Srijeda"
+
+#: 3.0/utils.js:204
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#: 3.0/utils.js:204
+msgid "Friday"
+msgstr "Petak"
+
+#: 3.0/utils.js:204
+msgid "Saturday"
+msgstr "Subota"
+
+#: 3.0/utils.js:301 3.8/utils.js:177
+msgid "Calm"
+msgstr "Mirno"
+
+#: 3.0/utils.js:304 3.8/utils.js:180
+msgid "Light air"
+msgstr "Slabašan povjetarac"
+
+#: 3.0/utils.js:307 3.8/utils.js:183
+msgid "Light breeze"
+msgstr "Slabi povjetarac"
+
+#: 3.0/utils.js:310 3.8/utils.js:186
+msgid "Gentle breeze"
+msgstr "Lagani povjetarac"
+
+#: 3.0/utils.js:313 3.8/utils.js:189
+msgid "Moderate breeze"
+msgstr "Umjereni povjetarac"
+
+#: 3.0/utils.js:316 3.8/utils.js:192
+msgid "Fresh breeze"
+msgstr "Osvježavajući povjetarac"
+
+#: 3.0/utils.js:319 3.8/utils.js:195
+msgid "Strong breeze"
+msgstr "Snažan povjetarac"
+
+#: 3.0/utils.js:322 3.8/utils.js:198
+msgid "Near gale"
+msgstr "Umjeren vjetar"
+
+#: 3.0/utils.js:325 3.8/utils.js:201
+msgid "Gale"
+msgstr "Vjetar"
+
+#: 3.0/utils.js:328 3.8/utils.js:204
+msgid "Strong gale"
+msgstr "Snažan vjetar"
+
+#: 3.0/utils.js:334 3.8/utils.js:210
+msgid "Violent storm"
+msgstr "Snažna oluja"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "N"
+msgstr "S"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "NE"
+msgstr "SI"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "E"
+msgstr "I"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "SE"
+msgstr "JI"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "S"
+msgstr "J"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "SW"
+msgstr "JZ"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "W"
+msgstr "Z"
+
+#: 3.0/utils.js:429 3.8/utils.js:377
+msgid "NW"
+msgstr "SZ"
+
+#: 3.0/weatherbit.js:312
+msgid ""
+"Please enter API key in settings,\n"
+"or get one first on https://www.weatherbit.io/account/create"
+msgstr ""
+"Upišite API ključ u postavkama,\n"
+"ili ga nabavite na https://www.weatherbit.io/account/create"
+
+#: 3.0/yahoo.js:78
+msgid ""
+"Unknown Error happened while calling Yahoo bridge,\n"
+" see Looking Glass log for errors"
+msgstr ""
+"Dogodila se nepoznata greška pri pozivu Yahoo mosta,\n"
+" pogledajte Napredne kontrole i upravljanja za više grešaka"
+
+#: 3.0/yahoo.js:91
+msgid ""
+"Yahoo bridge responded in bad format,\n"
+" see Looking Glass log for errors"
+msgstr ""
+"Yahoo most je odgovorio u lošem formatu,\n"
+" pogledajte Napredne kontrole i upravljanja za više grešaka"
+
+#: 3.0/yahoo.js:177
+msgid "Missing package"
+msgstr "Nedostaje paket"
+
+#: 3.0/yahoo.js:177 3.0/yahoo.js:179
+msgid "Please install '"
+msgstr "Instalirajte '"
+
+#: 3.0/yahoo.js:177 3.0/yahoo.js:179
+msgid "', then refresh manually."
+msgstr "', zatim ručno osvježite."
+
+#: 3.0/yahoo.js:182
+msgid "Could not connect to Yahoo API."
+msgstr "Nemoguće povezivanje na Yahoo API."
+
+#: 3.0/yahoo.js:186
+msgid ""
+"Unknown error happened while obtaining weather, see Looking Glass logs for "
+"more information"
+msgstr ""
+"Dogodila se nepoznata greška pri nabavljanju informacija vremena, pogledajte "
+"Napredne kontrole i upravljanja za više grešaka"
+
+#: 3.0/yahoo.js:437
+msgid "Tropical Storm"
+msgstr "Tropska oluja"
+
+#: 3.0/yahoo.js:439
+msgid "Severe Thunderstorms"
+msgstr "Grmljavinske oluje"
+
+#: 3.0/yahoo.js:440
+msgid "Thunderstorms"
+msgstr "Oluje"
+
+#: 3.0/yahoo.js:441
+msgid "Mixed Rain and Snow"
+msgstr "Kiša sa snijegom"
+
+#: 3.0/yahoo.js:442
+msgid "Mixed Rain and Sleet"
+msgstr "Kiša sa susnježicom"
+
+#: 3.0/yahoo.js:443
+msgid "Mixed Snow and Sleet"
+msgstr "Snijeg sa susnježicom"
+
+#: 3.0/yahoo.js:444
+msgid "Freezing Drizzle"
+msgstr "Ledeno rominjanje"
+
+#: 3.0/yahoo.js:446
+msgid "Freezing Rain"
+msgstr "Ledena kiša"
+
+#: 3.0/yahoo.js:447
+msgid "Showers"
+msgstr "Pljuskovi"
+
+#: 3.0/yahoo.js:449
+msgid "Snow Flurries"
+msgstr "Snježni naleti"
+
+#: 3.0/yahoo.js:450
+msgid "Light Snow Showers"
+msgstr "Slab sniježni pljusak"
+
+#: 3.0/yahoo.js:451
+msgid "Blowing Snow"
+msgstr "Snježni zapusi"
+
+#: 3.0/yahoo.js:456 3.8/providers/danishMI.js:179 3.8/providers/danishMI.js:180
+msgid "Foggy"
+msgstr "Maglovito"
+
+#: 3.0/yahoo.js:458
+msgid "Smoky"
+msgstr "Dim"
+
+#: 3.0/yahoo.js:459
+msgid "Blustery"
+msgstr "Vijavica"
+
+#: 3.0/yahoo.js:460
+msgid "Windy"
+msgstr "Vjetrovito"
+
+#: 3.0/yahoo.js:463
+msgid "Mostly Cloudy"
+msgstr "Pretežno oblačno"
+
+#: 3.0/yahoo.js:464
+msgid "Partly Cloudy"
+msgstr "Djelomično oblačno"
+
+#: 3.0/yahoo.js:467
+msgid "Mostly Sunny"
+msgstr "Pretežno sunčano"
+
+#: 3.0/yahoo.js:469
+msgid "Mixed Rain and Hail"
+msgstr "Kiša sa susnježicom"
+
+#: 3.0/yahoo.js:471
+msgid "Isolated Thunderstorms"
+msgstr "Lokalne grmljavinske oluje"
+
+#: 3.0/yahoo.js:472
+msgid "Scattered Thunderstorms"
+msgstr "Mjestimične grmljavinske oluje"
+
+#: 3.0/yahoo.js:473
+msgid "Scattered Showers"
+msgstr "Mjestimični pljuskovi"
+
+#: 3.0/yahoo.js:474
+msgid "Heavy Rain"
+msgstr "Jaka kiša"
+
+#: 3.0/yahoo.js:475
+msgid "Scattered Snow Showers"
+msgstr "Mjestimični snježni pljuskovi"
+
+#: 3.0/yahoo.js:476
+msgid "Heavy Snow"
+msgstr "Jak snijeg"
+
+#: 3.0/yahoo.js:478
+msgid "Not Available"
+msgstr "Nedostupno"
+
+#: 3.0/yahoo.js:479
+msgid "Scattered Thundershowers"
+msgstr "Mjestimične grmljavinske oluje"
+
+#: 3.8/main.js:104
+msgid "This provider requires an API key to operate"
+msgstr "Ovaj pružatelj usluge zahtijeva API ključ kako bi radio"
+
+#: 3.8/main.js:143 3.8/ui_elements/uiBar.js:40
+msgid "As of {lastUpdatedTime}"
+msgstr "Kao da je {lastUpdatedTime}"
+
+#: 3.8/providers/climacell.js:9 3.8/providers/climacellV4.js:8
+msgid "Climacell"
+msgstr ""
+
+#: 3.8/providers/climacell.js:39 3.8/providers/darkSky.js:33
+msgid "This API has ceased to function, please use another one."
+msgstr ""
+
+#: 3.8/providers/climacell.js:264 3.8/providers/climacell.js:265
+msgid "Light Snow"
+msgstr "Slab snijeg"
+
+#: 3.8/providers/climacellV4.js:171
+msgid "Light wind"
+msgstr "Slab vjetar"
+
+#: 3.8/providers/climacellV4.js:185
+msgid "Strong wind"
+msgstr "Snažan vjetar"
+
+#. 3.8->settings-schema.json->dataService->options
+#: 3.8/providers/danishMI.js:8
+msgid "DMI Denmark"
+msgstr "DMI Denmark"
+
+#: 3.8/providers/danishMI.js:173
+msgid "Blowing snow"
+msgstr "Snježni zapusi"
+
+#: 3.8/providers/danishMI.js:208 3.8/providers/visualcrossing.js:224
+msgid "Heavy rain and snow"
+msgstr "Jaka olujna kiša sa snjegom"
+
+#: 3.8/providers/danishMI.js:214 3.8/providers/danishMI.js:215
+msgid "Slight snow"
+msgstr "Slab snijeg"
+
+#: 3.8/providers/danishMI.js:221 3.8/providers/danishMI.js:222
+msgid "Moderate snow"
+msgstr "Umjereni snijeg"
+
+#: 3.8/providers/danishMI.js:236
+msgid "Moderate rain showers"
+msgstr "Umjereni snježni pljuskvi"
+
+#: 3.8/providers/danishMI.js:243
+msgid "Mixed rain and snow"
+msgstr "Kiša sa snijegom"
+
+#: 3.8/providers/danishMI.js:250
+msgid "Heavy mixed rain and snow"
+msgstr "Jaka kiša sa snijegom"
+
+#: 3.8/providers/danishMI.js:277 3.8/providers/danishMI.js:278
+msgid "NOT FOUND"
+msgstr "NIJE PRONAĐENO"
+
+#: 3.8/providers/darkSky.js:9
+msgid "DarkSky"
+msgstr "DarkSky"
+
+#. 3.0->settings-schema.json->dataService->options
+#. 3.8->settings-schema.json->dataService->options
+#: 3.8/providers/met_norway.js:9
+msgid "MET Norway"
+msgstr "MET Norveška"
+
+#. 3.0->settings-schema.json->dataService->options
+#: 3.8/providers/met_uk.js:9
+msgid "Met Office UK"
+msgstr "Met Office UK"
+
+#: 3.8/providers/met_uk.js:137
+#, fuzzy
+msgid "Data was not found for location"
+msgstr "Nemoguć pronalazak lokacije"
+
+#: 3.8/providers/met_uk.js:267
+msgid "Very poor"
+msgstr "Vrlo slabo"
+
+#: 3.8/providers/met_uk.js:267
+msgid "Less than {distance} {distanceUnit}"
+msgstr "Manje od {distance} {distanceUnit}"
+
+#: 3.8/providers/met_uk.js:271
+msgid "Excellent"
+msgstr "Izvrsno"
+
+#: 3.8/providers/met_uk.js:271
+msgid "More than {distance} {distanceUnit}"
+msgstr "Više od {distance} {distanceUnit}"
+
+#: 3.8/providers/met_uk.js:276
+msgid "Poor"
+msgstr "Slabo"
+
+#: 3.8/providers/met_uk.js:276 3.8/providers/met_uk.js:281
+#: 3.8/providers/met_uk.js:286 3.8/providers/met_uk.js:291
+msgid "Between {smallerDistance}-{biggerDistance} {distanceUnit}"
+msgstr "Između {smallerDistance}-{biggerDistance} {distanceUnit}"
+
+#: 3.8/providers/met_uk.js:281
+msgid "Moderate"
+msgstr "Umjereno"
+
+#: 3.8/providers/met_uk.js:286
+msgid "Good"
+msgstr "Dobro"
+
+#: 3.8/providers/met_uk.js:291
+msgid "Very good"
+msgstr "Vrlo dobro"
+
+#. 3.0->settings-schema.json->dataService->options
+#. 3.8->settings-schema.json->dataService->options
+#: 3.8/providers/openWeatherMap.js:9
+msgid "OpenWeatherMap"
+msgstr "OpenWeatherMap"
+
+#: 3.8/providers/us_weather.js:9
+#, fuzzy
+msgid "US Weather"
+msgstr "Vrijeme"
+
+#: 3.8/providers/visualcrossing.js:7
+#, fuzzy
+msgid "Visual Crossing"
+msgstr "Visual Crossing (ključ je potreban)"
+
+#: 3.8/providers/visualcrossing.js:182
+msgid "Blowing or drifting snow"
+msgstr "Snježni zapusi"
+
+#: 3.8/providers/visualcrossing.js:186
+msgid "Heavy drizzle"
+msgstr "Jače rominjanje"
+
+#: 3.8/providers/visualcrossing.js:190
+msgid "Heavy drizzle/rain"
+msgstr "Kiša s jačim rominjanjem"
+
+#: 3.8/providers/visualcrossing.js:192
+msgid "Light drizzle/rain"
+msgstr "Kiša sa slabim rominjanjem"
+
+#: 3.8/providers/visualcrossing.js:194
+msgid "Duststorm"
+msgstr "Pješčana oluja"
+
+#: 3.8/providers/visualcrossing.js:198
+msgid "Freezing drizzle/freezing rain"
+msgstr "Ledeno rominjanje s kišom"
+
+#: 3.8/providers/visualcrossing.js:200
+msgid "Heavy freezing drizzle/freezing rain"
+msgstr "Jako ledeno rominjanje s kišom"
+
+#: 3.8/providers/visualcrossing.js:202
+msgid "Light freezing drizzle/freezing rain"
+msgstr "Slabo ledeno rominjanje s kišom"
+
+#: 3.8/providers/visualcrossing.js:204
+msgid "Freezing fog"
+msgstr "Ledena magla"
+
+#: 3.8/providers/visualcrossing.js:210
+msgid "Funnel cloud/tornado"
+msgstr "Tornado/Pijavica"
+
+#: 3.8/providers/visualcrossing.js:212
+msgid "Hail showers"
+msgstr "Pljusak s tučom"
+
+#: 3.8/providers/visualcrossing.js:214
+msgid "Ice"
+msgstr "Led"
+
+#: 3.8/providers/visualcrossing.js:216
+msgid "Lightning without thunder"
+msgstr "Munje bez grmljavine"
+
+#: 3.8/providers/visualcrossing.js:220
+msgid "Precipitation in vicinity"
+msgstr "Oborine u blizini"
+
+#: 3.8/providers/visualcrossing.js:226
+msgid "Light rain And snow"
+msgstr "Slaba kiša sa snijegom"
+
+#: 3.8/providers/visualcrossing.js:234
+msgid "Sky coverage decreasing"
+msgstr "Smanjenje naoblake"
+
+#: 3.8/providers/visualcrossing.js:236
+msgid "Sky coverage increasing"
+msgstr "Povećanje naoblake"
+
+#: 3.8/providers/visualcrossing.js:238
+msgid "Sky unchanged"
+msgstr "Naoblaka nepromjenjena"
+
+#: 3.8/providers/visualcrossing.js:240
+msgid "Smoke or haze"
+msgstr "Dim ili sumaglica"
+
+#: 3.8/providers/visualcrossing.js:244
+msgid "Snow and rain showers"
+msgstr "Pljuskovi sa snjegom"
+
+#: 3.8/providers/visualcrossing.js:256
+msgid "Thunderstorm without precipitation"
+msgstr "Grmljavinsko nevrijeme bez oborina"
+
+#: 3.8/providers/visualcrossing.js:258
+msgid "Diamond dust"
+msgstr "Ledene iglice"
+
+#: 3.8/providers/visualcrossing.js:264
+msgid "Partially cloudy"
+msgstr "Djelomično oblačno"
+
+#: 3.8/providers/visualcrossing.js:287
+msgid "Please make sure you entered the API key correctly"
+msgstr "Pobrinite se da ste upisali  API ključ ispravno"
+
+#: 3.8/providers/weatherbit.js:9
+#, fuzzy
+msgid "WeatherBit"
+msgstr "Vrijeme"
+
+#: 3.8/providers/weatherbit.js:230
+msgid "API key doesn't provide access to Hourly Weather, skipping"
+msgstr "API ključ ne pruža pristup prognozi po satu, preskakanje"
+
+#: 3.8/ui_elements/uiBar.js:46
+msgid "{distance}{distanceUnit} from you"
+msgstr "{distance}{distanceUnit} od vas"
+
+#: 3.8/ui_elements/uiCurrentWeather.js:222
+msgid "Precipitation will end in {precipEnd} minutes"
+msgstr "Oborine će završiti za {precipEnd} minuta"
+
+#: 3.8/ui_elements/uiCurrentWeather.js:224
+msgid "Precipitation won't end in within an hour"
+msgstr "Oborine neće završiti u sljedećih sat vremena"
+
+#: 3.8/ui_elements/uiCurrentWeather.js:227
+msgid "Precipitation will start within {precipStart} minutes"
+msgstr "Oborine će početi za {precipStart} minuta"
+
+#. metadata.json->name
+#. 3.8->settings-schema.json->providers->title
+msgid "Weather"
+msgstr "Vrijeme"
+
+#. metadata.json->description
+msgid "View your local weather forecast"
+msgstr "Pogledajte vašu lokalnu vremensku prognozu"
+
+#. 3.0->settings-schema.json->head->description
+msgid "Settings for weather@mockturtl 3.0+"
+msgstr "Postavke za weather@mockturtl 3.0+"
+
+#. 3.0->settings-schema.json->keybinding->description
+#. 3.8->settings-schema.json->keybinding->description
+msgid "Set the keybinding to call the menu"
+msgstr "Postavi prečac tipkovnice za otvaranje pregleda vremena"
+
+#. 3.0->settings-schema.json->descriptions->description
+msgid "Weather service information"
+msgstr "Informacije usluge prognoze"
+
+#. 3.0->settings-schema.json->moreInfo->description
+msgid "Click here for detailed description"
+msgstr "Kliknite ovdje za opširniji opis"
+
+#. 3.0->settings-schema.json->moreInfo->tooltip
+#. 3.0->settings-schema.json->getLocation->tooltip
+#. 3.8->settings-schema.json->getLocation->tooltip
+msgid "Opens webpage guide"
+msgstr "Otvara web upute"
+
+#. 3.0->settings-schema.json->providerSettings->description
+#. 3.8->settings-schema.json->provider-options->title
+msgid "Weather Provider Options"
+msgstr "Informacije pružatelja usluge"
+
+#. 3.0->settings-schema.json->dataService->description
+#. 3.8->settings-schema.json->dataService->description
+msgid "Data service"
+msgstr "Usluga prognoze"
+
+#. 3.0->settings-schema.json->dataService->options
+#. 3.8->settings-schema.json->dataService->options
+msgid "DarkSky (key needed)"
+msgstr "DarkSky (ključ nije potreban)"
+
+#. 3.0->settings-schema.json->dataService->options
+#. 3.8->settings-schema.json->dataService->options
+msgid "Weatherbit (key needed)"
+msgstr "Weatherbit (ključ nije potreban)"
+
+#. 3.0->settings-schema.json->dataService->options
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#. 3.0->settings-schema.json->dataService->options
+msgid "Climacell (key needed)"
+msgstr "Climacell (ključ nije potreban)"
+
+#. 3.0->settings-schema.json->apiKey->description
+#. 3.8->settings-schema.json->apiKey->description
+msgid "API Key"
+msgstr "API ključ"
+
+#. 3.0->settings-schema.json->apiKey->tooltip
+#. 3.8->settings-schema.json->apiKey->tooltip
+msgid "Copy this from your account of the used Data service and paste it here."
+msgstr "API ključ kopirajte ovdje iz vašeg računa pružatelja usluge."
+
+#. 3.0->settings-schema.json->manualLocation->description
+#. 3.8->settings-schema.json->manualLocation->description
+msgid "Manual Location"
+msgstr "Ručna lokacija"
+
+#. 3.0->settings-schema.json->manualLocation->tooltip
+#. 3.8->settings-schema.json->manualLocation->tooltip
+msgid "Enable this if your location is not accurate"
+msgstr "Omogućite ovo ako vaša lokacija nije točna"
+
+#. 3.0->settings-schema.json->location->description
+msgid "Location - Coordinates"
+msgstr "Lokacija - Koordinate"
+
+#. 3.0->settings-schema.json->location->tooltip
+msgid ""
+"Acceptable inputs are Latitude,Longitude. e.g.: 68.1932,17.1426 or an "
+"address.\n"
+"Waits for 3 seconds after you stop typing before refreshes the weather."
+msgstr ""
+"Prihvatljivi unosi su zemljopisna širina, zemljopisna dužina. Npr: "
+"45.8293,15.9793 ili adresa.\n"
+"Pričekajte 3 sekunde nakon što ste prestali tipkati a prije osvježavanja "
+"prognoze."
+
+#. 3.0->settings-schema.json->getLocation->description
+msgid "Setup API Key and Location"
+msgstr "Postavljanje API ključa i lokacija"
+
+#. 3.0->settings-schema.json->refreshInterval->units
+#. 3.8->settings-schema.json->refreshInterval->units
+msgid "minutes"
+msgstr "minute"
+
+#. 3.0->settings-schema.json->refreshInterval->description
+#. 3.8->settings-schema.json->refreshInterval->description
+msgid "Update interval"
+msgstr "Razdoblje nadopunjavanja"
+
+#. 3.0->settings-schema.json->forecastDays->units
+#. 3.8->settings-schema.json->forecastDays->units
+msgid "days"
+msgstr "dani"
+
+#. 3.0->settings-schema.json->forecastDays->description
+#. 3.8->settings-schema.json->forecastDays->description
+msgid "Forecast length"
+msgstr "Duljina prognoze"
+
+#. 3.0->settings-schema.json->forecastHours->units
+#. 3.8->settings-schema.json->forecastHours->units
+msgid "hours"
+msgstr "sata"
+
+#. 3.0->settings-schema.json->forecastHours->description
+#. 3.8->settings-schema.json->forecastHours->description
+msgid "Hourly Forecast length"
+msgstr "Duljina prognoze"
+
+#. 3.0->settings-schema.json->unitSettings->description
+msgid "Units"
+msgstr "Jedinice"
+
+#. 3.0->settings-schema.json->temperatureUnit->description
+#. 3.8->settings-schema.json->temperatureUnit->description
+msgid "Temperature unit"
+msgstr "Jedinica temperature"
+
+#. 3.0->settings-schema.json->temperatureUnit->options
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.0->settings-schema.json->distanceUnit->options
+#. 3.8->settings-schema.json->temperatureUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->distanceUnit->options
+msgid "Automatic"
+msgstr "Automatska"
+
+#. 3.0->settings-schema.json->temperatureUnit->options
+#. 3.8->settings-schema.json->temperatureUnit->options
+msgid "Celsius"
+msgstr "Celzijus"
+
+#. 3.0->settings-schema.json->temperatureUnit->options
+#. 3.8->settings-schema.json->temperatureUnit->options
+msgid "Fahrenheit"
+msgstr "Farenhajt"
+
+#. 3.0->settings-schema.json->temperatureUnit->tooltip
+#. 3.0->settings-schema.json->distanceUnit->tooltip
+#. 3.8->settings-schema.json->temperatureUnit->tooltip
+#. 3.8->settings-schema.json->distanceUnit->tooltip
+msgid ""
+"Automatic will try to guess your preference based your current display "
+"language."
+msgstr ""
+"Automatska će pokušati odgonetnuti vašu osobitost na temelju vašeg trenutnog "
+"jezika."
+
+#. 3.0->settings-schema.json->windSpeedUnit->description
+#. 3.8->settings-schema.json->windSpeedUnit->description
+msgid "Wind speed unit"
+msgstr "Jedinica brzine vjetra"
+
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+msgid "kph"
+msgstr "km/h"
+
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+msgid "mph"
+msgstr "mph"
+
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+msgid "m/s"
+msgstr "m/s"
+
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+msgid "knots"
+msgstr "čvorova"
+
+#. 3.0->settings-schema.json->windSpeedUnit->options
+#. 3.8->settings-schema.json->windSpeedUnit->options
+msgid "Beaufort"
+msgstr "Beaufort"
+
+#. 3.0->settings-schema.json->pressureUnit->description
+#. 3.8->settings-schema.json->pressureUnit->description
+msgid "Atmospheric pressure unit"
+msgstr "Jedinica atmosferskog tlaka"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "hPa"
+msgstr "hPa"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "in Hg"
+msgstr "in Hg"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "mm Hg"
+msgstr "mm Hg"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "psi"
+msgstr "psi"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "at"
+msgstr "at"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "atm"
+msgstr "atm"
+
+#. 3.0->settings-schema.json->pressureUnit->options
+#. 3.8->settings-schema.json->pressureUnit->options
+msgid "Pa"
+msgstr "Pa"
+
+#. 3.0->settings-schema.json->distanceUnit->description
+#. 3.8->settings-schema.json->distanceUnit->description
+msgid "Distance unit"
+msgstr "Jedinica udaljenosti"
+
+#. 3.0->settings-schema.json->distanceUnit->options
+#. 3.8->settings-schema.json->distanceUnit->options
+msgid "Metric"
+msgstr "Metrička"
+
+#. 3.0->settings-schema.json->distanceUnit->options
+#. 3.8->settings-schema.json->distanceUnit->options
+msgid "Imperial"
+msgstr "Imperijalna"
+
+#. 3.0->settings-schema.json->panelSettings->description
+msgid "Panel options"
+msgstr "Mogućnosti panela"
+
+#. 3.0->settings-schema.json->showTextInPanel->description
+#. 3.8->settings-schema.json->showTextInPanel->description
+msgid "Display current temperature in panel"
+msgstr "Prikaži trenutnu temperaturu na panelu"
+
+#. 3.0->settings-schema.json->showCommentInPanel->description
+#. 3.8->settings-schema.json->showCommentInPanel->description
+msgid "Show the weather condition (e.g., \"Windy\", \"Clear\") in the panel"
+msgstr "Prikaži stanje vremena (npr., \"Vjetrovito\", \"Vedro\") na panelu"
+
+#. 3.0->settings-schema.json->showCommentInPanel->tooltip
+#. 3.8->settings-schema.json->showCommentInPanel->tooltip
+msgid "Only works with horizontal panels"
+msgstr "Radi samo na vodoravnim panelima"
+
+#. 3.0->settings-schema.json->tempTextOverride->description
+#. 3.8->settings-schema.json->tempTextOverride->description
+msgid "Override label on panel"
+msgstr "Zaobiđi stanje na panelu"
+
+#. 3.0->settings-schema.json->tempTextOverride->tooltip
+#. 3.8->settings-schema.json->tempTextOverride->tooltip
+msgid ""
+"Available values are: {c} is condition, {t} is temperature and {u} is unit.\n"
+"Can be used if label does not fit on vertical panel, among other smart "
+"things."
+msgstr ""
+"Dostupne vrijednosti su: {c} je stanje, {t} je temperatura i {u} je "
+"jedinica.\n"
+"Može biti korisno ako stanje ne pristaje na okomit panel, uz ostale manje "
+"stvari."
+
+#. 3.0->settings-schema.json->useCustomAppletIcons->tooltip
+#. 3.0->settings-schema.json->useCustomMenuIcons->tooltip
+#. 3.8->settings-schema.json->useCustomAppletIcons->tooltip
+#. 3.8->settings-schema.json->useCustomMenuIcons->tooltip
+msgid "Iconset is weather-icons by Erik Flowers"
+msgstr "Ikone su weather-icons od Erika Flowersa"
+
+#. 3.0->settings-schema.json->useCustomAppletIcons->description
+#. 3.8->settings-schema.json->useCustomAppletIcons->description
+msgid "Use custom icons on the panel"
+msgstr "Koristi prilagođene ikone na panelu"
+
+#. 3.0->settings-schema.json->displaySettings->description
+#. 3.8->settings-schema.json->presentation-section->title
+msgid "Presentation"
+msgstr "Prikaz"
+
+#. 3.0->settings-schema.json->verticalOrientation->description
+#. 3.8->settings-schema.json->verticalOrientation->description
+msgid "Show forecast vertically"
+msgstr "Prikaži prognozu okomito"
+
+#. 3.0->settings-schema.json->verticalOrientation->tooltip
+msgid "Displaying forecasts from top to bottom instead from left to right"
+msgstr "Prikazuje prognozu s vrha prema dnu umjesto s lijeva na desno"
+
+#. 3.0->settings-schema.json->forecastColumns->units
+#. 3.8->settings-schema.json->forecastColumns->units
+msgid "columns"
+msgstr "stupci"
+
+#. 3.0->settings-schema.json->forecastColumns->description
+#. 3.8->settings-schema.json->forecastColumns->description
+msgid "Maximum number of columns for forecast"
+msgstr "Najveći broj stupaca za prognozu"
+
+#. 3.0->settings-schema.json->forecastRows->units
+#. 3.8->settings-schema.json->forecastRows->units
+msgid "rows"
+msgstr "redci"
+
+#. 3.0->settings-schema.json->forecastRows->description
+#. 3.8->settings-schema.json->forecastRows->description
+msgid "Maximum number of rows for forecast"
+msgstr "Najveći broj redaka za prognozu"
+
+#. 3.0->settings-schema.json->showSunrise->description
+#. 3.8->settings-schema.json->showSunrise->description
+msgid "Show sunrise / sunset times"
+msgstr "Prikaži vrijeme izlaska/zaslaska sunca"
+
+#. 3.0->settings-schema.json->show24Hours->description
+#. 3.8->settings-schema.json->show24Hours->description
+msgid "Display time in 24 hour format"
+msgstr "Prikaži vrijeme u 24-satnom formatu"
+
+#. 3.0->settings-schema.json->shortHourlyTime->description
+#. 3.8->settings-schema.json->shortHourlyTime->description
+msgid "Only display hours for hourly forecast time"
+msgstr "Prikaži samo sate u vremenu prognoze svakog sata"
+
+#. 3.0->settings-schema.json->shortHourlyTime->tooltip
+msgid "Instead of 15:00 or 3 pm it will show up as 15 or 3 pm"
+msgstr "Umjesto 15:00 ili 3 pm biti će prikazano 15 ili 3 pm"
+
+#. 3.0->settings-schema.json->showForecastDates->description
+#. 3.8->settings-schema.json->showForecastDates->description
+msgid "Display date for daily forecasts"
+msgstr "Prikaži datum u dnevnoj prognozi"
+
+#. 3.0->settings-schema.json->showForecastDates->tooltip
+#. 3.8->settings-schema.json->showForecastDates->tooltip
+msgid "Like \"Friday 15\""
+msgstr "Poput \"Petak 15\""
+
+#. 3.0->settings-schema.json->temperatureHighFirst->description
+#. 3.8->settings-schema.json->temperatureHighFirst->description
+msgid "Show high temperature first in forecast"
+msgstr "Prikaži visoku temperaturu prvu u prognozi"
+
+#. 3.0->settings-schema.json->tempRussianStyle->description
+#. 3.8->settings-schema.json->tempRussianStyle->description
+msgid "Show temperature Russian style"
+msgstr "Prikaži temperaturu u Ruskom načinu"
+
+#. 3.0->settings-schema.json->locationLabelOverride->description
+#. 3.8->settings-schema.json->locationLabelOverride->description
+msgid "Override location label"
+msgstr "Ručno upišite lokaciju"
+
+#. 3.0->settings-schema.json->conditionSettings->description
+#. 3.8->settings-schema.json->weather-conditions->title
+msgid "Weather conditions"
+msgstr "Vremenska stanja"
+
+#. 3.0->settings-schema.json->translateCondition->description
+#. 3.8->settings-schema.json->translateCondition->description
+msgid "Translate conditions"
+msgstr "Prevedi vremenska stanja"
+
+#. 3.0->settings-schema.json->shortConditions->description
+#. 3.8->settings-schema.json->shortConditions->description
+msgid "Less verbose conditions"
+msgstr "Manje opširna vremenska stanja"
+
+#. 3.0->settings-schema.json->iconSettings->description
+#. 3.8->settings-schema.json->icons->title
+msgid "Icons"
+msgstr "Ikone"
+
+#. 3.0->settings-schema.json->useSymbolicIcons->description
+msgid "Use symbolic icons in the applet"
+msgstr "Koristi simboličke ikone u apletu"
+
+#. 3.0->settings-schema.json->useCustomMenuIcons->description
+#. 3.8->settings-schema.json->useCustomMenuIcons->description
+msgid "Use custom icons in the popup menu"
+msgstr "Koristi prilagođene ikone u skočnom izborniku"
+
+#. 3.8->settings-schema.json->locations-page->title
+#. 3.8->settings-schema.json->location->description
+msgid "Location"
+msgstr "Lokacija"
+
+#. 3.8->settings-schema.json->units-page->title
+msgid "Other options"
+msgstr "Ostale mogućnosti"
+
+#. 3.8->settings-schema.json->info-section->title
+msgid "Help"
+msgstr "Pomoć"
+
+#. 3.8->settings-schema.json->location-section->title
+msgid "Location settings"
+msgstr "Postavke lokacije"
+
+#. 3.8->settings-schema.json->location-store->title
+msgid "Saved Locations"
+msgstr "Spremljene lokacije"
+
+#. 3.8->settings-schema.json->panel-options->title
+msgid "Panel (Taskbar)"
+msgstr "Panel (Traka sustava)"
+
+#. 3.8->settings-schema.json->presentation->title
+msgid "Popup menu"
+msgstr "Skočni izbornik"
+
+#. 3.8->settings-schema.json->units-section->title
+#, fuzzy
+msgid "Other Units"
+msgstr "Ostale mogućnosti"
+
+#. 3.8->settings-schema.json->temp-unit-section->title
+#, fuzzy
+msgid "Temperature Unit"
+msgstr "Jedinica temperature"
+
+#. 3.8->settings-schema.json->keybindings->title
+msgid "Keybindings"
+msgstr "Prečaci tipkovnice"
+
+#. 3.8->settings-schema.json->more-info->title
+msgid "More about the Weather applet"
+msgstr "Više o apletu vremena"
+
+#. 3.8->settings-schema.json->submit-issue->title
+msgid "Report an issue"
+msgstr "Prijavak problema"
+
+#. 3.8->settings-schema.json->dataService->tooltip
+msgid ""
+"You can choose between several different weather forecast providers. Some "
+"providers require a API key to work, some have regional limits, differ in "
+"forecast length, and they all need a functional internet connection to work. "
+"The options are described in detail on the Cinnamon Spices Website which you "
+"can access with the button on the Help tab."
+msgstr ""
+"Možete odabrati između nekoliko pružatelja usluge vremenske prognoze. "
+"Određeni pružatelji usluge zahtijevaju API ključ kako bi radili, neki imaju "
+"regionalna ograničenja, razliku u duljini prognoze a svi trebaju pristup "
+"internetu kako bi radili. Mogućnosti su opširnije opisane na web stranici "
+"Cinnamon dodataka kojoj možete pristupiti putem tipke na kartici Pomoći."
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "Met Office UK (UK only)"
+msgstr "Met Office UK (samo UK)"
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "US National Weather (US only)"
+msgstr "US National Weather (Samo SAD)"
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "Visual Crossing (key needed)"
+msgstr "Visual Crossing (ključ je potreban)"
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "ClimacellV4 (key needed)"
+msgstr "ClimacellV4 (ključ je potreban)"
+
+#. 3.8->settings-schema.json->dataService->options
+msgid "ClimacellV3 (key needed)"
+msgstr "ClimacellV3 (ključ je potreban)"
+
+#. 3.8->settings-schema.json->location->tooltip
+msgid ""
+"You can enter coordinates 'Latitude,Longitude' (e.g. 51.5085,-0.1257) or use "
+"'City,Country-code' (e.g. London,UK) or try to enter {House number} {Street} "
+"{City/Town} {Postcode} {Country}. The search algorithm is very flexible with "
+"the format. After 3 seconds without typing the address you entered is "
+"replaced automatically for validating your choice."
+msgstr ""
+"Možete upisati 'Zemljopisnu širinu,Zemljopisnu duljinu' (npr. "
+"51.5085,-0.1257) ili koristiti 'Grad,kôd-zemlje' (npr. Zagreb,HR) ili "
+"pokušajte upisati {Kućni broj} {Ulicu} {Grad} {Poštanski broj} {Zemlju}. "
+"Algoritam pretrage je vrlo prilagodljiv s formatom. Nakon 3 sekunde bez "
+"tipkanja adresa koju ste upisali je zamijenjena automatski prema vešem "
+"odabiru."
+
+#. 3.8->settings-schema.json->saveLocation->description
+msgid "Save current location to storage"
+msgstr "Spremi trenutnu lokaciju u spremište"
+
+#. 3.8->settings-schema.json->saveLocation->tooltip
+#, fuzzy
+msgid ""
+"Saves location information to file so you can switch between them with "
+"buttons in the applet, which will appear if you have more than one."
+msgstr ""
+"Sprema informacije lokacija u datoteku, kako bi mogli birati između više "
+"njih pomoću tipke u apletu (Koja će se pojaviti ako imate više od jedne "
+"lokacije)"
+
+#. 3.8->settings-schema.json->getLocation->description
+msgid "Weather Applet at Cinnamon Spices Website"
+msgstr "Aplet vremena na web stranici Cinnamon dodataka"
+
+#. 3.8->settings-schema.json->refreshInterval->tooltip
+msgid ""
+"If you are using a provider with API keys set it to an interval you won't "
+"run out of your quota with."
+msgstr ""
+"Ako koristite pružatelja usluge sa API ključevima, postavite ih na interval "
+"s kojim nećete doseći ograničenje."
+
+#. 3.8->settings-schema.json->forecastDays->tooltip
+#, fuzzy
+msgid ""
+"Maximum number of days that can be displayed, maximum rows and columns "
+"setting in the Presentation tab will affect the final number."
+msgstr ""
+"Najveći broj dana koji se mogu prikazati, najviše redaka i stupaca "
+"postavljenih u kartici prikaza će utjecati na završni broj."
+
+#. 3.8->settings-schema.json->immediatePrecip->description
+msgid "Enable minutely precipitation forecast"
+msgstr "Omogući precizniju prognozu"
+
+#. 3.8->settings-schema.json->immediatePrecip->tooltip
+msgid ""
+"If you'd like to use this make sure you use your exact coordinates/address "
+"as location to help its accuracy. Currently implemented with OpenWeatherMap "
+"only."
+msgstr ""
+"Ako želite koristiti ovu mogućnost pobrinite se da koristite točne "
+"koordinate/adresu kao i lokaciju za precizniju točnost. Trenutno je "
+"implementirano samo za OpenWeatherMap."
+
+#. 3.8->settings-schema.json->showBothTempUnits->description
+#, fuzzy
+msgid "Show both temperature units at the same time"
+msgstr "Prikaži temperaturu u Ruskom načinu"
+
+#. 3.8->settings-schema.json->verticalOrientation->tooltip
+msgid "Displaying forecasts from top to bottom instead from left to right."
+msgstr "Prikazuje prognozu s vrha prema dnu umjesto s lijeva na desno."
+
+#. 3.8->settings-schema.json->locationList->description
+msgid "Your saved locations"
+msgstr "Vaše spremljene lokacije"
+
+#. 3.8->settings-schema.json->locationList->tooltip
+msgid ""
+"You have to make sure the Search entry field is unique and your Timezone is "
+"in the IANA time zone format (e.g. 'Europe/London')"
+msgstr ""
+"Morate se pobrinuti da je Unos pretrage jedinstven i vaša vremenska zona je "
+"u formatu IANA vremenske zone (npr. Europa/Zagreb)"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "Latitude"
+msgstr "Zemljopisna širina"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "Longitude"
+msgstr "Zemljopisna duljina"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "City"
+msgstr "Grad"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "Country"
+msgstr "Zemlja"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "Timezone"
+msgstr "Vremenska zona"
+
+#. 3.8->settings-schema.json->locationList->columns->title
+msgid "Search entry"
+msgstr "Unos pretrage"
+
+#. 3.8->settings-schema.json->displayWindAsText->description
+msgid "Display wind direction as text"
+msgstr ""
+
+#. 3.8->settings-schema.json->displayWindAsText->tooltip
+msgid "Like SE, N instead of direction icons."
+msgstr ""
+
+#. 3.8->settings-schema.json->shortHourlyTime->tooltip
+msgid "Instead of 15:00 or 3:00 pm it will show up as 15 or 3 pm"
+msgstr "Umjesto 15:00 ili 3:00 biti će prikazano 15 ili 3 pm"
+
+#. 3.8->settings-schema.json->useSymbolicIcons->tooltip
+msgid "Does not apply to custom iconset, that is symbolic by default"
+msgstr ""
+"Ne primjenjuje se na prilagođeni skup ikona, koje su simboličke po zadanome"
+
+#. 3.8->settings-schema.json->useSymbolicIcons->description
+msgid "Use symbolic icons throughout the applet"
+msgstr "Koristi simboličke ikone u apletu"
+
+#. 3.8->settings-schema.json->more-info-label->description
+msgid ""
+"For detailed information about the applet please go to the Spices Website to "
+"find info about known issues, troubleshooting, changelog and more by "
+"clicking the button below. Here you can ask questions etc in the comment "
+"section by logging in with your Github account."
+msgstr ""
+"Za opširnije informacije o apletu posjetite web stranicu Cinnamon dodataka "
+"kako bi pronašli informacije o poznatim problemima, rješavanju problema, "
+"zapisa promjena i još mnogo toga klikom na tipku ispod. Tamo možete "
+"postavljati pitanja i sl. u odjeljku komentara prijavom pomoću vašeg Github "
+"računa."
+
+#. 3.8->settings-schema.json->submitIssue->description
+msgid "Submit an Issue"
+msgstr "Prijavi problem"
+
+#. 3.8->settings-schema.json->submitIssue->tooltip
+msgid ""
+"Opens webpage where you can fill out a new issue for the applet, needs a "
+"GitHub account.\n"
+" Please make sure that the issue is not already submitted."
+msgstr ""
+"Otvara web stranicu gdje možete prijaviti novi problem apleta, potreban je "
+"GitHub račun.\n"
+" Prvo provjerite je li problem već prije prijavljen."
+
+#. 3.8->settings-schema.json->maintainer->description
+msgid "Current maintainer: Gr3q"
+msgstr "Trenutni održavatelj: Gr3q"
+
+#. 3.8->settings-schema.json->issue-reporting-explanation->description
+msgid ""
+"If you find an issue with this applet please make a report by clicking on "
+"the button below and login in with your Github account. Before you start "
+"writing please make sure that the issue is not already submitted in the "
+"issues section. Don't forget to write weather@mockturtl in the top Title "
+"field to make it easier for everyone to know that the issue is about the "
+"weather applet (the form is for all Cinnamon applets)."
+msgstr ""
+"Ako pronađete problem s ovim apletom prijavite ga klikom na tipku ispod i "
+"prijavom pomoću vašeg Github računa. Prije prijave problema provjerite je li "
+"problem već prijavljen. Ne zaboravite upisati weather@mockturtl u polje "
+"naslova kako bi svima bilo jasnije da se problem odnosi na aplet vremena "
+"(ovakav oblik naslova je obavezan za sve Cinnamon aplete)"
+
+#. 3.8->settings-schema.json->loc-info->description
+msgid ""
+"Your location in most cases work automatically but you can enter it manually "
+"by coordinates 'Latitude,Longitude' (e.g. 51.5085,-0.1257) or use 'City,"
+"Country-code' (e.g. London,UK) or try to enter {House number} {Street} {City/"
+"Town} {Postcode} {Country}. The search algorithm is very flexible with the "
+"format. After 3 seconds without typing the address you entered is replaced "
+"automatically for validating your choice."
+msgstr ""
+"Vaša lokacija u većini slučajeva će raditi automatski a možete ju upisati "
+"ručno pomoću koordinata 'Zemljopisna širina,Zemljopisna duljina' (npr. "
+"51.5085,-0.1257) ili koristite 'Grad,kôd-zemlje' (npr. Zagreb,HR) ili "
+"upišite {Kućni broj} {Ulicu} {Grad} {Poštanski broj} {Zemlju}. Algoritam "
+"pretrage je vrlo prilagodljiv s formatom. Nakon 3 sekunde bez tipkanja "
+"adresa koju ste upisali je zamijenjena automatski prema vešem odabiru."
+
+#~ msgid "Please install '{missingPackage}', then refresh manually."
+#~ msgstr "Instalirajte '{missingPackage}', zatim ručno osvježite."
+
+#~ msgid "Currently only used with DarkSky."
+#~ msgstr "Trenutno se samo koristi s DarkSky."
+
+#~ msgid "Settings"
+#~ msgstr "Postavke"
+
+#~ msgid "No location provided"
+#~ msgstr "Nema postavljene lokacije"
+
+#~ msgid "Cloudiness:"
+#~ msgstr "Naoblaka:"
+
+#~ msgid "Sunrise"
+#~ msgstr "Izlazak sunca"
+
+#~ msgid "Sunset"
+#~ msgstr "Zalazak sunca"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Usluga nedostupna"
+
+#~ msgid "Wrong API Key"
+#~ msgstr "Neispravan API ključ"
+
+#~ msgid "City Not found"
+#~ msgstr "Grad nije pronađen"
+
+#~ msgid "Key Temp. Blocked"
+#~ msgstr "Ključ temp. blokiran"
+
+#~ msgid "Clear Sky"
+#~ msgstr "Vedro"
+
+#~ msgid "Ligth Rain"
+#~ msgstr "Slaba kiša"
+
+#~ msgid "Rain Showers"
+#~ msgstr "Kišni pljuskovi"
+
+#~ msgid "Snow Showers"
+#~ msgstr "Snježni pljusak"
+
+#~ msgid "Substantial Rain"
+#~ msgstr "Obilna kiša"
+
+#~ msgid "Substantial Freezing Rain"
+#~ msgstr "Obilna ledena kiša"
+
+#~ msgid "Substantial Ice Pellets"
+#~ msgstr "Obilna tuča"
+
+#~ msgid "Substantial Snow"
+#~ msgstr "Obilan snjeg"
+
+#~ msgid "Please enter location in the correct format (coordinates)"
+#~ msgstr "Upišite lokaciju u ispravnom formatu (koordinate)"
+
+#~ msgid "Settings for weather@mockturtl 1.8+"
+#~ msgstr "Postavke za weather@mockturtl 1.8+"
+
+#~ msgid "Weather Provider Settings"
+#~ msgstr "Postavke pružatelja usluge"
+
+#~ msgid ""
+#~ "Acceptable inputs: City,CountryCode or Zipcode,CountryCode or Latitude,"
+#~ "Longtitude"
+#~ msgstr ""
+#~ "Prihvatljivi upisi, Grad,Kôd zemlje ili poštanski broj,Kôd zemlje ili "
+#~ "Zemljopisna širina/dužina"
+
+#~ msgid "Personal Settings"
+#~ msgstr "Osobne postavke"
+
+#~ msgid "Vertical orientation"
+#~ msgstr "Okomita orijentacija"
+
+#~ msgid "Translate condition"
+#~ msgstr "Prikaži prevedeno trentno stanje vremena"
+
+#~ msgid "Symbolic icons"
+#~ msgstr "Prikaži simboličke ikone"
+
+#~ msgid "Acceptable inputs is Latitude,Longtitude"
+#~ msgstr "Prihvatljivi upisi su zemljopisna širina i dužina"
+
+#~ msgid ""
+#~ "powered by: OpenWeatherMap, DarkSky, MET Norway, Weatherbit,\n"
+#~ "Yahoo and ip-api. Big Thanks to OpenWeatherMap for their FOSS support!"
+#~ msgstr ""
+#~ "pogonjeno od strane: OpenWeatherMap, DarkSky, MET Norway, Weatherbit,\n"
+#~ "Yahoo i ip-api. Veliko hvala OpenWeatherMap za njihovu FOSS podršku!"
+
+#~ msgid "Settings for weather@mockturtl 3.8+"
+#~ msgstr "Postavke za weather@mockturtl 3.8+"
+
+#~ msgid "Weather provider information"
+#~ msgstr "Informacije pružatelja prognoze"
+
+#~ msgid ""
+#~ "powered by: OpenWeatherMap, DarkSky, MET Norway, Weatherbit, Yahoo and ip-"
+#~ "api. Big Thanks to OpenWeatherMap for their FOSS support!"
+#~ msgstr ""
+#~ "pogonjeno od strane: OpenWeatherMap, DarkSky, MET Norway, Weatherbit, "
+#~ "Yahoo i ip-api. Veliko hvala OpenWeatherMap za njihovu FOSS podršku!"
+
+#~ msgid "Updated"
+#~ msgstr "Nadopunjeno"
+
+#~ msgid "Wrong Location"
+#~ msgstr "Pogrešna lokacija"
+
+#~ msgid "Parsing weather information failed :("
+#~ msgstr "Neuspjela obrada informacije prognoze :("
+
+#~ msgid "No Api Key provided"
+#~ msgstr "Nema Api ključa lokacije"
+
+#~ msgid "Copy this from your account on OpenWeatherMap and paste it here."
+#~ msgstr ""
+#~ "Kopirajte ključ s vašeg OpenWeatherMap računa i zalijepite ga ovdje."
+
+#~ msgid "Wind Chill:"
+#~ msgstr "Kao da je:"
+
+#~ msgid "Get WOEID"
+#~ msgstr "Nabavite WOEID kôd"
+
+#~ msgid "http://woeid.rosselliot.co.nz/"
+#~ msgstr "http://woeid.rosselliot.co.nz/"
+
+#~ msgid "WOEID"
+#~ msgstr "WOEID"
+
+#~ msgid "Where On Earth ID"
+#~ msgstr "ID vaše lokacije"
+
+#~ msgid "kPa"
+#~ msgstr "kPa"
+
+#~ msgid "mbar"
+#~ msgstr "mbar"
+
+#~ msgid "http://edg3.co.uk/snippets/weather-location-codes/"
+#~ msgstr "http://edg3.co.uk/snippets/weather-location-codes/"

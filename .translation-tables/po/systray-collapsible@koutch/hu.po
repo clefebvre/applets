@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-19 15:28+0800\n"
+"PO-Revision-Date: 2021-04-05 11:03+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:587
+msgid "Previous"
+msgstr "Előző"
+
+#: applet.js:587
+msgid "Icons"
+msgstr "Ikonok"
+
+#: applet.js:622
+msgid "Export to a file"
+msgstr "Exportálás fájlba"
+
+#: applet.js:635
+msgid "Settings"
+msgstr "Beállítások"
+
+#: applet.js:636
+msgid "Configure..."
+msgstr "Beállítások…"
+
+#. systray-collapsible@koutch->metadata.json->description
+msgid "Expandable/Collapsible System Tray Applet "
+msgstr "Kinyitható/Összecsukható Rendszertálca Kisalkalmazás "
+
+#. systray-collapsible@koutch->metadata.json->name
+msgid "System Tray Collapsible"
+msgstr "Összecsukható Renndszertálca"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-on-
+#. hover->description
+msgid "Expand on hover"
+msgstr "Kibontás ha az egér rámutat"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-on-hover->tooltip
+msgid "Expand the system tray on hover instead of requiring a click"
+msgstr "Rendszertálca kibontása ha az egér rámutat, kattintás nélkül"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-time->description
+msgid "Manually Expand :"
+msgstr "Kézi kibontás :"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-time->tooltip
+msgid "Form 10 to 120"
+msgstr "10-től 120-ig"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-time->units
+#. systray-collapsible@koutch->settings-schema.json->new-icon-time->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. systray-collapsible@koutch->settings-schema.json->head->description
+msgid "The Display Duration"
+msgstr "A megjelenítés időtartama"
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->description
+msgid "Chose Your Style :"
+msgstr "Válasszon stílust:"
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->tooltip
+msgid "Customizable through stylesheet.css "
+msgstr "Testreszabható a stylesheet.css-ben "
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->options
+msgid "Border Style without hover effect"
+msgstr "Szegély stílusa, az egér rámutatásának effektusa nélkül"
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->options
+msgid "Gradient Style without hover effect"
+msgstr "Színátmenet stílus, az egér rámutatásának effektusa nélkül"
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->options
+msgid "Border Style with hover effect"
+msgstr "Szegély stílusa, az egér rámutatásának effektusával"
+
+#. systray-collapsible@koutch->settings-schema.json->style-class->options
+msgid "Gradient Style with hover effect"
+msgstr "Színátmenet stílus, az egér rámutatásának effektusával"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-icon-
+#. name->description
+msgid "The Expand Icon :"
+msgstr "Kibontás ikon:"
+
+#. systray-collapsible@koutch->settings-schema.json->expand-icon-name->tooltip
+#. systray-collapsible@koutch->settings-schema.json->collapse-icon-
+#. name->tooltip
+msgid "Select icon file"
+msgstr "Ikonfájl kiválasztása"
+
+#. systray-collapsible@koutch->settings-schema.json->collapse-icon-
+#. name->description
+msgid "The Collapse Icon :"
+msgstr "Összecsukás ikon:"
+
+#. systray-collapsible@koutch->settings-schema.json->icons-hide-by-
+#. user->description
+msgid "Should not be changed"
+msgstr "Nem kellene megváltoztatni"
+
+#. systray-collapsible@koutch->settings-schema.json->auto-export-to-
+#. file->description
+msgid "Export to file Automaticaly"
+msgstr "Automatikus exportálás fájlba"
+
+#. systray-collapsible@koutch->settings-schema.json->auto-export-to-
+#. file->tooltip
+msgid "If disable there is an Export to file button in context menu "
+msgstr ""
+"Ha letiltja, akkor a helyi menüben található az Exportálás fájlba gomb "
+
+#. systray-collapsible@koutch->settings-schema.json->show-hidden-
+#. player->description
+msgid "Show players support by sound applet"
+msgstr "Mutassa meg a lejátszók támogatását a hang kisalkalmazással"
+
+#. systray-collapsible@koutch->settings-schema.json->show-hidden-
+#. player->tooltip
+msgid "Show Banshee, Tomahawk, Clementine and Amarok in system tray"
+msgstr "Banshee, Tomahawk, Clementine és Amarok megjelenítése a rendszertálcán"
+
+#. systray-collapsible@koutch->settings-schema.json->new-icon-
+#. time->description
+msgid "New Icons :"
+msgstr "Új ikonok :"
+
+#. systray-collapsible@koutch->settings-schema.json->new-icon-time->tooltip
+msgid "Form 0 to 120 (0 to disable)"
+msgstr "0-tól 120-ig (0 a letiltáshoz)"

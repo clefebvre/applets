@@ -1,0 +1,132 @@
+# DESCRIPTION IN FILE LANGUAGE / DESCRIPTION IN ENGLISH
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: <filipekaue@protonmail.com> \n"
+"POT-Creation-Date: 2020-07-25 14:50-0300\n"
+"PO-Revision-Date: 2020-12-17 16:05+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: NAME <name@domain.com>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:43 icons/backup.js:40
+msgid "Show Desklets"
+msgstr "Vis skrivebordsprogrammer"
+
+#. metadata.json->name
+msgid "Clean Show Desktop"
+msgstr "Clean Show Desktop"
+
+#. metadata.json->description
+msgid ""
+"An Applet to show the Desktop just like in Windows 10, but completely "
+"customizable"
+msgstr "Viser skrivebordet i stil med Windows 10, men fuldt konfigurerbart"
+
+#. settings-schema.json->head->description
+msgid "Settings"
+msgstr "Indstillinger"
+
+#. settings-schema.json->peek-desktop->description
+msgid "Peek at the desktop on hover"
+msgstr "Se skrivebordet, når musen føres hen over"
+
+#. settings-schema.json->peek-desktop->tooltip
+msgid "Peek at the desktop when hovering the applet"
+msgstr "Se skrivebordet, når musen føres hen over panelprogrammet"
+
+#. settings-schema.json->peek-blur->description
+msgid "Blur effect"
+msgstr "Sløringseffekt"
+
+#. settings-schema.json->peek-blur->tooltip
+msgid "Blur windows when peeking at the desktop"
+msgstr "Slør vinduerne, når skrivebordet vises"
+
+#. settings-schema.json->peek-delay->units
+msgid "milliseconds"
+msgstr "millisekunder"
+
+#. settings-schema.json->peek-delay->description
+msgid "Hover delay"
+msgstr "Forsinkelse når markøren føres hen over"
+
+#. settings-schema.json->peek-delay->tooltip
+msgid "Delay before Peek shows desktop"
+msgstr "Forsinkelse før skrivebordet vises"
+
+#. settings-schema.json->peek-opacity->description
+msgid "Window opacity"
+msgstr "Vinduesuigennemsigtighed"
+
+#. settings-schema.json->peek-opacity->tooltip
+msgid "Change the opacity of windows when peeking at the desktop"
+msgstr "Ændr vinduernes uigennemsigtighed, når skrivebordet vises"
+
+#. settings-schema.json->width->units
+#. settings-schema.json->border-width->units
+msgid "pixels"
+msgstr "pixler"
+
+#. settings-schema.json->width->description
+msgid "Applet size"
+msgstr "Panelprogrammets størrelse"
+
+#. settings-schema.json->width->tooltip
+msgid "Adjust this to increase or decrease the width of this applet"
+msgstr "Justér for at forøge eller formindske panelprogrammets bredde"
+
+#. settings-schema.json->background->description
+msgid "Fill color"
+msgstr "Udfyldningsfarve"
+
+#. settings-schema.json->background->tooltip
+msgid "Select a fill color"
+msgstr "Vælg en udfyldningsfarve"
+
+#. settings-schema.json->border->description
+msgid "Border color"
+msgstr "Kantfarve"
+
+#. settings-schema.json->border->tooltip
+msgid "Select a border color"
+msgstr "Vælg en kantfarve"
+
+#. settings-schema.json->on-hover-background->description
+msgid "Fill color on mouse hover"
+msgstr "Udfyldningsfarve når musen føres hen over"
+
+#. settings-schema.json->on-hover-background->tooltip
+msgid "Change the fill color when mouse hover"
+msgstr "Ændr udfyldningsfarven når musen føres hen over"
+
+#. settings-schema.json->on-hover-border->description
+msgid "Border color on mouse hover"
+msgstr "Kantfarve når musen føres hen over"
+
+#. settings-schema.json->on-hover-border->tooltip
+msgid "Change the Border color when mouse hover"
+msgstr "Ændr kantfarven når musen føres hen over"
+
+#. settings-schema.json->border-width->description
+msgid "Border width"
+msgstr "Kantbredde"
+
+#. settings-schema.json->border-width->tooltip
+msgid "Select the border width"
+msgstr "Vælg kantbredden"
+
+#. settings-schema.json->custom-color->description
+msgid "Customize the applet colors"
+msgstr ""
+
+#. settings-schema.json->custom-color->tooltip
+msgid ""
+"When this option is disabled, the applet will try to find the accent color "
+"color of the theme"
+msgstr ""

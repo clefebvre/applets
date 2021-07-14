@@ -1,0 +1,411 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-27 11:20-0500\n"
+"PO-Revision-Date: 2017-05-03 21:10+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: po\n"
+
+#: ../3.0/prefsui.glade.h:1 ../3.2/prefsui.glade.h:1 ../3.4/prefsui.glade.h:1
+#, fuzzy
+msgid "Multi-Core System Monitor Preferences"
+msgstr "Параметры Multi-core System Monitor"
+
+#: ../3.0/prefsui.glade.h:2 ../3.2/prefsui.glade.h:2 ../3.4/prefsui.glade.h:2
+msgid "Labels"
+msgstr "Метки"
+
+#: ../3.0/prefsui.glade.h:3 ../3.2/prefsui.glade.h:3 ../3.4/prefsui.glade.h:3
+msgid "Refresh Rate (ms)"
+msgstr "Частота обновления (мс)"
+
+#: ../3.0/prefsui.glade.h:4 ../3.2/prefsui.glade.h:4
+msgid "Height"
+msgstr "Высота"
+
+#: ../3.0/prefsui.glade.h:5 ../3.2/prefsui.glade.h:6 ../3.4/prefsui.glade.h:5
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../3.0/prefsui.glade.h:6 ../3.2/prefsui.glade.h:7 ../3.4/prefsui.glade.h:6
+msgid "General"
+msgstr "Общие"
+
+#: ../3.0/prefsui.glade.h:7 ../3.2/prefsui.glade.h:8 ../3.4/prefsui.glade.h:7
+#: ../3.0/prefs.js:279 ../3.0/prefs.js:393 ../3.2/prefs.js:283
+#: ../3.2/prefs.js:398 ../3.4/prefs.js:327 ../3.4/prefs.js:463
+msgid "Enable"
+msgstr "Включить"
+
+#: ../3.0/prefsui.glade.h:8 ../3.2/prefsui.glade.h:9 ../3.4/prefsui.glade.h:8
+msgid "Width"
+msgstr "Ширина"
+
+#: ../3.0/prefsui.glade.h:9 ../3.2/prefsui.glade.h:10 ../3.4/prefsui.glade.h:9
+msgid "Colors"
+msgstr "Цвета"
+
+#: ../3.0/prefsui.glade.h:10 ../3.2/prefsui.glade.h:11
+#: ../3.4/prefsui.glade.h:10 ../3.0/DataProviders.js:97
+#: ../3.0/DataProviders.js:104 ../3.0/prefs.js:183 ../3.2/DataProviders.js:97
+#: ../3.2/DataProviders.js:104 ../3.2/prefs.js:187 ../3.4/DataProviders.js:55
+#: ../3.4/prefs.js:195
+msgid "CPU"
+msgstr "ЦП"
+
+#: ../3.0/prefsui.glade.h:11 ../3.2/prefsui.glade.h:12
+#: ../3.4/prefsui.glade.h:11
+#, fuzzy
+msgid "Usedup"
+msgstr "использовано:\t"
+
+#: ../3.0/prefsui.glade.h:12 ../3.2/prefsui.glade.h:13
+#: ../3.4/prefsui.glade.h:12
+#, fuzzy
+msgid "Cached"
+msgstr "Кешировано"
+
+#: ../3.0/prefsui.glade.h:13 ../3.2/prefsui.glade.h:14
+#: ../3.4/prefsui.glade.h:13
+#, fuzzy
+msgid "Buffer"
+msgstr "Буферы"
+
+#: ../3.0/prefsui.glade.h:14 ../3.2/prefsui.glade.h:15
+#: ../3.4/prefsui.glade.h:14
+#, fuzzy
+msgid "Free"
+msgstr "Свободно"
+
+#: ../3.0/prefsui.glade.h:15 ../3.2/prefsui.glade.h:16
+#: ../3.4/prefsui.glade.h:15 ../3.0/DataProviders.js:187
+#: ../3.2/DataProviders.js:187 ../3.4/DataProviders.js:192
+msgid "Swap"
+msgstr "Подкачка"
+
+#: ../3.0/prefsui.glade.h:16 ../3.2/prefsui.glade.h:17
+#: ../3.4/prefsui.glade.h:16
+msgid "Memory"
+msgstr "Память"
+
+#: ../3.0/prefsui.glade.h:17 ../3.2/prefsui.glade.h:18
+#: ../3.4/prefsui.glade.h:17
+msgid "Scaling"
+msgstr "Масштабирование"
+
+#: ../3.0/prefsui.glade.h:18 ../3.2/prefsui.glade.h:19
+#: ../3.4/prefsui.glade.h:18
+msgid "Auto Scale"
+msgstr "Автоматическое"
+
+#: ../3.0/prefsui.glade.h:19 ../3.2/prefsui.glade.h:20
+#: ../3.4/prefsui.glade.h:19
+msgid "Logarithmic"
+msgstr "Логарифмическое"
+
+#: ../3.0/prefsui.glade.h:20 ../3.2/prefsui.glade.h:21
+#: ../3.4/prefsui.glade.h:20
+msgid "Devices"
+msgstr "Устройства"
+
+#: ../3.0/prefsui.glade.h:21 ../3.2/prefsui.glade.h:22
+#: ../3.4/prefsui.glade.h:21
+msgid "Network"
+msgstr "Сеть"
+
+#: ../3.0/prefsui.glade.h:22 ../3.2/prefsui.glade.h:23
+#: ../3.4/prefsui.glade.h:22
+msgid "Disk IO"
+msgstr "Дисковый ввод-вывод"
+
+#: ../3.0/prefsui.glade.h:23 ../3.2/prefsui.glade.h:24
+#: ../3.4/prefsui.glade.h:23
+msgid "Scaling Description"
+msgstr "Виды масштабирования"
+
+#: ../3.0/prefsui.glade.h:24 ../3.2/prefsui.glade.h:25
+#: ../3.4/prefsui.glade.h:24
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../3.0/prefsui.glade.h:25 ../3.2/prefsui.glade.h:26
+#: ../3.4/prefsui.glade.h:25
+#, fuzzy
+msgid ""
+"Auto Scaling:\n"
+"\tThis will scale the line graph by the largest reading within the\n"
+"\tdisplayed area. Once the largest reading is no longer displayed\n"
+"\tthe next largest becomes the new value by which the readings\n"
+"\tare scaled. This lets the plot \"zoom\" to show details of the graph.\n"
+"\tHowever, it also means that if there is a large reading small readings\n"
+"\tmay become indistinguishable from 0. And if there are only small readings\n"
+"\tthen slightly larger readings may appear larger than they should.\n"
+"\tIf not enabled the largest value used will be the largest reading since\n"
+"\tcinnamon was started.\n"
+"\n"
+"Logarithmic Scaling:\n"
+"\tThis transforms the readings so that they are displayed using a\n"
+"\tlogarithmic scale. If you are not familiar basically, it reduces the\n"
+"\tlarge values so that they dont dominate the smaller readings."
+msgstr ""
+"Автоматически:\n"
+"\tМасштаб будет зависеть от наибольшего значения за последний \n"
+"\tпериод. Как только максимальное значение пропадёт, будет выбрано \n"
+"\tновое максимальное значение и масштаб графика будет пересчитан \n"
+"\tотносительно нового максимального значения. Это позволяет увидеть \n"
+"\tдетальные изменения при любых значениях. Однако в этом способе \n"
+"\tтруднее отследить абсолютные значения. Если автоматическое \n"
+"\tмасштабирование отключено, то график перестраивается относительно \n"
+"\tмаксимального значения с момента запуска Cinnamon.\n"
+"\n"
+"Логарифмически:\n"
+"\tЭтот способ меняет представление данных на логарифмическое \n"
+"\tпредставление. Если вам незнакома логарифмическая шкала, то можно \n"
+"\tпредставить, что большие значения отображаются больше, но не такими \n"
+"\tбольшими, как на самом деле, и тогда они не будут мешать видеть в "
+"деталях \n"
+"\tизменение небольших значений."
+
+#: ../3.2/prefsui.glade.h:5 ../3.4/prefsui.glade.h:4
+msgid "Label Color"
+msgstr ""
+
+#: ../3.0/DataProviders.js:103 ../3.2/DataProviders.js:103
+#: ../3.4/DataProviders.js:123
+#, fuzzy
+msgid "------------- CPU ------------"
+msgstr "--------------ЦП-------------- \n"
+
+#: ../3.0/DataProviders.js:144 ../3.2/DataProviders.js:144
+#: ../3.4/DataProviders.js:138
+msgid "MEM"
+msgstr "Память"
+
+#: ../3.0/DataProviders.js:150 ../3.2/DataProviders.js:150
+#: ../3.4/DataProviders.js:158
+#, fuzzy
+msgid "----------- Memory -----------"
+msgstr "------------Память------------ \n"
+
+#: ../3.0/DataProviders.js:151 ../3.2/DataProviders.js:151
+#, fuzzy
+msgid "Usedup:"
+msgstr "использовано:\t"
+
+#: ../3.0/DataProviders.js:152 ../3.2/DataProviders.js:152
+#: ../3.4/DataProviders.js:159
+#, fuzzy
+msgid "Cached:"
+msgstr "Кешировано"
+
+#: ../3.0/DataProviders.js:153 ../3.2/DataProviders.js:153
+#: ../3.4/DataProviders.js:159
+#, fuzzy
+msgid "Buffer:"
+msgstr "Буферы"
+
+#: ../3.0/DataProviders.js:154 ../3.2/DataProviders.js:154
+#: ../3.4/DataProviders.js:159
+#, fuzzy
+msgid "Free:"
+msgstr "Свободно"
+
+#: ../3.0/DataProviders.js:181 ../3.2/DataProviders.js:181
+#: ../3.4/DataProviders.js:173
+msgid "SWAP"
+msgstr "Подкачка"
+
+#: ../3.0/DataProviders.js:186 ../3.2/DataProviders.js:186
+#: ../3.4/DataProviders.js:191
+#, fuzzy
+msgid  "------------ Swap ------------"
+msgstr "-----------Подкачка----------- \n"
+
+#: ../3.0/DataProviders.js:251 ../3.2/DataProviders.js:251
+#: ../3.4/DataProviders.js:202
+msgid "NET"
+msgstr "Сеть"
+
+#: ../3.0/DataProviders.js:292 ../3.2/DataProviders.js:292
+#: ../3.4/DataProviders.js:286
+#, fuzzy
+msgid "---------- Networks ----------"
+msgstr "-------------Сеть------------- \n"
+
+#: ../3.0/DataProviders.js:294 ../3.2/DataProviders.js:294
+#: ../3.4/DataProviders.js:297
+#, fuzzy
+msgid "Down:"
+msgstr "Получено"
+
+#: ../3.0/DataProviders.js:294 ../3.2/DataProviders.js:294
+#: ../3.4/DataProviders.js:298
+#, fuzzy
+msgid "Up:"
+msgstr "Отправлено"
+
+#: ../3.0/DataProviders.js:295 ../3.2/DataProviders.js:295
+#, fuzzy
+msgid "(KiB/s)"
+msgstr "(КиБ/с)\n"
+
+#: ../3.0/DataProviders.js:368 ../3.2/DataProviders.js:368
+#: ../3.4/DataProviders.js:314
+msgid "DISK"
+msgstr "Диск"
+
+#: ../3.0/DataProviders.js:394 ../3.2/DataProviders.js:394
+#: ../3.4/DataProviders.js:375
+#, fuzzy
+msgid  "------------ Disks -----------"
+msgstr "-------------Диск------------- \n"
+
+#: ../3.0/DataProviders.js:396 ../3.2/DataProviders.js:396
+#: ../3.4/DataProviders.js:383
+#, fuzzy
+msgid "Read:"
+msgstr "Чтение"
+
+#: ../3.0/DataProviders.js:396 ../3.2/DataProviders.js:396
+#: ../3.4/DataProviders.js:384
+#, fuzzy
+msgid "Write:"
+msgstr "Запись"
+
+#: ../3.0/DataProviders.js:397 ../3.2/DataProviders.js:397
+#, fuzzy
+msgid "(MiB/s)"
+msgstr " (МиБ/с)\n"
+
+#: ../3.0/ErrorApplet.js:28 ../3.0/ErrorApplet.js:34 ../3.2/ErrorApplet.js:28
+#: ../3.2/ErrorApplet.js:34
+#, fuzzy
+msgid "Multi-Core System Monitor Error."
+msgstr "Ошибка Multi-core System Monitor."
+
+#: ../3.0/applet.js:132 ../3.2/applet.js:129 ../3.4/applet.js:254
+msgid "Preferences"
+msgstr "Параметры"
+
+#: ../3.0/applet.js:313 ../3.2/applet.js:324
+msgid "Please install \"gir1.2-gtop-2.0\" package."
+msgstr "Для работы модуля установите пакет «gir1.2-gtop-2.0»."
+
+#: ../3.0/prefs.js:290 ../3.2/prefs.js:294 ../3.4/prefs.js:338
+msgid "Down"
+msgstr "Получено"
+
+#: ../3.0/prefs.js:298 ../3.2/prefs.js:302 ../3.4/prefs.js:346
+msgid "Up"
+msgstr "Отправлено"
+
+#: ../3.0/prefs.js:406 ../3.2/prefs.js:414 ../3.4/prefs.js:479
+msgid "Read"
+msgstr "Чтение"
+
+#: ../3.0/prefs.js:414 ../3.2/prefs.js:423 ../3.4/prefs.js:488
+msgid "Write"
+msgstr "Запись"
+
+#: ../3.0/prefs.js:530 ../3.2/prefs.js:540
+#, fuzzy
+msgid "Error while saving file:"
+msgstr "Ошибка сохранения файла: "
+
+#: ../3.4/DataProviders.js:46
+msgid "/s"
+msgstr ""
+
+#: ../3.4/DataProviders.js:126
+msgid "Core"
+msgstr ""
+
+#: ../3.4/DataProviders.js:159
+#, fuzzy
+msgid "Used:"
+msgstr "Использовано"
+
+#: ../3.4/applet.js:60
+msgid "Dependency missing"
+msgstr ""
+
+#: ../3.4/applet.js:62
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"to use "
+msgstr ""
+
+#~ msgid "Multi-Core System Monitor"
+#~ msgstr "Multi-Core System Monitor"
+
+#~ msgid ""
+#~ "Displays in realtime the cpu usage for each core/cpu and overall memory "
+#~ "usage."
+#~ msgstr ""
+#~ "Показывает в реальном времени использование процессора для каждого "
+#~ "процессора и ядра, а также общее использование памяти."
+
+#, fuzzy
+#~ msgid "Swap:\t"
+#~ msgstr "подкачка:\t"
+
+#~ msgid ": R: "
+#~ msgstr ": чт.: "
+
+#~ msgid ": W: "
+#~ msgstr ": зап.: "
+
+#~ msgid "------CPU------- \n"
+#~ msgstr "-------ЦП------- \n"
+
+#~ msgid "cpu: "
+#~ msgstr "проц.: "
+
+#~ msgid "------mem------- \n"
+#~ msgstr "----Память---- \n"
+
+#~ msgid "cached:\t"
+#~ msgstr "кешировано:\t"
+
+#~ msgid "buffer:\t"
+#~ msgstr "буферы:\t"
+
+#~ msgid "free:\t\t"
+#~ msgstr "свободно:\t"
+
+#~ msgid "------swap------- \n"
+#~ msgstr "---Подкачка--- \n"
+
+#~ msgid "swap:\t"
+#~ msgstr "подкачка:\t"
+
+#~ msgid "-------net-------\n"
+#~ msgstr "------Сеть------ \n"
+
+#~ msgid ": D: "
+#~ msgstr ": пол.: "
+
+#~ msgid " U: "
+#~ msgstr " отп.: "
+
+#~ msgid "------disk------- \n"
+#~ msgstr "------Диск------- \n"

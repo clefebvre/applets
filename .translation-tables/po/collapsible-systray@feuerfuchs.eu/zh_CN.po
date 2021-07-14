@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 13:12+0200\n"
+"PO-Revision-Date: 2017-05-21 09:20+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:143
+msgid "Active applications"
+msgstr "激活的应用程序"
+
+#: applet.js:144
+msgid "Inactive applications"
+msgstr "未激活的应用程序"
+
+#: CSCollapseBtn.js:104
+msgid "Collapse"
+msgstr "折叠"
+
+#: CSCollapseBtn.js:110
+msgid "Expand"
+msgstr "展开"
+
+#: CSCollapseBtn.js:116
+msgid "No icons to hide/reveal"
+msgstr "没有要隐藏/显示的图标"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->name
+msgid "Collapsible Systray"
+msgstr "可折叠的系统托盘"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->description
+msgid "A replacement for the abandoned System Tray Collapsible Cinnamon applet"
+msgstr ""
+"一个作为被遗弃的System Tray Collapsible（可折叠的的系统托盘）Cinnamon小程序的"
+"替代品"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-
+#. hover->description
+msgid "Expand on hover"
+msgstr "悬停时展开"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->description
+#, fuzzy
+msgid "Animation duration"
+msgstr "动画时长："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->units
+msgid "milliseconds"
+msgstr "毫秒"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->description
+#, fuzzy
+msgid "Collapse on un-hover delay"
+msgstr "取消悬停时折叠的延迟："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->description
+#, fuzzy
+msgid "Vertical collapse icon"
+msgstr "垂直折叠图标："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->tooltip
+msgid "Enter either the icon's qualified name or it's full path"
+msgstr "输入图标的限定名称或其完整路径"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance-
+#. section->title
+msgid "Appearance"
+msgstr "外观"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior-
+#. section->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior->title
+msgid "Behavior"
+msgstr "行为"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->description
+#, fuzzy
+msgid "Horizontal collapse icon"
+msgstr "水平折叠图标："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->description
+#, fuzzy
+msgid "Horizontal expand icon"
+msgstr "水平展开图标："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->icon-visibility-
+#. list->description
+msgid "Internal use"
+msgstr "内部使用"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->description
+msgid "Sort icons by name"
+msgstr "按名称对图标排序"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->tooltip
+msgid "If unchecked, the order of the icons will be pretty much random"
+msgstr "如果取消选中，图标的顺序将会十分随机"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->description
+msgid "Animation support (disable if icons stop updating)"
+msgstr ""
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->tooltip
+msgid "Disable if you have issues with icons not updating themselves."
+msgstr ""
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->description
+#, fuzzy
+msgid "Vertical expand icon"
+msgstr "垂直展开图标："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->description
+#, fuzzy
+msgid "Padding of tray icons"
+msgstr "托盘图标的边距："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->units
+msgid "px"
+msgstr "px"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->description
+#, fuzzy
+msgid "Startup collapse delay"
+msgstr "启动折叠的延迟："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->tooltip
+msgid "The delay until the applet automatically collapses upon startup"
+msgstr "小程序启动时自动折叠的延迟时间"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-delay->units
+msgid "seconds"
+msgstr "秒"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->description
+#, fuzzy
+msgid "Expand on hover delay"
+msgstr "悬停时展开的延迟："
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-
+#. leave->description
+msgid "Collapse on un-hover"
+msgstr "取消悬停时折叠"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->description
+msgid "Disable hover effect for tray icons"
+msgstr "禁用托盘图标的悬停特效"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->tooltip
+msgid ""
+"If you have problems with the hover effect or it simply doesn't look good, "
+"you should enable this setting"
+msgstr "如果您有悬停特效的问题或只是看起来不好，您应该启用此设置"

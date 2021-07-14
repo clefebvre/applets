@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-19 14:22+0800\n"
+"PO-Revision-Date: 2017-04-19 14:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. mylauncher@markbokil.com->metadata.json->name
+#: applet.js:64
+msgid "My Launcher"
+msgstr "我的启动器"
+
+#: applet.js:183
+msgid "Edit launcher menu"
+msgstr "编辑启动器菜单"
+
+#: applet.js:190 mylauncher.properties:46
+msgid "Help"
+msgstr "帮助"
+
+#: applet.js:194
+msgid "About"
+msgstr "关于"
+
+#: applet.js:201
+msgid "Tooltips"
+msgstr "提示"
+
+#: mylauncher.properties:6
+msgid "Apps"
+msgstr "应用程序"
+
+#: mylauncher.properties:7
+msgid "Messenger"
+msgstr "通讯"
+
+#: mylauncher.properties:9
+msgid "Office Suite"
+msgstr "办公套件"
+
+#: mylauncher.properties:10
+msgid "Audio Player"
+msgstr "音频播放器"
+
+#: mylauncher.properties:11
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+#: mylauncher.properties:12
+msgid "Image Editor"
+msgstr "图像编辑器"
+
+#: mylauncher.properties:13
+msgid "SVG Editor"
+msgstr "SVG编辑器"
+
+#: mylauncher.properties:16
+msgid "Calculator"
+msgstr "计算器"
+
+#: mylauncher.properties:18
+msgid "My Computer"
+msgstr "我的电脑"
+
+#: mylauncher.properties:19
+msgid "CUPS Printer Admin"
+msgstr "CUPS打印机管理员"
+
+#: mylauncher.properties:20
+msgid "Startup Applications"
+msgstr "启动应用程序"
+
+#: mylauncher.properties:21
+msgid "System Monitor"
+msgstr "系统监视器"
+
+#: mylauncher.properties:22
+msgid "System Settings"
+msgstr "系统设置"
+
+#: mylauncher.properties:23
+msgid "CompizConfig"
+msgstr "Compiz配置"
+
+#: mylauncher.properties:24
+msgid "Cinnamon Settings"
+msgstr "Cinnamon设置"
+
+#: mylauncher.properties:25
+msgid "Screenshot"
+msgstr "屏幕截图"
+
+#: mylauncher.properties:26
+msgid "Search for files"
+msgstr "搜索文件"
+
+#: mylauncher.properties:31
+msgid "Add/Remove Applets"
+msgstr "添加/移除小程序"
+
+#: mylauncher.properties:32
+msgid "Reload Theme"
+msgstr "重新加载主题"
+
+#: mylauncher.properties:33
+msgid "Looking Glass"
+msgstr "Looking Glass"
+
+#: mylauncher.properties:35
+msgid "Restart Cinnamon"
+msgstr "重新启动Cinnamon"
+
+#: mylauncher.properties:36
+msgid "Suspend"
+msgstr "挂起"
+
+#: mylauncher.properties:38
+msgid "Home"
+msgstr "主目录"
+
+#: mylauncher.properties:39
+msgid "Terminal"
+msgstr "终端"
+
+#: mylauncher.properties:40
+msgid "Browser"
+msgstr "浏览器"
+
+#: mylauncher.properties:41
+msgid "Run..."
+msgstr "运行..."
+
+#: mylauncher.properties:42
+msgid "Toggle Desktop"
+msgstr "切换桌面"
+
+#. mylauncher@markbokil.com->metadata.json->description
+msgid "Personal app launcher."
+msgstr "个性应用程序启动器。"

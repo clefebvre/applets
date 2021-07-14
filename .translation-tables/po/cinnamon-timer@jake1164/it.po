@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 11:28+0100\n"
+"PO-Revision-Date: 2019-10-22 20:12+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:215 applet.js:376
+msgid "Timer"
+msgstr "Timer"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:260 applet.js:353
+msgid "Hours"
+msgstr "Ore"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:261 applet.js:353
+msgid "Minutes"
+msgstr "Minuti"
+
+#: applet.js:221 applet.js:353
+msgid "and"
+msgstr "e"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:262 applet.js:353
+msgid "Seconds"
+msgstr "Secondi"
+
+#: applet.js:238
+msgid "Reset"
+msgstr "Reset"
+
+#: applet.js:523
+msgid "Okay"
+msgstr "Okay"
+
+#: applet.js:541
+msgid "Cinnamon Timer"
+msgstr "Timer di Cinnamon"
+
+#. settings-schema.json->page1->title
+msgid "General"
+msgstr "Generale"
+
+#. settings-schema.json->page2->title
+msgid "Sounds"
+msgstr "Suoni"
+
+#. settings-schema.json->page3->title
+#. settings-schema.json->section3->title
+#. settings-schema.json->preset_time->description
+msgid "Preset Times"
+msgstr "Tempi Preimpostati"
+
+#. settings-schema.json->page4->title
+#. settings-schema.json->section4->title
+#. settings-schema.json->slider_intervals->description
+msgid "Slider Intervals"
+msgstr "Intervalli Slider"
+
+#. settings-schema.json->section1->title
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#. settings-schema.json->section2->title
+msgid "Sound Settings"
+msgstr "Impostazioni del Suono"
+
+#. settings-schema.json->confirm-prompt-enable->description
+msgid "Check this to place a prompt on the window when time has elapsed."
+msgstr ""
+"Seleziona questa opzione per posizionare un prompt sulla finestra allo "
+"scadere del tempo."
+
+#. settings-schema.json->confirm-prompt-enable->tooltip
+msgid "Check this to place a prompt on the window when time has elapsed"
+msgstr ""
+"Seleziona questa opzione per posizionare un prompt sulla finestra allo "
+"scadere del tempo"
+
+#. settings-schema.json->message-prompt-enable->description
+#. settings-schema.json->message-prompt-enable->tooltip
+msgid "Display a notification when time has elapsed"
+msgstr "Visualizza una notifica allo scadere del tempo"
+
+#. settings-schema.json->display-message->description
+#. settings-schema.json->display-message->tooltip
+msgid ""
+"Global message displayed in notification windows unless defined in preset "
+"time."
+msgstr ""
+"Messaggio globale visualizzato nelle finestre di notifica, a meno che non "
+"sia definito nel tempo preimpostato."
+
+#. settings-schema.json->sound-prompt-enable->description
+#. settings-schema.json->sound-prompt-enable->tooltip
+msgid "Play a sound when time is elapsed"
+msgstr "Riproduci un suono allo scadere del tempo"
+
+#. settings-schema.json->sound-file->description
+msgid "Full path and filename of alert sound file"
+msgstr "Percorso completo e nome file del file audio di avviso"
+
+#. settings-schema.json->sound-file->tooltip
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr ""
+"Sox deve essere installato. La maggior parte dei tipi di file audio "
+"supportati"
+
+#. settings-schema.json->display-menu-enable->description
+#. settings-schema.json->display-menu-enable->tooltip
+msgid "Show the timer menu when time is elapsed"
+msgstr "Mostra il menù del timer allo scadere del tempo"
+
+#. settings-schema.json->duration-display-enable->description
+#. settings-schema.json->duration-display-enable->tooltip
+msgid "Display remaining time in panel"
+msgstr "Visualizza il tempo rimanente nel pannello"
+
+#. settings-schema.json->alarmtime-display-enable->description
+#. settings-schema.json->alarmtime-display-enable->tooltip
+msgid "Display alarm time in panel"
+msgstr "Visualizza l'ora della sveglia nel pannello"
+
+#. settings-schema.json->alarmtime-format-small->description
+msgid "Format used to display alarm time in the near future"
+msgstr ""
+"Formato utilizzato per visualizzare l'ora della sveglia nel prossimo futuro"
+
+#. settings-schema.json->alarmtime-format-small->tooltip
+msgid ""
+"If the alarm time is less than the minutes specified below away,\n"
+"the alarm time can be displayed with more details\n"
+"(see https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-"
+"format)"
+msgstr ""
+"Se l'ora della sveglia è inferiore ai minuti indicati di seguito,\n"
+"può essere visualizzata con maggiori dettagli\n"
+"(vedi https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-"
+"time-format)"
+
+#. settings-schema.json->alarmtime-format-large->description
+msgid "Format used to display alarm time in the not so near future"
+msgstr ""
+"Formato utilizzato per visualizzare l'ora della sveglia in un futuro non "
+"molto prossimo"
+
+#. settings-schema.json->alarmtime-format-large->tooltip
+msgid ""
+"If the alarm time is more than the minutes specified below away,\n"
+"the alarm time can be displayed with less details\n"
+"(see https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-"
+"format)"
+msgstr ""
+"Se l'ora della sveglia è superiore ai minuti indicati di seguito,\n"
+"può essere visualizzata con meno dettagli\n"
+"(vedi https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-"
+"time-format)"
+
+#. settings-schema.json->alarmtime-format-switchover->units
+msgid "minutes"
+msgstr "minuti"
+
+#. settings-schema.json->alarmtime-format-switchover->description
+msgid "Time when switching from small to large time format"
+msgstr "Ora in cui si passa dal formato piccolo a quello grande"
+
+#. settings-schema.json->alarmtime-format-switchover->tooltip
+msgid "Switch over time between the two formats specified above"
+msgstr "Tempo tra il passaggio dei due formati sopra specificati"
+
+#. settings-schema.json->alarm_end->description
+#. settings-schema.json->alarm_end->tooltip
+#. settings-schema.json->alarm_start->description
+#. settings-schema.json->alarm_start->tooltip
+msgid "Do not change, the time the alarm is set to expire"
+msgstr "Non modificare, è il tempo entro cui la sveglia scadrà"
+
+#. settings-schema.json->message->description
+#. settings-schema.json->message->tooltip
+msgid "Do not change, message being displayed when the current timer expires"
+msgstr ""
+"Non modificare, è il messaggio che verrà visualizzato alla scadenza del "
+"timer corrente"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Minimum"
+msgstr "Minimo"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Maximum"
+msgstr "Massimo"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Step"
+msgstr "Passo"
+
+#. settings-schema.json->preset_time->columns->title
+msgid "Label"
+msgstr "Etichetta"
+
+#. settings-schema.json->preset_time->columns->title
+msgid "Custom Message (overrides global message)"
+msgstr "Messaggio Personalizzato (ignora il messaggio globale)"

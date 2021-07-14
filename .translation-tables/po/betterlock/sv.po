@@ -1,0 +1,77 @@
+# Swedish translation for betterlock.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017-2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: betterlock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 21:34+0200\n"
+"PO-Revision-Date: 2019-02-10 07:10+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:97
+msgid "Num Lock"
+msgstr "Num Lock"
+
+#: applet.js:103
+msgid "Caps Lock"
+msgstr "Caps Lock"
+
+#: applet.js:142
+msgid "Lock Keys"
+msgstr "Tangentlås"
+
+#: applet.js:190
+msgid "Num lock on"
+msgstr "Num Lock på"
+
+#: applet.js:193
+msgid "Num lock off"
+msgstr "Num Lock av"
+
+#: applet.js:201
+msgid "Caps lock on"
+msgstr "Caps Lock på"
+
+#: applet.js:204
+msgid "Caps lock off"
+msgstr "Caps Lock av"
+
+#. betterlock->settings-schema.json->show-notifications->description
+msgid "Show notifications"
+msgstr "Visa aviseringar"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock only"
+msgstr "Endast Num Lock"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Caps Lock only"
+msgstr "Endast Caps Lock"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock and Caps Lock"
+msgstr "Num Lock och Caps Lock"
+
+#. betterlock->settings-schema.json->indicator-type->description
+msgid "Choose which indicator to show"
+msgstr "Välj vilken indikator som skall visas"
+
+#. betterlock->metadata.json->description
+msgid ""
+"Shows whether caps lock/num lock is on, and displays a notification when "
+"these change."
+msgstr "Visar om Caps Lock/Num Lock är på och meddelar när det ändras."
+
+#. betterlock->metadata.json->name
+msgid "Num Lock/Caps Lock indicator with notifications"
+msgstr "Num Lock-/Caps Lock-indikator med avisering"

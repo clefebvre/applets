@@ -1,0 +1,49 @@
+# Bulgarian translation for qredshift@quintao.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Peyu Yovev <spacy00001@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 13:58-0300\n"
+"PO-Revision-Date: 2020-04-18 10:45+0300\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. metadata.json->description
+msgid ""
+"Sets brightness, gamma levels and color temperature with Redshift. This "
+"applet conflicts with redshift-gtk, make sure you remove it."
+msgstr ""
+
+#. settings-schema.json->keyBrightnessUp->description
+msgid "Increase brightness level"
+msgstr ""
+
+#. settings-schema.json->keyBrightnessDown->description
+msgid "Decrease brightness level"
+msgstr ""
+
+#. settings-schema.json->keyTempUp->description
+msgid "Increase temperature level"
+msgstr ""
+
+#. settings-schema.json->keyTempDown->description
+msgid "Decrease temperature level"
+msgstr ""
+
+#. settings-schema.json->keyGammaUp->description
+msgid "Increase gamma level"
+msgstr ""
+
+#. settings-schema.json->keyGammaDown->description
+msgid "Decrease gamma level"
+msgstr ""

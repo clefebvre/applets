@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 14:29+0100\n"
+"PO-Revision-Date: 2019-10-24 19:56+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:77
+msgid "Checking status"
+msgstr "Controllo dello stato"
+
+#: applet.js:108
+msgid "Container does not exist"
+msgstr "Il container non esiste"
+
+#: applet.js:111
+msgid "Containername is in use"
+msgstr "Containername è in uso"
+
+#: applet.js:114
+msgid "Container is running"
+msgstr "Container in esecuzione"
+
+#: applet.js:117
+msgid "Container is paused"
+msgstr "Container in pausa"
+
+#: applet.js:120
+msgid "Container has an error"
+msgstr "Il container ha un errore"
+
+#: applet.js:123
+msgid "Container is not running"
+msgstr "Il container non è in esecuzione"
+
+#: applet.js:129
+msgid "Error, trying to set unknown status!"
+msgstr "Errore, tentativo di impostare uno stato sconosciuto!"
+
+#: applet.js:158
+msgid "Error, don't know what to do on unknown status!"
+msgstr "Errore, non so cosa fare su status sconosciuto!"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->image->description
+msgid "docker image"
+msgstr "immagine docker"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->container->description
+msgid "container name"
+msgstr "nome container"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->parameter->description
+msgid "parameter for the container"
+msgstr "parametro per il container"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->description
+msgid "Activates/Deactivates Docker Container"
+msgstr "Attiva/Disattiva i Container di Docker"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->name
+msgid "Docker Control"
+msgstr "Controlla Docker"

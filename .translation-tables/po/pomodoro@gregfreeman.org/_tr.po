@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:26+0100\n"
+"PO-Revision-Date: 2018-11-06 02:05+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:665
+msgid "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+msgstr ""
+
+#: applet.js:1010
+#, javascript-format
+msgid "A new pomodoro begins in %s."
+msgstr ""
+
+#: applet.js:1021
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1022
+#, javascript-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1024
+#, javascript-format
+msgid "%s and %s"
+msgstr ""
+
+#. settings-schema.json->pomodoro_duration->description
+msgid "Pomodoro Duration:"
+msgstr ""
+
+#. settings-schema.json->short_break_duration->description
+msgid "Short Break Duration:"
+msgstr ""
+
+#. settings-schema.json->long_break_duration->description
+msgid "Long Break Duration:"
+msgstr ""
+
+#. settings-schema.json->pomodori_number->description
+msgid "Number of pomodori before long break:"
+msgstr ""
+
+#. settings-schema.json->use_symbolic_icon->description
+msgid "Use a symbolic icon in the applet panel"
+msgstr ""
+
+#. settings-schema.json->sox-info->description
+msgid "Please install 'sox' and restart Cinnamon to use the sound feature!"
+msgstr ""
+
+#. settings-schema.json->timer_sound_file->description
+msgid "Timer Sound File"
+msgstr ""
+
+#. settings-schema.json->timer_sound_volume->description
+#. settings-schema.json->break_sound_volume->description
+#. settings-schema.json->warn_sound_volume->description
+#. settings-schema.json->start_sound_volume->description
+msgid "Sound volume:"
+msgstr ""
+
+#. settings-schema.json->break_sound_file->description
+msgid "Break Sound File"
+msgstr ""
+
+#. settings-schema.json->warn_sound_delay->description
+msgid "Warn Delay (in secs):"
+msgstr ""
+
+#. settings-schema.json->warn_sound_file->description
+msgid "Warn Sound File"
+msgstr ""
+
+#. settings-schema.json->start_sound_file->description
+msgid "Start Sound File"
+msgstr ""

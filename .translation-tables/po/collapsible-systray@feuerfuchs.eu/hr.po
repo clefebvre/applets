@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Collapsible Systray\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 13:12+0200\n"
+"PO-Revision-Date: 2017-05-19 15:48+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:143
+msgid "Active applications"
+msgstr "Aktivne aplikacije"
+
+#: applet.js:144
+msgid "Inactive applications"
+msgstr "Neaktivne aplikacije"
+
+#: CSCollapseBtn.js:104
+msgid "Collapse"
+msgstr "Sklopi"
+
+#: CSCollapseBtn.js:110
+msgid "Expand"
+msgstr "Proširi"
+
+#: CSCollapseBtn.js:116
+msgid "No icons to hide/reveal"
+msgstr "Nema ikona za sakrivanje/otkrivanje"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->name
+msgid "Collapsible Systray"
+msgstr "Sklopivo obavijesno područje sustava"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->description
+msgid "A replacement for the abandoned System Tray Collapsible Cinnamon applet"
+msgstr "Zamjena za napušteni System Tray Collapsible Cinnamon aplet"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-
+#. hover->description
+msgid "Expand on hover"
+msgstr "Proširi pri prijelazu"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->description
+#, fuzzy
+msgid "Animation duration"
+msgstr "Trajanje animacije: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->units
+msgid "milliseconds"
+msgstr "milisekundi"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->description
+#, fuzzy
+msgid "Collapse on un-hover delay"
+msgstr "Odgoda sklapanja pri napuštanju: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->description
+#, fuzzy
+msgid "Vertical collapse icon"
+msgstr "Okomita ikona sklapanja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->tooltip
+msgid "Enter either the icon's qualified name or it's full path"
+msgstr "Upišite naziv ikone ili njenu putanju"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance-
+#. section->title
+msgid "Appearance"
+msgstr "Izgled"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior-
+#. section->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior->title
+msgid "Behavior"
+msgstr "Ponašanje"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->description
+#, fuzzy
+msgid "Horizontal collapse icon"
+msgstr "Vodoravna ikona sklapanja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->description
+#, fuzzy
+msgid "Horizontal expand icon"
+msgstr "Vodoravna ikona proširivanja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->icon-visibility-
+#. list->description
+msgid "Internal use"
+msgstr "Unutrašnja upotreba"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->description
+msgid "Sort icons by name"
+msgstr "Razvrstaj ikone po nazivu"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->tooltip
+msgid "If unchecked, the order of the icons will be pretty much random"
+msgstr "Ako nije odabrano, redoslijed ikona biti će izmješan"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->description
+msgid "Animation support (disable if icons stop updating)"
+msgstr ""
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->tooltip
+msgid "Disable if you have issues with icons not updating themselves."
+msgstr ""
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->description
+#, fuzzy
+msgid "Vertical expand icon"
+msgstr "Okomita ikona proširivanja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->description
+#, fuzzy
+msgid "Padding of tray icons"
+msgstr "Popunjavanje ikone obavijesnog područja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->units
+msgid "px"
+msgstr "pikseli"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->description
+#, fuzzy
+msgid "Startup collapse delay"
+msgstr "Odgoda pokretanja sklapanja: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->tooltip
+msgid "The delay until the applet automatically collapses upon startup"
+msgstr "Odgoda automatskog sklapanja apleta pri pokretanju"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-delay->units
+msgid "seconds"
+msgstr "sekunde"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->description
+#, fuzzy
+msgid "Expand on hover delay"
+msgstr "Odgoda proširenja pri prijelazu: "
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-
+#. leave->description
+msgid "Collapse on un-hover"
+msgstr "Sklopi pri napuštanju"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->description
+msgid "Disable hover effect for tray icons"
+msgstr "Onemogući efekt prijelaza za ikone obavijesnog područja"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->tooltip
+msgid ""
+"If you have problems with the hover effect or it simply doesn't look good, "
+"you should enable this setting"
+msgstr ""
+"Ako imate problema s efektom prijelaza ili jednostavno ne izgleda dobro, "
+"trebali bi omogućiti ovu postavku"

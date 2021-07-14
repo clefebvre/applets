@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 21:57+0800\n"
+"PO-Revision-Date: 2017-06-26 19:40+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. CommandRunner@appdevsw->metadata.json->name
+#: applet.js:47
+msgid "CommandRunner"
+msgstr "CommandRunner"
+
+#: applet.js:102
+msgid "<no text>"
+msgstr "<ingen tekst>"
+
+#: applet.js:136
+msgid "starting..."
+msgstr "starter …"
+
+#: appletgui.js:142
+msgid "Compare error "
+msgstr "Sammenligningsfejl "
+
+#: appletgui.js:255 appletgui.js:283
+msgid "XML/JSON error: missing tag "
+msgstr "XML/JSON-fejl: manglende mærke "
+
+#: appletgui.js:291
+msgid "xml error:"
+msgstr "xml-fejl:"
+
+#: appletgui.js:316 appletgui.js:325
+msgid "property not found "
+msgstr "egenskab ikke fundet "
+
+#: cmdrunner.js:51
+msgid "undefined command!"
+msgstr "udefineret kommando!"
+
+#: cmdrunner.js:143
+msgid "cannot execute command!"
+msgstr "kan ikke udføre kommandoen!"
+
+#: simplexml.js:259
+msgid "xml parse error at pos "
+msgstr "xml-fortolkningsfejl ved position "
+
+#: simplexml.js:259
+msgid ", level "
+msgstr ", niveau "
+
+#: simplexml.js:259
+msgid ", inside tag "
+msgstr ", indeni mærke "
+
+#. CommandRunner@appdevsw->metadata.json->description
+msgid ""
+"Applet runs script or application periodically and displays its output on "
+"the taskbar"
+msgstr ""
+"Panelprogrammet kører skript eller program regelmæssigt og viser output i "
+"proceslinjen"
+
+#. CommandRunner@appdevsw->settings-
+#. schema.json->form_interval_unit->description
+msgid "Unit"
+msgstr "Enhed"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->tooltip
+msgid "Unit of the interval: seconds or milliseconds"
+msgstr "Intervalenhed: sekunder eller millisekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " milliseconds"
+msgstr " millisekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " seconds"
+msgstr " sekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->description
+msgid "Run interval"
+msgstr "Udførselsinterval"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->tooltip
+msgid "Specifies how often the command is run"
+msgstr "Angiver hvor ofte kommandoen udføres"
+
+#. CommandRunner@appdevsw->settings-schema.json->head_title->description
+msgid "CommandRunner settings"
+msgstr "Indstillinger for CommandRunner"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->description
+msgid "Suffix"
+msgstr "Suffix"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->tooltip
+msgid ""
+"Text or character displayed at the end of the command result (in text mode "
+"only)."
+msgstr ""
+"Tekst eller tegn vist i bagefter kommandoresultatet (kun i teksttilstand)."
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->description
+msgid "Command"
+msgstr "Kommando"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->tooltip
+msgid ""
+"Command or script or applitaction to run.\n"
+"e.g.\n"
+" /home/user/myscript.sh\n"
+" echo Hello\n"
+"\n"
+"The command should print the result to the standard output, which will be "
+"displayed on the taskbar.\n"
+"\n"
+"You can use predefined parameters:\n"
+" $counter$ - number of command executions\n"
+" $appletdir$ - applet directory\n"
+"\n"
+"  e.g. echo \"I was executed $counter$ times\""
+msgstr ""
+"Kommando, skript eller program der skal køres.\n"
+"f.eks.\n"
+" /home/user/mitskript.sh\n"
+" echo Hallo\n"
+"\n"
+"Kommandoen vil udskrive resultatet til standardoutput, som vil blive vist i "
+"proceslinjen.\n"
+"\n"
+"Du kan anvende forudbestemte parametre:\n"
+" $counter$ - antallet af kommandokørsler\n"
+" $appletdir$ - programmappe\n"
+"\n"
+"  f.eks. echo \"Jeg blev udført $counter$ gange\""
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->description
+msgid "Prefix"
+msgstr "Præfiks"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->tooltip
+msgid ""
+"Text or character displayed at the beginning of the command result (in text "
+"mode only)."
+msgstr "Tekst eller tegn vist foran kommandoresultatet (kun i teksttilstand)."
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->description
+msgid "Apply"
+msgstr "Anvend"
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->tooltip
+msgid "Apply changes"
+msgstr "Udfør ændringer"

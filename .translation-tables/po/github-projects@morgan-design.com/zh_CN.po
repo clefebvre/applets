@@ -1,0 +1,212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 17:30+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:45 applet.js:46
+msgid "GitHub Explorer"
+msgstr "Github资源管理器"
+
+#: applet.js:45
+msgid "Attempting to Load your GitHub Repos"
+msgstr "尝试加载您的Github存储库"
+
+#: applet.js:46
+#, c-format
+msgid "Successfully Loaded GitHub Repos for user %s"
+msgstr "成功加载用户%s的Github存储库"
+
+#: applet.js:47
+msgid "ERROR:: GitHub Explorer ::ERROR"
+msgstr "错误:: GitHub资源管理器 ::错误"
+
+#: applet.js:47
+msgid "Failed to load GitHub Repositories! Check applet Configuration"
+msgstr "加载Github存储库失败！请检查小程序配置"
+
+#: applet.js:166
+msgid "Settings"
+msgstr "设置"
+
+#: applet.js:177 applet.js:270
+msgid "Check Applet Configuration"
+msgstr "检查小程序配置"
+
+#: applet.js:266
+msgid "API Rate Exceeded will try again once we are allowed"
+msgstr "超出API频率，允许的时候将会重新尝试"
+
+#: applet.js:281
+msgid "Click here to open GitHub"
+msgstr "点击这里打开GitHub"
+
+#: applet.js:331
+msgid "Open Repo In Browser"
+msgstr "在浏览器中打开存储库"
+
+#: applet.js:339
+msgid "Project Home"
+msgstr "项目主页"
+
+#: applet.js:346
+msgid "Details"
+msgstr "详情"
+
+#: applet.js:349
+msgid "Watchers"
+msgstr "观察者"
+
+#: applet.js:356
+msgid "Open Issues"
+msgstr "打开的问题"
+
+#: applet.js:363
+msgid "Forks"
+msgstr "分支"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->description
+#: applet.js:393
+msgid "Open GitHub Home"
+msgstr "打开GitHub主页"
+
+#: applet.js:401
+msgid "Create A Gist"
+msgstr "创建Gist"
+
+#. github-projects@morgan-design.com->settings-
+#. schema.json->username->description
+msgid "GitHub username:"
+msgstr "GitHub用户名："
+
+#. github-projects@morgan-design.com->settings-schema.json->username->tooltip
+msgid "Set a username which you want to display public repositories for"
+msgstr "设置您想要显示的公共存储库的用户名"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->description
+msgid "Applet Version:"
+msgstr "小程序版本："
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->tooltip
+msgid "Current version installed"
+msgstr "当前版本已安装"
+
+#. github-projects@morgan-design.com->settings-schema.json->head->description
+msgid "User Settings"
+msgstr "用户设置"
+
+#. github-projects@morgan-design.com->settings-schema.json->head2->description
+msgid "Version Details"
+msgstr "版本详情"
+
+#. github-projects@morgan-design.com->settings-schema.json->head1->description
+msgid "Usage Settings"
+msgstr "用法设置"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->description
+msgid ""
+"Check this to enable notifications about changes to Watchers, Forks and "
+"Issues"
+msgstr "选中此项启用有关观察者、分支和问题变更的通知"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->tooltip
+msgid "Checking this will enable more notification messages"
+msgstr "选中此项将启用更多通知消息"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->description
+msgid "Open Developer Home"
+msgstr "打开开发者主页"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->tooltip
+msgid "Open morgan-design.com - my personal blog"
+msgstr "打开morgan-design.com - 我的私人博客"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->description
+msgid "Refresh Interval:"
+msgstr "刷新间隔："
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->tooltip
+msgid ""
+"Change the amount of time between checking GitHub for changes to your "
+"Repositories"
+msgstr "更改检查Github更改到您的存储库之间的时间量"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->description
+msgid "Check this to enable automatic refreshing"
+msgstr "选中此项启用自动刷新"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->tooltip
+msgid ""
+"Checking this will mean the applet will update itself according to your "
+"refresh interval"
+msgstr "选中此项将意味着小程序将根据您的刷新间隔自己更新"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->description
+msgid "Visit Cinnamon Applet Home"
+msgstr "访问Cinnamon小程序主页"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->tooltip
+msgid "Open cinnamon.com - rate the application"
+msgstr "打开cinnamon.com - 为应用程序评分"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->description
+msgid "Check this to enable lots of logging in Looking Glass"
+msgstr "选中此项在Looking Glass启用详细日志记录"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->tooltip
+msgid "Checking this will enable lots of logging"
+msgstr "选中此项将启用详细日志记录"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->description
+msgid "Check this show the number of open issues next to the repository"
+msgstr "选项此项显示仓库旁打开问题的数量"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->tooltip
+msgid "Checking this show the number of issues next to each repository"
+msgstr "选项此项显示每个仓库旁问题的数量"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->tooltip
+msgid "Open github.com - fork the code or add features"
+msgstr "打开github.com - 创建代码分支或添加功能"
+
+#. github-projects@morgan-design.com->metadata.json->description
+msgid "Click on the applet to explore your Public Github repositories"
+msgstr "点击小程序浏览您的公共Github存储库"
+
+#. github-projects@morgan-design.com->metadata.json->name
+msgid "Github Explorer"
+msgstr "Github资源管理器"
+
+#~ msgid "Successfully Loaded GitHub Repos for user"
+#~ msgstr "成功加载用户的Github存储库"
+
+#~ msgid "Check applet Configuration"
+#~ msgstr "检查小程序配置"

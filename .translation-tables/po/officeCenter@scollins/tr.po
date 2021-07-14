@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 12:45+0100\n"
+"PO-Revision-Date: 2017-06-19 18:11+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:165
+msgid "Clear"
+msgstr "Temizle"
+
+#: applet.js:221
+msgid "Office"
+msgstr "Ofis"
+
+#: applet.js:301
+msgid "LAUNCHERS"
+msgstr "BAŞLATICILAR"
+
+#: applet.js:317
+msgid "DOCUMENTS"
+msgstr "BELGELER"
+
+#: applet.js:328
+msgid "Open folder"
+msgstr "Dizin aç"
+
+#: applet.js:354
+msgid "RECENT DOCUMENTS"
+msgstr "SON BELGELER"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panel simgesi"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr ""
+"Simge adını veya doğrudan yolu kabul eder (sembolik simgeleri destekler)"
+
+#. officeCenter@scollins->settings-schema.json->documents->description
+msgid "Documents"
+msgstr "Belgeler"
+
+#. officeCenter@scollins->settings-schema.json->docMax->description
+msgid "Limit number of documents shown to"
+msgstr "Son belgelerin gösterileceği limit sayısı"
+
+#. officeCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Menü kısayol tuşu"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->description
+msgid "Icon size"
+msgstr "Simge boyutu"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. officeCenter@scollins->settings-schema.json->recurseDocuments->description
+msgid "Include subfolders"
+msgstr "Alt dizinleri içer"
+
+#. officeCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Gösterme sayısı"
+
+#. officeCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#. officeCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Panel metni"
+
+#. officeCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Alternatif dizin kullan"
+
+#. officeCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Son belgeleri göster"
+
+#. officeCenter@scollins->settings-schema.json->showDocuments->description
+msgid "Show contents of documents folder"
+msgstr "Belgeler dizininin içeriğini göster"
+
+#. officeCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Son Belgeler"
+
+#. officeCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your office needs"
+msgstr "Tüm ofis gereksinimleriniz için kolay ve hızlı bir kaynak sağlar"
+
+#. officeCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Yazar"
+
+#. officeCenter@scollins->metadata.json->comments
+msgid ""
+"Office Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your office programs and documents. Feel free "
+"to contribute by submitting pull requests, bug reports and feature requests "
+"to my github repo."
+msgstr ""
+"Ofis Merkezi, ofis programlarınızın ve belgelerinizin tümüne kolaylıkla "
+"erişmenizi sağlayan zengin özellikli, çapraz platform Cinnamon "
+"uygulamacığıdır. Github deposuna birleştirme istekleri, hata raporları ve "
+"özellik talepleri göndererek katkıda bulunmaktan çekinmeyin."
+
+#. officeCenter@scollins->metadata.json->name
+msgid "Office Center"
+msgstr "Ofis Merkezi"

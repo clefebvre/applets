@@ -1,0 +1,118 @@
+# Swedish translation for commandLauncher@scollins.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: commandLauncher@scollins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 14:01+0100\n"
+"PO-Revision-Date: 2017-05-10 21:21+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. commandLauncher@scollins->metadata.json->name
+#: applet.js:106 applet.js:159
+msgid "Command Launcher"
+msgstr "Kommandostartare"
+
+#: applet.js:106
+msgid "Process started"
+msgstr "Åtgärden startades"
+
+#. commandLauncher@scollins->settings-schema.json->command->description
+#: applet.js:106 applet.js:159
+msgid "Command"
+msgstr "Kommando"
+
+#: applet.js:107 applet.js:160
+msgid "Process Id"
+msgstr "Process-ID"
+
+#: applet.js:110
+#, c-format
+msgid "Error while trying to run \"%s\""
+msgstr "Ett fel inträffade vid försök att köra \"%s\""
+
+#: applet.js:159
+msgid "Process ended"
+msgstr "Åtgärden avslutades"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Panelikon"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->tooltip
+msgid ""
+"Supports both icon name and icon path.\n"
+"To use a symbolic icon, include '-symbolic' (or '-symbolic.svg') at the end."
+msgstr ""
+"Stödjer både ikonnamn och ikonsökväg.\n"
+"För att använda en symbolisk ikon.\n"
+"Inkludera \"-symbolic\" eller \"-symbolic.svg\" i slutet, för att använda "
+"symbolisk ikon."
+
+#. commandLauncher@scollins->settings-schema.json->useRoot->description
+msgid "Run as root"
+msgstr "Kör som root"
+
+#. commandLauncher@scollins->settings-schema.json->apearance->description
+msgid "Appearance and behavior"
+msgstr "Utseende och beteende"
+
+#. commandLauncher@scollins->settings-schema.json->commandTitle->description
+msgid "Command settings"
+msgstr "Kommandoinställningar"
+
+#. commandLauncher@scollins->settings-schema.json->useAltEnv->description
+msgid "Run in alternate directory"
+msgstr "Kör i en alternativ mapp"
+
+#. commandLauncher@scollins->settings-
+#. schema.json->showNotifications->description
+msgid "Show notifications on completion"
+msgstr "Visa avisering vid slutfört kommando"
+
+#. commandLauncher@scollins->settings-schema.json->keyLaunch->description
+msgid "Keyboard shortcut"
+msgstr "Tangentbordsgenväg"
+
+#. commandLauncher@scollins->settings-schema.json->altEnv->description
+msgid "Environment path"
+msgstr "Miljösökväg"
+
+#. commandLauncher@scollins->settings-schema.json->tooltipText->description
+msgid "Tooltip"
+msgstr "Verktygsbeskrivning"
+
+#. commandLauncher@scollins->metadata.json->description
+msgid "Lets you to run command-line commands with the click of a button"
+msgstr "Låter dig köra kommandon med ett knappklick"
+
+#. commandLauncher@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Author"
+
+#. commandLauncher@scollins->metadata.json->comments
+msgid ""
+"This is a simple multi-instance applet for Cinnamon which allows the user to "
+"launch commands as though from a command prompt with the click of a button. "
+"Unlike a program launcher, which typically uses a .desktop to launch a "
+"program, Command Launcher uses a direct command-line command. This means you "
+"can use any command you could use from a terminal (eg run a script, launch "
+"program with complicated command-line arguments, etc)."
+msgstr ""
+"Detta är ett enkelt multiinstansprogram för Cinnamon, som låter användaren "
+"köra kommandon som från en terminal, med ett knapptryck. Olikt en "
+"programstartare, som vanligen använder en .desktop-fil för att starta ett "
+"program, använder kommandostartaren en direkt kommandorad. Det innebär att "
+"du kan använda valfritt kommando som annars kan användas i terminal "
+"(exempelvis köra ett skript, starta ett program med komplicerade argument "
+"etc.)"

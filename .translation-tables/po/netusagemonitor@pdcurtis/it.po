@@ -1,0 +1,879 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 12:29+0100\n"
+"PO-Revision-Date: 2019-10-24 22:33+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid "Some Dependencies not Installed"
+msgstr "Alcune dipendenze non sono installate!"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid ""
+"You appear to be missing some of the programs or libraries required for this "
+"applet to run.\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+"Sembra che manchino alcuni dei programmi o delle librerie necessari per "
+"l'esecuzione di questa applet.\n"
+"\n"
+"Si prega di leggere il file della guida su come installarli."
+
+#: applet.js:83
+msgid "Ok"
+msgstr "OK"
+
+#: applet.js:346 4.0/applet.js:348 3.2/applet.js:346
+msgid "No Interface being Monitored - right click to select"
+msgstr ""
+"Nessuna interfaccia monitorata: fare clic con il tasto destro per selezionare"
+
+#: applet.js:476 4.0/applet.js:494 3.2/applet.js:492
+msgid ""
+"NOTE: The last time the network traffic statistics were updated by vnStat is "
+"at the top right"
+msgstr ""
+"NOTA: l'ultima volta che le statistiche sul traffico di rete sono state "
+"aggiornate da vnStat è in alto a destra"
+
+#: applet.js:481 4.0/applet.js:499 3.2/applet.js:497
+msgid ""
+"If no Interface is Active, the last available information has been displayed"
+msgstr ""
+"Se nessuna interfaccia è attiva, sono state visualizzate le ultime "
+"informazioni disponibili"
+
+#: applet.js:488 4.0/applet.js:506 3.2/applet.js:504
+msgid ""
+"ERROR: Please make sure vnstat and vnstati are installed and that the vnstat "
+"daemon is running!"
+msgstr ""
+"ERRORE: Assicurarsi che vnstat e vnstati siano installati e che il demone "
+"vnstat sia in esecuzione!"
+
+#: applet.js:501 4.0/applet.js:519 3.2/applet.js:517
+msgid "Cumulative Data Usage Information:"
+msgstr "Informazioni sull'utilizzo dati cumulativo:"
+
+#: applet.js:528 4.0/applet.js:546 3.2/applet.js:544
+msgid "Current Connection and Interface Information"
+msgstr "Informazioni sulla connessione e sull'interfaccia correnti"
+
+#: applet.js:540 4.0/applet.js:558 3.2/applet.js:556
+msgid "No network monitored. Please select one right-clicking the applet."
+msgstr ""
+"Nessuna rete monitorata. Seleziona uno facendo clic con il pulsante destro "
+"del mouse sull'applet."
+
+#: applet.js:547 4.0/applet.js:565 3.2/applet.js:563
+msgid "Note: Alerts not enabled in Settings"
+msgstr "Nota: avvisi non abilitati in Impostazioni"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+msgid "Alert level (Orange):"
+msgstr "Livello di avviso (arancione):"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+#, no-javascript-format
+msgid "% of Data Limit of"
+msgstr "% del limite di dati di"
+
+#: applet.js:569 applet.js:571 applet.js:577 applet.js:579 applet.js:585
+#: 4.0/applet.js:587 4.0/applet.js:589 4.0/applet.js:595 4.0/applet.js:597
+#: 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:587 3.2/applet.js:593
+#: 3.2/applet.js:595 3.2/applet.js:601
+msgid "Cumulative Data Use"
+msgstr "Utilizzo cumulativo dei dati"
+
+#: applet.js:569 applet.js:577 applet.js:585 4.0/applet.js:587
+#: 4.0/applet.js:595 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:593
+#: 3.2/applet.js:601
+msgid "with offset of"
+msgstr "con offset di"
+
+#: applet.js:608 4.0/applet.js:626 3.2/applet.js:624
+msgid "Select a network manager interface to be monitored:"
+msgstr "Seleziona un'interfaccia del gestore di rete da monitorare:"
+
+#: applet.js:621 4.0/applet.js:639 3.2/applet.js:637
+msgid "(Active)"
+msgstr "(Attiva)"
+
+#: applet.js:634 4.0/applet.js:652 3.2/applet.js:650
+msgid "or Select an independent interface to be monitored:"
+msgstr "oppure Seleziona un'interfaccia indipendente da monitorare:"
+
+#: applet.js:638 4.0/applet.js:656 3.2/applet.js:654
+msgid "for most USB Mobile Internet Modems)"
+msgstr "per la maggior parte dei modem USB per Internet mobile)"
+
+#: applet.js:650 4.0/applet.js:668 3.2/applet.js:666
+msgid "for Android Bluetooth PAN Connections)"
+msgstr "per connessioni PAN Bluetooth Android)"
+
+#: applet.js:660 4.0/applet.js:678 3.2/applet.js:676
+msgid "Check for Changes in Devices and Display Options"
+msgstr "Controlla le modifiche in Dispositivi e Opzioni di Visualizzazione"
+
+#: applet.js:668 4.0/applet.js:686 3.2/applet.js:684
+msgid "Toggle Display from ↓ and ↑ to ⇵"
+msgstr "Cambia visualizzazione da ↓ e ↑ a ⇵"
+
+#: applet.js:682 applet.js:692 applet.js:702 4.0/applet.js:700
+#: 4.0/applet.js:710 4.0/applet.js:720 3.2/applet.js:698 3.2/applet.js:708
+#: 3.2/applet.js:718
+msgid "Reset Cumulative Data Usage"
+msgstr "Ripristina l'utilizzo cumulativo dei dati"
+
+#: applet.js:715 4.0/applet.js:733 3.2/applet.js:731
+msgid "Housekeeping and System Sub Menu"
+msgstr "Sottomenu Pulizia e Sistema"
+
+#: applet.js:718 4.0/applet.js:736 3.2/applet.js:734
+msgid "Open System Monitor"
+msgstr "Apri Monitor di Sistema"
+
+#: applet.js:724 4.0/applet.js:742 3.2/applet.js:740
+msgid "View the Changelog"
+msgstr "Visualizza il Changelog"
+
+#: applet.js:730 4.0/applet.js:748 3.2/applet.js:746
+msgid "View the Help File"
+msgstr "Apri il file di Aiuto"
+
+#: applet.js:739 4.0/applet.js:757 3.2/applet.js:755
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Apri stylesheet.css  (funzione avanzata)"
+
+#: applet.js:745 4.0/applet.js:763 3.2/applet.js:761
+msgid "Open alertScript  (Advanced Function)"
+msgstr "Apri alertScript  (Funzione avanzata)"
+
+#: applet.js:751 4.0/applet.js:769 3.2/applet.js:767
+msgid "Open suspendScript  (Advanced Function)"
+msgstr "Apri suspenScript  (funzione avanzata)"
+
+#: applet.js:759 4.0/applet.js:777 3.2/applet.js:775
+msgid "Test alertScript  (Advanced Test Function)"
+msgstr "Test alertScript  (funzione di test avanzata)"
+
+#: applet.js:765 4.0/applet.js:783 3.2/applet.js:781
+msgid "Test suspendScript  (Advanced Test Function)"
+msgstr "Test suspendScript  (funzione di test avanzata)"
+
+#: applet.js:771 4.0/applet.js:789 3.2/applet.js:787
+msgid "Test Crisis Management Function (Advanced Test Function)"
+msgstr ""
+"Test della funzione di gestione delle crisi (funzione di test avanzata)"
+
+#: applet.js:841
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using right click -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet"
+msgstr ""
+"IL LIMITE DI UTILIZZO DEI DATI È STATO SUPERATO\n"
+"\n"
+"  Impostare un nuovo limite usando il tasto destro -> Impostazioni\n"
+"\n"
+"o disconnettersi utilizzando l'applet di Network Manager"
+
+#: applet.js:914 4.0/applet.js:930 3.2/applet.js:928
+msgid "Interface:"
+msgstr "Interfaccia:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Downloaded:"
+msgstr "Scaricati:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Uploaded:"
+msgstr "Caricati:"
+
+#: 4.0/applet.js:256
+msgid "Network Usage Monitor with Alerts - Stylesheet persistence active"
+msgstr ""
+
+#: 4.0/applet.js:842 3.2/applet.js:840
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+"All Network connections managed by the Network Manager have been Disabled\n"
+"\n"
+"You will need to use the Network Manager Applet to Re-enable them\n"
+"when the data usage problem has been resolved\n"
+"\n"
+" Some connections using ppp0 may not have been disabled or may need to be "
+"restarted manually"
+msgstr ""
+
+#: 4.0/applet.js:859 3.2/applet.js:857
+#, fuzzy
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using \n"
+"\n"
+"a right click on The Network Data Management Applet -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet\n"
+"\n"
+msgstr ""
+"IL LIMITE DI UTILIZZO DEI DATI È STATO SUPERATO\n"
+"\n"
+"  Impostare un nuovo limite usando il tasto destro -> Impostazioni\n"
+"\n"
+"o disconnettersi utilizzando l'applet di Network Manager"
+
+#. metadata.json->name
+msgid "Network Data Usage Monitor"
+msgstr "Monitoraggio dell'Utilizzo dei Dati di Rete"
+
+#. metadata.json->description
+msgid ""
+"A Comprehensive Data Usage Monitor with alerts and cumulative data functions"
+msgstr ""
+"Un monitoraggio completo dell'utilizzo dei dati con avvisi e funzioni di "
+"dati cumulativi"
+
+#. settings-schema.json->head->description
+#. 4.0->settings-schema.json->section0->title
+#. 3.2->settings-schema.json->section0->title
+msgid "General Settings for the Network Usage Monitor Applet"
+msgstr ""
+"Impostazioni generali per l'applet Monitoraggio dell'Utilizzo dei Dati di "
+"Rete"
+
+#. settings-schema.json->refreshInterval-spinner->units
+#. 4.0->settings-schema.json->refreshInterval-spinner->units
+#. 3.2->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "secondi"
+
+#. settings-schema.json->refreshInterval-spinner->description
+#. 4.0->settings-schema.json->refreshInterval-spinner->description
+#. 3.2->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Intervallo di Aggiornamento del Display:"
+
+#. settings-schema.json->refreshInterval-spinner->tooltip
+#. 4.0->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.2->settings-schema.json->refreshInterval-spinner->tooltip
+msgid "Increase or decrease this spinner value to change the Refresh Interval"
+msgstr ""
+"Aumentare o ridurre questo valore di spinner per modificare l'intervallo di "
+"aggiornamento"
+
+#. settings-schema.json->decimalsToShow-spinner->units
+#. 4.0->settings-schema.json->decimalsToShow-spinner->units
+#. 3.2->settings-schema.json->decimalsToShow-spinner->units
+msgid "decimal places"
+msgstr "posizioni decimali"
+
+#. settings-schema.json->decimalsToShow-spinner->description
+#. 4.0->settings-schema.json->decimalsToShow-spinner->description
+#. 3.2->settings-schema.json->decimalsToShow-spinner->description
+msgid "Display Resolution:"
+msgstr "Risoluzione della Visualizzazione:"
+
+#. settings-schema.json->decimalsToShow-spinner->tooltip
+#. 4.0->settings-schema.json->decimalsToShow-spinner->tooltip
+#. 3.2->settings-schema.json->decimalsToShow-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the change the number of "
+"decimal places displayed"
+msgstr ""
+"Aumentare o ridurre questo valore di spinner per apportare la modifica al "
+"numero di posizioni decimali visualizzate"
+
+#. settings-schema.json->monitored-interface->description
+#. 4.0->settings-schema.json->monitored-interface->description
+#. 3.2->settings-schema.json->monitored-interface->description
+msgid "Last Interface Monitored - no need to change as set by Applet:"
+msgstr ""
+"Ultima interfaccia monitorata - non è necessario modificare come impostato "
+"dall'applet:"
+
+#. settings-schema.json->monitored-interface->tooltip
+#. 4.0->settings-schema.json->monitored-interface->tooltip
+#. 3.2->settings-schema.json->monitored-interface->tooltip
+msgid ""
+"This is normally set by the Applet and should not be changed here except for "
+"experimental or diagnostic use"
+msgstr ""
+"Questo è normalmente impostato dall'Applet e non deve essere modificato qui, "
+"tranne per uso sperimentale o diagnostico"
+
+#. settings-schema.json->useDefaultInterface->description
+#. 4.0->settings-schema.json->useDefaultInterface->description
+#. 3.2->settings-schema.json->useDefaultInterface->description
+msgid ""
+"Use the following Interface as default to monitor when no other Interface is "
+"Active at start up :"
+msgstr ""
+"Utilizzare la seguente interfaccia come impostazione predefinita per "
+"monitorare quando nessun'altra interfaccia è attiva all'avvio:"
+
+#. settings-schema.json->useDefaultInterface->tooltip
+#. 4.0->settings-schema.json->useDefaultInterface->tooltip
+#. 3.2->settings-schema.json->useDefaultInterface->tooltip
+msgid ""
+"Checking this box allows you to set up to use an interface for connections "
+"which is not always active at start up such as Wifi or Mobile Broadband - "
+"usually wlan0 or ppp0. If not checked the first active interface know to the "
+"Network Monitor will be used or PPP0 if that was the last connection."
+msgstr ""
+"Selezionando questa casella è possibile configurare un'interfaccia per le "
+"connessioni che non è sempre attiva all'avvio come Wifi o Mobile Broadband - "
+"di solito wlan0 o ppp0. In caso contrario, verrà utilizzata la prima "
+"interfaccia attiva di Network Monitor o PPP0 se questa era l'ultima "
+"connessione."
+
+#. settings-schema.json->defaultInterface->description
+#. 4.0->settings-schema.json->defaultInterface->description
+#. 3.2->settings-schema.json->defaultInterface->description
+msgid "Default Interface (usually ppp0 or wlan0):"
+msgstr "Interfaccia predefinita (di solito ppp0 o wlan0):"
+
+#. settings-schema.json->defaultInterface->tooltip
+#. 4.0->settings-schema.json->defaultInterface->tooltip
+#. 3.2->settings-schema.json->defaultInterface->tooltip
+msgid ""
+"The Default  interface to use for connections which are not always active at "
+"start up such as Mobile Broadband or Wifi - usually set to ppp0 or wlan0"
+msgstr ""
+"L'interfaccia predefinita da utilizzare per le connessioni che non sono "
+"sempre attive all'avvio come Mobile Broadband o Wifi - di solito impostata "
+"su ppp0 o wlan0"
+
+#. settings-schema.json->compactDisplay->description
+#. 4.0->settings-schema.json->compactDisplay->description
+#. 3.2->settings-schema.json->compactDisplay->description
+msgid "Use a Compact Display with total traffic only"
+msgstr "Utilizza una visualizzazione compatta con solo traffico totale"
+
+#. settings-schema.json->compactDisplay->tooltip
+#. 4.0->settings-schema.json->compactDisplay->tooltip
+#. 3.2->settings-schema.json->compactDisplay->tooltip
+msgid "This just displays the total of upload and download rate in the applet"
+msgstr ""
+"Questo mostra solo la percentuale totale di upload e download nell'applet"
+
+#. settings-schema.json->appletWidthSetting->units
+#. 4.0->settings-schema.json->appletWidthSetting->units
+#. 3.2->settings-schema.json->appletWidthSetting->units
+msgid "pixels"
+msgstr "pixels"
+
+#. settings-schema.json->appletWidthSetting->description
+#. 4.0->settings-schema.json->appletWidthSetting->description
+#. 3.2->settings-schema.json->appletWidthSetting->description
+msgid ""
+"Applet Width Adjustment (Only for fine tuning - normally leave alone at 180:"
+msgstr ""
+"Regolazione larghezza applet (solo per la regolazione fine - normalmente "
+"lasciare da solo a 180:"
+
+#. settings-schema.json->appletWidthSetting->tooltip
+#. 4.0->settings-schema.json->appletWidthSetting->tooltip
+#. 3.2->settings-schema.json->appletWidthSetting->tooltip
+msgid ""
+"Fine tuning of applet width for changes in theme and decimal places "
+"displayed - needs to be used in conjuction with changes in stylesheet.css. "
+"Value is halved when Compact Display selected"
+msgstr ""
+"La regolazione fine della larghezza dell'applet per le modifiche del tema e "
+"delle posizioni decimali visualizzate - deve essere utilizzata in "
+"combinazione con le modifiche in stylesheet.css. Il valore viene dimezzato "
+"quando è selezionato Display compatto"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Mbytes"
+msgstr "Mbytes"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Gbytes"
+msgstr "Gbytes"
+
+#. settings-schema.json->dataUnit->description
+#. 4.0->settings-schema.json->dataUnit->description
+#. 3.2->settings-schema.json->dataUnit->description
+msgid "Data Unit used to set Alert Levels and Cumulative Offsets"
+msgstr ""
+"Unità dati utilizzata per impostare i livelli di avviso e gli offset "
+"cumulativi"
+
+#. settings-schema.json->dataUnit->tooltip
+#. 4.0->settings-schema.json->dataUnit->tooltip
+#. 3.2->settings-schema.json->dataUnit->tooltip
+msgid ""
+"These are the units which will be used for setting the alert limit and "
+"cumulative offsets."
+msgstr ""
+"Queste sono le unità che verranno utilizzate per impostare il limite di "
+"avviso e gli offset cumulativi."
+
+#. settings-schema.json->head1->description
+#. 4.0->settings-schema.json->section1->title
+#. 3.2->settings-schema.json->section1->title
+msgid ""
+"Settings specific to Data Usage and Alert functions for Current Connection"
+msgstr ""
+"Impostazioni specifiche per l'uso dei dati e le funzioni di avviso per la "
+"connessione corrente"
+
+#. settings-schema.json->useTotalLimit->description
+#. 4.0->settings-schema.json->useTotalLimit->description
+#. 3.2->settings-schema.json->useTotalLimit->description
+msgid "Check this box to use the Alert function"
+msgstr "Seleziona questa casella per usare la funzione Alert"
+
+#. settings-schema.json->useTotalLimit->tooltip
+#. 4.0->settings-schema.json->useTotalLimit->tooltip
+#. 3.2->settings-schema.json->useTotalLimit->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link"
+msgstr ""
+"Questo è utile per la banda larga mobile o dove potresti pagare per i dati "
+"su un collegamento Wifi"
+
+#. settings-schema.json->totalLimit->units
+#. settings-schema.json->cumulativeOffset1->units
+#. settings-schema.json->cumulativeOffset2->units
+#. settings-schema.json->cumulativeOffset3->units
+#. 4.0->settings-schema.json->totalLimit->units
+#. 4.0->settings-schema.json->cumulativeOffset1->units
+#. 4.0->settings-schema.json->cumulativeOffset2->units
+#. 4.0->settings-schema.json->cumulativeOffset3->units
+#. 3.2->settings-schema.json->totalLimit->units
+#. 3.2->settings-schema.json->cumulativeOffset1->units
+#. 3.2->settings-schema.json->cumulativeOffset2->units
+#. 3.2->settings-schema.json->cumulativeOffset3->units
+msgid "Mbytes or Gbytes as set above"
+msgstr "Mbyte o Gbyte come impostato sopra"
+
+#. settings-schema.json->totalLimit->description
+#. 4.0->settings-schema.json->totalLimit->description
+#. 3.2->settings-schema.json->totalLimit->description
+msgid "Data Limit before a Red Warning background is displayed in the Applet"
+msgstr ""
+"Limite dati prima della visualizzazione di uno sfondo di avviso rosso "
+"nell'applet"
+
+#. settings-schema.json->totalLimit->tooltip
+#. 4.0->settings-schema.json->totalLimit->tooltip
+#. 3.2->settings-schema.json->totalLimit->tooltip
+msgid ""
+"This is the Total Data which can be uploaded and downloaded before the "
+"background of the applet goes red - by default it goes orange at 80% of this "
+"- reset by disconnection, reboot and/or suspend depending on system"
+msgstr ""
+"Questi sono i dati totali che possono essere caricati e scaricati prima che "
+"lo sfondo dell'applet diventi rosso - per impostazione predefinita diventa "
+"arancione all'80% di questo - ripristinato mediante disconnessione, riavvio "
+"e/o sospensione a seconda del sistema"
+
+#. settings-schema.json->alertPercentage->description
+#. 4.0->settings-schema.json->alertPercentage->description
+#. 3.2->settings-schema.json->alertPercentage->description
+msgid "Percentage of Data Limit at which Orange Warning Displayed"
+msgstr ""
+"Percentuale del limite di dati a cui viene visualizzato l'avviso arancione"
+
+#. settings-schema.json->alertPercentage->tooltip
+#. 4.0->settings-schema.json->alertPercentage->tooltip
+#. 3.2->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Data Limit at which Orange Warning Background is displayed - "
+"It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"Percentuale del limite di dati in corrispondenza del quale viene "
+"visualizzato lo sfondo di avviso arancione: viene anche mostrato e può "
+"essere regolato nel menu di scelta rapida dell'applet"
+
+#. settings-schema.json->head2->description
+#. 4.0->settings-schema.json->section2->title
+#. 3.2->settings-schema.json->section2->title
+msgid "Settings specific to Cumulative Data Usage functions"
+msgstr "Impostazioni specifiche delle funzioni di utilizzo cumulativo dei dati"
+
+#. settings-schema.json->cumulativeInterface1->description
+#. 4.0->settings-schema.json->cumulativeInterface1->description
+#. 3.2->settings-schema.json->cumulativeInterface1->description
+msgid ""
+"Interface 1 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfaccia 1 per il monitoraggio dell'utilizzo cumulativo dei dati: null "
+"inibirà la visualizzazione"
+
+#. settings-schema.json->cumulativeInterface1->tooltip
+#. settings-schema.json->cumulativeInterface2->tooltip
+#. settings-schema.json->cumulativeInterface3->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface1->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface2->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface3->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface1->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface2->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface3->tooltip
+msgid ""
+"This is normally set to ppp0 or wlan0 to allow monitoring data usage during "
+"a period by mobile internet or Wifi charged by the Mbyte"
+msgstr ""
+"Questo è normalmente impostato su ppp0 o wlan0 per consentire il "
+"monitoraggio dell'utilizzo dei dati durante un periodo tramite internet "
+"mobile o Wifi addebitato da Mbyte"
+
+#. settings-schema.json->cumulativeOffset1->description
+#. 4.0->settings-schema.json->cumulativeOffset1->description
+#. 3.2->settings-schema.json->cumulativeOffset1->description
+msgid "Offset applied to Cumulative Data Usage 1"
+msgstr "Offset applicato all'utilizzo cumulativo dei dati 1"
+
+#. settings-schema.json->cumulativeOffset1->tooltip
+#. settings-schema.json->cumulativeOffset2->tooltip
+#. settings-schema.json->cumulativeOffset3->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset1->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset2->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset3->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset1->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset2->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset3->tooltip
+msgid ""
+"This can be used to offset the data usage to take into account usage on "
+"other machines or correct for other causes"
+msgstr ""
+"Questo può essere usato per compensare l'utilizzo dei dati per tener conto "
+"dell'utilizzo su altre macchine o correggere per altre cause"
+
+#. settings-schema.json->cumulativeInterface2->description
+#. 4.0->settings-schema.json->cumulativeInterface2->description
+#. 3.2->settings-schema.json->cumulativeInterface2->description
+msgid ""
+"Interface 2 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfaccia 2 per il monitoraggio dell'utilizzo cumulativo dei dati: null "
+"inibirà la visualizzazione"
+
+#. settings-schema.json->cumulativeOffset2->description
+#. 4.0->settings-schema.json->cumulativeOffset2->description
+#. 3.2->settings-schema.json->cumulativeOffset2->description
+msgid "Offset applied to Cumulative Data Usage 2"
+msgstr "Offset applicato all'utilizzo cumulativo dei dati 2"
+
+#. settings-schema.json->cumulativeInterface3->description
+#. 4.0->settings-schema.json->cumulativeInterface3->description
+#. 3.2->settings-schema.json->cumulativeInterface3->description
+msgid ""
+"Interface 3 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfaccia 3 per il monitoraggio dell'utilizzo cumulativo dei dati: null "
+"inibirà la visualizzazione"
+
+#. settings-schema.json->cumulativeOffset3->description
+#. 4.0->settings-schema.json->cumulativeOffset3->description
+#. 3.2->settings-schema.json->cumulativeOffset3->description
+msgid "Offset applied to Cumulative Data Usage 3"
+msgstr "Offset applicato all'utilizzo cumulativo dei dati 3"
+
+#. settings-schema.json->head3->description
+#. 4.0->settings-schema.json->section3->title
+#. 3.2->settings-schema.json->section3->title
+msgid "Settings specific to Long Term Traffic Statistics"
+msgstr ""
+"Impostazioni specifiche per le statistiche del traffico a lungo termine"
+
+#. settings-schema.json->useVnstat->description
+#. 4.0->settings-schema.json->useVnstat->description
+#. 3.2->settings-schema.json->useVnstat->description
+msgid ""
+"Display long term traffic statistics (vnstat and vnstati Must be installed). "
+msgstr ""
+"Visualizza statistiche sul traffico a lungo termine (vnstat e vnstati devono "
+"essere installati)."
+
+#. settings-schema.json->useVnstat->tooltip
+#. 4.0->settings-schema.json->useVnstat->tooltip
+#. 3.2->settings-schema.json->useVnstat->tooltip
+msgid ""
+"This requires vnstat and vnstati to be installed prior to being enabled."
+msgstr ""
+"Ciò richiede che vnstat e vnstati siano installati prima di essere abilitati."
+
+#. settings-schema.json->head4->description
+msgid "Settings for response to exceeding the current data usage limits"
+msgstr ""
+"Impostazioni per la risposta al superamento degli attuali limiti di utilizzo "
+"dei dati"
+
+#. settings-schema.json->useCrisisManagement->description
+#. 4.0->settings-schema.json->useCrisisManagement->description
+#. 3.2->settings-schema.json->useCrisisManagement->description
+msgid "Take action when the current data usage limit is exceed"
+msgstr "Agisci quando viene superato l'attuale limite di utilizzo dei dati"
+
+#. settings-schema.json->useCrisisManagement->tooltip
+#. 4.0->settings-schema.json->useCrisisManagement->tooltip
+#. 3.2->settings-schema.json->useCrisisManagement->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link as it can, for example, suspend the machine after the limit has "
+"been exceeded"
+msgstr ""
+"Ciò è utile per la banda larga mobile o in cui è possibile che si stiano "
+"pagando i dati su un collegamento Wi-Fi in quanto può, ad esempio, "
+"sospendere la macchina dopo il superamento del limite"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a notification"
+msgstr "Visualizza una notifica"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a high priority notification"
+msgstr "Visualizza una notifica ad alta priorità"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Put up a full screen 'modal dialog' warning"
+msgstr "Metti un avviso di 'dialogo modale' a schermo intero"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Run a user configurable Script (alertScript)"
+msgstr "Esegui uno script configurabile dall'utente (alertScript)"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Disable All Networking managed by NMClient after opportunity to abort"
+msgstr ""
+"Disabilita tutte le reti gestite da NMClient dopo l'opportunità di "
+"interrompere"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Suspend Machine after a brief opportunity to abort (via suspendScript)"
+msgstr ""
+"Sospendi la macchina dopo una breve opportunità di interruzione (tramite "
+"suspendScript)"
+
+#. settings-schema.json->crisisManagement->description
+#. 4.0->settings-schema.json->crisisManagement->description
+#. 3.2->settings-schema.json->crisisManagement->description
+msgid "Action to take when Data Usage Limit exceeded:"
+msgstr ""
+"Azioni da intraprendere in caso di superamento del limite di utilizzo dei "
+"dati:"
+
+#. settings-schema.json->crisisManagement->tooltip
+#. 4.0->settings-schema.json->crisisManagement->tooltip
+#. 3.2->settings-schema.json->crisisManagement->tooltip
+msgid ""
+"These are a mixture of preset options and scripts which can be changed by "
+"the user (Note: changes in scripts may not survive an update and should be "
+"backed up)"
+msgstr ""
+"Queste sono una combinazione di opzioni e script preimpostati che possono "
+"essere modificati dall'utente (Nota: le modifiche agli script potrebbero non "
+"sopravvivere a un aggiornamento e devono essere copiate)"
+
+#. settings-schema.json->disconnectDelay->units
+#. 4.0->settings-schema.json->disconnectDelay->units
+#. 3.2->settings-schema.json->disconnectDelay->units
+msgid "Seconds"
+msgstr "Secondi"
+
+#. settings-schema.json->disconnectDelay->description
+#. 4.0->settings-schema.json->disconnectDelay->description
+#. 3.2->settings-schema.json->disconnectDelay->description
+msgid "Delay before Disabling Networking managed by NMClient"
+msgstr "Ritardo prima di disabilitare la rete gestita da NMClient"
+
+#. settings-schema.json->disconnectDelay->tooltip
+#. 4.0->settings-schema.json->disconnectDelay->tooltip
+#. 3.2->settings-schema.json->disconnectDelay->tooltip
+msgid ""
+"This is the delay during which you can click the Applet to abort automatic "
+"disconnection of the machine when the Data Usage Limit is exceeded."
+msgstr ""
+"Questo è il ritardo durante il quale è possibile fare clic sull'applet per "
+"interrompere la disconnessione automatica della macchina quando viene "
+"superato il limite di utilizzo dei dati."
+
+#. settings-schema.json->useAlertSound->description
+#. 4.0->settings-schema.json->useAlertSound->description
+#. 3.2->settings-schema.json->useAlertSound->description
+msgid "Sound an audible alert when Data Usage Limit Exceeded"
+msgstr ""
+"Emette un segnale acustico quando viene superato il limite di utilizzo dei "
+"dati"
+
+#. settings-schema.json->useAlertSound->tooltip
+#. 4.0->settings-schema.json->useAlertSound->tooltip
+#. 3.2->settings-schema.json->useAlertSound->tooltip
+msgid ""
+"Only for built in alerts - hard code into scripts. Must have Sox installed"
+msgstr ""
+"Solo per avvisi integrati: codice fisso negli script. Sox deve essere "
+"installato"
+
+#. settings-schema.json->alertSound->description
+msgid "Full path and filename of alert sound file"
+msgstr "Percorso completo e nome file del file audio di avviso"
+
+#. settings-schema.json->alertSound->tooltip
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr ""
+"Sox deve essere installato. La maggior parte dei tipi di file audio "
+"supportati"
+
+#. settings-schema.json->displayExtraHousekeeping->description
+#. 4.0->settings-schema.json->displayExtraHousekeeping->description
+#. 3.2->settings-schema.json->displayExtraHousekeeping->description
+msgid "Add development and test functions to Context Menu"
+msgstr "Aggiungi funzioni di sviluppo e test al menu contestuale"
+
+#. settings-schema.json->displayExtraHousekeeping->tooltip
+#. 4.0->settings-schema.json->displayExtraHousekeeping->tooltip
+#. 3.2->settings-schema.json->displayExtraHousekeeping->tooltip
+msgid ""
+"Very useful for development of scripts and testing without actually "
+"exceeding a limit"
+msgstr ""
+"Molto utile per lo sviluppo di script e test senza effettivamente superare "
+"un limite"
+
+#. 4.0->settings-schema.json->page1->title
+#. 3.2->settings-schema.json->page1->title
+msgid "General"
+msgstr ""
+
+#. 4.0->settings-schema.json->page2->title
+#. 3.2->settings-schema.json->page2->title
+msgid "Data Use, Alerts and Responses"
+msgstr ""
+
+#. 4.0->settings-schema.json->page3->title
+#. 3.2->settings-schema.json->page3->title
+#, fuzzy
+msgid "Cumulative Data"
+msgstr "Utilizzo cumulativo dei dati"
+
+#. 4.0->settings-schema.json->page4->title
+#. 3.2->settings-schema.json->page4->title
+msgid "Longer Term Statistics"
+msgstr ""
+
+#. 4.0->settings-schema.json->section4->title
+#. 3.2->settings-schema.json->section4->title
+#, fuzzy
+msgid "Response to exceeding the current data usage limit"
+msgstr ""
+"Impostazioni per la risposta al superamento degli attuali limiti di utilizzo "
+"dei dati"
+
+#. 4.0->settings-schema.json->useExtendedDisplay->description
+#. 3.2->settings-schema.json->useExtendedDisplay->description
+msgid "Enable Extended Display Options"
+msgstr ""
+
+#. 4.0->settings-schema.json->useExtendedDisplay->tooltip
+#. 3.2->settings-schema.json->useExtendedDisplay->tooltip
+msgid "This is new option version 1.0.2"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Classic - Summary of Data Usage for last Days and Months"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid ""
+"Classic Plus - Classic with addition of breakdown by hour for last 24 hours"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Custom Display - requires enabling below"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->description
+#. 3.2->settings-schema.json->extendedDisplay->description
+msgid "Type of Display - default 'classic'"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->tooltip
+#. 3.2->settings-schema.json->extendedDisplay->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional of adding "
+"an hourly breakdown over the last 24 hours and an experimental option of a "
+"user defined string for vnstati when enabled below"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->description
+#. 3.2->settings-schema.json->useVnstatiCommandString->description
+msgid "Enable Custom Display Option"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->useVnstatiCommandString->tooltip
+msgid "Check box"
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->description
+#. 3.2->settings-schema.json->vnstatiCommandString->description
+msgid "Custom options to pass to vnstati - default is '-vs' "
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->vnstatiCommandString->tooltip
+msgid ""
+"The default is the options used for the extended display. Note: this is not "
+"the whole vnstati option string - the interface and output file options are "
+"added to it automatically. Please read the vnstati manual for further "
+"information on options avaiilable"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->description
+#. 3.2->settings-schema.json->alertSound->description
+msgid "Choose alert sound file"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->tooltip
+#. 3.2->settings-schema.json->alertSound->tooltip
+#, fuzzy
+msgid "Must have Sox installed. Limited file types supported (.oga and .wav)"
+msgstr ""
+"Sox deve essere installato. La maggior parte dei tipi di file audio "
+"supportati"

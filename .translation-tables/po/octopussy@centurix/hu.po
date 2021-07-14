@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-04 20:17+1000\n"
+"PO-Revision-Date: 2021-04-01 20:47+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:132
+msgid "OctoPussy: OctoPrint manager."
+msgstr "OctoPussy: OctoPrint kezelő."
+
+#: applet.js:205
+msgid "Settings"
+msgstr "Beállítások"
+
+#: applet.js:278 applet.js:351
+msgid "Time lapsed: "
+msgstr "Lejárt idő: "
+
+#: applet.js:282 applet.js:352
+msgid "Estimated: "
+msgstr "Becsült: "
+
+#: applet.js:292 applet.js:353
+msgid "Total time: "
+msgstr "Teljes idő: "
+
+#: applet.js:355
+msgid "Pause current print"
+msgstr "Jelenlegi nyomtatás szüneteltetése"
+
+#: applet.js:356
+msgid "Continue current print"
+msgstr "Jelenlegi nyomtatás folytatása"
+
+#: applet.js:358
+msgid "Change filament"
+msgstr "Cserélje a szálat"
+
+#: applet.js:359
+msgid "Camera monitor"
+msgstr "Kamera figyelő"
+
+#: applet.js:360
+msgid "Open OctoPrint web"
+msgstr "OctoPrint web megnyitása"
+
+#: applet.js:362
+msgid "Restart OctoPrint"
+msgstr "OctoPrint újraindítása"
+
+#: applet.js:363
+msgid "Shutdown OctoPrint"
+msgstr "OctoPrint leállítása"
+
+#: applet.js:364
+msgid "Configure..."
+msgstr "Beállítások…"
+
+#. settings-schema.json->octoprintUrl->description
+#. settings-schema.json->octoprintUrl->tooltip
+msgid "OctoPrint API Address"
+msgstr "OctoPrint API cím"
+
+#. settings-schema.json->octoprintApiKey->description
+msgid "OctoPrint API Key. Get an API key from the OctoPrint site settings."
+msgstr ""
+"OctoPrint API-kulcs. Szerezzen be egy API-kulcsot az OctoPrint "
+"webhelybeállításaiból."
+
+#. settings-schema.json->octoprintInterval->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. settings-schema.json->octoprintInterval->description
+msgid "Refresh Interval:"
+msgstr "Frissítési intervallum:"
+
+#. settings-schema.json->octoprintInterval->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Növelje vagy csökkentse ezt a tárcsaértéket a frissítési intervallum "
+"megváltoztatásához - használjon lassú frissítési értéket, ha lassú "
+"számítógépe van"
+
+#. settings-schema.json->octoprintVideoCommand->description
+msgid "Video command to use when showing the webcam. Defaults to vlc."
+msgstr ""
+"A webkamera megjelenítésekor használandó videóparancs. Alapértelmezés "
+"szerint vlc."
+
+#. metadata.json->description
+msgid "An applet to manage OctoPrint."
+msgstr "Egy OctoPrint kezelő kisalkalmazás."
+
+#. metadata.json->name
+msgid "OctoPrint manager"
+msgstr "OctoPrint kezelő"

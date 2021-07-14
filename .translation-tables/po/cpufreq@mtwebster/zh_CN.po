@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:31+0800\n"
+"PO-Revision-Date: 2017-04-20 10:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:280
+msgid "CPU frequency scaling unavailable"
+msgstr "CPU频率调节不可用"
+
+#: applet.js:281
+msgid ""
+"Your system does not appear to support CPU frequency scaling.  Unfortunately "
+"this applet is of no use to you."
+msgstr "您的系统似乎不支持CPU频率调节。不幸的是这个小程序对你没有用。"
+
+#: applet.js:421
+msgid "Configure Applet"
+msgstr "配置小程序"
+
+#: applet.js:433
+msgid "CPU frequency switcher program not installed"
+msgstr "CPU频率切换程序未安装"
+
+#: applet.js:434
+msgid ""
+"You appear to be missing the required program, 'cpufreq-selector.'  This "
+"program is needed to perform scaling or governor switching.\n"
+"\n"
+msgstr ""
+"您似乎缺少所需的程序‘cpufreq-selector’。需要这个程序来执行调节或调速器切"
+"换。\n"
+"\n"
+
+#: applet.js:435
+msgid ""
+"This program is ordinarily provided by the package: gnome-applets\n"
+"\n"
+msgstr ""
+"该程序通常由软件包：gnome-applets提供\n"
+"\n"
+
+#: applet.js:436
+msgid ""
+"If you're on Linux Mint or Ubuntu, you can install this using the following "
+"command:\n"
+"\n"
+msgstr ""
+"如果您在Linux Mint或Ubuntu，您可以使用以下命令安装：\n"
+"\n"
+
+#: applet.js:437
+msgid "apt install --no-install-recommends gnome-applets"
+msgstr "apt install --no-install-recommends gnome-applets"
+
+#. cpufreq@mtwebster->metadata.json->description
+msgid "Display and control cpu frequency"
+msgstr "显示和控制cpu频率"
+
+#. cpufreq@mtwebster->metadata.json->name
+msgid "CPU Frequency Applet"
+msgstr "CPU频率小程序"
+
+#. cpufreq@mtwebster->settings-schema.json->head->description
+msgid "General"
+msgstr "常规"
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->description
+msgid "The medium level color for each graph bar:"
+msgstr "每个条形图的中等水平颜色："
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->tooltip
+msgid "Click the button to select a new medium level status color"
+msgstr "点击按钮选择一个新的中等水平状态颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->description
+msgid "The low level color for each graph bar:"
+msgstr "每个条形图的低等水平颜色："
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->tooltip
+msgid "Click the button to select a new low level status color"
+msgstr "点击按钮选择一个新的低等水平状态颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->description
+msgid "Show clock speed or percentage:"
+msgstr "显示时钟速度或百分比："
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->tooltip
+msgid "Display the clock speed or a percentage of the maximum clock speed."
+msgstr "显示时钟速度或最大时钟速度的百分比。"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Percentage"
+msgstr "百分比"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Clock speed"
+msgstr "时钟速度"
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->description
+msgid "The high level color for each graph bar:"
+msgstr "每个条形图的高等水平颜色："
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->tooltip
+msgid "Click the button to select a new high level status color"
+msgstr "点击按钮选择一个新的高等水平状态颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->description
+msgid "The text color for the applet:"
+msgstr "小程序的文本颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->tooltip
+msgid "Click the button to select a text color"
+msgstr "点击按钮选择一个新的文本颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->description
+msgid "Display style:"
+msgstr "显示风格："
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->tooltip
+msgid "Select to show graphs only, values only, or both."
+msgstr "选择显示仅图表、仅值，或两者。"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Graph"
+msgstr "图表"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Digit"
+msgstr "数字"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Both"
+msgstr "两者"
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->description
+msgid "Width of individual bars:"
+msgstr "各个条的宽度："
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->tooltip
+msgid "Move the slider to adjust the width of individual CPU graph bars"
+msgstr "移动滑动条调整各个CPU条形图的宽度"
+
+#. cpufreq@mtwebster->settings-schema.json->background->description
+msgid "The background color for each graph bar:"
+msgstr "每个条形图的背景颜色："
+
+#. cpufreq@mtwebster->settings-schema.json->background->tooltip
+msgid "Click the button to select a new bar background color"
+msgstr "点击按钮选择一个新的背景颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->colors-head->description
+msgid "Colors"
+msgstr "颜色"
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->description
+msgid "Refresh rate:"
+msgstr "刷新频率："
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->tooltip
+msgid ""
+"Move the slider to adjust how often the applet updates.  Note: this can have "
+"a large impact on system performance if you set it too low"
+msgstr ""
+"移动滑动条调整小程序更新的频率。注意：如果您设置太低，这可能会对系统性能有很"
+"大的影响。"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->description
+msgid "CPUs to display:"
+msgstr "要显示的CPU："
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->tooltip
+msgid ""
+"Select to show individual CPUs and a summary, only individuals, or only a "
+"summary"
+msgstr "选择显示各个CPU和概要、仅各个CPU，或仅概要"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary and individual"
+msgstr "概要和各个CPU"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary only"
+msgstr "仅概要"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Individual only"
+msgstr "仅各个CPU"

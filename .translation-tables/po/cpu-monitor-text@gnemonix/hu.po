@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:59+0800\n"
+"PO-Revision-Date: 2021-03-26 11:38+0100\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:37
+msgid "Open System Monitor"
+msgstr "Rendszerfigyelő megnyitása"
+
+#. cpu-monitor-text@gnemonix->metadata.json->description
+msgid "A simple applet that displays the cpu usage."
+msgstr "Egy egyszerű kisalkalmazás ami megjeleníti a CPU használatot."
+
+#. cpu-monitor-text@gnemonix->metadata.json->name
+msgid "Simple CPU Monitor"
+msgstr "Egyszerű CPU Figyelő"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-
+#. interval->description
+msgid "Update Interval:"
+msgstr "Frissítési gyakoriság:"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->tooltip
+msgid "Enter the interval in milliseconds between updates."
+msgstr "Adja meg a frissítések gyakoriságát ezredmásodpercben."
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->units
+msgid "milliseconds"
+msgstr "ezredmásodperc"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-
+#. percentage->description
+msgid "Max Percentage:"
+msgstr "Maximális százalék:"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-percentage->tooltip
+msgid ""
+"Change the max percentage.\n"
+"\n"
+"If not 100% than typically a multiple corresponding to the number of cores.\n"
+"\n"
+"Example: 4 cores (100 x 4) = 400%"
+msgstr ""
+"Módosítsa a maximális százalékot.\n"
+"\n"
+"Ha nem 100%, mint általában a magok számának megfelelő többszörös.\n"
+"\n"
+"Példa: 4 mag (100 x 4) = 400%"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->description
+msgid "Text:"
+msgstr "Szöveg:"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr "Adja meg a panelen megjelenítendő egyéni szöveget."

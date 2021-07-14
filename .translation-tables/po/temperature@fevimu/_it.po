@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 23:44+0200\n"
+"PO-Revision-Date: 2019-10-25 21:02+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. settings-schema.json->show-label-prefix->description
+msgid "Show label prefix"
+msgstr ""
+
+#. settings-schema.json->show-label-prefix->tooltip
+msgid "Whether or not to add a label before the temperature value."
+msgstr ""
+
+#. settings-schema.json->label-prefix->description
+msgid "Label prefix"
+msgstr ""
+
+#. settings-schema.json->label-prefix->tooltip
+msgid "The label to be shown before the temperature value."
+msgstr ""

@@ -1,0 +1,660 @@
+# Swedish translation for the calendar@ccprog package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar@ccprog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 15:40+0100\n"
+"PO-Revision-Date: 2021-02-27 16:18+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:65
+msgid "Date and Time Settings"
+msgstr ""
+
+#: settings_widgets.py:95
+msgid "Add new entry"
+msgstr ""
+
+#: settings_widgets.py:99
+msgid "Edit entry"
+msgstr ""
+
+#: settings_widgets.py:123
+msgid "City"
+msgstr ""
+
+#. settings-schema.json->page1->title
+msgid "Calendar"
+msgstr ""
+
+#. settings-schema.json->section1->title
+msgid "Display"
+msgstr ""
+
+#. settings-schema.json->section3->title
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#. settings-schema.json->show-week-numbers->description
+msgid "Show week numbers in calendar"
+msgstr ""
+
+#. settings-schema.json->show-week-numbers->tooltip
+msgid "Check this to show week numbers in the calendar."
+msgstr ""
+
+#. settings-schema.json->use-custom-format->description
+msgid "Use a custom date format"
+msgstr ""
+
+#. settings-schema.json->use-custom-format->tooltip
+msgid ""
+"Check this to define a custom format for the date in the calendar applet."
+msgstr ""
+
+#. settings-schema.json->custom-format->description
+msgid "Date format"
+msgstr ""
+
+#. settings-schema.json->custom-format->tooltip
+msgid "Set your custom format here."
+msgstr ""
+
+#. settings-schema.json->format-button->description
+msgid "Show information on date format syntax"
+msgstr ""
+
+#. settings-schema.json->format-button->tooltip
+msgid "Click this button to know more about the syntax for date formats."
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Angola"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Chile"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Colombia"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Finland"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Hong Kong"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Isle of Man"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Israel"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Japan"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Peru"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Portugal"
+msgstr ""
+
+#. settings-schema.json->country->options
+msgid "Turkey"
+msgstr ""
+
+#. settings-schema.json->region_aus->options
+msgid "Queensland"
+msgstr ""
+
+#. settings-schema.json->region_aus->options
+msgid "New South Wales"
+msgstr ""
+
+#. settings-schema.json->region_aus->options
+msgid "Northern Territory"
+msgstr ""
+
+#. settings-schema.json->region_aus->options
+msgid "Victoria"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Alberta"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "British Columbia"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Manitoba"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "New Brunswick"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Northwest Territories"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Nova Scotia"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Nunavut"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Ontario"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Prince Edward Island"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Quebec"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Saskatchewan"
+msgstr ""
+
+#. settings-schema.json->region_can->options
+msgid "Yukon"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Baden-Württemberg"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Bayern"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Berlin"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Brandenburg"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Bremen"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Hamburg"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Hessen"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Niedersachsen"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Mecklenburg-Vorpommern"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Nordrhein-Westfalen"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Rheinland-Pfalz"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Saarland"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Sachsen"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Sachsen-Anhalt"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Schleswig-Holstein"
+msgstr ""
+
+#. settings-schema.json->region_deu->options
+msgid "Thüringen"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Auckland"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Bay of Plenty"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Canterbury"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Gisborne"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Hawke's Bay"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Marlborough"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Nelson"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Northland"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Otago"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Southland"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Tasman"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Taranaki"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Waikato"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Wellington"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "West Coast"
+msgstr ""
+
+#. settings-schema.json->region_nzl->options
+msgid "Chatham Islands Territory"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Banskobystrický kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Bratislavský kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Košický kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Nitriansky kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Prešovský kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Trnavský kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Trenčiansky kraj"
+msgstr ""
+
+#. settings-schema.json->region_svk->options
+msgid "Žilinský kraj"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Aargau"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Basel-Landschaft"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Basel-Stadt"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Bern"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Fribourg"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Glarus"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Grisons"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Jura"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Luzern"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Neuchâtel"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Nidwalden"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Obwalden"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "St. Gallen"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Schaffhausen"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Schwyz"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Solothurn"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Thurgau"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Ticino"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Valais"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Vaud"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Zug"
+msgstr ""
+
+#. settings-schema.json->region_che->options
+msgid "Zürich"
+msgstr ""
+
+#. settings-schema.json->region_gbr->options
+msgid "England"
+msgstr ""
+
+#. settings-schema.json->region_gbr->options
+msgid "Wales"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Alabama"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Alaska"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Arizona"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Arkansas"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Colorado"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Connecticut"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Delaware"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "District of Columbia"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Florida"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Georgia"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Hawaii"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Idaho"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Illinois"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Indiana"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Iowa"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Kansas"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Kentucky"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Louisiana"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Maine"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Maryland"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Massachusetts"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Michigan"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Minnesota"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Mississippi"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Missouri"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Montana"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Nebraska"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Nevada"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "New Hampshire"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "New Jersey"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "New Mexico"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "New York"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "North Carolina"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "North Dakota"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Ohio"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Oklahoma"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Oregon"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Pennsylvania"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Rhode Island"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "South Carolina"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "South Dakota"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Tennessee"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Texas"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Utah"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Vermont"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Virginia"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Washington"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "West Virginia"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Wisconsin"
+msgstr ""
+
+#. settings-schema.json->region_usa->options
+msgid "Wyoming"
+msgstr ""

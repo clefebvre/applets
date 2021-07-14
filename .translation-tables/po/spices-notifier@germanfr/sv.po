@@ -1,0 +1,51 @@
+# Swedish translation for spices-notifier@germanfr.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: spices-notifier@germanfr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-10 14:25+0200\n"
+"PO-Revision-Date: 2019-10-20 11:14+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:92
+msgid "Mark all as read"
+msgstr "Markera alla som lästa"
+
+#: applet.js:104
+msgid "No xlets found, click to reload"
+msgstr "Inga xlets hittades, klicka för att uppdatera"
+
+#. settings-schema.json->username->description
+msgid "GitHub user name"
+msgstr "Användarnamn på GitHub"
+
+#. settings-schema.json->update-interval->description
+msgid "Update interval"
+msgstr "Uppdateringsintervall"
+
+#. settings-schema.json->update-interval->units
+msgid "minutes"
+msgstr "minuter"
+
+#. settings-schema.json->show-nonzero-only->description
+msgid "Hide panel icon when there are no unread comments"
+msgstr "Dölj panelikonen när det inte finns några olästa kommentarer"
+
+#. metadata.json->name
+msgid "Spices notifier"
+msgstr "Spices-avisering"
+
+#. metadata.json->description
+msgid "Notifies of comments on the Cinnamon Spices website"
+msgstr "Aviserar nya kommentarer på Cinnamon Spices webbsida"

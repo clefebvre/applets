@@ -1,0 +1,59 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2018-11-05 00:37+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: search.py:259
+msgid " - directory already searched"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr ""
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""

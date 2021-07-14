@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 19:45+0100\n"
+"PO-Revision-Date: 2017-03-17 19:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:102
+msgid "desktop"
+msgstr "Schreibtisch"
+
+#: applet.js:320
+msgid "No open windows"
+msgstr "Keine offenen Fenster"
+
+#: applet.js:330
+msgid "Expo"
+msgstr "Arbeitsflächenübersicht"
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifyskiptaskbar->description
+msgid "Opacify the icons on the desktop"
+msgstr "Transparenzeffekt für die Symbole auf dem Schreibtisch"
+
+#. SW++@mohammad-sn->settings-schema.json->head->description
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#. SW++@mohammad-sn->settings-schema.json->closeallbuttons->description
+msgid "Show close all windows buttons for workspaces"
+msgstr "»Alle Fenster schließen«-Symbole für Arbeitsflächen anzeigen"
+
+#. SW++@mohammad-sn->settings-schema.json->head2->description
+msgid "Peek at desktop"
+msgstr "Blick auf den Schreibtisch"
+
+#. SW++@mohammad-sn->settings-schema.json->head1->description
+msgid "Menu options"
+msgstr "Menüoptionen"
+
+#. SW++@mohammad-sn->settings-schema.json->color->description
+msgid "The background color for the applet hover:"
+msgstr "Die Hintergrundfarbe des Applets beim Darüberbewegen:"
+
+#. SW++@mohammad-sn->settings-schema.json->color->tooltip
+msgid "Click the button to select a new background color for applet"
+msgstr ""
+"Den Knopf drücken, um eine neue Hintergrundfarbe für das Applet auszuwählen"
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel:"
+msgstr "Das Symbol, welches in der Leiste verwendet werden soll:"
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->tooltip
+msgid ""
+"Select an icon file, or you can type an icon name into the entry box, for "
+"example: desktop"
+msgstr ""
+"Eine Symboldatei auswählen oder einen Symbolnamen in das Eingabefeld "
+"eingeben, z. B. desktop"
+
+#. SW++@mohammad-sn->settings-schema.json->peekopacity->description
+msgid "Opacity on hover:"
+msgstr "Deckkraft beim Darüberbewegen:"
+
+#. SW++@mohammad-sn->settings-schema.json->SHOW-MENU-ON-CLOSE->description
+msgid "Keep menu open while closing windows"
+msgstr "Beim Schließen von Fenstern Menü offen lassen"
+
+#. SW++@mohammad-sn->settings-schema.json->width->description
+msgid "Applet width in the panel:"
+msgstr "Breite des Applets in der Leiste:"
+
+#. SW++@mohammad-sn->settings-schema.json->width->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the applet wider or narrower "
+"in the panel"
+msgstr ""
+"Erhöhen oder verringern Sie diesen Zählerwert, um das Applet breiter oder "
+"schmaler zu machen in der Leiste"
+
+#. SW++@mohammad-sn->settings-schema.json->width->units
+msgid "pixels"
+msgstr "Pixel"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->description
+msgid "Opacify windows on hover"
+msgstr "Transparenzeffekt für Fenster beim Darüberbewegen"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->tooltip
+msgid "Take a glance at your desktop and desklets."
+msgstr "Einen Blick auf den Schreibtisch und die Desklets werfen."
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifydesklets->description
+msgid "Opacify desklets"
+msgstr "Transparenzeffekt für Desklets"
+
+#. SW++@mohammad-sn->settings-schema.json->blur->description
+msgid "Blur windows on hover"
+msgstr "Verwischeneffekt für Fenster beim Darüberbewegen"
+
+#. SW++@mohammad-sn->settings-schema.json->highlight->description
+msgid "Highlight applet next time it is added to the panel"
+msgstr ""
+"Das Applet das nächste Mal hervorheben, wenn es zu der Leiste hinzugefügt "
+"wird"
+
+#. SW++@mohammad-sn->settings-schema.json->closebuttons->description
+msgid "Show close buttons"
+msgstr "»Schließen«-Symbole anzeigen"
+
+#. SW++@mohammad-sn->metadata.json->description
+msgid ""
+"click to show/hide desktop, scroll to switch workspace and windows quick "
+"list by right click"
+msgstr ""
+"Klicken zum Anzeigen/Verbergen des Schreibtisches, scrollen zum Wechseln der "
+"Arbeitsfläche und Rechtsklick zum Anzeigen der Fensterschnellliste"
+
+#. SW++@mohammad-sn->metadata.json->name
+msgid "Show desktop ++"
+msgstr "Schreibtisch anzeigen ++"

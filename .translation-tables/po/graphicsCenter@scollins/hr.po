@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphics Center 2.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 15:47+0100\n"
+"PO-Revision-Date: 2017-02-24 13:08+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:169
+msgid "Clear"
+msgstr "Obriši"
+
+#: applet.js:224
+msgid "Graphics"
+msgstr "Grafika"
+
+#: applet.js:304
+msgid "LAUNCHERS"
+msgstr "POKRETAČI"
+
+#: applet.js:329
+msgid "PICTURES"
+msgstr "SLIKE"
+
+#: applet.js:340
+msgid "Open folder"
+msgstr "Otvori mapu"
+
+#: applet.js:367
+msgid "RECENT DOCUMENTS"
+msgstr "NEDAVNI DOKUMENTI"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Ikona panela"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Upišite naziv ikone ili izravnu putanju (podržava simboličke ikone)"
+
+#. graphicsCenter@scollins->settings-schema.json->showPictures->description
+msgid "Show contents of pictures directory"
+msgstr "Prikaži sadržaj mape slika"
+
+#. graphicsCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Prečac tipkovnice izbornika"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Veličina ikone izbornika"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "pikseli"
+
+#. graphicsCenter@scollins->settings-schema.json->pictures->description
+msgid "Pictures"
+msgstr "Slike"
+
+#. graphicsCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Broj prikazanih dokumenata"
+
+#. graphicsCenter@scollins->settings-schema.json->pictureSize->description
+msgid "Thumbnail size"
+msgstr "Veličina minijatura"
+
+#. graphicsCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Opće postavke"
+
+#. graphicsCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Tekst panela"
+
+#. graphicsCenter@scollins->settings-schema.json->recursePictures->description
+msgid "Show contents of subfolders"
+msgstr "Prikaži sadržaj podmapa"
+
+#. graphicsCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Koristi alternativnu mapu"
+
+#. graphicsCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Prikaži nedavne dokumente"
+
+#. graphicsCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Nedavni dokumenti"
+
+#. graphicsCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your picture needs"
+msgstr "Omogućuje lagan i brz pristup svim resursima za vaše slike"
+
+#. graphicsCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autor"
+
+#. graphicsCenter@scollins->metadata.json->comments
+msgid ""
+"Graphics Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your graphics programs and pictures. Feel "
+"free to contribute by submitting pull requests, bug reports and feature "
+"requests to my github repo."
+msgstr ""
+"Grafičko središte je značajkama bogat višeplatformski Cinnamon aplet koji "
+"omogućuje brz pristup svim vašim grafičkim aplikacijama i slikama. Slobodno "
+"možete doprinijeti slanjem zahtjeva s novom značajkom, prijave grešaka i "
+"zahtjevom nove značajke na moj github repozitorij."
+
+#. graphicsCenter@scollins->metadata.json->name
+msgid "Graphics Center"
+msgstr "Grafičko središte"

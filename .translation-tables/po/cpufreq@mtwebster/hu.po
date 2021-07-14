@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:31+0800\n"
+"PO-Revision-Date: 2021-03-26 11:29+0100\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:280
+msgid "CPU frequency scaling unavailable"
+msgstr "A CPU frekvencia skálázása nem elérhető"
+
+#: applet.js:281
+msgid ""
+"Your system does not appear to support CPU frequency scaling.  Unfortunately "
+"this applet is of no use to you."
+msgstr ""
+"Úgy tűnik, hogy a rendszere nem támogatja a CPU frekvencia skálázását. "
+"Sajnos így ez a kisalkalmazás nem használható az ön számára."
+
+#: applet.js:421
+msgid "Configure Applet"
+msgstr "Kisalkalmazás beállítása"
+
+#: applet.js:433
+msgid "CPU frequency switcher program not installed"
+msgstr "A CPU frekvenciaváltó program nincs telepítve"
+
+#: applet.js:434
+msgid ""
+"You appear to be missing the required program, 'cpufreq-selector.'  This "
+"program is needed to perform scaling or governor switching.\n"
+"\n"
+msgstr ""
+"Úgy tűnik, hogy hiányzik a szükséges „cpufreq-selector” program.  Erre a "
+"programra a skálázáshoz vagy a szabályzó kapcsolásához van szükség.\n"
+"\n"
+
+#: applet.js:435
+msgid ""
+"This program is ordinarily provided by the package: gnome-applets\n"
+"\n"
+msgstr ""
+"Ezt a programot általában a következő csomag biztosítja: gnome-applets\n"
+"\n"
+
+#: applet.js:436
+msgid ""
+"If you're on Linux Mint or Ubuntu, you can install this using the following "
+"command:\n"
+"\n"
+msgstr ""
+"Ha Linux Mint vagy Ubuntu rendszert futtat, telepítheti ezt a következő "
+"paranccsal:\n"
+"\n"
+
+#: applet.js:437
+msgid "apt install --no-install-recommends gnome-applets"
+msgstr "apt install --no-install-recommends gnome-applets"
+
+#. cpufreq@mtwebster->metadata.json->description
+msgid "Display and control cpu frequency"
+msgstr "A CPU frekvencia megjelenítése és skálázása"
+
+#. cpufreq@mtwebster->metadata.json->name
+msgid "CPU Frequency Applet"
+msgstr "CPU Frekvencia Kisalkalmazás"
+
+#. cpufreq@mtwebster->settings-schema.json->head->description
+msgid "General"
+msgstr "Általános"
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->description
+msgid "The medium level color for each graph bar:"
+msgstr "Az egyes gráfikonsávok közepes szintű színe:"
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->tooltip
+msgid "Click the button to select a new medium level status color"
+msgstr "Kattintson a gombra egy új közepes szintű állapotszín kiválasztásához"
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->description
+msgid "The low level color for each graph bar:"
+msgstr "Az egyes gráfikonsávok alacsony szintű színe:"
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->tooltip
+msgid "Click the button to select a new low level status color"
+msgstr "Kattintson a gombra egy új alacsony szintű állapotszín kiválasztásához"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->description
+msgid "Show clock speed or percentage:"
+msgstr "Órajel vagy CPU terhelés százalékának megjelenítése:"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->tooltip
+msgid "Display the clock speed or a percentage of the maximum clock speed."
+msgstr "Az órajel vagy a maximális órajel százalékának megjelenítése."
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Percentage"
+msgstr "Százalék"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Clock speed"
+msgstr "Órajel"
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->description
+msgid "The high level color for each graph bar:"
+msgstr "Az egyes gráfikonsávok magas szintű színe:"
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->tooltip
+msgid "Click the button to select a new high level status color"
+msgstr "Kattintson a gombra egy új magas szintű állapotszín kiválasztásához"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->description
+msgid "The text color for the applet:"
+msgstr "Kisalkalmazás szövegszíne:"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->tooltip
+msgid "Click the button to select a text color"
+msgstr "Kattintson a gombra a szöveg színének kiválasztásához"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->description
+msgid "Display style:"
+msgstr "Megjelenítés stílusa:"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->tooltip
+msgid "Select to show graphs only, values only, or both."
+msgstr ""
+"Válassza ezt, ha csak grafikonokat, csak értékeket vagy mindkettőt szeretné "
+"megjeleníteni."
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Graph"
+msgstr "Grafikon"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Digit"
+msgstr "Számjegy"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Both"
+msgstr "Mindkettő"
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->description
+msgid "Width of individual bars:"
+msgstr "Egyes sávok szélessége:"
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->tooltip
+msgid "Move the slider to adjust the width of individual CPU graph bars"
+msgstr ""
+"A csúszka mozgatásával állíthatja be az egyes CPU-grafikonsávok szélességét"
+
+#. cpufreq@mtwebster->settings-schema.json->background->description
+msgid "The background color for each graph bar:"
+msgstr "Az egyes gráfikonsávok háttér színe:"
+
+#. cpufreq@mtwebster->settings-schema.json->background->tooltip
+msgid "Click the button to select a new bar background color"
+msgstr "Kattintson a gombra egy új sáv háttérszínének kiválasztásához"
+
+#. cpufreq@mtwebster->settings-schema.json->colors-head->description
+msgid "Colors"
+msgstr "Színek"
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->description
+msgid "Refresh rate:"
+msgstr "Frissítési gyakoriság:"
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->tooltip
+msgid ""
+"Move the slider to adjust how often the applet updates.  Note: this can have "
+"a large impact on system performance if you set it too low"
+msgstr ""
+"A csúszka mozgatásával állíthatja be a kisalkalmazás frissítésének "
+"gyakoriságát.  Megjegyzés: ha túl alacsonyra állítja az nagy hatással lehet "
+"a rendszer teljesítményére"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->description
+msgid "CPUs to display:"
+msgstr "CPU-k megjelenítése:"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->tooltip
+msgid ""
+"Select to show individual CPUs and a summary, only individuals, or only a "
+"summary"
+msgstr ""
+"Válasszon, meg szeretné-e jeleníteni az egyes CPU-kat illetve egy összesítő "
+"vagy csak egyesével jelenjenek meg vagy csak az összesítő jelenjen meg"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary and individual"
+msgstr "Összesítve és egyesével"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary only"
+msgstr "Csak összesítve"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Individual only"
+msgstr "Csak egyesével"

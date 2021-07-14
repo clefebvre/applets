@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jonbrettdev.wordpress.com 0.26\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2017-04-30 18:32+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "Neispravan URL kanala"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " nepročitanih stavki!"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Učitavanje kanala"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "Čitač RSS kanala"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Označi kao pročitano"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Ponovo učitaj"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Upravitelj kanala"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Postavke"
+
+#: applet.js:337
+#, fuzzy
+msgid "No unread feeds"
+msgstr " nepročitanih stavki!"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Kanali"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Desni klik za otvaranje kanala: \n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Označi sve poruke kao pročitane"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Označi sljedećih "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " poruka kako pročitano"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Nadopuni URL kanala"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Objavljeno: "
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Označi poruku pročitanom"
+
+#: applet.js:958
+msgid "d) "
+msgstr "d) "
+
+#: applet.js:960
+msgid "h) "
+msgstr "s) "
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr "(<1s) "
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Upravljajte svojim kanalima"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Naziv primjerka:"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Dodaj/Ukloni popis kanala"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Omogući"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "Url"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Prilagođeni naslov"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Obavijesti"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Prikaži čitanje"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Razdoblje"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Prikaži sliku"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "Uvoz"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_Uvezi OPML"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Uvezi kanale iz OPLM datoteke"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "_Uvezi datoteku kanala"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Uvezi kanale iz datoteke"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Izvoz"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "_Izvezi datoteku kanala"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Izvezi kanal u datoteku"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "Mogućnosti"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "_Uklju/Isklju skrivena polja"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Prikaži ili sakrij skrivena polja"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Promjene će biti odbačene, želite li nastaviti?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Jeste li sigurni?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Novi naziv primjerka (popisa)"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Dodaj novi primjerak (popis)"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Neuspješno spremanje datoteke podešavanja"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "Odaberi OPML datoteku kanala"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "OPML datoteke"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Odaberi datoteku kanala"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Tekstovne datoteke"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Sve datoteke"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "datoteka uvezena"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "Uvezeno %d kanala"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "Neuspješan uvoz kanala"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Spremi datoteku kanala"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Neuspješan izvoz kanala, iznimka: %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Neuspješan izvoz kanala"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "Prikazuje novosti RSS kanala"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Čitač RSS kanala"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "URL-ovi kanala"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Upravitelj kanala..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr "Pokreni aplikaciju upravitelja kanala za dodavanje/uklanjanje kanala"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "kanali"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Najveći broj stavki"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Najveći broj stavki koje će biti prikazane za ovaj kanal"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "minute"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Razdoblje nadopunjivanja"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Razdoblje između provjere novih stavki"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Prikaži obavijest za nove stavke"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "Ako je odabrano prikazat će se skočna obavijest za nove stavke"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr ""
+"Odaberi ovo za omogućavanje zapisivanja otklanjanja grešaka u Cinnamon "
+"naprednim kontrolama i upravljanju"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "Ovaj odabir će omogućiti zapisivanje otklanjanja grešaka"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Naziv primjerka kanala"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "Ne mijenjajte ovo, ovo je promijenjeno od strane Upravitelja kanala."

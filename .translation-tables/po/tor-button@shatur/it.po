@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:47+0200\n"
+"PO-Revision-Date: 2019-10-17 21:28+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:46
+msgid "Tor network"
+msgstr "Rete Tor"
+
+#: applet.js:50
+msgid "Rebuild chain"
+msgstr "Ricostruisci catena"
+
+#: applet.js:82 applet.js:143
+msgid "Tor disabled"
+msgstr "Tor disabilitato"
+
+#: applet.js:88 applet.js:107 applet.js:126 applet.js:154
+msgid "Error"
+msgstr "Errore"
+
+#: applet.js:88
+msgid "Unable to parse "
+msgstr "Impossibile analizzare "
+
+#: applet.js:107
+msgid "Unable to open configuration file "
+msgstr "Impossibile aprire il file di configurazione "
+
+#: applet.js:121
+msgid "Process launched."
+msgstr "Processo avviato."
+
+#: applet.js:122
+msgid "Tor enabled"
+msgstr "Tor abilitato"
+
+#: applet.js:126
+msgid "Unable to start Tor: "
+msgstr "Impossibile avviare Tor: "
+
+#: applet.js:142
+msgid "Process closed."
+msgstr "Processo terminato."
+
+#: applet.js:154
+msgid "Tor is not running."
+msgstr "Tor non è in esecuzione."
+
+#. tor-button@shatur->settings-schema.json->showNotifications->description
+msgid "Show notifications"
+msgstr "Mostra notifiche"
+
+#. tor-button@shatur->settings-schema.json->showNotifications->tooltip
+msgid "Show notifications when the Tor network is turned on/off."
+msgstr "Mostra notifiche quando la rete Tor viene attivata/spenta."
+
+#. tor-button@shatur->settings-schema.json->torPath->description
+msgid "Tor location path"
+msgstr "Percorso di Tor"
+
+#. tor-button@shatur->settings-schema.json->torPath->tooltip
+msgid "Specify the command to launch Tor."
+msgstr "Specifica il comando per avviare Tor."
+
+#. tor-button@shatur->settings-schema.json->torrc-page->title
+msgid "Tor settings"
+msgstr "Impostazioni Tor"
+
+#. tor-button@shatur->settings-schema.json->applet-section->title
+msgid "Settings for applet"
+msgstr "Impostazioni dell'applet"
+
+#. tor-button@shatur->settings-schema.json->applet-page->title
+msgid "Applet settings"
+msgstr "Impostazioni Applet"
+
+#. tor-button@shatur->settings-schema.json->torrc-section->title
+msgid "Settings for Tor"
+msgstr "Impostazioni di Tor"
+
+#. tor-button@shatur->settings-schema.json->configPath->description
+msgid "Tor config path"
+msgstr "Percorso config di Tor"
+
+#. tor-button@shatur->settings-schema.json->configPath->tooltip
+msgid "Specify the path to torrc file."
+msgstr "Specifica il percorso del file torrc."
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->description
+msgid "Launch Tor as tor user"
+msgstr "Avvia Tor come utente tor"
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->tooltip
+msgid ""
+"Launch Tor with polkit as tor user. Needed if you don't have permissions to "
+"launch Tor as normal user."
+msgstr ""
+"Avvia Tor con polkit come utente tor. Necessario se non si dispone delle "
+"autorizzazioni per avviare Tor come utente normale."
+
+#. tor-button@shatur->metadata.json->description
+msgid "Applet for Tor network management"
+msgstr "Applet per la gestione della rete Tor"
+
+#. tor-button@shatur->metadata.json->name
+msgid "Tor Button"
+msgstr "Pulsante Tor"

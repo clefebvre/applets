@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-15 14:50+0100\n"
+"PO-Revision-Date: 2017-12-04 18:50+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:80
+msgid "Click here to pick a color"
+msgstr "Klik her for at vælge en farve"
+
+#: applet.js:136
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr "Installér pakken \"%s\"."
+
+#: applet.js:158
+#, javascript-format
+msgid "Color code '%s' copied to clipboard."
+msgstr "Farvekoden \"%s\" kopieret til udklipsholderen."
+
+#. color-picker@fmete->settings-schema.json->pick-notification->description
+msgid "Show picked color code in a popup notification"
+msgstr "Vis den valgte farves kode i en pop op-meddelelse"
+
+#. color-picker@fmete->settings-schema.json->pick-notification->tooltip
+msgid ""
+"Show the picked color code, which has been copied to the clipboard, in a "
+"popup notification."
+msgstr ""
+"Vis den valgte farves kode, som er kopieret til udklipsholderen, i en pop op-"
+"meddelelse."
+
+#. color-picker@fmete->settings-schema.json->head->description
+msgid "Color Pick Settings"
+msgstr "Indstillinger for valg af farve"
+
+#. color-picker@fmete->settings-schema.json->head1->description
+msgid "Applet Settings"
+msgstr "Indstillinger for panelprogram"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->description
+msgid "Color code format"
+msgstr "Farvekodeformat"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->tooltip
+msgid ""
+"Select the format of the color code, which will be copied to the clipboard "
+"by the color picker."
+msgstr ""
+"Vælg farvekodens format, som vil blive kopieret til udklipsholderen af "
+"farvevælgeren."
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #XXXXXX"
+msgstr "HEX-farve: #XXXXXX"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: 250,250,250"
+msgstr "RGB-farve: 250,250,250"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #xxxxxx"
+msgstr "HEX-farve: #xxxxxx"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: (250,250,250)"
+msgstr "RGB-farve: (250,250,250)"
+
+#. color-picker@fmete->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel"
+msgstr "Ikonet der skal vises i panelet"
+
+#. color-picker@fmete->settings-schema.json->icon-name->tooltip
+msgid "Select an icon file, or you can type an icon name into the entry box"
+msgstr "Vælg en ikonfil eller indtast et ikonnavn i indtastningsfeltet"
+
+#. color-picker@fmete->settings-schema.json->keybinding-test->description
+msgid "Keybinding, which activates the color picker"
+msgstr "Tastaturgenvej som aktiverer farvevælgeren"
+
+#. color-picker@fmete->metadata.json->description
+msgid ""
+"Use the color picker to select a color on the screen. The color value (HEX "
+"or RGB) will be copied to the clipboard."
+msgstr ""
+"Brug farvevælgeren til at vælge en farve på skærmen. Farveværdien (HEX eller "
+"RGB) vil blive kopieret til udklipsholderen."
+
+#. color-picker@fmete->metadata.json->name
+msgid "Color Picker"
+msgstr "Farvevælger"
+
+#~ msgid "Click on applet to pick color"
+#~ msgstr "Klik på panelprogrammet for at vælge en farve"
+
+#~ msgid "Please Select Color Pick Option:"
+#~ msgstr "Valg af farveformat:"
+
+#~ msgid ""
+#~ "A combo selection can select between int, boolean, float, and string "
+#~ "values"
+#~ msgstr ""
+#~ "En kombinationsboks kan indeholde heltal, booleske, flydende og "
+#~ "tekststrengværdier"
+
+#~ msgid "00,00,00"
+#~ msgstr "00,00,00"
+
+#~ msgid "#XXXXXX"
+#~ msgstr "#XXXXXX"
+
+#~ msgid "(00,00,00)"
+#~ msgstr "(00,00,00)"
+
+#~ msgid "#xxxxxx"
+#~ msgstr "#xxxxxx"
+
+#~ msgid "Set the keybinding here to activate an action: "
+#~ msgstr "Angiv tastegenvejen for at aktivere en handling: "

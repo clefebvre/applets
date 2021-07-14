@@ -1,0 +1,600 @@
+# Mosaab Alzoubi <moceap@hotmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinnamenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2020-07-20 08:12+0100\n"
+"Last-Translator: Med Amine <amine.griche77@protonmail.ch>\n"
+"Language-Team: Arabic <>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Type to search..."
+msgstr "اكتب لتبحث..."
+
+msgid "Initializing"
+msgstr "تهيئة الجهاز"
+
+msgid "No description available"
+msgstr "لا يوجد وصف متاح"
+
+#, fuzzy
+msgid "All applications"
+msgstr "كل التطبيقات"
+
+msgid "Places"
+msgstr "الأماكن"
+
+#, fuzzy
+msgid "Recent files"
+msgstr "الملفات الأخيرة"
+
+msgid "Bookmarks"
+msgstr "العناوين"
+
+#, fuzzy
+msgid "Favorite apps"
+msgstr "التطبيقات المفضلة"
+
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr "حزمة gir1.2-gda-5.0 مطلوبة ل Firefox و Midori bookmarks."
+
+msgid "Clear List"
+msgstr "حذف القائمة"
+
+#, fuzzy
+msgid "No recent files"
+msgstr "الملفات الأخيرة"
+
+msgid "Account details"
+msgstr "تفاصيل الحساب"
+
+msgid "Grid View"
+msgstr "طريقة الشبكة"
+
+msgid "List View"
+msgstr "طريقة القائمة"
+
+msgid "Switch to grid view"
+msgstr ""
+
+msgid "Switch to list view"
+msgstr ""
+
+#, fuzzy
+msgid "Lock screen"
+msgstr "قفل الشاشة"
+
+msgid "Lock the screen"
+msgstr "إقفل الشاشة"
+
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+msgid "Leave the session"
+msgstr "الخروج"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Shutdown the computer"
+msgstr "إيقاف تشغيل الكمبيوتر"
+
+msgid "Run with NVIDIA GPU"
+msgstr "تشغيل  مع NVIDIA GPU"
+
+msgid "Add to panel"
+msgstr "إضافة إلى القائمة"
+
+msgid "Add to desktop"
+msgstr "إضافة إلى المكتب"
+
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "إزالة المفضلة"
+
+msgid "Add to favorites"
+msgstr "إضافة الى المفضلة"
+
+msgid "Uninstall"
+msgstr "الغاء التثبيت"
+
+msgid "Home"
+msgstr "المنزل"
+
+msgid "Computer"
+msgstr "الحاسوب"
+
+msgid "Browse network"
+msgstr "تصفح الشبكة"
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+#, fuzzy
+msgid "No recent Items"
+msgstr "لا توجد مستندات حديثة"
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+#, fuzzy
+msgid "Favorites"
+msgstr "التطبيقات المفضلة"
+
+#, fuzzy
+msgid "Recent"
+msgstr "الملفات الأخيرة"
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "Reset category order"
+msgstr "إعادة ترتيب الفئة"
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+#, fuzzy
+msgid "Other application..."
+msgstr "عرض أيقونات التطبيق"
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+#, fuzzy
+msgid "Search hidden"
+msgstr "بحث عن مزودين"
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+#, fuzzy
+msgid "Search Stopped"
+msgstr "بحث عن مزودين"
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid "Cinnamenu"
+msgstr "Cinnamenu"
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid "Behavior"
+msgstr "سلوك"
+
+msgid "Appearance"
+msgstr "مظهر"
+
+msgid "Layout and Content"
+msgstr "تخطيط والمحتوى"
+
+msgid "Search Providers"
+msgstr "بحث عن مزودين"
+
+msgid "No search provider extensions found"
+msgstr "لم يتم العثور على مزودين ملحقات"
+
+msgid "Panel"
+msgstr "لوحة"
+
+msgid "Menu"
+msgstr "قائمة"
+
+msgid "Layout"
+msgstr "مخطط"
+
+msgid "Content"
+msgstr "محتوى"
+
+msgid "Recent files settings"
+msgstr "إعدادات الملفات الأخيرة"
+
+msgid "Open the menu editor"
+msgstr "افتح محرر القائمة"
+
+msgid "Use a custom icon"
+msgstr "استخدم أيقونة مخصصة"
+
+msgid "Use a custom icon in the panel"
+msgstr "استخدم أيقونة مخصصة"
+
+msgid "Panel icon"
+msgstr "رمز اللوحة"
+
+msgid "Panel text"
+msgstr "نص اللوحة"
+
+msgid "Text to show beside the panel icon"
+msgstr "نص يظهر بجانب أيقونة اللوحة"
+
+msgid "pixels"
+msgstr "بكسلات"
+
+msgid "Category icon size"
+msgstr "حجم أيقونة الفئة"
+
+msgid "Applications list icon size"
+msgstr "حجم أيقونة قائمة التطبيقات"
+
+msgid "Applications grid icon size"
+msgstr "حجم أيقونة شبكة التطبيقات"
+
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "اختصار لوحة المفاتيح لفتح وإغلاق القائمة"
+
+msgid "Open menu on hover"
+msgstr "افتح القائمة عند التمرير"
+
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr "افتح القائمة عندما أحرك الماوس فوقها"
+
+msgid "milliseconds"
+msgstr "ميلي ثانية"
+
+msgid "Menu hover delay"
+msgstr "تأخير تحويم القائمة"
+
+msgid "Use menu animations"
+msgstr "استخدام الرسوم المتحركة القائمة"
+
+msgid "Animate the menu on open and close"
+msgstr "السماح للقائمة لتنشيط فتح وإغلاق"
+
+msgid "Activate categories on click"
+msgstr "تنشيط الفئات عند النقر"
+
+msgid "Activate categories on click instead of on hover"
+msgstr "تنشيط الفئات عند النقر"
+
+msgid "Enable autoscrolling"
+msgstr "تمكين التمرير التلقائي"
+
+msgid "Enable autoscrolling in application list"
+msgstr "تمكين autoscrolling في قائمة التطبيق"
+
+msgid "Show web bookmarks"
+msgstr "إظهار إشارات الويب"
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Enable searching of open windows"
+msgstr "تمكين البحث عن النوافذ المفتوحة"
+
+msgid "Enable search providers"
+msgstr "تمكين موفري البحث"
+
+msgid "Include search provider results in searches"
+msgstr "تضمين نتائج مزود البحث في عمليات البحث"
+
+msgid "Example Search Providers"
+msgstr "مثال موفري البحث"
+
+#, fuzzy
+msgid "Open menu on category:"
+msgstr "افتح القائمة عند التمرير"
+
+msgid "List"
+msgstr "القائمة"
+
+msgid "Grid"
+msgstr "الشبكة"
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "columns"
+msgstr "أعمدة"
+
+msgid "Number of columns in apps grid"
+msgstr "عدد الأعمدة في شبكة التطبيقات"
+
+msgid "Show bookmarks and places"
+msgstr "عرض الإشارات المرجعية والأماكن"
+
+msgid "Show bookmarks and places category in the menu"
+msgstr "عرض الإشارات المرجعية والأماكن"
+
+msgid "Show application icons"
+msgstr "عرض أيقونات التطبيق"
+
+msgid "Show category icons"
+msgstr "إظهار أيقونات الفئة"
+
+msgid "Show application descriptions under titles"
+msgstr "عرض وصف التطبيق تحت العناوين"
+
+msgid "Show tooltips"
+msgstr "Show tooltips"
+
+msgid "Tooltip delay"
+msgstr "تأخير تلميح "
+
+msgid "Use a custom menu height"
+msgstr "استخدام ارتفاع القائمة المخصصة"
+
+msgid "Custom menu height"
+msgstr "Custom menu height"
+
+msgid "Applications view mode"
+msgstr "وضع عرض التطبيقات"
+
+msgid "View applications as list or grid"
+msgstr "عرض التطبيقات كقائمة أو شبكة"
+
+msgid "Application description placement"
+msgstr "وضع وصف التطبيق"
+
+msgid "Tooltips"
+msgstr "تلميحات الأدوات"
+
+msgid "Under titles"
+msgstr "تحت العناوين"
+
+msgid "None"
+msgstr "لا يوجد"
+
+msgid "Choose where to show application descriptions"
+msgstr "اختر مكان عرض أوصاف التطبيق"
+
+#, fuzzy
+msgid "Sidebar location"
+msgstr "موقع أزرار الجلسة"
+
+msgid "Top"
+msgstr "أعلى"
+
+msgid "Bottom"
+msgstr "الأسفل"
+
+msgid "Left"
+msgstr "اليسار"
+
+msgid "Right"
+msgstr "حق"
+
+#, fuzzy
+msgid "Choose where to show the sidebar"
+msgstr "اختر مكان عرض أوصاف التطبيق"
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr "اعرض أيقونات التطبيق المفضلة لديك بجوار أزرار الجلسة"
+
+#, fuzzy
+msgid "Show recent items"
+msgstr "الملفات الأخيرة"
+
+#, fuzzy
+msgid "Show recent items category in the menu"
+msgstr "عرض الإشارات المرجعية والأماكن"
+
+msgid "Show favorite apps category"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "عرض الإشارات المرجعية والأماكن"
+
+msgid "Show home folder"
+msgstr ""
+
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "عرض الإشارات المرجعية والأماكن"
+
+msgid "Last used category"
+msgstr ""
+
+#, fuzzy
+msgid "Autoscroll the application list on mouse hover"
+msgstr "تمكين autoscrolling في قائمة التطبيق"
+
+msgid "Show hidden files"
+msgstr ""
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+#, fuzzy
+msgid "Search home folder"
+msgstr "بحث عن مزودين"
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+#, fuzzy
+msgid "Web bookmarks search"
+msgstr "إظهار إشارات الويب"
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "استخدم أيقونة مخصصة"
+
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "استخدم أيقونة مخصصة"
+
+#, fuzzy
+msgid "Panel icon size"
+msgstr "رمز اللوحة"
+
+#, fuzzy
+msgid "Choose a custom size for the panel icon"
+msgstr "استخدم أيقونة مخصصة"
+
+#, fuzzy
+msgid "Sidebar icon size"
+msgstr "حجم أيقونة الفئة"
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""
+
+#~ msgid ""
+#~ "A flexible menu providing formatting options, web bookmarks, search "
+#~ "provider support and fuzzy searching."
+#~ msgstr ""
+#~ "قائمة مرنة توفر خيارات التنسيق وإشارات الويب ودعم مزود البحث والبحث "
+#~ "المشوش."
+
+#~ msgid "Show your browser's web bookmarks in the menu"
+#~ msgstr "إظهار إشارات الويب الخاصة بالمتصفح في القائمة"
+
+#~ msgid "Startup applications view mode"
+#~ msgstr "وضع عرض تطبيقات بدء التشغيل"
+
+#~ msgid "px"
+#~ msgstr "px"
+
+#~ msgid "Choose where to show the session (quit, logout, etc.) buttons"
+#~ msgstr "اختر مكان عرض أزرار الجلسة (الإنهاء ، تسجيل الخروج ، إلخ)"
+
+#~ msgid "Add favorites to session buttons"
+#~ msgstr "أضف المفضلة إلى أزرار الجلسة"

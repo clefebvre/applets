@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 11:28+0100\n"
+"PO-Revision-Date: 2017-11-09 15:32+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:215 applet.js:376
+msgid "Timer"
+msgstr "Таймер"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:260 applet.js:353
+msgid "Hours"
+msgstr "Часа"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:261 applet.js:353
+msgid "Minutes"
+msgstr "Минути"
+
+#: applet.js:221 applet.js:353
+msgid "and"
+msgstr "и"
+
+#. settings-schema.json->preset_time->columns->title
+#: applet.js:221 applet.js:262 applet.js:353
+msgid "Seconds"
+msgstr "Секунди"
+
+#: applet.js:238
+msgid "Reset"
+msgstr "Нулирай"
+
+#: applet.js:523
+msgid "Okay"
+msgstr "Добре"
+
+#: applet.js:541
+msgid "Cinnamon Timer"
+msgstr "Таймер за Cinnamon"
+
+#. settings-schema.json->page1->title
+msgid "General"
+msgstr "Общи"
+
+#. settings-schema.json->page2->title
+msgid "Sounds"
+msgstr "Звуци"
+
+#. settings-schema.json->page3->title
+#. settings-schema.json->section3->title
+#. settings-schema.json->preset_time->description
+msgid "Preset Times"
+msgstr "Зададени времена "
+
+#. settings-schema.json->page4->title
+#. settings-schema.json->section4->title
+#. settings-schema.json->slider_intervals->description
+msgid "Slider Intervals"
+msgstr "Интервали на слайдера"
+
+#. settings-schema.json->section1->title
+msgid "General Settings"
+msgstr "Общи настройки"
+
+#. settings-schema.json->section2->title
+msgid "Sound Settings"
+msgstr "Звукови настройки"
+
+#. settings-schema.json->confirm-prompt-enable->description
+msgid "Check this to place a prompt on the window when time has elapsed."
+msgstr ""
+"Натисни тук, за да се покаже известяващ прозорец при изтичане на времето."
+
+#. settings-schema.json->confirm-prompt-enable->tooltip
+msgid "Check this to place a prompt on the window when time has elapsed"
+msgstr ""
+"Натисни тук, за да се покаже известяващ прозорец при изтичане на времето"
+
+#. settings-schema.json->message-prompt-enable->description
+#. settings-schema.json->message-prompt-enable->tooltip
+msgid "Display a notification when time has elapsed"
+msgstr "Покажи известие, когато времето изтече"
+
+#. settings-schema.json->display-message->description
+#. settings-schema.json->display-message->tooltip
+msgid ""
+"Global message displayed in notification windows unless defined in preset "
+"time."
+msgstr ""
+"Общото съобщение ще се покаже в известяващ прозорец, освен ако не е "
+"дефинирано друго в зададените времена."
+
+#. settings-schema.json->sound-prompt-enable->description
+#. settings-schema.json->sound-prompt-enable->tooltip
+msgid "Play a sound when time is elapsed"
+msgstr "Изпълни звук при изтичане на времето"
+
+#. settings-schema.json->sound-file->description
+msgid "Full path and filename of alert sound file"
+msgstr "Пълен път и име на файл на звуково известие"
+
+#. settings-schema.json->sound-file->tooltip
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr "Трябва да имате инсталиран Sox. Поддържат се повечето файлови типове"
+
+#. settings-schema.json->display-menu-enable->description
+#. settings-schema.json->display-menu-enable->tooltip
+msgid "Show the timer menu when time is elapsed"
+msgstr "Покажи менюто на таймера при изтичане на времето"
+
+#. settings-schema.json->duration-display-enable->description
+#. settings-schema.json->duration-display-enable->tooltip
+msgid "Display remaining time in panel"
+msgstr "Покажи оставащото време в панела"
+
+#. settings-schema.json->alarmtime-display-enable->description
+#. settings-schema.json->alarmtime-display-enable->tooltip
+#, fuzzy
+msgid "Display alarm time in panel"
+msgstr "Покажи оставащото време в панела"
+
+#. settings-schema.json->alarmtime-format-small->description
+msgid "Format used to display alarm time in the near future"
+msgstr ""
+
+#. settings-schema.json->alarmtime-format-small->tooltip
+msgid ""
+"If the alarm time is less than the minutes specified below away,\n"
+"the alarm time can be displayed with more details\n"
+"(see https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-"
+"format)"
+msgstr ""
+
+#. settings-schema.json->alarmtime-format-large->description
+msgid "Format used to display alarm time in the not so near future"
+msgstr ""
+
+#. settings-schema.json->alarmtime-format-large->tooltip
+msgid ""
+"If the alarm time is more than the minutes specified below away,\n"
+"the alarm time can be displayed with less details\n"
+"(see https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-"
+"format)"
+msgstr ""
+
+#. settings-schema.json->alarmtime-format-switchover->units
+#, fuzzy
+msgid "minutes"
+msgstr "Минути"
+
+#. settings-schema.json->alarmtime-format-switchover->description
+msgid "Time when switching from small to large time format"
+msgstr ""
+
+#. settings-schema.json->alarmtime-format-switchover->tooltip
+msgid "Switch over time between the two formats specified above"
+msgstr ""
+
+#. settings-schema.json->alarm_end->description
+#. settings-schema.json->alarm_end->tooltip
+#. settings-schema.json->alarm_start->description
+#. settings-schema.json->alarm_start->tooltip
+msgid "Do not change, the time the alarm is set to expire"
+msgstr "Не променяй, зададено е време"
+
+#. settings-schema.json->message->description
+#. settings-schema.json->message->tooltip
+msgid "Do not change, message being displayed when the current timer expires"
+msgstr "Не променяйте, съобщението ще се покаже, когато текущия таймер изтече"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Minimum"
+msgstr "Минимум"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Maximum"
+msgstr "Максимум"
+
+#. settings-schema.json->slider_intervals->columns->title
+msgid "Step"
+msgstr "Стъпка"
+
+#. settings-schema.json->preset_time->columns->title
+msgid "Label"
+msgstr "Заглавие"
+
+#. settings-schema.json->preset_time->columns->title
+msgid "Custom Message (overrides global message)"
+msgstr "Потребителско съобщение (пренаписване на общото съобщение)"
+
+#~ msgid "A timer app with visual and auditory notifications."
+#~ msgstr "Таймер с визуални и звукови известия."
+
+#~ msgid "Timer with notifications"
+#~ msgstr "Таймер с известия"
+
+#~ msgid "Message displayed in notification windows"
+#~ msgstr "Съобщение, което да се показва в прозорче за известия"

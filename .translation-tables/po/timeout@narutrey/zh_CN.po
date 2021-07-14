@@ -1,0 +1,121 @@
+# Cinnamon Applet timeout@narutrey
+# Copyright (C) 2016 Naru Trey
+# This file is distributed under the same license as the timeout@narutrey package.
+# Naru Trey <contact@libnaru.so>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 17:16+0400\n"
+"PO-Revision-Date: 2017-03-12 00:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:210
+msgid "Time left:"
+msgstr "剩余时间："
+
+#: applet.js:256
+msgid "Resume"
+msgstr "恢复"
+
+#: applet.js:262
+msgid "The break is over"
+msgstr "休息结束"
+
+#: applet.js:272
+msgid "Break!"
+msgstr "休息！"
+
+#: applet.js:282
+msgid "Postpone"
+msgstr "推迟"
+
+#: applet.js:310
+msgid "Enabled"
+msgstr "启用"
+
+#: applet.js:319
+msgid "Reset timer"
+msgstr "重置定时器"
+
+#: applet.js:324
+msgid "Take a break"
+msgstr "休息一下"
+
+#. timeout@narutrey->metadata.json->description
+msgid "Automatically controlled time outs and breaks"
+msgstr "自动控制超时和休息"
+
+#. timeout@narutrey->metadata.json->name
+msgid "Time Out"
+msgstr "超时"
+
+#. timeout@narutrey->settings-schema.json->enable->description
+msgid "Enable"
+msgstr "启用"
+
+#. timeout@narutrey->settings-schema.json->display_seconds->description
+msgid "Display seconds"
+msgstr "显示秒"
+
+#. timeout@narutrey->settings-schema.json->appearance->description
+msgid "Appearance"
+msgstr "外观"
+
+#. timeout@narutrey->settings-schema.json->time_postpone->description
+msgid "Postpone length"
+msgstr "推迟时长"
+
+#. timeout@narutrey->settings-schema.json->time_postpone->units
+#. timeout@narutrey->settings-schema.json->time_work->units
+#. timeout@narutrey->settings-schema.json->time_break->units
+msgid "minutes"
+msgstr "分钟"
+
+#. timeout@narutrey->settings-schema.json->allow_postpone->description
+msgid "Allow postpone"
+msgstr "允许推迟"
+
+#. timeout@narutrey->settings-schema.json->behaviour->description
+msgid "Behaviour"
+msgstr "行为"
+
+#. timeout@narutrey->settings-schema.json->time_work->description
+msgid "Time between breaks"
+msgstr "休息之间的时间"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Only Icon"
+msgstr "仅图标"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Icon and Label"
+msgstr "图标和标签"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Only Label"
+msgstr "仅标签"
+
+#. timeout@narutrey->settings-schema.json->display_mode->description
+msgid "Display panel"
+msgstr "显示面板"
+
+#. timeout@narutrey->settings-schema.json->time_break->description
+msgid "Break length"
+msgstr "休息时长"
+
+#. timeout@narutrey->settings-schema.json->resume_auto->description
+msgid "Resume automatically"
+msgstr "自动恢复"
+
+#. timeout@narutrey->settings-schema.json->Time_settings_header->description
+msgid "Time settings"
+msgstr "时间设置"

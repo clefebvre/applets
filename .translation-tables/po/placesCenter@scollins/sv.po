@@ -1,0 +1,349 @@
+# Swedish translation for placesCenter@scollins.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017-2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: placesCenter@scollins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2019-03-02 14:35+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: applet.js:170
+msgid "Places"
+msgstr "Platser"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Sök i hemkatalogen"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "SYSTEM"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Sök i filsystemet"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "TIDIGARE DOKUMENT"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Rensa"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Dator"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Filsystem"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Nätverk"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Papperskorg"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Öppna..."
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Öppna målmappen..."
+
+#: search.py:85
+msgid "Search"
+msgstr "Sök"
+
+#: search.py:106
+msgid "Start in"
+msgstr "Starta i"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Välj en mapp"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Följ symboliska länkar"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Sök dolda"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Använd Regular Expressions"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Stopp"
+
+#: search.py:140
+msgid "File"
+msgstr "Fil"
+
+#: search.py:156
+msgid "Path"
+msgstr "Sökväg"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Söker..."
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Sökning stoppad"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Söker: "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Fel: Otillräckliga rättigheter för att läsa mappen"
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Sökning slutförd"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Undantar"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - mappen redan genomsökt"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Platscentral"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Erbjuder en lättläst layout för att nå dina lagringsplatser"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Platscentralen är ett funktionsrikt, plattformsöverskridande panelprogram "
+"för Cinnamon som erbjuder enkel åtkomst till alla dina mest använda "
+"lagringsmappar. Bidra gärna till utvecklingen genom \"pull requests\", "
+"felrapporter och funktionsönskemål, i mitt GitHub-förråd."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Author"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - Lade till konfigurerbart mushjulsklick"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Allmänt"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Användare"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "System"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Tidigare dokument"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Panelinställningar"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Menyinställningar"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Användarsektion"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Systemsektion"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panelikon"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Accepterar ikonnamn eller direkt sökväg (stöder symboliska ikoner)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Paneltext"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Menysnabbtangent"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Menyikonstorlek"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Öppna på mushjulsklick"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Lämnas tom för inaktivering"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Visa Skrivbord"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Anpassade platser"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Lista över uri:er/filsökvägar att inkludera. Poster kan separeras med "
+"kommatecken eller ny rad. Du kan ange visningsnamn genom att lägga till :"
+"anpassatNamn efter platsen. Du kan likaså ange ikonnamn genom att lägga "
+"till :ikonNamn efter det anpassade namnet."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Visa Papperskorgen"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Aldrig"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Alltid"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Om inte tom"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Visa Dator"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Visa filsystem"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Visa volymer"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Visa endast monterade diskar"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Visa nätverk"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Visa tidigare dokument"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+#, fuzzy
+msgid "All Recent Documents"
+msgstr "Tidigare dokument"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Antal att visa"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""
+
+#~ msgid "General Settings"
+#~ msgstr "Allmänna inställningar"
+
+#~ msgid "Icon size"
+#~ msgstr "Ikonstorlek"
+
+#~ msgid ""
+#~ "List of uris/file paths to be included. Entries may be separated by "
+#~ "either a comma(,) or by a new-line. You can set the name to be displayed "
+#~ "by adding :customName after the location."
+#~ msgstr ""
+#~ "Lista över uri-/filsökvägar att inkludera. Posterna kan separeras med "
+#~ "antingen kommatecken eller med ny rad. Du kan ange namnet som skall "
+#~ "visas, genom att lägga till :AnpassatNamn efter platsen."
+
+#~ msgid "User Section"
+#~ msgstr "Användarsektion"
+
+#~ msgid "System Section"
+#~ msgstr "Systemsektion"

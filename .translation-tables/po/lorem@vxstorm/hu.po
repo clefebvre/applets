@@ -1,0 +1,30 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-06 10:09+0800\n"
+"PO-Revision-Date: 2021-03-30 21:12+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:30
+msgid "Copy Lorem Ipsum into your clipboard"
+msgstr "Másolja a Lorem Ipsum-ot a vágólapra"
+
+#. lorem@vxstorm->metadata.json->description
+msgid "Click to get a paragraph of Lorem Ipsum to your clipboard"
+msgstr "Kattintson, hogy Lorem Ipsum egy bekezdését a vágólapra másolja"
+
+#. lorem@vxstorm->metadata.json->name
+msgid "Lorem Pastesum"
+msgstr "Lorem Pastesum"

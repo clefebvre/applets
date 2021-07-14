@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Gena <genaloner@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:47+0200\n"
+"PO-Revision-Date: 2017-11-09 13:59+0200\n"
+"Last-Translator: Gena <genaloner@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: applet.js:46
+msgid "Tor network"
+msgstr "Сеть Tor"
+
+#: applet.js:50
+msgid "Rebuild chain"
+msgstr "Перестроить цепочку"
+
+#: applet.js:82 applet.js:143
+msgid "Tor disabled"
+msgstr "Tor отключён"
+
+#: applet.js:88 applet.js:107 applet.js:126 applet.js:154
+msgid "Error"
+msgstr "Ошибка"
+
+#: applet.js:88
+msgid "Unable to parse "
+msgstr "Не удалось распознать "
+
+#: applet.js:107
+msgid "Unable to open configuration file "
+msgstr "Не удалось открыть файл конфигурации "
+
+#: applet.js:121
+msgid "Process launched."
+msgstr "Процесс запущен."
+
+#: applet.js:122
+msgid "Tor enabled"
+msgstr "Tor включён"
+
+#: applet.js:126
+msgid "Unable to start Tor: "
+msgstr "Не удалось запустить Tor: "
+
+#: applet.js:142
+msgid "Process closed."
+msgstr "Процесс остановлен."
+
+#: applet.js:154
+msgid "Tor is not running."
+msgstr "Tor не запущен."
+
+#. tor-button@shatur->settings-schema.json->showNotifications->description
+msgid "Show notifications"
+msgstr "Показывать уведомления"
+
+#. tor-button@shatur->settings-schema.json->showNotifications->tooltip
+msgid "Show notifications when the Tor network is turned on/off."
+msgstr "Показывать уведомления, когда сеть Tor включается/выключается."
+
+#. tor-button@shatur->settings-schema.json->torPath->description
+msgid "Tor location path"
+msgstr "Расположение Tor"
+
+#. tor-button@shatur->settings-schema.json->torPath->tooltip
+msgid "Specify the command to launch Tor."
+msgstr "Укажите команду для запуска Tor."
+
+#. tor-button@shatur->settings-schema.json->torrc-page->title
+msgid "Tor settings"
+msgstr "Настройки Tor"
+
+#. tor-button@shatur->settings-schema.json->applet-section->title
+msgid "Settings for applet"
+msgstr "Настройки для апплета"
+
+#. tor-button@shatur->settings-schema.json->applet-page->title
+msgid "Applet settings"
+msgstr "Настройки апплета"
+
+#. tor-button@shatur->settings-schema.json->torrc-section->title
+msgid "Settings for Tor"
+msgstr "Настройки для Tor"
+
+#. tor-button@shatur->settings-schema.json->configPath->description
+msgid "Tor config path"
+msgstr "Путь к настройкам Tor"
+
+#. tor-button@shatur->settings-schema.json->configPath->tooltip
+msgid "Specify the path to torrc file."
+msgstr "Укажите путь к файлу torrc."
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->description
+msgid "Launch Tor as tor user"
+msgstr "Запускать от пользователя tor"
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->tooltip
+msgid ""
+"Launch Tor with polkit as tor user. Needed if you don't have permissions to "
+"launch Tor as normal user."
+msgstr ""
+"Запускать Tor с polkit от пользователя tor. Требутеся, если у вас нет прав "
+"для запуска Tor от обычного пользователя."
+
+#. tor-button@shatur->metadata.json->description
+msgid "Applet for Tor network management"
+msgstr "Апплет для управления сетью Tor"
+
+#. tor-button@shatur->metadata.json->name
+msgid "Tor Button"
+msgstr ""

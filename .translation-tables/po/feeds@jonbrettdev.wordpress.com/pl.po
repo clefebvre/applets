@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2020-11-21 21:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "Nieprawidłowy adres URL"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " nieprzeczytanych wpisów!"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Ładowanie kanału RSS"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr ""
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr "Proszę zainstalować brakujący pakiet '%s'."
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Oznacz wszystkie wpisy jako przeczytane"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Aktualizuj wpisy"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Zarządzanie kanałami RSS"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "Brak nieprzeczytanych wpisów"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Kanały RSS"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Kliknij prawym przyciskiem myszy aby otworzyć źródło kanału RSS:\n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Oznacz wszystkie wpisy jako przeczytane"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Oznacz "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " jako przeczytane"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Aktualizuj URL kanału RSS"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Opublikowane: "
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Oznacz jako przeczytany"
+
+#: applet.js:958
+msgid "d) "
+msgstr ""
+
+#: applet.js:960
+msgid "h) "
+msgstr ""
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr ""
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Zarządzanie kanałami RSS"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Nazwa listy:"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Dodaj/usuń listę kanałów RSS"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Włączone"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "URL"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Własny tytuł"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Powiadomienia"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Wyświetlaj przeczytane"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Przedział czasowy"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Pokaż obrazy"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "Importuj"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_Importuj plik OPML"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Importuj kanały RSS z pliku OPML"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "_Importuj kanały RSS z pliku"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Importuj kanały RSS z pliku"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Eksportuj"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "_Eksportuj kanały RSS do pliku"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Eksportuj kanały RSS do pliku"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "Opcje"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "_Pokaż/ukryj ukryte pola"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Pokaż lub ukryj ukryte pliki"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Zmiany zostaną utracone, kontynuować?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Czy na pewno?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Nowa lista kanałów RSS"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Dodaj nową listę kanałów RSS"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Nie udało się zapisać pliku konfiguracyjnego"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "Wybierz plik OPML"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "Pliki OPML"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Wybierz plik zawierający kanały RSS"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Pliki tekstowe"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "Plik zaimportowany"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "Zaimportowano %d kanałów"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "Import z pliku nieudany"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Zapisz plik z kanałami RSS"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Nie udało się wyeksportować, wyjątek: %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Eksport do pliku nieudany"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr ""
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Czytnik RSS"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "Ogólne"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Zarządzaj kanałami RSS..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr "Uruchom okno zarządzania kanałami RSS aby dodać/usunąć/edytować kanały"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "kanały RSS"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Maksymalna liczba wyświetlanych wpisów"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Maksymalna liczba wpisów wyświetlana dla kanału RSS"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "minuty"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Interwał czasowy aktualizacji wpisów"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Odstęp czasu pomiędzy pobieraniem nowych wpisów"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Włącz powiadomienia o nowych wpisach"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "Wyświetla powiadomienia o nowych wpisach"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr "Włącz logowanie informacji debugowania"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "Włącza logowanie informacji debugowania"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Nazwa listy kanałów RSS"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr ""

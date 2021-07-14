@@ -1,0 +1,244 @@
+# Hungarian translations for Neroth-gnome-shell-extension-weather package.
+# Copyright (C) 2013 THE Neroth-gnome-shell-extension-weather'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Neroth-gnome-shell-extension-weather package.
+# Bojtos PÃ©ter <ptr@ulx.hu>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Neroth-gnome-shell-extension-weather 3696468\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-15 22:54+0100\n"
+"PO-Revision-Date: 2021-02-15 20:32+0100\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: Hungarian\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: 3.0/climacell.js:248 3.8/providers/climacell.js:162
+#: 3.8/providers/climacellV4.js:40
+msgid ""
+"Please Make sure you\n"
+"entered the API key that you have from Climacell"
+msgstr ""
+
+#: 3.0/darkSky.js:238 3.8/providers/darkSky.js:166
+msgid ""
+"Please Make sure you\n"
+"entered the API key that you have from DarkSky"
+msgstr ""
+
+#: 3.8/providers/climacell.js:9 3.8/providers/climacellV4.js:8
+msgid "Climacell"
+msgstr ""
+
+#: 3.8/providers/climacell.js:39 3.8/providers/darkSky.js:33
+msgid "This API has ceased to function, please use another one."
+msgstr ""
+
+#. 3.8->settings-schema.json->dataService->options
+#: 3.8/providers/danishMI.js:8
+msgid "DMI Denmark"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:173
+msgid "Blowing snow"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:214 3.8/providers/danishMI.js:215
+msgid "Slight snow"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:221 3.8/providers/danishMI.js:222
+msgid "Moderate snow"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:236
+msgid "Moderate rain showers"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:243
+msgid "Mixed rain and snow"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:250
+msgid "Heavy mixed rain and snow"
+msgstr ""
+
+#: 3.8/providers/danishMI.js:277 3.8/providers/danishMI.js:278
+msgid "NOT FOUND"
+msgstr ""
+
+#: 3.8/providers/met_uk.js:137
+msgid "Data was not found for location"
+msgstr ""
+
+#: 3.8/providers/us_weather.js:9
+msgid "US Weather"
+msgstr ""
+
+#: 3.8/providers/visualcrossing.js:7
+msgid "Visual Crossing"
+msgstr ""
+
+#: 3.8/providers/visualcrossing.js:220
+msgid "Precipitation in vicinity"
+msgstr ""
+
+#: 3.8/providers/visualcrossing.js:258
+msgid "Diamond dust"
+msgstr ""
+
+#: 3.8/providers/weatherbit.js:9
+msgid "WeatherBit"
+msgstr ""
+
+#: 3.8/ui_elements/uiCurrentWeather.js:222
+msgid "Precipitation will end in {precipEnd} minutes"
+msgstr ""
+
+#: 3.8/ui_elements/uiCurrentWeather.js:224
+msgid "Precipitation won't end in within an hour"
+msgstr ""
+
+#: 3.8/ui_elements/uiCurrentWeather.js:227
+msgid "Precipitation will start within {precipStart} minutes"
+msgstr ""
+
+#. 3.0->settings-schema.json->temperatureUnit->options
+#. 3.8->settings-schema.json->temperatureUnit->options
+msgid "Celsius"
+msgstr ""
+
+#. 3.0->settings-schema.json->temperatureUnit->options
+#. 3.8->settings-schema.json->temperatureUnit->options
+msgid "Fahrenheit"
+msgstr ""
+
+#. 3.0->settings-schema.json->temperatureUnit->tooltip
+#. 3.0->settings-schema.json->distanceUnit->tooltip
+#. 3.8->settings-schema.json->temperatureUnit->tooltip
+#. 3.8->settings-schema.json->distanceUnit->tooltip
+msgid ""
+"Automatic will try to guess your preference based your current display "
+"language."
+msgstr ""
+
+#. 3.0->settings-schema.json->tempTextOverride->tooltip
+#. 3.8->settings-schema.json->tempTextOverride->tooltip
+msgid ""
+"Available values are: {c} is condition, {t} is temperature and {u} is unit.\n"
+"Can be used if label does not fit on vertical panel, among other smart "
+"things."
+msgstr ""
+
+#. 3.8->settings-schema.json->units-page->title
+msgid "Other options"
+msgstr ""
+
+#. 3.8->settings-schema.json->units-section->title
+msgid "Other Units"
+msgstr ""
+
+#. 3.8->settings-schema.json->temp-unit-section->title
+msgid "Temperature Unit"
+msgstr ""
+
+#. 3.8->settings-schema.json->dataService->tooltip
+msgid ""
+"You can choose between several different weather forecast providers. Some "
+"providers require a API key to work, some have regional limits, differ in "
+"forecast length, and they all need a functional internet connection to work. "
+"The options are described in detail on the Cinnamon Spices Website which you "
+"can access with the button on the Help tab."
+msgstr ""
+
+#. 3.8->settings-schema.json->location->tooltip
+msgid ""
+"You can enter coordinates 'Latitude,Longitude' (e.g. 51.5085,-0.1257) or use "
+"'City,Country-code' (e.g. London,UK) or try to enter {House number} {Street} "
+"{City/Town} {Postcode} {Country}. The search algorithm is very flexible with "
+"the format. After 3 seconds without typing the address you entered is "
+"replaced automatically for validating your choice."
+msgstr ""
+
+#. 3.8->settings-schema.json->saveLocation->tooltip
+msgid ""
+"Saves location information to file so you can switch between them with "
+"buttons in the applet, which will appear if you have more than one."
+msgstr ""
+
+#. 3.8->settings-schema.json->refreshInterval->tooltip
+msgid ""
+"If you are using a provider with API keys set it to an interval you won't "
+"run out of your quota with."
+msgstr ""
+
+#. 3.8->settings-schema.json->forecastDays->tooltip
+msgid ""
+"Maximum number of days that can be displayed, maximum rows and columns "
+"setting in the Presentation tab will affect the final number."
+msgstr ""
+
+#. 3.8->settings-schema.json->immediatePrecip->description
+msgid "Enable minutely precipitation forecast"
+msgstr ""
+
+#. 3.8->settings-schema.json->immediatePrecip->tooltip
+msgid ""
+"If you'd like to use this make sure you use your exact coordinates/address "
+"as location to help its accuracy. Currently implemented with OpenWeatherMap "
+"only."
+msgstr ""
+
+#. 3.8->settings-schema.json->showBothTempUnits->description
+msgid "Show both temperature units at the same time"
+msgstr ""
+
+#. 3.8->settings-schema.json->locationList->tooltip
+msgid ""
+"You have to make sure the Search entry field is unique and your Timezone is "
+"in the IANA time zone format (e.g. 'Europe/London')"
+msgstr ""
+
+#. 3.8->settings-schema.json->displayWindAsText->description
+msgid "Display wind direction as text"
+msgstr ""
+
+#. 3.8->settings-schema.json->displayWindAsText->tooltip
+msgid "Like SE, N instead of direction icons."
+msgstr ""
+
+#. 3.8->settings-schema.json->shortHourlyTime->tooltip
+msgid "Instead of 15:00 or 3:00 pm it will show up as 15 or 3 pm"
+msgstr ""
+
+#. 3.8->settings-schema.json->more-info-label->description
+msgid ""
+"For detailed information about the applet please go to the Spices Website to "
+"find info about known issues, troubleshooting, changelog and more by "
+"clicking the button below. Here you can ask questions etc in the comment "
+"section by logging in with your Github account."
+msgstr ""
+
+#. 3.8->settings-schema.json->issue-reporting-explanation->description
+msgid ""
+"If you find an issue with this applet please make a report by clicking on "
+"the button below and login in with your Github account. Before you start "
+"writing please make sure that the issue is not already submitted in the "
+"issues section. Don't forget to write weather@mockturtl in the top Title "
+"field to make it easier for everyone to know that the issue is about the "
+"weather applet (the form is for all Cinnamon applets)."
+msgstr ""
+
+#. 3.8->settings-schema.json->loc-info->description
+msgid ""
+"Your location in most cases work automatically but you can enter it manually "
+"by coordinates 'Latitude,Longitude' (e.g. 51.5085,-0.1257) or use 'City,"
+"Country-code' (e.g. London,UK) or try to enter {House number} {Street} {City/"
+"Town} {Postcode} {Country}. The search algorithm is very flexible with the "
+"format. After 3 seconds without typing the address you entered is replaced "
+"automatically for validating your choice."
+msgstr ""

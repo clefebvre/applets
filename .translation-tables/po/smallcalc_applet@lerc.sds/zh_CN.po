@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:47+0100\n"
+"PO-Revision-Date: 2017-04-22 12:57+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:37 applet.js:96
+msgid "Show calculator"
+msgstr "显示计算器"
+
+#: applet.js:99
+#, fuzzy
+msgid "Hide calculator"
+msgstr "显示计算器"
+
+#. metadata.json->name
+msgid "SmallCalc"
+msgstr "袖珍计算器"
+
+#. metadata.json->description
+msgid "A nice compact popup calculator"
+msgstr "一个精美小巧的弹出式计算器"
+
+#. settings-schema.json->definitionsheader->description
+msgid "Initial definitions"
+msgstr "初始定义"
+
+#. settings-schema.json->definitions->description
+msgid "Define constants and functions to use in calculator"
+msgstr ""
+
+#~ msgid "  C  "
+#~ msgstr "清除"
+
+#~ msgid " AC "
+#~ msgstr "清空"

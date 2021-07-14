@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 12:38+0800\n"
+"PO-Revision-Date: 2021-02-19 07:24+0100\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#: applet.js:52
+msgid "Apache Web Server"
+msgstr "Apache Webkiszolgáló"
+
+#: applet.js:53
+msgid "MySQL Server"
+msgstr "MySQL adatbázis-kiszolgáló"
+
+#: applet.js:61
+msgid "Open Web Dir"
+msgstr "Web mappa megnyítása"
+
+#: applet.js:66
+msgid "Launch Web Dir"
+msgstr "Web mappa elindítása"
+
+#: applet.js:70
+msgid "Launch phpMyAdmin"
+msgstr "PhpMyAdmin elindítása"
+
+#: applet.js:75
+msgid "Edit default php.ini"
+msgstr "Alapértelmezett php.ini szerkersztése"
+
+#: applet.js:79
+msgid "Edit Apache Conf"
+msgstr "Apache konfiguráció szerkesztése"
+
+#. web-developer-menu@infiniteshroom->metadata.json->description
+msgid "A Menu for PHP/MySQL Web Developers"
+msgstr "Menü PHP és MySQL webfejlesztők számára"
+
+#. web-developer-menu@infiniteshroom->metadata.json->name
+msgid "Web Developer Menu"
+msgstr "Webfejlesztő menü"

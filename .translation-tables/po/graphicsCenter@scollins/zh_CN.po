@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 15:47+0100\n"
+"PO-Revision-Date: 2017-03-09 18:22+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:169
+msgid "Clear"
+msgstr "清除"
+
+#: applet.js:224
+msgid "Graphics"
+msgstr "图形"
+
+#: applet.js:304
+msgid "LAUNCHERS"
+msgstr "启动器"
+
+#: applet.js:329
+msgid "PICTURES"
+msgstr "图片"
+
+#: applet.js:340
+msgid "Open folder"
+msgstr "打开文件夹"
+
+#: applet.js:367
+msgid "RECENT DOCUMENTS"
+msgstr "最近的文档"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "面板图标"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "接受图标名称和直接路径（支持符号图标）"
+
+#. graphicsCenter@scollins->settings-schema.json->showPictures->description
+msgid "Show contents of pictures directory"
+msgstr "显示图片目录的内容"
+
+#. graphicsCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "菜单快捷键"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "菜单图标大小"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. graphicsCenter@scollins->settings-schema.json->pictures->description
+msgid "Pictures"
+msgstr "图片"
+
+#. graphicsCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "要显示的数量"
+
+#. graphicsCenter@scollins->settings-schema.json->pictureSize->description
+msgid "Thumbnail size"
+msgstr "缩略图大小"
+
+#. graphicsCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "常规设置"
+
+#. graphicsCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "面板文本"
+
+#. graphicsCenter@scollins->settings-schema.json->recursePictures->description
+msgid "Show contents of subfolders"
+msgstr "显示子文件夹的内容"
+
+#. graphicsCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "使用备用目录"
+
+#. graphicsCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "显示最近的文档"
+
+#. graphicsCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "最近的文档"
+
+#. graphicsCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your picture needs"
+msgstr "为所有您的图片需求提供轻松快速的资源"
+
+#. graphicsCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - 作者"
+
+#. graphicsCenter@scollins->metadata.json->comments
+msgid ""
+"Graphics Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your graphics programs and pictures. Feel "
+"free to contribute by submitting pull requests, bug reports and feature "
+"requests to my github repo."
+msgstr ""
+"图形中心是一个功能丰富、跨平台的 Cinnamon 小程序，可以轻松访问所有您最常用的"
+"图形程序和图片。请随意通过提交拉取请求、错误报告和功能请求贡献到我的 github "
+"仓库。"
+
+#. graphicsCenter@scollins->metadata.json->name
+msgid "Graphics Center"
+msgstr "图形中心"

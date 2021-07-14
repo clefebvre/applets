@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 21:34+0200\n"
+"PO-Revision-Date: 2017-03-12 23:28+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:97
+msgid "Num Lock"
+msgstr "数字锁定键"
+
+#: applet.js:103
+msgid "Caps Lock"
+msgstr "大写锁定键"
+
+#: applet.js:142
+msgid "Lock Keys"
+msgstr "锁定键"
+
+#: applet.js:190
+msgid "Num lock on"
+msgstr "数字锁定键开"
+
+#: applet.js:193
+msgid "Num lock off"
+msgstr "数字锁定键关"
+
+#: applet.js:201
+msgid "Caps lock on"
+msgstr "大写锁定键开"
+
+#: applet.js:204
+msgid "Caps lock off"
+msgstr "大写锁定键关"
+
+#. betterlock->settings-schema.json->show-notifications->description
+#, fuzzy
+msgid "Show notifications"
+msgstr "通知"
+
+#. betterlock->settings-schema.json->indicator-type->options
+#, fuzzy
+msgid "Num Lock only"
+msgstr "数字锁定键开"
+
+#. betterlock->settings-schema.json->indicator-type->options
+#, fuzzy
+msgid "Caps Lock only"
+msgstr "大写锁定键开"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock and Caps Lock"
+msgstr ""
+
+#. betterlock->settings-schema.json->indicator-type->description
+msgid "Choose which indicator to show"
+msgstr ""
+
+#. betterlock->metadata.json->description
+msgid ""
+"Shows whether caps lock/num lock is on, and displays a notification when "
+"these change."
+msgstr "显示大写锁定键/数字锁定键是否启用，并在其更改时显示一个通知。"
+
+#. betterlock->metadata.json->name
+msgid "Num Lock/Caps Lock indicator with notifications"
+msgstr "含消息托盘通知的数字锁定键/大写锁定键指示器"

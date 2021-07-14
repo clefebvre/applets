@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-28 09:54+0100\n"
+"PO-Revision-Date: 2017-12-04 19:37+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:55
+msgid "[GPaste is not installed]"
+msgstr "[GPaste er ikke installeret]"
+
+#: applet.js:91
+msgid "GPaste clipboard"
+msgstr "GPaste-udklipsholder"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->gpaste-
+#. settings->description
+#: applet.js:97 applet.js:135
+msgid "GPaste Main Program"
+msgstr "GPaste-hovedprogram"
+
+#: applet.js:102
+msgid "Select History"
+msgstr "Vælg historik"
+
+#: applet.js:111
+msgid "Track clipboard changes"
+msgstr "Spor ændringer til udklipsholderen"
+
+#: applet.js:119
+msgid "(Empty)"
+msgstr "(Tom)"
+
+#: applet.js:122
+msgid "(No results)"
+msgstr "(Ingen resultater)"
+
+#: applet.js:127
+msgid "New item"
+msgstr "Nyt element"
+
+#: applet.js:130
+msgid "Empty history"
+msgstr "Tom historik"
+
+#: applet.js:447
+msgid "Do you really want to empty the current history?"
+msgstr "Vil du virkelig slette den nuværende historik?"
+
+#: GPasteNewItemDialog.js:48
+msgid "Please enter the text you want to add to the current history:"
+msgstr "Indtast teksten, du vil tilføje til den nuværende historik:"
+
+#: GPasteNewItemDialog.js:54 GPasteNotInstalledDialog.js:27
+msgid "OK"
+msgstr "OK"
+
+#: GPasteNewItemDialog.js:58
+msgid "Cancel"
+msgstr "Annullér"
+
+#: GPasteSearchItem.js:29
+msgid "Type to search..."
+msgstr "Skriv for at søge …"
+
+#: GPasteNotInstalledDialog.js:22
+msgid ""
+"GPaste is not installed. Please install the necessary packages and then "
+"restart Cinnamon for this applet to start working."
+msgstr ""
+"GPaste er ikke installeret. De nødvendige pakker skal installeres og "
+"Cinnamon genstartes, før panelprogrammet virker."
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->name
+msgid "GPaste Reloaded"
+msgstr "GPaste genopfundet"
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->description
+msgid ""
+"A complete rewrite of the GPaste applet based on the Gnome Shell extension"
+msgstr ""
+"En total omskrivning af panelprogrammet GPaste baseret på Gnome Shell-"
+"udvidelsen"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-gpaste-
+#. ui->description
+msgid "Display 'GPaste Main Program'"
+msgstr "Vis \"GPaste-hovedprogram\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->kb-show-
+#. history->description
+msgid "Show history"
+msgstr "Vis historik"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->other->description
+msgid "Other"
+msgstr "Andet"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->key-
+#. bindings->description
+msgid "Key bindings"
+msgstr "Tastaturgenveje"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->shown-
+#. entries->description
+msgid "Shown entries"
+msgstr "Viste poster"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-empty-
+#. history->description
+msgid "Display 'Empty history'"
+msgstr "Vis \"Tom historik\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-track-
+#. switch->description
+msgid "Display 'Track clipboard changes'"
+msgstr "Vis \"Spor ændringer til udklipsholderen\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-new-
+#. item->description
+msgid "Display 'New item'"
+msgstr "Vis \"Nyt element\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-
+#. searchbar->description
+msgid "Display search bar"
+msgstr "Vis søgebjælken"

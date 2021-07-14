@@ -1,0 +1,602 @@
+# Dutch translation for Cinnamenu
+# Copyright (C) 2019
+# This file is distributed under the same license as the Cinnamenu package.
+# Pjotr <pjotrvertaalt@gmail.com>, 2013-2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2021-03-22 17:41+0000\n"
+"Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
+"Language-Team: nl\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "Type to search..."
+msgstr "Tik in om te zoeken..."
+
+msgid "Initializing"
+msgstr "Bezig met opstarten"
+
+msgid "No description available"
+msgstr "Geen beschrijving beschikbaar"
+
+#, fuzzy
+msgid "All applications"
+msgstr "Alle toepassingen"
+
+msgid "Places"
+msgstr "Locaties"
+
+#, fuzzy
+msgid "Recent files"
+msgstr "Recente bestanden"
+
+msgid "Bookmarks"
+msgstr "Bladwijzers"
+
+#, fuzzy
+msgid "Favorite apps"
+msgstr "Favoriete toepassingen"
+
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr ""
+"Voor bladwijzers van Firefox en Midori is het pakket gir1.2-gda-5.0 vereist"
+
+msgid "Clear List"
+msgstr "Lijst wissen"
+
+#, fuzzy
+msgid "No recent files"
+msgstr "Recente bestanden"
+
+msgid "Account details"
+msgstr "Bijzonderheden van account"
+
+msgid "Grid View"
+msgstr "Rasterweergave"
+
+msgid "List View"
+msgstr "Lijstweergave"
+
+msgid "Switch to grid view"
+msgstr "Omschakelen naar rasterweergave"
+
+msgid "Switch to list view"
+msgstr "Omschakelen naar lijstweergave"
+
+#, fuzzy
+msgid "Lock screen"
+msgstr "Scherm vergrendelen"
+
+msgid "Lock the screen"
+msgstr "Vergrendel het scherm"
+
+msgid "Logout"
+msgstr "Afmelden"
+
+msgid "Leave the session"
+msgstr "Sessie verlaten"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Shutdown the computer"
+msgstr "De computer afsluiten"
+
+msgid "Run with NVIDIA GPU"
+msgstr "Draaien met NVIDIA-GPU"
+
+msgid "Add to panel"
+msgstr "Toevoegen aan werkbalk"
+
+msgid "Add to desktop"
+msgstr "Toevoegen aan bureaublad"
+
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "Verwijder favoriet"
+
+msgid "Add to favorites"
+msgstr "Toevoegen aan favorieten"
+
+msgid "Uninstall"
+msgstr "DeÃ¯nstalleren"
+
+msgid "Home"
+msgstr "Persoonlijke map"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Browse network"
+msgstr "Netwerk verkennen"
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+#, fuzzy
+msgid "No recent Items"
+msgstr "Geen recente documenten"
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+#, fuzzy
+msgid "Favorites"
+msgstr "Favoriete toepassingen"
+
+#, fuzzy
+msgid "Recent"
+msgstr "Recente bestanden"
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "Reset category order"
+msgstr "Categorievolgorde terugzetten op standaard"
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+#, fuzzy
+msgid "Other application..."
+msgstr "Toepassingspictogrammen tonen"
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+#, fuzzy
+msgid "Search hidden"
+msgstr "Zoekdienstaanbieders"
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+#, fuzzy
+msgid "Search Stopped"
+msgstr "Zoekdienstaanbieders"
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid "Cinnamenu"
+msgstr "Cinnamenu"
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid "Behavior"
+msgstr "Gedrag"
+
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+msgid "Layout and Content"
+msgstr "Vormgeving en inhoud"
+
+msgid "Search Providers"
+msgstr "Zoekdienstaanbieders"
+
+msgid "No search provider extensions found"
+msgstr "Geen extensies aangetroffen voor zoekdiensten"
+
+msgid "Panel"
+msgstr "Werkbalk"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Layout"
+msgstr "Vormgeving"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Recent files settings"
+msgstr "Instellingen voor recente bestanden"
+
+msgid "Open the menu editor"
+msgstr "Open de menubewerker"
+
+msgid "Use a custom icon"
+msgstr "Een aangepast pictogram gebruiken"
+
+msgid "Use a custom icon in the panel"
+msgstr "Een aangepast pictogram gebruiken"
+
+msgid "Panel icon"
+msgstr "Paneelpictogram"
+
+msgid "Panel text"
+msgstr "Paneeltekst"
+
+msgid "Text to show beside the panel icon"
+msgstr "Tekst die naast het paneelpictogram moet worden weergegeven"
+
+msgid "pixels"
+msgstr "beeldpunten"
+
+msgid "Category icon size"
+msgstr "Pictogramgrootte voor categorie"
+
+msgid "Applications list icon size"
+msgstr "Pictogramgrootte voor toepassingenlijst"
+
+msgid "Applications grid icon size"
+msgstr "Pictogramgrootte voor toepassingenraster"
+
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Sneltoets voor openen en sluiten van het menu"
+
+msgid "Open menu on hover"
+msgstr "Menu openen bij zweven"
+
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr "Open het menu wanneer ik mijn muispijl er overheen beweeg"
+
+msgid "milliseconds"
+msgstr "milliseconden"
+
+msgid "Menu hover delay"
+msgstr "Zweefvertraging voor menu"
+
+msgid "Use menu animations"
+msgstr "Menu-animaties gebruiken"
+
+msgid "Animate the menu on open and close"
+msgstr "Menu-animaties inschakelen voor openen en sluiten"
+
+msgid "Activate categories on click"
+msgstr "CategorieÃ«n activeren bij klikken"
+
+msgid "Activate categories on click instead of on hover"
+msgstr "CategorieÃ«n activeren bij klikken"
+
+msgid "Enable autoscrolling"
+msgstr "Schakel automatisch scrollen in"
+
+msgid "Enable autoscrolling in application list"
+msgstr "Automatisch schuiven in toepassingenlijst inschakelen"
+
+msgid "Show web bookmarks"
+msgstr "Webbladwijzers tonen"
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Enable searching of open windows"
+msgstr "Opzoeken van open vensters inschakelen"
+
+msgid "Enable search providers"
+msgstr "Zoekdiensten inschakelen"
+
+msgid "Include search provider results in searches"
+msgstr "Zoekresultaten van zoekmachines opnemen in zoekopdrachten"
+
+msgid "Example Search Providers"
+msgstr "Voorbeeld van zoekdiensten"
+
+#, fuzzy
+msgid "Open menu on category:"
+msgstr "Menu openen bij zweven"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Grid"
+msgstr "Raster"
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "columns"
+msgstr "rijen"
+
+msgid "Number of columns in apps grid"
+msgstr "Aantal rijen in toepassingenraster"
+
+msgid "Show bookmarks and places"
+msgstr "Bladwijzers en locaties tonen"
+
+msgid "Show bookmarks and places category in the menu"
+msgstr ""
+
+msgid "Show application icons"
+msgstr "Toepassingspictogrammen tonen"
+
+msgid "Show category icons"
+msgstr "Categoriepictogrammen tonen"
+
+msgid "Show application descriptions under titles"
+msgstr "Beschrijvingen van toepassingen tonen onder titels"
+
+msgid "Show tooltips"
+msgstr "Zweeftips tonen"
+
+msgid "Tooltip delay"
+msgstr "Vertraging voor zweeftip"
+
+msgid "Use a custom menu height"
+msgstr "Een aangepaste menuhoogte gebruiken"
+
+msgid "Custom menu height"
+msgstr "Aangepaste menuhoogte"
+
+msgid "Applications view mode"
+msgstr "Toepassingsweergavemodus"
+
+msgid "View applications as list or grid"
+msgstr "Bekijk applicaties als lijst of raster"
+
+msgid "Application description placement"
+msgstr "Plaatsing van applicatiebeschrijving"
+
+msgid "Tooltips"
+msgstr "Tooltips"
+
+msgid "Under titles"
+msgstr "Onder titels"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Choose where to show application descriptions"
+msgstr "Kies waar applicatiebeschrijvingen moeten worden weergegeven"
+
+#, fuzzy
+msgid "Sidebar location"
+msgstr "Locatie van sessieknoppen"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Bottom"
+msgstr "Bodem"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechtsaf"
+
+#, fuzzy
+msgid "Choose where to show the sidebar"
+msgstr "Kies waar applicatiebeschrijvingen moeten worden weergegeven"
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr "Toon uw favoriete app-pictogrammen naast de sessieknoppen"
+
+#, fuzzy
+msgid "Show recent items"
+msgstr "Recente bestanden"
+
+#, fuzzy
+msgid "Show recent items category in the menu"
+msgstr "Toon de webbladwijzers van uw browser in het menu"
+
+msgid "Show favorite apps category"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "Toon uw favoriete app-pictogrammen naast de sessieknoppen"
+
+msgid "Show home folder"
+msgstr ""
+
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "Toon de webbladwijzers van uw browser in het menu"
+
+msgid "Last used category"
+msgstr ""
+
+#, fuzzy
+msgid "Autoscroll the application list on mouse hover"
+msgstr "Automatisch schuiven in toepassingenlijst inschakelen"
+
+msgid "Show hidden files"
+msgstr ""
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+#, fuzzy
+msgid "Search home folder"
+msgstr "Zoekdienstaanbieders"
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+#, fuzzy
+msgid "Web bookmarks search"
+msgstr "Webbladwijzers tonen"
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "Een aangepast pictogram gebruiken"
+
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "Een aangepast pictogram gebruiken"
+
+#, fuzzy
+msgid "Panel icon size"
+msgstr "Paneelpictogram"
+
+#, fuzzy
+msgid "Choose a custom size for the panel icon"
+msgstr "Een aangepast pictogram gebruiken"
+
+#, fuzzy
+msgid "Sidebar icon size"
+msgstr "Pictogramgrootte voor categorie"
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""
+
+#~ msgid ""
+#~ "A flexible menu providing formatting options, web bookmarks, search "
+#~ "provider support and fuzzy searching."
+#~ msgstr ""
+#~ "Een flexibel menu met opmaakopties, webbladwijzers, ondersteuning voor "
+#~ "zoekmachines en vaag zoeken."
+
+#~ msgid "Startup applications view mode"
+#~ msgstr "Weergavemodus van opstarttoepassingen"
+
+#~ msgid "px"
+#~ msgstr "bp"
+
+#~ msgid "Choose where to show the session (quit, logout, etc.) buttons"
+#~ msgstr ""
+#~ "Kies waar u de sessieknoppen (stoppen, afmelden, enz.) Wilt weergeven"
+
+#~ msgid "Add favorites to session buttons"
+#~ msgstr "Voeg favorieten toe aan sessieknoppen"

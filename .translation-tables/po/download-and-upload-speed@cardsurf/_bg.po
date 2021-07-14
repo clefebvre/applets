@@ -1,0 +1,90 @@
+# Main translation file for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2017-11-20 22:44+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:437
+msgid "Network interfaces"
+msgstr ""
+
+#: applet.js:825
+msgid "b"
+msgstr ""
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr ""
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->options
+msgid "Download first"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->options
+msgid "Upload first"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+msgid "bytes"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+msgid "A minimum download value to display in the panel"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+msgid "A minimum upload value to display in the panel"
+msgstr ""

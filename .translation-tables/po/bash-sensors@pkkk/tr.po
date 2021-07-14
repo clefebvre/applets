@@ -1,0 +1,149 @@
+# Turkish translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# hidayetkurnaz <hidayetkurnaz@debianhido>, 2018.
+# Hidayet Kurnaz <hidayetkurnaz@gmail.com>, 2018.
+# Serkan ÖNDER <serkanonder@outlook.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2021-02-16 20:32+0100\n"
+"Last-Translator: Serkan ÖNDER <serkanonder@outlook.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#: applet.js:79
+msgid "Error: Still waiting for command to finish!"
+msgstr "Hata: Hala komutun bitmesini bekliyorum!"
+
+#. metadata.json->name
+msgid "Bash Sensors"
+msgstr "Bash Sensörleri"
+
+#. metadata.json->description
+msgid ""
+"Write your Bash commands to specify applet output (temperature sensors and "
+"not only!)"
+msgstr ""
+"Uygulama çıktısını belirtmek için Bash komutlarınızı yazın (sıcaklık "
+"sensörleri ve dahası da var!)"
+
+#. settings-schema.json->head->description
+msgid "Settings - Bash Sensors (write commands in Bash!)"
+msgstr "Ayarlar - Bash Sensörleri (Bash ile komutuları yazınız!)"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr ""
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr ""
+
+#. settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "saniye"
+
+#. settings-schema.json->refreshInterval->description
+msgid "Refresh interval [0 for no refresh]"
+msgstr "Yenileme süresi [yenileme yapmaması için 0]"
+
+#. settings-schema.json->shell->description
+msgid "Shell"
+msgstr "Kabuk"
+
+#. settings-schema.json->shell->tooltip
+msgid "Shell to be used ('-c' will be used to call commands)"
+msgstr "Kullanılacak kabuk ('-c' komutları çağırmak için kullanılacaktır)"
+
+#. settings-schema.json->head1->description
+msgid "Commands"
+msgstr "Komutlar"
+
+#. settings-schema.json->script1->description
+msgid "Command 1"
+msgstr "Komut 1"
+
+#. settings-schema.json->script1->tooltip
+msgid "first line of output (use \\f for more lines)"
+msgstr "ilk çıktı satırı (daha fazla satır için \\f kullanın)"
+
+#. settings-schema.json->enableScript2->description
+msgid "Two-line mode (command 2 enabled)"
+msgstr "İki satırlı kip (komut 2 etkin)"
+
+#. settings-schema.json->script2->description
+msgid "Command 2"
+msgstr "Komut 2"
+
+#. settings-schema.json->script2->tooltip
+msgid "second line of output (optional)"
+msgstr "ikinci çıktı satırı (isteğe bağlı)"
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr ""
+
+#. settings-schema.json->dynamicIcon->description
+#, fuzzy
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr "Dinamik ipucu (ipucu komutunun çıktısını ipucu gibi kullan)"
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr ""
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr ""
+
+#. settings-schema.json->head3->description
+msgid "Tooltip"
+msgstr "İpucu"
+
+#. settings-schema.json->dynamicTooltip->description
+msgid "Dynamic tooltip (use output of tooltip command as tooltip)"
+msgstr "Dinamik ipucu (ipucu komutunun çıktısını ipucu gibi kullan)"
+
+#. settings-schema.json->tooltipScript->description
+msgid "Tooltip command or static tooltip text"
+msgstr "İpucu komutu yada durağan ipucu metni"
+
+#. settings-schema.json->tooltipScript->tooltip
+msgid "tooltip (static or dynamic)"
+msgstr "ipucu (durağan yada dinamik)"
+
+#. settings-schema.json->head4->description
+msgid "Command on applet click"
+msgstr "Uygulama tıklamasındaki komut"
+
+#. settings-schema.json->menuScript->description
+msgid "Menu command (on applet left-click)"
+msgstr "Menü komutu (uygulamada sol tıklama)"
+
+#. settings-schema.json->menuScript->tooltip
+msgid "allows to display lots of information in popup menu"
+msgstr "açılır menüde birçok bilgi gösterilmesini sağlar"
+
+#. settings-schema.json->menuScriptDisplay->description
+msgid "Display output of menu command"
+msgstr "Menü komutunun çıktısını göster"
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr "Başlatma komutu"
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr "Başlangıçta komut çalıştırma"
+
+#~ msgid "script error"
+#~ msgstr "betik hatası"

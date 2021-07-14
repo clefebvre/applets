@@ -1,0 +1,70 @@
+#
+# Raphaël Doursenaud <rdoursenaud@gpcsolutions.fr>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hamster-shell-extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-16 18:44-0500\n"
+"PO-Revision-Date: 2012-11-13 12:27+0100\n"
+"Last-Translator: Raphaël Doursenaud <rdoursenaud@free.fr>\n"
+"Language-Team: français <>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Gtranslator 2.91.5\n"
+
+#: applet.js:98
+msgid "What are you doing?"
+msgstr "Que faîtes vous ?"
+
+#: applet.js:104
+msgid "Enter activity..."
+msgstr "Entrez l'activité…"
+
+#: applet.js:120
+msgid "Todays activities"
+msgstr "Activités du jour"
+
+#: applet.js:287
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: applet.js:311
+msgid "Show Overview"
+msgstr "Montrer le résumé"
+
+#: applet.js:316
+msgid "Stop Tracking"
+msgstr "Arrêter le suivi"
+
+#: applet.js:321
+msgid "Add Earlier Activity"
+msgstr "Ajouter une activité antérieure"
+
+#: applet.js:327
+msgid "Tracking Settings"
+msgstr "Préférences"
+
+#: applet.js:332
+msgid "Applet Settings"
+msgstr ""
+
+#: applet.js:514
+msgid "No Activity"
+msgstr "Pas d'activité"
+
+#: convenience.js:20
+#, c-format
+msgid "Schema \"%s\" not found."
+msgstr ""
+
+#. hamster@projecthamster.wordpress.com->metadata.json->description
+msgid "Cinnamon applet for project hamster - the GNOME time tracker"
+msgstr ""
+
+#. hamster@projecthamster.wordpress.com->metadata.json->name
+msgid "Project Hamster Applet"
+msgstr ""

@@ -1,0 +1,103 @@
+# Swedish translation for printers@linux-man.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017,2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: printers@linux-man\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2019-11-18 16:05+0100\n"
+"Last-Translator: eson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "Visa ikon"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "Alltid"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "När skrivare avslutas"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "Vid utskrift"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "När ikonen skall visas"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "Skrivarfel"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "Visa ikon för skrivarfel"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "Antal dokument"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "Visa dokumenträknare bredvid ikonen"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "Dokumentnummer"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "Visa dokumentnummer i utskriftslistan"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "Lägg överst i listan"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "Dokument kan flyttas överst i listan"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "Symboliska ikoner"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "Använd symboliska ikoner"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr "Läs in panelprogrammet igen"
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr "Starta om CUPS"
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "Skrivare"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "Avbryt alla jobb"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "på"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "Hantera utskriftsjobb och skrivare"

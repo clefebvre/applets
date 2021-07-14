@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-14 07:13+0100\n"
+"PO-Revision-Date: 2018-11-26 19:15+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr "Nvidia için bekleniyor"
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr "Güç Analizcisini Açın"
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr "Sistem Gözlemcisini Açın"
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr "Temizlik ve Sistem Alt Menüsü"
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr "Değişim Günlüğünü Açın"
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr "Yardım dosyasını açın"
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr "NVidia tabanlı GPU kapalı"
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia tabanlı GPU Açık ve Çekirdek Sıcaklığı"
+
+#: applet.js:289
+msgid "Err"
+msgstr "Hata"
+
+#: applet.js:290
+msgid ""
+"Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-"
+"prime  installed?"
+msgstr ""
+"Nvidia Prime doğru biçimde yapılandırılmamış - nvidia sürücüsü ve nvidia-"
+"prime kurulu mu?"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "GPU Sıcaklığını ve simgeyi göster"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr "Yatay ve Dikey Panellere uygundur. Dereceyi Santigrat olarak gösterir."
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid ""
+"Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+"İçerik menüsü aracılığıyla gelişmiş işlevselliğe erişim - Cinnamon'un "
+"yeniden başlatması gerekiyor"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid ""
+"Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be "
+"installed"
+msgstr ""
+"Şu anda glxspheres64 Grafik İşlemci Testi ekliyor - VirtualGL'nin yüklü "
+"olması gerekebilir"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr "NVidia Prime İzleme Uygulaması için Genel Ayarlar"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Görüntüleme için Yenileme Aralığı:"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Yenileme aralığını değiştirmek için değeri artırın veya azaltın - yavaş "
+"makineniz varsa yavaş bir yenileme kullanın"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "saniye"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr "Ek İşlevler"
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid ""
+"Displays which Graphics processor is active and nVidia GPU Temperature when "
+"active and in a horizontal panel"
+msgstr ""
+"Yatay bir panelde hangi grafik işlemcisinin aktif olduğunu ve etkin "
+"olduğunda nVidia GPU sıcaklığını gösterir"
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr "nVidia Prime GPU Gösterimi"

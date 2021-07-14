@@ -1,0 +1,171 @@
+# Swedish translation for CommandRunner@appdevsw.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CommandRunner@appdevsw\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 21:57+0800\n"
+"PO-Revision-Date: 2017-05-22 08:02+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. CommandRunner@appdevsw->metadata.json->name
+#: applet.js:47
+msgid "CommandRunner"
+msgstr "CommandRunner"
+
+#: applet.js:102
+msgid "<no text>"
+msgstr "<ingen text>"
+
+#: applet.js:136
+msgid "starting..."
+msgstr "Startar..."
+
+#: appletgui.js:142
+msgid "Compare error "
+msgstr "Jämförelsefel"
+
+#: appletgui.js:255 appletgui.js:283
+msgid "XML/JSON error: missing tag "
+msgstr "XML/JSON-fel: Saknad tagg "
+
+#: appletgui.js:291
+msgid "xml error:"
+msgstr "xml-fel:"
+
+#: appletgui.js:316 appletgui.js:325
+msgid "property not found "
+msgstr "egenskap hittades inte "
+
+#: cmdrunner.js:51
+msgid "undefined command!"
+msgstr "odefinierat kommando!"
+
+#: cmdrunner.js:143
+msgid "cannot execute command!"
+msgstr "kan inte exekvera kommandot!"
+
+#: simplexml.js:259
+msgid "xml parse error at pos "
+msgstr "xml-tolkningsfel på position "
+
+#: simplexml.js:259
+msgid ", level "
+msgstr ", nivå "
+
+#: simplexml.js:259
+msgid ", inside tag "
+msgstr ", i taggen "
+
+#. CommandRunner@appdevsw->metadata.json->description
+msgid ""
+"Applet runs script or application periodically and displays its output on "
+"the taskbar"
+msgstr ""
+"Panelprogrammet kör skript eller program periodiskt och visar utdata i "
+"panelen"
+
+#. CommandRunner@appdevsw->settings-
+#. schema.json->form_interval_unit->description
+msgid "Unit"
+msgstr "Enhet"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->tooltip
+msgid "Unit of the interval: seconds or milliseconds"
+msgstr "Intervallenhet: Sekunder eller millisekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " milliseconds"
+msgstr " millisekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " seconds"
+msgstr " sekunder"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->description
+msgid "Run interval"
+msgstr "Körningsintervall"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->tooltip
+msgid "Specifies how often the command is run"
+msgstr "Specificerar hur ofta kommandot körs"
+
+#. CommandRunner@appdevsw->settings-schema.json->head_title->description
+msgid "CommandRunner settings"
+msgstr "CommandRunner Inställningar"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->description
+msgid "Suffix"
+msgstr "Suffix"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->tooltip
+msgid ""
+"Text or character displayed at the end of the command result (in text mode "
+"only)."
+msgstr ""
+"Text eller tecken som visas i slutet på kommandoresultatet (endast i "
+"textläge)."
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->description
+msgid "Command"
+msgstr "Kommando"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->tooltip
+msgid ""
+"Command or script or applitaction to run.\n"
+"e.g.\n"
+" /home/user/myscript.sh\n"
+" echo Hello\n"
+"\n"
+"The command should print the result to the standard output, which will be "
+"displayed on the taskbar.\n"
+"\n"
+"You can use predefined parameters:\n"
+" $counter$ - number of command executions\n"
+" $appletdir$ - applet directory\n"
+"\n"
+"  e.g. echo \"I was executed $counter$ times\""
+msgstr ""
+"Kommando, skript eller program att köra.\n"
+"Exempel:\n"
+" /home/user/myscript.sh\n"
+" echo Hello\n"
+"\n"
+"Kommandot skall skriva ut resultatet till standardplats, vilket visas i "
+"panelen.\n"
+"\n"
+"Du kan använda fördefinierade parametrar:\n"
+" $counter$ - antal kommandoexekveringar\n"
+" $appletdir$ - panelprogrammapp\n"
+"\n"
+"  Exempel: echo \"Jag har körts $counter$ gånger\""
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->description
+msgid "Prefix"
+msgstr "Prefix"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->tooltip
+msgid ""
+"Text or character displayed at the beginning of the command result (in text "
+"mode only)."
+msgstr ""
+"Text eller tecken som visas i början på kommandoresultatet (endast i "
+"textläge)."
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->description
+msgid "Apply"
+msgstr "Tillämpa"
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->tooltip
+msgid "Apply changes"
+msgstr "Tillämpa ändringar"

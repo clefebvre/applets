@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nvidiaprime@pdcurtis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-14 07:13+0100\n"
+"PO-Revision-Date: 2017-05-21 00:50+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr "Čekanje nVidie"
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr "Otvori energetsku statistiku"
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr "Otvori nadgledatelja sustava"
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr "Upravljanje i podizbornici sustava"
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr "Pogledaj zapis promjena"
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr "Otvori datoteku pomoći"
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr "NVidia grafička kartica je isključena"
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia grafička kartica je uključena i temperatura jezgre je"
+
+#: applet.js:289
+msgid "Err"
+msgstr ""
+
+#: applet.js:290
+msgid ""
+"Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-"
+"prime  installed?"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+#, fuzzy
+msgid "Show GPU Temperature as well as icon"
+msgstr "Prikazuje GPU temperaturu u vodoravnim panelima"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid ""
+"Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+"Pristupi poboljšanoj funkcionalnosti putem sadržajnog izbornika - potrebno "
+"je ponovno pokrenuti Cinnamon"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid ""
+"Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be "
+"installed"
+msgstr ""
+"Trenutno dodaje glxspheres64 Grafički Procesor Test - VirtualGL mora biti "
+"instaliran"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr "Opće postavke za nVidia Prime apleta nadgledanja"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Razdoblje osvježavanja prikaza:"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Povećajte ili smanjite vrijednost za promjenu razdoblja osvježavanja - "
+"koristite sporije osvježavanje ako imate sporo računalo"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunde"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr "Dodatna funkcionalnost"
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid ""
+"Displays which Graphics processor is active and nVidia GPU Temperature when "
+"active and in a horizontal panel"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr "nVidia Prime GPU prikaz"
+
+#~ msgid "ERROR"
+#~ msgstr "GREŠKA"
+
+#~ msgid "Nvidia Prime is not installed so applet willl not work"
+#~ msgstr "Nvidia Prime nije instaliran stoga aplet neće raditi"
+
+#~ msgid "Not available in Vertical Panels"
+#~ msgstr "Nije dostupno za okomite panele"
+
+#~ msgid "Displays nVidia GPU Temperature when using Prime"
+#~ msgstr "Prikazuje nVidia GPU temperaturu kada se koristi Prime"
+
+#~ msgid "Housekeeping Menu"
+#~ msgstr "Upravljanje i podizbornici sustava"
+
+#~ msgid "GPU OFF"
+#~ msgstr "GPU ISKLJUČEN"
+
+#~ msgid "GPU"
+#~ msgstr "GPU"

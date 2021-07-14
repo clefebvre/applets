@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-16 18:44-0500\n"
+"PO-Revision-Date: 2021-03-30 11:39+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:98
+msgid "What are you doing?"
+msgstr "Mit csinálsz?"
+
+#: applet.js:104
+msgid "Enter activity..."
+msgstr "Tevékenység megadása..."
+
+#: applet.js:120
+msgid "Todays activities"
+msgstr "Mai tevékenységek"
+
+#: applet.js:287
+msgid "Loading..."
+msgstr "Betöltés…"
+
+#: applet.js:311
+msgid "Show Overview"
+msgstr "Áttekintés megjelenítése"
+
+#: applet.js:316
+msgid "Stop Tracking"
+msgstr "Követési leállítása"
+
+#: applet.js:321
+msgid "Add Earlier Activity"
+msgstr "Korábbi tevékenység megadása"
+
+#: applet.js:327
+msgid "Tracking Settings"
+msgstr "Követési beállítások"
+
+#: applet.js:332
+msgid "Applet Settings"
+msgstr "Kisalkalmazás beállítások"
+
+#: applet.js:514
+msgid "No Activity"
+msgstr "Nincs tevékenység"
+
+#: convenience.js:20
+#, c-format
+msgid "Schema \"%s\" not found."
+msgstr "A(z) \"%s\" nem található."
+
+#. hamster@projecthamster.wordpress.com->metadata.json->description
+msgid "Cinnamon applet for project hamster - the GNOME time tracker"
+msgstr "Cinnamon kisalkalmazás a Hamster projekt számára - GNOME időkövető"
+
+#. hamster@projecthamster.wordpress.com->metadata.json->name
+msgid "Project Hamster Applet"
+msgstr "Hamster Projekt Kisalkalmazás"

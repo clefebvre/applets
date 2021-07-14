@@ -1,0 +1,288 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 13:58-0300\n"
+"PO-Revision-Date: 2020-05-10 22:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+#: applet.js:115
+msgid "REDSHIFT NOT INSTALLED!"
+msgstr "REDSHIFT NU ESTE INSTALAT!"
+
+#: applet.js:116
+msgid "Requires Redshift: sudo apt-get install redshift"
+msgstr "Necesită Redshift: sudo apt-get install redshift"
+
+#: applet.js:119 applet.js:159
+msgid "Reload Applet"
+msgstr "Reîncarcă applet"
+
+#: applet.js:164
+msgid "Recompile Translations"
+msgstr "Recompilează traduceri"
+
+#. settings-schema.json->enabled->description
+#: applet.js:356
+msgid "Enabled"
+msgstr "Activat"
+
+#: applet.js:364 applet.js:410
+msgid "Temp:"
+msgstr "Temp:"
+
+#: applet.js:375 applet.js:421
+msgid "Bright:"
+msgstr "Luminos:"
+
+#: applet.js:387 applet.js:635
+msgid "Gamma:"
+msgstr "Gamma:"
+
+#. settings-schema.json->enabledNight->description
+#: applet.js:402
+msgid "Night Enabled"
+msgstr "Activat noaptea"
+
+#. settings-schema.json->iconLabel->description
+#: applet.js:464
+msgid "Show Label"
+msgstr "Arată eticheta"
+
+#: applet.js:618
+msgid "On"
+msgstr "Pornit"
+
+#: applet.js:618 applet.js:620
+msgid "Off"
+msgstr "Oprit"
+
+#: applet.js:626
+msgid "Day Temperature"
+msgstr "Temperatură ziua"
+
+#: applet.js:627
+msgid "Day Brightness"
+msgstr "Luminozitate ziua"
+
+#: applet.js:629
+msgid "Night Temperature"
+msgstr "Temperatură noapte"
+
+#: applet.js:630
+msgid "Night Brightness"
+msgstr "Luminozitate noapte"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->dayTemp->description
+#. settings-schema.json->nightTemp->description
+#: applet.js:632
+msgid "Temperature"
+msgstr "Temperatură"
+
+#. settings-schema.json->dayBrightness->description
+#. settings-schema.json->nightBrightness->description
+#: applet.js:633
+msgid "Brightness"
+msgstr "Luminozitate"
+
+#. metadata.json->name
+msgid "QRedshift"
+msgstr "QRedshift"
+
+#. metadata.json->description
+#, fuzzy
+msgid ""
+"Sets brightness, gamma levels and color temperature with Redshift. This "
+"applet conflicts with redshift-gtk, make sure you remove it."
+msgstr ""
+"Setează luminozitate, nivel gamma și temperatura culorii cu Redshift.\n"
+"Acest applet nu funcționează cu redshift-gtk, asigură-te că îl înlături."
+
+#. settings-schema.json->panel-options->title
+msgid "Settings"
+msgstr "Setări."
+
+#. settings-schema.json->panel-location->title
+msgid "Location"
+msgstr "Locație"
+
+#. settings-schema.json->panel-shortcuts->title
+msgid "Shortcuts"
+msgstr "Scurtături"
+
+#. settings-schema.json->info-section->title
+msgid "Tips"
+msgstr "Sfaturi"
+
+#. settings-schema.json->opt-section->title
+msgid "Options"
+msgstr "Opțiuni"
+
+#. settings-schema.json->day-section->title
+msgid "Day Settings"
+msgstr "Setări ziua"
+
+#. settings-schema.json->night-section->title
+msgid "Night Settings"
+msgstr "Setări noapte"
+
+#. settings-schema.json->keybind-section->title
+msgid "Key Bindings"
+msgstr "Legături taste"
+
+#. settings-schema.json->location-section->title
+msgid "Location Settings"
+msgstr "Setări locație"
+
+#. settings-schema.json->autoUpdate->description
+msgid "Auto Update"
+msgstr "Auto actualizare"
+
+#. settings-schema.json->autoUpdate->tooltip
+msgid "Continuously adjust color temperature"
+msgstr "Reglează continuu temperatura culorii"
+
+#. settings-schema.json->autoUpdateInterval->units
+msgid "Sec."
+msgstr "Sec."
+
+#. settings-schema.json->autoUpdateInterval->description
+msgid "Update interval"
+msgstr "Actualizare interval"
+
+#. settings-schema.json->adjustmentMethod->description
+msgid "Adjustment Method"
+msgstr "Metodă de ajustare"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "needload"
+msgstr "needload"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "randr"
+msgstr "randr"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "vidmode"
+msgstr "vidmode"
+
+#. settings-schema.json->adjustmentMethod->tooltip
+msgid "Method to use to set color temperature"
+msgstr "Metodă pentru setarea temperaturii culorii"
+
+#. settings-schema.json->labelScrollAction->description
+msgid "Icon Scroll Action"
+msgstr "Acțiune la derularea pe pictogramă."
+
+#. settings-schema.json->labelScrollAction->options
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->keyToggle->description
+msgid "On/Off"
+msgstr "Pornit/Oprit"
+
+#. settings-schema.json->keyBrightnessUp->description
+msgid "Increase brightness level"
+msgstr ""
+
+#. settings-schema.json->keyBrightnessDown->description
+#, fuzzy
+msgid "Decrease brightness level"
+msgstr "Luminozitate ziua"
+
+#. settings-schema.json->keyTempUp->description
+msgid "Increase temperature level"
+msgstr ""
+
+#. settings-schema.json->keyTempDown->description
+#, fuzzy
+msgid "Decrease temperature level"
+msgstr "Temperatură ziua"
+
+#. settings-schema.json->keyGammaUp->description
+msgid "Increase gamma level"
+msgstr ""
+
+#. settings-schema.json->keyGammaDown->description
+msgid "Decrease gamma level"
+msgstr ""
+
+#. settings-schema.json->labelScrollAction->options
+msgid "Bright"
+msgstr "Luminos"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->gammaMix->description
+msgid "Gamma"
+msgstr "Gamma"
+
+#. settings-schema.json->labelScrollAction->tooltip
+msgid "Action when scroll on applet icon."
+msgstr "Acțiune la derularea pe pictograma appletului."
+
+#. settings-schema.json->dayTemp->units
+#. settings-schema.json->nightTemp->units
+msgid "K"
+msgstr "K"
+
+#. settings-schema.json->dayBrightness->units
+#. settings-schema.json->nightBrightness->units
+msgid "%"
+msgstr "%"
+
+#. settings-schema.json->locationRemote->description
+msgid "Remote Location"
+msgstr "Locație la distanță"
+
+#. settings-schema.json->locationRemote->tooltip
+#. settings-schema.json->locationUpdate->tooltip
+msgid "Native geoclue on redshift can make the experience slow."
+msgstr "Geoclue nativ pentru redshift poate încetini experiența."
+
+#. settings-schema.json->locationUpdate->description
+msgid "Update Location"
+msgstr "Actualizare locație"
+
+#. settings-schema.json->locationLatitude->description
+msgid "Latitude"
+msgstr "Latitudine"
+
+#. settings-schema.json->locationLongitude->description
+msgid "Longitude"
+msgstr "Longitudine"
+
+#. settings-schema.json->aboutLocation->description
+msgid ""
+"Native geoclue on redshift can make the experience slow.\n"
+"Using: https://geolocation-db.com/"
+msgstr ""
+"Geoclue nativ pentru redshift poate încetini experiența.\n"
+"Se folosește: https://geolocation-db.com/"
+
+#. settings-schema.json->textTips->description
+msgid "* Right-click the sliders to reset the default (neutral) value."
+msgstr "* Click-dreapta pe slider pentru a reseta valoarea implicită (neutră)."
+
+#. settings-schema.json->textInfo->description
+msgid ""
+"If you like and use this applet take the time to visit it's page on Cinnamon "
+"Spices and give it a star. You only need a github account to do this."
+msgstr ""
+"Dacă îți place acest applet, te rog vizitează pagina sa pe Cinnamon Spices "
+"și dă-i o stea. Ai nevoie doar de un cont de github pentru a face asta."

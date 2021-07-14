@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-22 12:21-0300\n"
+"PO-Revision-Date: 2017-03-22 12:48-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:199
+msgid "Computer"
+msgstr "PC"
+
+#: applet.js:211
+msgid "File System"
+msgstr "Sistema de archivos"
+
+#. places-bookmarks@dmo60.de->metadata.json->name
+msgid "Places"
+msgstr "Lugares"
+
+#. places-bookmarks@dmo60.de->metadata.json->description
+msgid "Access your places and bookmarks"
+msgstr "Acceder a lugares y favoritos"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_icon_size->description
+msgid "Menu items icon size"
+msgstr "Tamaño de íconos de los elementos del menú"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_icon_size->units
+msgid "pixels"
+msgstr "píxeles"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->head->description
+#, fuzzy
+msgid "Settings for places-bookmarks@dmo60.de"
+msgstr "Acceder a lugares y favoritos"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_icon->description
+msgid "Applet icon"
+msgstr "Ícono del applet"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_icon->tooltip
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_label->tooltip
+msgid "Leave blank to remove."
+msgstr "Dejar en blanco para eliminar."
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_label->description
+msgid "Applet label"
+msgstr "Etiqueta para el applet"

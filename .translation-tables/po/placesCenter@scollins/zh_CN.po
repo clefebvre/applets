@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2017-05-02 21:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: applet.js:170
+msgid "Places"
+msgstr "位置"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "搜索主目录文件夹"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "系统"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "搜索文件系统"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "最近的文档"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "清除"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "计算机"
+
+#: applet.js:404
+msgid "File System"
+msgstr "文件系统"
+
+#: applet.js:420
+msgid "Network"
+msgstr "网络"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "回收站"
+
+#: search.py:43
+msgid "Open..."
+msgstr ""
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr ""
+
+#: search.py:85
+msgid "Search"
+msgstr ""
+
+#: search.py:106
+msgid "Start in"
+msgstr ""
+
+#: search.py:107
+#, fuzzy
+msgid "Select a folder"
+msgstr "搜索主目录文件夹"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr ""
+
+#: search.py:117
+msgid "Search hidden"
+msgstr ""
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr ""
+
+#: search.py:125
+msgid "Stop"
+msgstr ""
+
+#: search.py:140
+msgid "File"
+msgstr ""
+
+#: search.py:156
+msgid "Path"
+msgstr ""
+
+#: search.py:184
+msgid "Searching..."
+msgstr ""
+
+#: search.py:198 search.py:199
+#, fuzzy
+msgid "Search Stopped"
+msgstr "搜索主目录文件夹"
+
+#: search.py:215
+msgid "Searching: "
+msgstr ""
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+#: search.py:252
+#, fuzzy
+msgid "Search Completed"
+msgstr "搜索主目录文件夹"
+
+#: search.py:259
+msgid "Skipping"
+msgstr ""
+
+#: search.py:259
+msgid " - directory already searched"
+msgstr ""
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "位置中心"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "提供一个易于阅读的布局以访问您的位置"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"位置中心是一个功能丰富、跨平台的 Cinnamon 小程序，可以轻松访问所有您最常用的"
+"位置。请随意通过提交拉取请求、错误报告和功能请求贡献到我的 github 仓库。"
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - 作者"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - 增加了中键点击的可配置性"
+
+#. settings-schema.json->generalPage->title
+#, fuzzy
+msgid "General"
+msgstr "常规设置"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "用户"
+
+#. settings-schema.json->systemPage->title
+#, fuzzy
+msgid "System"
+msgstr "文件系统"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+#, fuzzy
+msgid "Recent documents"
+msgstr "最近的文档"
+
+#. settings-schema.json->panel->title
+#, fuzzy
+msgid "Panel settings"
+msgstr "常规设置"
+
+#. settings-schema.json->menu->title
+#, fuzzy
+msgid "Menu settings"
+msgstr "常规设置"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "用户部分"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "系统部分"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "面板图标"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "接受图标名称或直接路径（支持符号图标）"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "面板文本"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "菜单快捷键"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "菜单图标大小"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "中键点击时打开"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "留空则禁用"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "显示桌面"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "自定义位置"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+#, fuzzy
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"要包含uri/文件路径的列表。条目可以用逗号(,)或换行符隔开。您可以通过在位置后面"
+"添加 :自定义名称 设置要显示的名称。"
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "显示回收站"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "从不"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "总是"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "当非空时"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "显示计算机"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "显示文件系统"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "显示卷"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "仅显示已挂载的驱动器"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "显示网络"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "显示最近的文本"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+#, fuzzy
+msgid "All Recent Documents"
+msgstr "最近的文档"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "要显示的数量"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""
+
+#~ msgid "Icon size"
+#~ msgstr "图标大小"
+
+#~ msgid "User Section"
+#~ msgstr "用户部分"
+
+#~ msgid "System Section"
+#~ msgstr "系统部分"

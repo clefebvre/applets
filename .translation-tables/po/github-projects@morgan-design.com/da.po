@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Watchers, Issues, Forks og Gist er ikke oversat, da de hedder sådan på GitHub-hjemmesiden
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 17:00+0200\n"
+"PO-Revision-Date: 2017-07-30 16:26+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:45 applet.js:46
+msgid "GitHub Explorer"
+msgstr "GitHub Explorer"
+
+#: applet.js:45
+msgid "Attempting to Load your GitHub Repos"
+msgstr "Forsøger at indlæse dine GitHub-arkiver"
+
+#: applet.js:46
+#, c-format
+msgid "Successfully Loaded GitHub Repos for user %s"
+msgstr "Indlæste GitHub-arkiver tilhørende brugeren %s"
+
+#: applet.js:47
+msgid "ERROR:: GitHub Explorer ::ERROR"
+msgstr "FEJL:: GitHub Explorer ::FEJL"
+
+#: applet.js:47
+msgid "Failed to load GitHub Repositories! Check applet Configuration"
+msgstr "Kunne ikke indlæse GitHub-arkiver! Tjek panelprogrammets konfiguration"
+
+#: applet.js:166
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: applet.js:177 applet.js:270
+msgid "Check Applet Configuration"
+msgstr "Tjek panelprogrammets konfiguration"
+
+#: applet.js:266
+msgid "API Rate Exceeded will try again once we are allowed"
+msgstr "API-rate overskredet - prøver igen, når vi har lov"
+
+#: applet.js:281
+msgid "Click here to open GitHub"
+msgstr "Klik her for at åbne GitHub"
+
+#: applet.js:331
+msgid "Open Repo In Browser"
+msgstr "Åbn arkiv i browser"
+
+#: applet.js:339
+msgid "Project Home"
+msgstr "Projekthjemmeside"
+
+#: applet.js:346
+msgid "Details"
+msgstr "Detaljer"
+
+#: applet.js:349
+msgid "Watchers"
+msgstr "Watchers"
+
+#: applet.js:356
+msgid "Open Issues"
+msgstr "Åbne Issues"
+
+#: applet.js:363
+msgid "Forks"
+msgstr "Forks"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->description
+#: applet.js:393
+msgid "Open GitHub Home"
+msgstr "Åbn GitHub-hjemmeside"
+
+#: applet.js:401
+msgid "Create A Gist"
+msgstr "Opret en Gist"
+
+#. github-projects@morgan-design.com->settings-
+#. schema.json->username->description
+msgid "GitHub username:"
+msgstr "GitHub-brugernavn:"
+
+#. github-projects@morgan-design.com->settings-schema.json->username->tooltip
+msgid "Set a username which you want to display public repositories for"
+msgstr "Angiv et brugernavn, du vil have offentlige arkiver vist for"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->description
+msgid "Applet Version:"
+msgstr "Panelprogramversion:"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->tooltip
+msgid "Current version installed"
+msgstr "Aktuelle version installeret"
+
+#. github-projects@morgan-design.com->settings-schema.json->head->description
+msgid "User Settings"
+msgstr "Brugerindstillinger"
+
+#. github-projects@morgan-design.com->settings-schema.json->head2->description
+msgid "Version Details"
+msgstr "Versionsdetaljer"
+
+#. github-projects@morgan-design.com->settings-schema.json->head1->description
+msgid "Usage Settings"
+msgstr "Forbrugsindstillinger"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->description
+msgid ""
+"Check this to enable notifications about changes to Watchers, Forks and "
+"Issues"
+msgstr ""
+"Aktivér denne for at tillade beskeder om ændringer til Watchers, Forks og "
+"Issues"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->tooltip
+msgid "Checking this will enable more notification messages"
+msgstr "Aktivering af denne vil tillade flere underretninger"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->description
+msgid "Open Developer Home"
+msgstr "Åbn udviklerens hjemmeside"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->tooltip
+msgid "Open morgan-design.com - my personal blog"
+msgstr "Åbn morgan-design.com - min personlige blog"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->description
+msgid "Refresh Interval:"
+msgstr "Opdateringsinterval:"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->tooltip
+msgid ""
+"Change the amount of time between checking GitHub for changes to your "
+"Repositories"
+msgstr ""
+"Ændr intervallet for, hvor tit GitHub tjekkes for ændringer i dine arkiver"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->description
+msgid "Check this to enable automatic refreshing"
+msgstr "Aktivér denne for at tillade automatisk opdatering"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->tooltip
+msgid ""
+"Checking this will mean the applet will update itself according to your "
+"refresh interval"
+msgstr ""
+"Aktivering af denne betyder, at panelprogrammet opdaterer sig selv med det "
+"valgte opdateringsinterval"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->description
+msgid "Visit Cinnamon Applet Home"
+msgstr "Besøg Cinnamon-panelprogrammers hjemmeside"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->tooltip
+msgid "Open cinnamon.com - rate the application"
+msgstr "Åbn cinnamon.com - bedøm programmet"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->description
+msgid "Check this to enable lots of logging in Looking Glass"
+msgstr "Aktivér denne for at tillade masser af logning i Luppen"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->tooltip
+msgid "Checking this will enable lots of logging"
+msgstr "Aktivering af denne vil tillade masser af logning"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->description
+msgid "Check this show the number of open issues next to the repository"
+msgstr "Aktivér denne for at vise antallet af åbne issues ved siden af arkivet"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->tooltip
+msgid "Checking this show the number of issues next to each repository"
+msgstr ""
+"Aktivering af denne vil vise antallet af åbne issues ved siden af hvert arkiv"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->tooltip
+msgid "Open github.com - fork the code or add features"
+msgstr "Åbn github.com - forgren koden eller tilføj funktioner"
+
+#. github-projects@morgan-design.com->metadata.json->description
+msgid "Click on the applet to explore your Public Github repositories"
+msgstr "Tryk på panelprogrammet for at udforske dine offentlige GitHub-arkiver"
+
+#. github-projects@morgan-design.com->metadata.json->name
+msgid "Github Explorer"
+msgstr "Github Explorer"

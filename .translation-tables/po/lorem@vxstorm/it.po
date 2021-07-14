@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-06 10:09+0800\n"
+"PO-Revision-Date: 2019-10-24 21:13+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:30
+msgid "Copy Lorem Ipsum into your clipboard"
+msgstr "Copia Lorem Ipsum negli Appunti"
+
+#. lorem@vxstorm->metadata.json->description
+msgid "Click to get a paragraph of Lorem Ipsum to your clipboard"
+msgstr "Fai clic per ottenere un paragrafo di Lorem Ipsum negli Appunti"
+
+#. lorem@vxstorm->metadata.json->name
+msgid "Lorem Pastesum"
+msgstr "Lorem Pastesum"

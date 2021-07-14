@@ -1,0 +1,56 @@
+# Polish translation for screenshot@tech71.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Andrzej Saski <sasek333@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: screenshot@tech71\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-18 12:16+0800\n"
+"PO-Revision-Date: 2021-02-16 11:24+0100\n"
+"Last-Translator: Andrzej Saski <sasek333@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:34
+msgid "Take A Screen Shot"
+msgstr "Wykonaj zrzut ekranu"
+
+#. ScreenShot@tech71->metadata.json->name
+#: applet.js:45
+msgid "ScreenShot"
+msgstr "Zrzut ekranu"
+
+#: applet.js:50
+msgid "Whole Screen"
+msgstr "Cały ekran"
+
+#: applet.js:52
+msgid "1 Second Delay"
+msgstr "1 sekunda opóźnienia"
+
+#: applet.js:56
+msgid "3 Second Delay"
+msgstr "3 sekundy opóźnienia"
+
+#: applet.js:60
+msgid "5 Second Delay"
+msgstr "5 sekund opóźnienia"
+
+#: applet.js:69
+msgid "Current Window"
+msgstr "Aktywne okno"
+
+#: applet.js:74
+msgid "Selected Area"
+msgstr "Zaznaczony obszar"
+
+#. ScreenShot@tech71->metadata.json->description
+msgid "Take a snapshot of your desktop or individual windows"
+msgstr "Wykonaj zrzut całego ekranu albo wybranych okien"

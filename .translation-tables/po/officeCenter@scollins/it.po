@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 12:45+0100\n"
+"PO-Revision-Date: 2019-10-17 21:04+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:165
+msgid "Clear"
+msgstr "Pulisci"
+
+#: applet.js:221
+msgid "Office"
+msgstr "Ufficio"
+
+#: applet.js:301
+msgid "LAUNCHERS"
+msgstr "LANCIATORI"
+
+#: applet.js:317
+msgid "DOCUMENTS"
+msgstr "DOCUMENTI"
+
+#: applet.js:328
+msgid "Open folder"
+msgstr "Apri cartella"
+
+#: applet.js:354
+msgid "RECENT DOCUMENTS"
+msgstr "DOCUMENTI RECENTI"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Icona Pannello"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr ""
+"Accetta il nome dell'icona o il percorso diretto (supporta le icone "
+"simboliche)"
+
+#. officeCenter@scollins->settings-schema.json->documents->description
+msgid "Documents"
+msgstr "Documenti"
+
+#. officeCenter@scollins->settings-schema.json->docMax->description
+msgid "Limit number of documents shown to"
+msgstr "Limita il numero di documenti mostrati a"
+
+#. officeCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Scorciatoia menù"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->description
+msgid "Icon size"
+msgstr "Dimensione icona"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. officeCenter@scollins->settings-schema.json->recurseDocuments->description
+msgid "Include subfolders"
+msgstr "Includi sottocartelle"
+
+#. officeCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Numero da mostrare"
+
+#. officeCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#. officeCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Testo pannello"
+
+#. officeCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Usa cartella alternativa"
+
+#. officeCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Mostra documenti recenti"
+
+#. officeCenter@scollins->settings-schema.json->showDocuments->description
+msgid "Show contents of documents folder"
+msgstr "Mostra i contenuti della cartella documenti"
+
+#. officeCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Documenti Recenti"
+
+#. officeCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your office needs"
+msgstr ""
+"Fornisce una risorsa facile e veloce per tutte le esigenze del tuo ufficio"
+
+#. officeCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autore"
+
+#. officeCenter@scollins->metadata.json->comments
+msgid ""
+"Office Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your office programs and documents. Feel free "
+"to contribute by submitting pull requests, bug reports and feature requests "
+"to my github repo."
+msgstr ""
+"Office Center è un'applet Cinnamon ricca di funzionalità e multipiattaforma "
+"che fornisce un facile accesso a tutti i programmi e documenti dell'ufficio. "
+"Sentiti libero di contribuire inviando richieste pull, segnalazioni di bug e "
+"richieste di funzionalità al mio repository github."
+
+#. officeCenter@scollins->metadata.json->name
+msgid "Office Center"
+msgstr "Office Center"

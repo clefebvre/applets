@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 03:30+0200\n"
+"PO-Revision-Date: 2021-03-30 08:40+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:86 applet.js:170
+msgid "No new mail"
+msgstr "Nincs új e-mail"
+
+#: applet.js:130
+msgid "Something went wrong"
+msgstr "Hoppá, valami elromlott"
+
+#: applet.js:133
+msgid "INFO: Install python libaries from terminal"
+msgstr "INFO: telepítse a Python könyvtárakat a terminálból"
+
+#: applet.js:133
+msgid "How To"
+msgstr "Hogyan kell"
+
+#: applet.js:133
+msgid "guide"
+msgstr "útmutató"
+
+#: applet.js:133
+msgid "You need pip3:"
+msgstr "Pip3 szükséges:"
+
+#: applet.js:133
+msgid "You need python-feedparser:"
+msgstr "Python-feedparser szükséges:"
+
+#: applet.js:133
+msgid "You need python keyring and python keyring-alt:"
+msgstr "Python keyring és python keyring-alt szükséges:"
+
+#: applet.js:133
+msgid "and"
+msgstr "és"
+
+#: applet.js:135
+msgid "INFO: Are you getting this message? You should not!"
+msgstr "INFO: Megkapja ezt az üzenetet? Nem kellene!"
+
+#: applet.js:135
+msgid "ERROR"
+msgstr "HIBA"
+
+#: applet.js:135
+msgid ""
+"Check internet connection\n"
+"Install the needed python libaries\n"
+"Configure password correctly"
+msgstr ""
+"Ellenőrizze az internetkapcsolatát\n"
+"Telepítse a szükséges python könyvtárakat\n"
+"Állítsa be helyesen a jelszót"
+
+#: applet.js:138
+msgid "ERROR: Error from json parser"
+msgstr "HIBA: json parser hiba"
+
+#: applet.js:161
+msgid "New mail"
+msgstr "Új e-mail"
+
+#: applet.js:163
+msgid "New mails"
+msgstr "Új e-mailek"
+
+#: applet.js:172
+msgid "No new mails"
+msgstr "Nincsenek új e-mailek"
+
+#: applet.js:172
+msgid "Have a nice day"
+msgstr "Legyen szép napja"
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->description
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->tooltip
+msgid "Set your username"
+msgstr "Felhasználónév beállítása"
+
+#. gmail@lauritsriple->settings-schema.json->head->description
+msgid ""
+"Store your username and password.\n"
+"Uses the keyring so password is not stored in cleartext.\n"
+"It might take a while (2-10seconds) before the password\n"
+"gets visible removed after you press the button.\n"
+"If your gmail adress is usernam@gmail.com, only put in the username part "
+"here.\n"
+"There are still some issues so you might have to press the button a couple "
+"of time.\n"
+"If the password changes to something else, dont press it again."
+msgstr ""
+"Mentse felhasználónevét és jelszavát.\n"
+"A kulcstartót alkalmazása, hogy a jelszó ne legyen tiszta szövegben "
+"tárolva.\n"
+"A jelszó előtt ez eltarthat egy ideig (2-10 másodpercig)\n"
+"láthatóvá válás megszűnik miután megnyomja a gombot.\n"
+"Ha a gmail címe felhasználónév@gmail.com, csak a felhasználónevét írja be "
+"ide.\n"
+"Néhány probléma továbbra is fennáll, lehetséges hogy párszor meg kell "
+"nyomnia a gombot.\n"
+"Ha a jelszó másra változik, ne nyomja meg újra."
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->description
+msgid "Password:"
+msgstr "Jelszó:"
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->tooltip
+msgid "Set your password"
+msgstr "Jelszó beállítása"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->description
+msgid "Save username and password"
+msgstr "Felhasználónév és jelszó mentése"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->tooltip
+msgid "Click to save username and password"
+msgstr "Kattintson a felhasználónév és jelszó mentéséhez"
+
+#. gmail@lauritsriple->metadata.json->description
+msgid "Shows most recent mails, and how many unread messages you have."
+msgstr ""
+"A legfrissebb levelek és az olvasatlan üzenetek számának megjelenítése."
+
+#. gmail@lauritsriple->metadata.json->name
+msgid "GmailNotifier"
+msgstr "GmailÉrtesítő"

@@ -1,0 +1,318 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sysmonitor@orcus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-21 13:51+0300\n"
+"PO-Revision-Date: 2017-05-08 14:10+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: 3.2/providers.js:56 3.0/providers.js:49
+#, fuzzy
+msgid "CPU:"
+msgstr "CPU: "
+
+#: 3.2/providers.js:82 3.2/providers.js:108 3.0/providers.js:75
+#: 3.0/providers.js:101
+msgid " MB"
+msgstr " MB"
+
+#: 3.2/providers.js:87 3.0/providers.js:80
+#, fuzzy
+msgid "Memory:"
+msgstr "Memorija: "
+
+#: 3.2/providers.js:113 3.0/providers.js:106
+#, fuzzy
+msgid "Swap:"
+msgstr "Swap: "
+
+#: 3.2/providers.js:159 3.0/providers.js:152
+msgid " KB/s"
+msgstr " KB/s"
+
+#: 3.2/providers.js:164 3.0/providers.js:157
+#, fuzzy
+msgid "Network D/U:"
+msgstr "Mreža P/S: "
+
+#: 3.2/providers.js:203 3.0/providers.js:196
+#, fuzzy
+msgid "Load average:"
+msgstr "Prosječno opterećenje: "
+
+#. metadata.json->description
+msgid "Displays CPU, memory, swap and network usage and load in graphs"
+msgstr "Prikazuje upotrebu CPU-a, memorije, swapa, mreže u grafovima."
+
+#. metadata.json->name
+msgid "System Monitor"
+msgstr "Nadgledatelj sustava"
+
+#. 3.2->settings-schema.json->common->title
+#. 3.0->settings-schema.json->header_common->description
+msgid "Common"
+msgstr ""
+
+#. 3.2->settings-schema.json->common_g->title
+#. 3.2->settings-schema.json->cpu_g->title
+#. 3.2->settings-schema.json->mem_g->title
+#. 3.2->settings-schema.json->swap_g->title
+#. 3.2->settings-schema.json->net_g->title
+#. 3.2->settings-schema.json->load_g->title
+msgid "General"
+msgstr ""
+
+#. 3.2->settings-schema.json->common_c->title
+#. 3.2->settings-schema.json->cpu_c->title
+#. 3.2->settings-schema.json->mem_c->title
+#. 3.2->settings-schema.json->swap_c->title
+#. 3.2->settings-schema.json->net_c->title
+#. 3.2->settings-schema.json->load_c->title
+msgid "Colors"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu->title
+#. 3.0->settings-schema.json->header_cpu->description
+#, fuzzy
+msgid "CPU"
+msgstr "CPU: "
+
+#. 3.2->settings-schema.json->mem->title
+#. 3.0->settings-schema.json->header_mem->description
+#, fuzzy
+msgid "Memory"
+msgstr "Memorija: "
+
+#. 3.2->settings-schema.json->swap->title
+#. 3.0->settings-schema.json->header_swap->description
+#, fuzzy
+msgid "Swap"
+msgstr "Swap: "
+
+#. 3.2->settings-schema.json->net->title
+#. 3.0->settings-schema.json->header_net->description
+#, fuzzy
+msgid "Network"
+msgstr "Mreža P/S: "
+
+#. 3.2->settings-schema.json->load->title
+#. 3.0->settings-schema.json->header_load->description
+msgid "Load"
+msgstr ""
+
+#. 3.2->settings-schema.json->onclick_program->description
+#. 3.0->settings-schema.json->onclick_program->description
+msgid "Program to launch on click"
+msgstr ""
+
+#. 3.2->settings-schema.json->smooth->description
+#. 3.0->settings-schema.json->smooth->description
+msgid "Smooth graphs"
+msgstr ""
+
+#. 3.2->settings-schema.json->draw_border->description
+#. 3.0->settings-schema.json->draw_border->description
+msgid "Draw border"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_width->description
+#. 3.0->settings-schema.json->graph_width->description
+msgid "Common graph width"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_width->units
+#. 3.2->settings-schema.json->graph_spacing->units
+#. 3.2->settings-schema.json->padding_lr->units
+#. 3.2->settings-schema.json->padding_tb->units
+#. 3.2->settings-schema.json->cpu_graph_width->units
+#. 3.2->settings-schema.json->mem_graph_width->units
+#. 3.2->settings-schema.json->swap_graph_width->units
+#. 3.2->settings-schema.json->net_graph_width->units
+#. 3.2->settings-schema.json->load_graph_width->units
+#. 3.0->settings-schema.json->graph_width->units
+#. 3.0->settings-schema.json->graph_spacing->units
+#. 3.0->settings-schema.json->padding_lr->units
+#. 3.0->settings-schema.json->padding_tb->units
+#. 3.0->settings-schema.json->cpu_graph_width->units
+#. 3.0->settings-schema.json->mem_graph_width->units
+#. 3.0->settings-schema.json->swap_graph_width->units
+#. 3.0->settings-schema.json->net_graph_width->units
+#. 3.0->settings-schema.json->load_graph_width->units
+msgid "pixels"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_width->tooltip
+#. 3.0->settings-schema.json->graph_width->tooltip
+msgid ""
+"If the applet is in a vertical panel, this sets the graph height. The graph "
+"width is then the panel width minus padding"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_spacing->description
+#. 3.0->settings-schema.json->graph_spacing->description
+msgid "Graph spacing"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_spacing->tooltip
+#. 3.0->settings-schema.json->graph_spacing->tooltip
+msgid ""
+"The number of pixels between each graph. Can be set to -1 to allow single "
+"line borders between graphs if borders are enabled"
+msgstr ""
+
+#. 3.2->settings-schema.json->refresh_rate->description
+#. 3.0->settings-schema.json->refresh_rate->description
+msgid "Refresh rate"
+msgstr ""
+
+#. 3.2->settings-schema.json->refresh_rate->units
+#. 3.0->settings-schema.json->refresh_rate->units
+msgid "ms"
+msgstr ""
+
+#. 3.2->settings-schema.json->use_padding->description
+#. 3.0->settings-schema.json->use_padding->description
+msgid "Use custom applet padding"
+msgstr ""
+
+#. 3.2->settings-schema.json->padding_lr->description
+#. 3.0->settings-schema.json->padding_lr->description
+msgid "Left/right padding"
+msgstr ""
+
+#. 3.2->settings-schema.json->padding_tb->description
+#. 3.0->settings-schema.json->padding_tb->description
+msgid "Top/bottom padding"
+msgstr ""
+
+#. 3.2->settings-schema.json->bg_color->description
+#. 3.0->settings-schema.json->bg_color->description
+msgid "Background color"
+msgstr ""
+
+#. 3.2->settings-schema.json->border_color->description
+#. 3.0->settings-schema.json->border_color->description
+msgid "Border color"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_enabled->description
+#. 3.2->settings-schema.json->mem_enabled->description
+#. 3.2->settings-schema.json->swap_enabled->description
+#. 3.2->settings-schema.json->net_enabled->description
+#. 3.2->settings-schema.json->load_enabled->description
+#. 3.0->settings-schema.json->cpu_enabled->description
+#. 3.0->settings-schema.json->mem_enabled->description
+#. 3.0->settings-schema.json->swap_enabled->description
+#. 3.0->settings-schema.json->net_enabled->description
+#. 3.0->settings-schema.json->load_enabled->description
+msgid "Enable"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_override_graph_width->description
+#. 3.2->settings-schema.json->mem_override_graph_width->description
+#. 3.2->settings-schema.json->swap_override_graph_width->description
+#. 3.2->settings-schema.json->net_override_graph_width->description
+#. 3.2->settings-schema.json->load_override_graph_width->description
+#. 3.0->settings-schema.json->cpu_override_graph_width->description
+#. 3.0->settings-schema.json->mem_override_graph_width->description
+#. 3.0->settings-schema.json->swap_override_graph_width->description
+#. 3.0->settings-schema.json->net_override_graph_width->description
+#. 3.0->settings-schema.json->load_override_graph_width->description
+msgid "Override graph width"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_graph_width->description
+#. 3.2->settings-schema.json->mem_graph_width->description
+#. 3.2->settings-schema.json->swap_graph_width->description
+#. 3.2->settings-schema.json->net_graph_width->description
+#. 3.2->settings-schema.json->load_graph_width->description
+#. 3.0->settings-schema.json->cpu_graph_width->description
+#. 3.0->settings-schema.json->mem_graph_width->description
+#. 3.0->settings-schema.json->swap_graph_width->description
+#. 3.0->settings-schema.json->net_graph_width->description
+#. 3.0->settings-schema.json->load_graph_width->description
+msgid "Graph width"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_tooltip_decimals->description
+#. 3.0->settings-schema.json->cpu_tooltip_decimals->description
+msgid "Show this many decimals in the tooltip"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_tooltip_decimals->units
+#. 3.0->settings-schema.json->cpu_tooltip_decimals->units
+msgid "decimals"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_color_0->description
+#. 3.0->settings-schema.json->cpu_color_0->description
+msgid "User color"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_color_1->description
+#. 3.0->settings-schema.json->cpu_color_1->description
+msgid "Nice color"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_color_2->description
+#. 3.0->settings-schema.json->cpu_color_2->description
+msgid "Kernel color"
+msgstr ""
+
+#. 3.2->settings-schema.json->cpu_color_3->description
+#. 3.0->settings-schema.json->cpu_color_3->description
+msgid "IOWait color"
+msgstr ""
+
+#. 3.2->settings-schema.json->mem_color_0->description
+#. 3.2->settings-schema.json->swap_color_0->description
+#. 3.0->settings-schema.json->mem_color_0->description
+#. 3.0->settings-schema.json->swap_color_0->description
+msgid "Used color"
+msgstr ""
+
+#. 3.2->settings-schema.json->mem_color_1->description
+#. 3.0->settings-schema.json->mem_color_1->description
+msgid "Cached color"
+msgstr ""
+
+#. 3.2->settings-schema.json->net_color_0->description
+#. 3.0->settings-schema.json->net_color_0->description
+msgid "Download color"
+msgstr ""
+
+#. 3.2->settings-schema.json->net_color_1->description
+#. 3.0->settings-schema.json->net_color_1->description
+msgid "Upload color"
+msgstr ""
+
+#. 3.2->settings-schema.json->load_color_0->description
+#. 3.0->settings-schema.json->load_color_0->description
+msgid "Color"
+msgstr ""
+
+#~ msgid "Settings"
+#~ msgstr "Postavke"
+
+#~ msgid ""
+#~ "Cinnamon should be restarted for changes to take effect.\n"
+#~ "Restart now?"
+#~ msgstr ""
+#~ "Cinnamon se treba ponovno pokrenuti kako bi se promjene primijenile.\n"
+#~ "Odmah ponovno pokreni?"
+
+#~ msgid "Error while saving file: "
+#~ msgstr "Greška spremanja datoteke: "

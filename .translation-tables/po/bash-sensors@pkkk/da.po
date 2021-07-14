@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2021-02-16 20:31+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:79
+msgid "Error: Still waiting for command to finish!"
+msgstr "Fejl: Venter stadig på, at kommandoen bliver færdig!"
+
+#. metadata.json->name
+msgid "Bash Sensors"
+msgstr "Bash-sensorer"
+
+#. metadata.json->description
+msgid ""
+"Write your Bash commands to specify applet output (temperature sensors and "
+"not only!)"
+msgstr ""
+"Skriv dine Bash-kommandoer for at angive panelprogrammets output "
+"(temperatursensorer, men også andet!)"
+
+#. settings-schema.json->head->description
+msgid "Settings - Bash Sensors (write commands in Bash!)"
+msgstr "Indstillinger - Bash-sensorer (skriv kommandoer i Bash!)"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr ""
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr ""
+
+#. settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. settings-schema.json->refreshInterval->description
+msgid "Refresh interval [0 for no refresh]"
+msgstr "Opdateringsinterval [0 for ingen opdatering]"
+
+#. settings-schema.json->shell->description
+msgid "Shell"
+msgstr "Skal"
+
+#. settings-schema.json->shell->tooltip
+msgid "Shell to be used ('-c' will be used to call commands)"
+msgstr "Skal som skal bruges (\"-c\" bruges til at kalde kommadoer)"
+
+#. settings-schema.json->head1->description
+msgid "Commands"
+msgstr "Kommandoer"
+
+#. settings-schema.json->script1->description
+msgid "Command 1"
+msgstr "Kommando 1"
+
+#. settings-schema.json->script1->tooltip
+msgid "first line of output (use \\f for more lines)"
+msgstr "første linjes output (brug \\f for flere linjer)"
+
+#. settings-schema.json->enableScript2->description
+msgid "Two-line mode (command 2 enabled)"
+msgstr "Tolinje-tilstand (kommando 2 aktiveret)"
+
+#. settings-schema.json->script2->description
+msgid "Command 2"
+msgstr "Kommando 2"
+
+#. settings-schema.json->script2->tooltip
+msgid "second line of output (optional)"
+msgstr "anden linjes output (valgfrit)"
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr ""
+
+#. settings-schema.json->dynamicIcon->description
+#, fuzzy
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr ""
+"Dynamisk værktøjstip (brug output fra værktøjstipkommandoen som værktøjstip)"
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr ""
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr ""
+
+#. settings-schema.json->head3->description
+msgid "Tooltip"
+msgstr "Værktøjstip"
+
+#. settings-schema.json->dynamicTooltip->description
+msgid "Dynamic tooltip (use output of tooltip command as tooltip)"
+msgstr ""
+"Dynamisk værktøjstip (brug output fra værktøjstipkommandoen som værktøjstip)"
+
+#. settings-schema.json->tooltipScript->description
+msgid "Tooltip command or static tooltip text"
+msgstr "Værktøjstipkommando eller statisk værktøjstiptekst"
+
+#. settings-schema.json->tooltipScript->tooltip
+msgid "tooltip (static or dynamic)"
+msgstr "værktøjstip (statisk eller dynamisk)"
+
+#. settings-schema.json->head4->description
+msgid "Command on applet click"
+msgstr "Kommando ved klik på panelprogrammet"
+
+#. settings-schema.json->menuScript->description
+msgid "Menu command (on applet left-click)"
+msgstr "Menukommando (ved venstreklik på panelprogram)"
+
+#. settings-schema.json->menuScript->tooltip
+msgid "allows to display lots of information in popup menu"
+msgstr "tillader visning af en masse information i pop op-menu"
+
+#. settings-schema.json->menuScriptDisplay->description
+msgid "Display output of menu command"
+msgstr "Vis menukommandoens output"
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr "Kommando ved opstart"
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr "Kommando kørt ved opstart"

@@ -1,0 +1,135 @@
+# Swedish translation for gputemperature@silentage.com.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gputemperature@silentage.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27 12:49+0800\n"
+"PO-Revision-Date: 2017-05-28 10:43+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:58
+msgid "GPU: ??ᴼC"
+msgstr "GPU: ??ᴼC"
+
+#: applet.js:70
+msgid "Current Temperature of your NVidia based GPU"
+msgstr "Aktuell temperatur för din nVIDIA-baserade grafikkrets"
+
+#: applet.js:75
+msgid "Current Temperature of your ATI based GPU"
+msgstr "Aktuell temperatur för din ATI-baserade grafikkrets"
+
+#: applet.js:80
+msgid "No supported GPUs detected."
+msgstr "Inga grafikkretsar som stöds, har identifierats."
+
+#: applet.js:133 applet.js:348
+msgid "Temperature"
+msgstr "Temperatur"
+
+#: applet.js:152 applet.js:441
+msgid "GPU:"
+msgstr "GPU:"
+
+#: applet.js:352
+msgid "Driver"
+msgstr "Drivrutin"
+
+#: applet.js:360
+msgid "Video Memory"
+msgstr "Grafikminne"
+
+#: applet.js:363
+msgid "Total"
+msgstr "Sammanlagt"
+
+#: applet.js:367
+msgid "Used"
+msgstr "Använd"
+
+#: applet.js:371
+msgid "Interface"
+msgstr "Gränssnitt"
+
+#: applet.js:375
+msgid "Memory Clock"
+msgstr "Minnesfrekvens"
+
+#: applet.js:380
+msgid "Cuda Cores"
+msgstr "Cuda-kärnor"
+
+#: applet.js:384
+msgid "Gpu Clock"
+msgstr "GPU-klocka"
+
+#: applet.js:388
+msgid "PCI Speed"
+msgstr "PCI-hastighet"
+
+#: applet.js:403
+msgid "Fan "
+msgstr "Fläkt"
+
+#: applet.js:411
+msgid "Displays:"
+msgstr "Skärmar:"
+
+#: applet.js:740
+msgid "No GPU Name"
+msgstr "Inget GPU-namn"
+
+#: applet.js:805
+msgid "No Display Name"
+msgstr "Inget skärmnamn"
+
+#: applet.js:844
+msgid " GPU: ??ᴼC ERROR"
+msgstr " GPU: ??ᴼC FEL"
+
+#: applet.js:846
+msgid "We couldn't determine your GPU's temperature."
+msgstr "Vi kunde inte avgöra din GPU:s temperatur."
+
+#: applet.js:848
+msgid "If you have a NVIDIA GPU, please try installing"
+msgstr "Om du har ett nVIDIA-kort, försök installera"
+
+#: applet.js:849
+msgid "the binary drivers from http://geforce.com/drivers"
+msgstr "binär drivrutiner från http://geforce.com/drivers"
+
+#: applet.js:850
+msgid "and the nvidia-settings package for your distribution."
+msgstr "och nVIDIA-inställningar för din distribution."
+
+#: applet.js:852
+msgid "If you have an ATI GPU, please install the LM-SENSORS"
+msgstr "Om du har ett ATI-kort, installera LM-SENSORS"
+
+#: applet.js:853
+msgid "packages for your distribution."
+msgstr "paket för din distribution."
+
+#. gputemperature@silentage.com->metadata.json->name
+msgid "GPU Temperature"
+msgstr "GPU-temperatur"
+
+#. gputemperature@silentage.com->metadata.json->description
+msgid ""
+"Shows NVidia/ATI GPU temperature in the panel, and detailed/multi-gpu "
+"information in a popup menu."
+msgstr ""
+"Visar nVIDIA/ATI GPU-temperatur i panelen och detaljerad information i en "
+"popup-meny."

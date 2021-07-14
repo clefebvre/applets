@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-23 10:37+0800\n"
+"PO-Revision-Date: 2019-10-24 21:10+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:47
+msgid "Your local IPs."
+msgstr "I tuoi IP locali."
+
+#. localipswithsettings@edaubert->metadata.json->description
+msgid "Shows local IP addresses."
+msgstr "Mostra gli indirizzi IP locali."
+
+#. localipswithsettings@edaubert->metadata.json->name
+msgid "Local IPs with settings"
+msgstr "IP locali con impostazioni"
+
+#. localipswithsettings@edaubert->settings-
+#. schema.json->refreshInterval->description
+msgid "Update interval"
+msgstr "Intervallo di aggiornamento"
+
+#. localipswithsettings@edaubert->settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "secondi"
+
+#. localipswithsettings@edaubert->settings-schema.json->IPv4->description
+msgid "Display IPv4 information"
+msgstr "Mostra informazioni IPv4"
+
+#. localipswithsettings@edaubert->settings-schema.json->inet->description
+msgid ""
+"List all interfaces we want to display.\n"
+"Separated by comma.\n"
+"Regex is accepted (usefull to list all docker interfaces for example)"
+msgstr ""
+"Elenca tutte le interfacce che vogliamo visualizzare.\n"
+"Separate da virgola.\n"
+"Regex è accettato (utile per elencare tutte le interfacce docker per esempio)"
+
+#. localipswithsettings@edaubert->settings-schema.json->IPv6->description
+msgid "Display IPv6 information"
+msgstr "Mostra informazioni IPv6"

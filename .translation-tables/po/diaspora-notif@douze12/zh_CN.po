@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 13:59+0800\n"
+"PO-Revision-Date: 2017-04-24 14:06+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. diaspora-notif@douze12->metadata.json->description
+#. diaspora-notif@douze12->metadata.json->name
+#: applet.js:69 applet.js:148
+msgid "Diaspora* notifications"
+msgstr "Diaspora*通知"
+
+#: applet.js:143
+#, c-format
+msgid "You have %d new notifications"
+msgstr "您有%d个通知"
+
+#: applet.js:211
+msgid "No Notification"
+msgstr "无通知"
+
+#: applet.js:220
+msgid "Technical error"
+msgstr "技术错误"
+
+#. diaspora-notif@douze12->settings-schema.json->refreshDelay->description
+msgid "Update interval (minutes)"
+msgstr "更新间隔（分钟）"
+
+#. diaspora-notif@douze12->settings-schema.json->login->description
+msgid "Login"
+msgstr "登录"
+
+#. diaspora-notif@douze12->settings-schema.json->login->tooltip
+msgid "Enter your diaspora*'s login"
+msgstr "输入您的diaspora*的登录名"
+
+#. diaspora-notif@douze12->settings-schema.json->password->description
+msgid "Password"
+msgstr "密码"
+
+#. diaspora-notif@douze12->settings-schema.json->password->tooltip
+msgid "Enter your diaspora*'s password"
+msgstr "输入您的diaspora*的密码"
+
+#. diaspora-notif@douze12->settings-schema.json->podUrl->description
+msgid "Diaspora* Pod URL"
+msgstr "Diaspora* Pod网址"
+
+#. diaspora-notif@douze12->settings-schema.json->podUrl->tooltip
+msgid "Enter your diaspora*'s Pod Url"
+msgstr "输入您的diaspora*的Pod网址"

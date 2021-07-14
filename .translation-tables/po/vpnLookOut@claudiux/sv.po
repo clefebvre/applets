@@ -1,0 +1,692 @@
+# Swedish translation for vpnLookOut@claudiux.
+# Copyright (C) 2017 Claudiux <claude.clerc@gmail.com>
+# This file is distributed under the same license as the cinnamon package.
+# FIRST AUTHOR Åke Engelbrektson <eson@svenskasprakfiler.se>, 2018,2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vpnLookOut@claudiux v3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-08 00:13+0100\n"
+"PO-Revision-Date: 2019-12-09 03:06+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 4.2/applet.js:370 4.2/applet.js:1072
+msgid "Deactivate vpnLookOut"
+msgstr "Avaktivera vpnLookOut"
+
+#: 4.2/applet.js:386 3.8/applet.js:355
+msgid "TRUE"
+msgstr "SANT"
+
+#: 4.2/applet.js:387 3.8/applet.js:356
+msgid "FALSE"
+msgstr "FALSKT"
+
+#: 4.2/applet.js:417 3.8/applet.js:395 2.8/applet.js:214
+msgid ""
+"You appear to be missing some of the programs required for this applet to "
+"have all its features including notifications and audible alerts."
+msgstr ""
+"Du verkar sakna några av de program som krävs för använda detta "
+"panelprograms samtliga funktioner, inklusive aviseringar och ljudsignaler."
+
+#: 4.2/applet.js:417 3.8/applet.js:395 2.8/applet.js:214
+msgid "Please execute, in the just opened terminal, the commands:"
+msgstr "Kör dessa kommandon i den just öppnade terminalen:"
+
+#: 4.2/applet.js:418 3.8/applet.js:396 2.8/applet.js:215
+msgid "Some dependencies are not installed!"
+msgstr "Vissa beroenden är inte installerade!"
+
+#: 4.2/applet.js:445 4.2/applet.js:1075 4.2/applet.js:1084
+msgid "vpnLookOut deactivated"
+msgstr "vpnLookOut avaktiverad"
+
+#: 4.2/applet.js:445 4.2/applet.js:1084
+msgid "or Middle-Click to activate"
+msgstr "eller mushjulsklick för att aktivera"
+
+#: 4.2/applet.js:447 3.8/applet.js:422 2.8/applet.js:241
+msgid "Waiting"
+msgstr "Väntar"
+
+#: 4.2/applet.js:822 3.8/applet.js:773
+msgid "Switching to: "
+msgstr "Växlar till: "
+
+#. metadata.json->name
+#: 4.2/applet.js:867 4.2/applet.js:942 3.8/applet.js:818 3.8/applet.js:893
+#: 2.8/applet.js:588 2.8/applet.js:655
+msgid "VPN Look-Out Applet"
+msgstr "VPN-övervakningsprogram"
+
+#: 4.2/applet.js:873 4.2/applet.js:950 3.8/applet.js:824 3.8/applet.js:899
+#: 2.8/applet.js:594 2.8/applet.js:661
+msgid "Waiting for VPN interface information"
+msgstr "Väntar på VPN-gränssnittsinformation"
+
+#: 4.2/applet.js:883 4.2/applet.js:962 3.8/applet.js:834 3.8/applet.js:909
+#: 2.8/applet.js:624 2.8/applet.js:703
+msgid "Connection ON/OFF"
+msgstr "Anslutning PÅ/AV"
+
+#. 4.2->settings-schema.json->connectAtStartup->description
+#. 3.8->settings-schema.json->connectAtStartup->description
+#. 2.8->settings-schema.json->connectAtStartup->description
+#: 4.2/applet.js:896 4.2/applet.js:1000 3.8/applet.js:847 3.8/applet.js:947
+#: 2.8/applet.js:603 2.8/applet.js:682
+msgid "Connect to VPN as this applet starts."
+msgstr "Anslut till VPN när detta panelprogram startar."
+
+#. 4.2->settings-schema.json->reconnect->description
+#. 3.8->settings-schema.json->reconnect->description
+#. 2.8->settings-schema.json->reconnect->description
+#: 4.2/applet.js:901 4.2/applet.js:1005 3.8/applet.js:852 3.8/applet.js:952
+#: 2.8/applet.js:608 2.8/applet.js:687
+msgid "Try to reconnect to VPN when it shuts down incidentally."
+msgstr "Försök återansluta till VPN när den stängs ner oavsiktligt."
+
+#: 4.2/applet.js:921 3.8/applet.js:872 2.8/applet.js:637
+msgid "Help..."
+msgstr "Hjälp..."
+
+#: 4.2/applet.js:950
+msgid "vpnLookOut is deactivated"
+msgstr "vpnLookOut är inaktiverad"
+
+#: 4.2/applet.js:973 3.8/applet.js:920 2.8/applet.js:715
+msgid "Connections"
+msgstr "Anslutningar"
+
+#. 4.2->settings-schema.json->Torrentpolicy->title
+#. 3.8->settings-schema.json->Torrentpolicy->title
+#: 4.2/applet.js:1026 3.8/applet.js:972
+msgid "VPN-related Apps Manager"
+msgstr "VPN-relaterad programhanterare"
+
+#: 4.2/applet.js:1033 3.8/applet.js:979
+msgid "View Activity Logs"
+msgstr "Visa aktivitetsloggen"
+
+#: 4.2/applet.js:1057 3.8/applet.js:993 2.8/applet.js:669
+msgid "Network Settings"
+msgstr "Nätverksinställningar"
+
+#: 4.2/applet.js:1061 3.8/applet.js:997 2.8/applet.js:673
+msgid "Network Connections"
+msgstr "Nätverksanslutningar"
+
+#: 4.2/applet.js:1072
+msgid "Activate vpnLookOut"
+msgstr "Aktivera vpnLookOut"
+
+#: 4.2/applet.js:1086
+msgid "vpnLookOut reactivated"
+msgstr "vpnLookOut återaktiverad"
+
+#: 4.2/applet.js:1149 3.8/applet.js:1060
+msgid "or Middle-Click to disconnect"
+msgstr "eller mushjulsklick för att koppla ner"
+
+#: 4.2/applet.js:1163 3.8/applet.js:1074 2.8/applet.js:793
+msgid "Connected"
+msgstr "Ansluten"
+
+#: 4.2/applet.js:1182 3.8/applet.js:1091
+msgid "Started by vpnLookOut: "
+msgstr "Startad av vpnLookOut: "
+
+#: 4.2/applet.js:1194 3.8/applet.js:1099 2.8/applet.js:800
+msgid "Disconnected"
+msgstr "Nerkopplad"
+
+#: 4.2/applet.js:1212 3.8/applet.js:1117
+msgid "Blocked by vpnLookOut: "
+msgstr "Blockerad av vpnLookOut: "
+
+#: 4.2/applet.js:1230 4.2/applet.js:1236 3.8/applet.js:1135 3.8/applet.js:1141
+msgid "or Middle-Click to connect"
+msgstr "eller mushjulsklick för att ansluta"
+
+#: 4.2/applet.js:1262 3.8/applet.js:1167
+msgid "Stopped by vpnLookOut: "
+msgstr "Stoppad av vpnLookOut: "
+
+#: 4.2/applet.js:1280 4.2/applet.js:1282 4.2/applet.js:1285 4.2/applet.js:1286
+#: 3.8/applet.js:1181 3.8/applet.js:1183 3.8/applet.js:1186 3.8/applet.js:1187
+#: 2.8/applet.js:832 2.8/applet.js:836 2.8/applet.js:837
+msgid "VPN:"
+msgstr "VPN:"
+
+#: 4.2/applet.js:1317 3.8/applet.js:1214 2.8/applet.js:860
+msgid "is fully functional."
+msgstr "är fullt fungerande."
+
+#: 4.2/applet.js:1318 3.8/applet.js:1215 2.8/applet.js:861
+msgid "All dependencies are installed"
+msgstr "Alla beroenden är installerade"
+
+#. 2.8->settings-schema.json->stopTransmission->description
+#: 2.8/applet.js:613 2.8/applet.js:692
+msgid "Shut down properly Transmission as soon as VPN falls."
+msgstr "Stäng av Transmission så fort VPN kopplas ner."
+
+#. 2.8->settings-schema.json->restartTransmission->description
+#: 2.8/applet.js:617 2.8/applet.js:696
+msgid "Try to restart Transmission as soon as VPN restarts."
+msgstr "Försök starta om Transmission så fort VPN startat om."
+
+#: 2.8/applet.js:771 2.8/applet.js:773
+msgid "Click to disconnect from VPN"
+msgstr "Klicka för att koppla ner VPN"
+
+#: 2.8/applet.js:802 2.8/applet.js:804
+msgid "Click to connect to VPN"
+msgstr "Klicka för att ansluta till VPN"
+
+#. metadata.json->description
+msgid ""
+"A Cinnamon applet that watches over the VPN link, displays its status, "
+"allows to connect at start-up to the last VPN used, allows to reconnect the "
+"VPN link if it incidentally drops, and can stop or restart VPN-related apps "
+"according to the state of the VPN."
+msgstr ""
+"Ett Cinnamon panelprogram som övervakar VPN-anslutningen, visar dess status, "
+"låter dig ansluta automatiskt till senast använda VPN, låter dig återansluta "
+"automatiskt om VPN-anslutning plötsligt går ner och kan stoppa eller "
+"återstarta VPN-relaterade program beroende på VPN-status."
+
+#. 4.2->settings-schema.json->Alerts->title
+#. 3.8->settings-schema.json->Alerts->title
+#. 2.8->settings-schema.json->Alerts->title
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#. 4.2->settings-schema.json->VPNpolicy->title
+#. 4.2->settings-schema.json->sectionV1->title
+#. 3.8->settings-schema.json->VPNpolicy->title
+#. 3.8->settings-schema.json->section1->title
+#. 2.8->settings-schema.json->VPNpolicy->title
+#. 2.8->settings-schema.json->section1->title
+msgid "VPN"
+msgstr "VPN"
+
+#. 4.2->settings-schema.json->Shortcut->title
+#. 3.8->settings-schema.json->Shortcut->title
+#. 2.8->settings-schema.json->Shortcut->title
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#. 4.2->settings-schema.json->sectionA1->title
+#. 3.8->settings-schema.json->section2->title
+#. 2.8->settings-schema.json->section2->title
+msgid "Display"
+msgstr "Visning"
+
+#. 4.2->settings-schema.json->sectionA2->title
+#. 3.8->settings-schema.json->section3->title
+#. 2.8->settings-schema.json->section3->title
+msgid "Sound Alert"
+msgstr "Ljudsignal"
+
+#. 4.2->settings-schema.json->sectionS1->title
+#. 3.8->settings-schema.json->section5->title
+#. 2.8->settings-schema.json->section5->title
+msgid "Shortcuts"
+msgstr "Genvägar"
+
+#. 4.2->settings-schema.json->sectionT1->title
+#. 3.8->settings-schema.json->section6->title
+msgid "Settings"
+msgstr "Inställningar"
+
+#. 4.2->settings-schema.json->sectionT2->title
+#. 3.8->settings-schema.json->section7->title
+msgid "Managed Apps"
+msgstr "Hanterade program"
+
+#. 4.2->settings-schema.json->sectionV2->title
+#. 3.8->settings-schema.json->section8->title
+msgid "Activity Logs"
+msgstr "Aktivitetslogg"
+
+#. 4.2->settings-schema.json->vpnInterface->description
+#. 3.8->settings-schema.json->vpnInterface->description
+#. 2.8->settings-schema.json->vpnInterface->description
+msgid "VPN Network Interface"
+msgstr "VPN-nätverksgränssnitt"
+
+#. 4.2->settings-schema.json->vpnInterface->tooltip
+#. 3.8->settings-schema.json->vpnInterface->tooltip
+#. 2.8->settings-schema.json->vpnInterface->tooltip
+msgid ""
+"You should be able to leave this field empty. This applet will try to detect "
+"this."
+msgstr ""
+"Du bör kunna lämna detta fält tomt. Programmet försöker upptäcka detta "
+"automatiskt."
+
+#. 4.2->settings-schema.json->vpnName->description
+#. 3.8->settings-schema.json->vpnName->description
+#. 2.8->settings-schema.json->vpnName->description
+msgid "VPN Name"
+msgstr "VPN-namn"
+
+#. 4.2->settings-schema.json->vpnName->tooltip
+#. 3.8->settings-schema.json->vpnName->tooltip
+#. 2.8->settings-schema.json->vpnName->tooltip
+msgid ""
+"This information is automatically changed when connecting to a VPN.\n"
+"It therefore contains the name of the last VPN to which you connected."
+msgstr ""
+"Denna information ändras automatiskt vid anslutning till en VPN.\n"
+"Därför innehåller den namnet på den sist anslutna VPN-uppkopplingen."
+
+#. 4.2->settings-schema.json->connectAtStartup->tooltip
+#. 3.8->settings-schema.json->connectAtStartup->tooltip
+#. 2.8->settings-schema.json->connectAtStartup->tooltip
+msgid ""
+"Checking this allows this applet to try to connect to the last VPN at start-"
+"up."
+msgstr ""
+"Aktiveras om detta panelprogram skall försöka ansluta senaste VPN-"
+"uppkoppling vid systemstart."
+
+#. 4.2->settings-schema.json->deactivateAtStartup->description
+msgid "Deactivate this applet at startup"
+msgstr "Avaktivera detta panelprogram vid systemstart"
+
+#. 4.2->settings-schema.json->deactivateAtStartup->tooltip
+msgid ""
+"When this option is checked, this applet starts in 'deactivated' state, "
+"saving resources but not monitoring anything. You can activate it from its "
+"menu."
+msgstr ""
+"När detta alternativ är på, startar panelprogrammet i inaktiverat läge, "
+"vilket sparar resurser men inget övervakas. Du kan aktivera programmet från "
+"menyn."
+
+#. 4.2->settings-schema.json->reconnect->tooltip
+#. 3.8->settings-schema.json->reconnect->tooltip
+#. 2.8->settings-schema.json->reconnect->tooltip
+msgid ""
+"Checking this allows this applet to try to reconnect to VPN when it shuts "
+"down incidentally."
+msgstr ""
+"Aktiveras om detta panelprogram skall återansluta VPN vid oavsiktlig "
+"avstängning."
+
+#. 4.2->settings-schema.json->respectUserRequest->description
+#. 3.8->settings-schema.json->respectUserRequest->description
+msgid ""
+"Do not try to reconnect automatically if the VPN has been disconnected by "
+"the user."
+msgstr ""
+"Försök inte återansluta automatiskt, om VPN-anslutningen har kopplats ner av "
+"användaren."
+
+#. 4.2->settings-schema.json->respectUserRequest->tooltip
+#. 3.8->settings-schema.json->respectUserRequest->tooltip
+msgid ""
+"If, by this applet only, the user disconnects the VPN, then no automatic "
+"reconnection will be tried."
+msgstr ""
+"Om användaren kopplar ner VPN med detta panelprogram, kommer ingen "
+"automatisk återuppkoppling att ske."
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->units
+#. 3.8->settings-schema.json->refreshInterval-spinner->units
+#. 2.8->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->description
+#. 3.8->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh interval:"
+msgstr "Uppdateringsintervall:"
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.8->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Time interval, in seconds, between two verifications of VPN link status. A "
+"low value increases security but causes more activity. Choose a value that "
+"is greater as your computer is slow."
+msgstr ""
+"Tidsintervall i sekunder, mellan två verifieringar av VPN-anslutningens "
+"status. Ett lågt värde ökar säkerheten, men orsakar mer aktivitet. Välj ett "
+"värde som är högre om din dator är långsam."
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Classic - Icon and Text"
+msgstr "Klassisk - Ikon och text"
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Compact - Icon Only"
+msgstr "Kompakt - Endast ikon"
+
+#. 4.2->settings-schema.json->displayType->description
+#. 3.8->settings-schema.json->displayType->description
+#. 2.8->settings-schema.json->displayType->description
+msgid "Type of Display"
+msgstr "Visningstyp"
+
+#. 4.2->settings-schema.json->displayType->tooltip
+#. 3.8->settings-schema.json->displayType->tooltip
+#. 2.8->settings-schema.json->displayType->tooltip
+msgid ""
+"This feature offers the Classic (default) display with icon and text, and "
+"compact display (Icon Only)."
+msgstr ""
+"Denna funktion bjuder på klassisk (standard) visning med ikon och text och "
+"kompakt visning (endast ikon)."
+
+#. 4.2->settings-schema.json->use_symbolic_icons->description
+msgid "Use Symbolic Icons"
+msgstr "Använd symboliska ikoner"
+
+#. 4.2->settings-schema.json->use_symbolic_icons->tooltip
+msgid ""
+"Select this option if you prefer Symbolic icons instead of Full Color icons."
+msgstr ""
+"Välj detta alternativ om du föredrar symboliska ikoner istället för "
+"fullfärgsikoner."
+
+#. 4.2->settings-schema.json->useSoundAlert->description
+#. 3.8->settings-schema.json->useSoundAlert->description
+msgid "Emit an audible alert when VPN shuts down."
+msgstr "Avge en ljudsignal när VPN stängs av."
+
+#. 4.2->settings-schema.json->useSoundAlert->tooltip
+#. 3.8->settings-schema.json->useSoundAlert->tooltip
+msgid ""
+"Checking this allows this applet to emit an audible alert when VPN shuts "
+"down."
+msgstr "Aktivering låter detta panelprogram ljudvarna när VPN stängs av."
+
+#. 4.2->settings-schema.json->useSoundAlertAtBeginning->description
+#. 3.8->settings-schema.json->useSoundAlertAtBeginning->description
+msgid "Emit this audible alert when this Applet starts, if VPN is down."
+msgstr "Avge en ljudsignal när detta panelprogram startar, om VPN är nere."
+
+#. 4.2->settings-schema.json->useSoundAlertAtBeginning->tooltip
+#. 3.8->settings-schema.json->useSoundAlertAtBeginning->tooltip
+msgid ""
+"Check this if you want to emit this audible alert when this Applet starts, "
+"if VPN is down."
+msgstr ""
+"Aktivera detta om du vill ha en ljudvarning om VPN-anslutningen är nere, när "
+"detta panelprogram startas."
+
+#. 4.2->settings-schema.json->keybinding->description
+#. 3.8->settings-schema.json->keybinding->description
+#. 2.8->settings-schema.json->keybinding->description
+msgid "Set the keybinding here to activate/deactivate the last used VPN."
+msgstr ""
+"Ange tangentbordsgenväg här, för att aktivera/avaktivera senast använda VPN."
+
+#. 4.2->settings-schema.json->manageClients->description
+#. 3.8->settings-schema.json->manageClients->description
+msgid "Manage VPN-related Apps"
+msgstr "Hantera VPN-relaterade program"
+
+#. 4.2->settings-schema.json->manageClients->tooltip
+#. 3.8->settings-schema.json->manageClients->tooltip
+msgid ""
+"This option allows this applet to manage the VPN-related applications you "
+"listed above."
+msgstr ""
+"Detta alternativ låter panelprogrammet hantera de VPN-relaterade program som "
+"du listat ovan."
+
+#. 4.2->settings-schema.json->clientsList->description
+#. 3.8->settings-schema.json->clientsList->description
+msgid "Managed applications"
+msgstr "Hanterade program"
+
+#. 4.2->settings-schema.json->clientsList->tooltip
+#. 3.8->settings-schema.json->clientsList->tooltip
+msgid ""
+"Name: What you want.\n"
+"Command: The command to run the application, without its path.\n"
+"Restart: Set to TRUE if you want to restart this application as soon as the "
+"VPN link becomes active again.\n"
+"Shutdown: Set to TRUE if you want to close the application as soon as the "
+"VPN link is stopped.\n"
+"VPN only: Set to TRUE if you want to quickly stop this application if it is "
+"started while the VPN is idle."
+msgstr ""
+"Namn: Vad du vill.\n"
+"Kommando: Kommando för att starta programmet, utan sökväg.\n"
+"Starta om: Anges som SANT om du vill återstarta programmet så fort VPN-"
+"anslutningen är aktiv igen.\n"
+"Stäng av: Anges som SANT om du vill avsluta programmet så fort VPN-"
+"anslutningen stoppas.\n"
+"Endast VPN: Anges som SANT om du snabbt vill stoppa programmet om det "
+"startas när VPN-anslutningen inte är aktiv."
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Name"
+msgstr "Namn"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Command"
+msgstr "Kommando"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Restart"
+msgstr "Starta om"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Shut down"
+msgstr "Stäng av"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "VPN only"
+msgstr "Endast VPN"
+
+#. 4.2->settings-schema.json->doLogActivity->description
+#. 3.8->settings-schema.json->doLogActivity->description
+msgid "Log the VPN status changes and the VPN-related Apps status changes"
+msgstr "Logga VPN-statusändringar och relaterade programs statusändringar"
+
+#. 4.2->settings-schema.json->doLogActivity->tooltip
+#. 3.8->settings-schema.json->doLogActivity->tooltip
+msgid ""
+"This option allows this applet to log the VPN status changes and the VPN-"
+"related applications status changes.\n"
+"You will can display the log file to make diagnostics."
+msgstr ""
+"Detta alternativ låter panelprogrammet logga statusändringar i VPN-"
+"uppkopplingen och relaterade program.\n"
+"Du kan visa loggfilen för att utföra diagnostik."
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "1"
+msgstr "1"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "2"
+msgstr "2"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "3"
+msgstr "3"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "4"
+msgstr "4"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "5"
+msgstr "5"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "6"
+msgstr "6"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "7"
+msgstr "7"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "8"
+msgstr "8"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "9"
+msgstr "9"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "10"
+msgstr "10"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "15"
+msgstr "15"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "20"
+msgstr "20"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "30"
+msgstr "30"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "45"
+msgstr "45"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "60"
+msgstr "60"
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "90"
+msgstr "90"
+
+#. 4.2->settings-schema.json->logLifetime->description
+#. 3.8->settings-schema.json->logLifetime->description
+msgid "Lifetime (days)"
+msgstr "Livstid (dagar)"
+
+#. 4.2->settings-schema.json->logLifetime->tooltip
+#. 3.8->settings-schema.json->logLifetime->tooltip
+msgid "Lifetime of a record in the log file, in days."
+msgstr "Livstid för en post i loggfilen, i dagar."
+
+#. 2.8->settings-schema.json->section4->title
+msgid "Transmission"
+msgstr "Transmission"
+
+#. 2.8->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Uppdateringsintervall för visning:"
+
+#. 2.8->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh (ie high value) if you have a slow machine."
+msgstr ""
+"Öka eller minska värdet för att ändra uppdateringsintervallet. Använd "
+"långsam uppdatering (högt värde) om du har en långsam maskin."
+
+#. 2.8->settings-schema.json->useSoundAlert->description
+msgid "Emit a sound alert when VPN shuts down."
+msgstr "Spela upp en ljudsignal när VPN stängs ner."
+
+#. 2.8->settings-schema.json->useSoundAlert->tooltip
+msgid ""
+"Checking this allows this applet to emit a sound alert when VPN shuts down."
+msgstr "Aktivering ger en ljudsignal när VPN-uppkopplingen stängs ner."
+
+#. 2.8->settings-schema.json->useSoundAlertAtBeginning->description
+msgid "Emit this sound alert when this Applet starts, if VPN is down."
+msgstr "Spela upp en ljudsignal när detta program startar, om VPN är nere."
+
+#. 2.8->settings-schema.json->useSoundAlertAtBeginning->tooltip
+msgid ""
+"Check this if you want to emit this sound alert when this Applet starts, if "
+"VPN is down."
+msgstr ""
+"Aktiverar en ljudsignal om VPN-uppkopplingen är nere, när det här "
+"panelprogrammet startar."
+
+#. 2.8->settings-schema.json->stopTransmission->tooltip
+msgid ""
+"Checking this allows this applet to shut down Transmission (if it's running) "
+"as soon as VPN falls."
+msgstr ""
+"Aktiveras för att stänga ner Transmission (om den körs) så fort VPN tappar "
+"anslutning."
+
+#. 2.8->settings-schema.json->restartTransmission->tooltip
+msgid ""
+"Checking this allows this applet to restart Transmission (if it was stopped "
+"by this applet) as soon as VPN restarts."
+msgstr ""
+"Aktiveras för att starta om Transmission (om den stoppats av detta "
+"panelprogram) så fort VPN startats om."
+
+#~ msgid "Connection Info"
+#~ msgstr "Anslutningsinformation"
+
+#~ msgid ""
+#~ "A Cinnamon applet that watches over the VPN link, displays its status, "
+#~ "allows to connect at start-up to the last VPN used, allows to reconnect "
+#~ "the VPN link if it incidentally drops, and can stop or restart "
+#~ "Transmission according to the state of the VPN."
+#~ msgstr ""
+#~ "Ett Cinnamon panelprogram som övervakar VPN-länken, visar dess status, "
+#~ "låter dig ansluta till den senast använda VPN-uppkopplingen vid "
+#~ "systemstart, återansluter VPN-länken vid oavsiktliga avbrott och kan "
+#~ "stoppa eller återstarta Transmission beroende på aktuell VPN-status."
+
+#~ msgid ""
+#~ "Name: What you want.\n"
+#~ "Command: The command to run the application, without its path.\n"
+#~ "Restart: TRUE if you want to restart this application as soon as the VPN "
+#~ "link becomes active again.\n"
+#~ "Shutdown: TRUE if you want to close the application as soon as the VPN "
+#~ "link is stopped."
+#~ msgstr ""
+#~ "Namn: Vad du vill.\n"
+#~ "Kommando: Kommandot som startar programmet, utan sökväg.\n"
+#~ "Starta om: TRUE om du vill starta om programmet, när VPN-länken blir "
+#~ "aktiv igen.\n"
+#~ "Stäng av: TRUE om du vill stänga programmet, när VPN-länken stoppas."
+
+#~ msgid "Ok"
+#~ msgstr "OK"

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2021-02-16 20:32+0100\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr ""
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr ""
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr ""
+
+#. settings-schema.json->dynamicIcon->description
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr ""
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr ""
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr ""
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr ""
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr ""

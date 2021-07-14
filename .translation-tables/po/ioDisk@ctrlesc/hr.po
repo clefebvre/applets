@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ioDisk@ctrlesc 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 12:03+0800\n"
+"PO-Revision-Date: 2017-05-02 13:06+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. ioDisk@ctrlesc->metadata.json->name
+#: applet.js:95
+msgid "Disk Utilization"
+msgstr "Upotreba diska"
+
+#: applet.js:99
+msgid "Command [iostat] not found."
+msgstr "Naredba [iostat] nije pronađena."
+
+#: applet.js:149
+msgid "No drives detected."
+msgstr "Nema otkrivenih uređaja."
+
+#: applet.js:223
+msgid "io: ??%"
+msgstr "io: ??%"
+
+#: applet.js:235
+msgid "Error executing iostat."
+msgstr "Greška pokretanja iostat."
+
+#. ioDisk@ctrlesc->metadata.json->description
+msgid ""
+"Shows the current max disk I/O utilization in the panel and per device "
+"utilization in a popup menu."
+msgstr ""
+"Prikazuje trenutnu najveću I/U upotrebu diska u panelu i pojedinačnu "
+"upotrebu po uređuju u skočnom izborniku."

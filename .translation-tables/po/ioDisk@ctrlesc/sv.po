@@ -1,0 +1,48 @@
+# Swedish translation for ioDisk@ctrlesc.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ioDisk@ctrlesc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 12:03+0800\n"
+"PO-Revision-Date: 2017-05-30 06:05+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. ioDisk@ctrlesc->metadata.json->name
+#: applet.js:95
+msgid "Disk Utilization"
+msgstr "Diskanvändning"
+
+#: applet.js:99
+msgid "Command [iostat] not found."
+msgstr "Kommandot [iostat] kunde inte hittas."
+
+#: applet.js:149
+msgid "No drives detected."
+msgstr "Inga diskenheter identifierade"
+
+#: applet.js:223
+msgid "io: ??%"
+msgstr "io: ??%"
+
+#: applet.js:235
+msgid "Error executing iostat."
+msgstr "Kunde inte köra iostat."
+
+#. ioDisk@ctrlesc->metadata.json->description
+msgid ""
+"Shows the current max disk I/O utilization in the panel and per device "
+"utilization in a popup menu."
+msgstr ""
+"Visar aktuell I/O (diskanvändning) i panelen och användning per enhet i en "
+"popup-meny."

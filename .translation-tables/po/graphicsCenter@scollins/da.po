@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 15:47+0100\n"
+"PO-Revision-Date: 2017-08-04 20:13+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:169
+msgid "Clear"
+msgstr "Ryd"
+
+#: applet.js:224
+msgid "Graphics"
+msgstr "Grafik"
+
+#: applet.js:304
+msgid "LAUNCHERS"
+msgstr "PROGRAMSTARTERE"
+
+#: applet.js:329
+msgid "PICTURES"
+msgstr "BILLEDER"
+
+#: applet.js:340
+msgid "Open folder"
+msgstr "Åbn mappe"
+
+#: applet.js:367
+msgid "RECENT DOCUMENTS"
+msgstr "SENESTE DOKUMENTER"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panelikon"
+
+#. graphicsCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Godtager ikonnavn eller direkte sti (understøtter symbolske ikoner)"
+
+#. graphicsCenter@scollins->settings-schema.json->showPictures->description
+msgid "Show contents of pictures directory"
+msgstr "Vis indholdet af mappen med billeder"
+
+#. graphicsCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Genvejstast til menuen"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Menuens ikonstørrelse"
+
+#. graphicsCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. graphicsCenter@scollins->settings-schema.json->pictures->description
+msgid "Pictures"
+msgstr "Billeder"
+
+#. graphicsCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Antal der skal vises"
+
+#. graphicsCenter@scollins->settings-schema.json->pictureSize->description
+msgid "Thumbnail size"
+msgstr "Miniaturestørrelse"
+
+#. graphicsCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#. graphicsCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Paneltekst"
+
+#. graphicsCenter@scollins->settings-schema.json->recursePictures->description
+msgid "Show contents of subfolders"
+msgstr "Vis undermappers indhold"
+
+#. graphicsCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Anvend alternativ mappe"
+
+#. graphicsCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Vis seneste dokumenter"
+
+#. graphicsCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Seneste dokumenter"
+
+#. graphicsCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your picture needs"
+msgstr "En let og hurtig ressource til alle dine billedbehov"
+
+#. graphicsCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - forfatter"
+
+#. graphicsCenter@scollins->metadata.json->comments
+msgid ""
+"Graphics Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your graphics programs and pictures. Feel "
+"free to contribute by submitting pull requests, bug reports and feature "
+"requests to my github repo."
+msgstr ""
+"Grafikcenter er et panelprogram med mange funktioner til Cinnamon, som giver "
+"let adgang til alle dine grafikprogrammer og billeder. Du er velkommen til "
+"at bidrage ved at indsende pull-anmodninger, fejlrapporter og ønsker til nye "
+"funktioner til mit github-arkiv."
+
+#. graphicsCenter@scollins->metadata.json->name
+msgid "Graphics Center"
+msgstr "Grafikcenter"

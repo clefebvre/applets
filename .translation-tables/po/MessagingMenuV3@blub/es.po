@@ -1,0 +1,40 @@
+# Spanish translation for MessagingMenuV3@blub.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Igor Escalona <igorer88@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 00:57+0100\n"
+"PO-Revision-Date: 2017-07-01 13:40+0200\n"
+"Last-Translator: Igor Escalona <igorer88@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:182
+msgid "Compose New Message..."
+msgstr "Componer Nuevo Mensaje..."
+
+#: applet.js:184
+msgid "Contacts"
+msgstr "Contactos"
+
+#. metadata.json->name
+#, fuzzy
+msgid "Messaging Menu"
+msgstr "Menú de Mensajería V3"
+
+#. metadata.json->description
+#, fuzzy
+msgid "Messaging Menu applet"
+msgstr "Menú de Mensajería V3"
+
+#~ msgid "Messaging Menu applet now compatible with Cinnamon 2.4"
+#~ msgstr "Applet de Mensajería ahora compatible con Cinnamon 2.4"

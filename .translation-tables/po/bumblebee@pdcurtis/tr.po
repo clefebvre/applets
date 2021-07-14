@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 23:55+0200\n"
+"PO-Revision-Date: 2018-11-26 19:04+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:152
+msgid "Bumblebee program not installed"
+msgstr "Bumblebee uygulaması kurulu değil"
+
+#: applet.js:152
+msgid ""
+"You appear to be missing some of the required programs for 'bumblebee' to "
+"switch graphics processors using NVIDIA Optimus."
+msgstr ""
+"NVIDIA Optimus kullanarak grafik işlemci değişimi için gerekli 'bumblebee' "
+"programlarından bazıları eksik görünüyor."
+
+#: applet.js:152
+msgid "Please read the help file."
+msgstr "Lütfen yardım dosyasını inceleyiniz."
+
+#: applet.js:172
+msgid "Waiting for Bumblebee"
+msgstr "Bumblebee için bekleniyor"
+
+#: applet.js:232
+msgid "Open nVidia Settings Program"
+msgstr "nVidia Ayarları Uygulamasını Açın"
+
+#: applet.js:238
+msgid "Open Power Statistics"
+msgstr "Güç Analizlerini Açın"
+
+#: applet.js:244
+msgid "Open System Monitor"
+msgstr "Sistem Gözlemcisini Açın"
+
+#: applet.js:253
+msgid "Housekeeping and System Sub Menu"
+msgstr "Temizlik ve Sistem Alt Menüsü"
+
+#: applet.js:256
+msgid "View the Changelog"
+msgstr "Değişim Günlüğünü Açın"
+
+#: applet.js:262
+msgid "Open the Help file"
+msgstr "Yardım dosyasını açın"
+
+#: applet.js:278
+msgid "Launch programs using the nVidia Graphics Processor"
+msgstr "Uygulamaları nVidia Grafik İşlemcisini kullanarak başlat"
+
+#: applet.js:359
+msgid "NVidia based GPU is Off"
+msgstr "NVidia tabanlı GPU kapalı"
+
+#: applet.js:384
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia tabanlı GPU Açık ve Çekirdek Sıcaklığı"
+
+#: applet.js:392
+msgid "Err"
+msgstr "Hata"
+
+#: applet.js:393
+msgid ""
+"Bumblebee is not set up correctly - are bbswitch, bumblebee and nvidia "
+"drivers installed?"
+msgstr ""
+"Bumblebee doğru biçimde yapılandırılmamış - bumblebee, bbswitch ve nvidia "
+"sürücüsü kurulu mu?"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "GPU Sıcaklığını ve simgeyi göster"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr "Yatay ve Dikey Panellere uygundur. Dereceyi Santigrat olarak gösterir."
+
+#. bumblebee@pdcurtis->settings-schema.json->head2->description
+msgid "Programs settings for Optimus"
+msgstr "Optimus için program ayarları"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->description
+msgid "Command String for Program 2"
+msgstr "2. Uygulama İçin Kullanılacak Komut"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->tooltip
+msgid ""
+"Put the command string to run the program here starting with optirun or "
+"primusrun"
+msgstr ""
+"Optirun veya primusrun ile başlatılacak programı çalıştırmak için "
+"kullanacağınız komutu girin."
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->description
+msgid "Command String for Program 3"
+msgstr "3. Uygulama İçin Kullanılacak Komut"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->description
+msgid "Command String for Program 1"
+msgstr "1. Uygulama İçin Kullanılacak Komut"
+
+#. bumblebee@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Monitoring Applet"
+msgstr "NVidia İzleme Uygulaması için Genel Ayarlar"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->description
+msgid "Command String for Program 4"
+msgstr "4. Uygulama İçin Kullanılacak Komut"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->description
+msgid "Command String for Program 5"
+msgstr "5. Uygulama İçin Kullanılacak Komut"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->description
+msgid "Display Name of Program 4 to be run using Optimus technology"
+msgstr ""
+"Optimus teknolojisi kullanılarak çalıştırılacak 4. Uygulamanın Görünen Adı"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description5->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description3->tooltip
+msgid ""
+"Put the name of the program here or none if you do not want it displayed"
+msgstr ""
+"Uygulamanın adını buraya yazın, ya da görüntülemesini istemiyorsanız boş "
+"bırakın"
+
+#. bumblebee@pdcurtis->settings-schema.json->description5->description
+msgid "Display Name of Program 5 to be run using Optimus technology"
+msgstr ""
+"Optimus teknolojisi kullanılarak çalıştırılacak 5. Uygulamanın Görünen Adı"
+
+#. bumblebee@pdcurtis->settings-schema.json->description2->description
+msgid "Display Name of Program 2 to be run using Optimus technology"
+msgstr ""
+"Optimus teknolojisi kullanılarak çalıştırılacak 5. Uygulamanın Görünen Adı"
+
+#. bumblebee@pdcurtis->settings-schema.json->description3->description
+msgid "Display Name of Program 3 to be run using Optimus technology"
+msgstr ""
+"Optimus teknolojisi kullanılarak çalıştırılacak 3. Uygulamanın Görünen Adı"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->description
+msgid "Display Name of Program 1 to be run using Optimus technology"
+msgstr ""
+"Optimus teknolojisi kullanılarak çalıştırılacak 1. Uygulamanın Görünen Adı"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->tooltip
+msgid ""
+"Put the name of the program here or null if you do not want it displayed"
+msgstr ""
+"Uygulamanın adını buraya yazın, ya da görüntülemesini istemiyorsanız boş "
+"bırakın"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Görüntüleme için Yenileme Aralığı:"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Yenileme aralığını değiştirmek için değeri artırın veya azaltın - yavaş "
+"makineniz varsa yavaş bir yenileme kullanın"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "saniye"
+
+#. bumblebee@pdcurtis->metadata.json->description
+msgid ""
+"Displays Status of Bumblebee and nVidia GPU Temperature with associated "
+"support functions including starting selected programs with optirun or "
+"primusrun"
+msgstr ""
+"Bumblebee ve nVidia GPU Sıcaklığının durumunu göstermekle birlikte, seçilen "
+"programların optirun veya primusrun ile başlatılması dahil destek "
+"işlevlerini sağlar."
+
+#. bumblebee@pdcurtis->metadata.json->name
+msgid "Bumblebee Status with NVidia Temperature Display"
+msgstr "Bumblebee Durum ve NVidia Sıcaklık Gösterimi"

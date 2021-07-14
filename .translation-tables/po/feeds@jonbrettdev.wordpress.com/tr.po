@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2018-11-15 01:50+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "Geçersiz besleme adresi"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " okunmamış öğeler!"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Besleme yükleniyor"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "Besleme okuyucu"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Tümünü okundu işaretle"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Tekrar yükle"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Beslemeleri yönet"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "Okunmayan besleme yok"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Beslemeler"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Beslemeyi açmak için sağ tıklayın:\n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Tüm Mesajları Okundu İşaretle"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Sonraki İşaretle "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " Mesajları Oku"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Besleme adresini güncelle"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Yayınlanan: "
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Mesajı Okundu Olarak İşaretle"
+
+#: applet.js:958
+msgid "d) "
+msgstr "g) "
+
+#: applet.js:960
+msgid "h) "
+msgstr "s) "
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr "(<1s) "
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Beslemelerini yönet"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Örnek İsim:"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Besleme listesi ekle/sil"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Etkin"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "Adres"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Özel başlık"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Uyarı"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Okunanları Göster"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Süre"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Resim Göster"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "İçe aktar"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_OPML içe aktarımı"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Beslemeleri OPML dosyasından aktar"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "Besleme Dosyasını _İçe Aktar"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Beslemeleri dosyadan içe aktar"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Dışa aktar"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "Besleme Dosyasını _Dışa Aktar"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Beslemeleri dosya için dışa aktar"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "Seçenekler"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "Gizlenmiş Alanlara _Geç"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Gizli alanları Göster ya da Gizle"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Değişiklikler iptal edilecek, devam edilsin mi?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Yeni Örnek (Liste) Adı"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Yeni Örnek Ekle (Liste)"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Yapılandırma dosyası kaydetme başarısız"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "OPML besleme dosyası seçin"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "OPML dosyaları"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Bir besleme dosyası seçin"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Metin dosyaları"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "dosya içe aktarıldı"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "%d besleme içe aktarıldı"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "İçe aktarma başarısız"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Bir besleme dosyası kaydet"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Dosya dışa aktarılamadı, istisna: %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Dosya dışa aktarılamadı"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "RSS haber akışlarını görüntüler"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Besleme Okuyucu"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "Besleme Adresleri"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Beslemeleri Yönet..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr ""
+"Besleme ekleme/kaldırma/düzenleme için besleme yönetimi uygulamasını başlatın"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "beslemeler"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Maksimum öğe sayısı"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Bu yayın için görüntülenecek maksimum öğe sayısı"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "dakika"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Güncelleme aralığı"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Yeni öğeler için kontrol etme zaman aralığı"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Yeni öğeler için uyarı göster"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "Etkinse yeni öğeler için bir bildirim alanı gösterilir"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr ""
+"Sorun gidermede hata ayıklama günlüğünü etkinleştirmek için bunu "
+"etkinleştirin"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr ""
+"Bunu etkinleştirmek hata ayıklama düzeyindeki günlüklemeyi etkinleştirir"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Besleme Örnek Adı"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "Değiştirmeyin, bu Beslemeleri Yönet penceresi tarafından değiştirilir."

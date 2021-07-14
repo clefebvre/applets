@@ -1,0 +1,205 @@
+# Swedish translation for scripts@paucapo.com.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Â scripts@paucapo.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-20 15:11+0200\n"
+"PO-Revision-Date: 2021-04-21 12:28+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:24
+msgid ""
+"No terminals are found. Switch the setting <Find automatically a terminal> "
+"off to fix this."
+msgstr ""
+"Inga terminaler hittades. Slå av inställningen<Hitta en terminal "
+"automatiskt> för att fixa detta."
+
+#: applet.js:64
+msgid "Desktop env default terminal: "
+msgstr "Standardterminal för skrivbordsmiljö: "
+
+#: applet.js:65 applet.js:90 applet.js:115
+msgid "Command to execute a script: "
+msgstr "Kommando för att köra ett skript: "
+
+#: applet.js:89
+msgid "Sym-link of x-terminal-emulator: "
+msgstr "Sym-link för x-terminal-emulator: "
+
+#: applet.js:172
+#, javascript-format
+msgid "The script: <%s> doesn't exist"
+msgstr "Skriptet: <%s> finns inte"
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:211
+msgid "Execute silently"
+msgstr "Exekvera tyst"
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:216
+msgid "Execute in terminal"
+msgstr "Kör i terminal"
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:221
+msgid "Edit the script"
+msgstr "Redigera skriptet"
+
+#: applet.js:227
+msgid "Open the document"
+msgstr "Öppna dokumentet"
+
+#: applet.js:360
+msgid "Scripts"
+msgstr "Skript"
+
+#: applet.js:425
+msgid ""
+"The applet Script Menu cant run due to missing dependencies. The missing "
+"dependencies are:"
+msgstr ""
+"Skriptmenyn kan inte köras på grund av saknade beroenden. De beroenden som "
+"saknas är:"
+
+#: applet.js:433
+msgid ""
+"Terminal emulator. Switch the setting <Find automatically a terminal> off to "
+"fix this."
+msgstr ""
+"Terminalemulator. Slå av inställningen<Hitta en terminal automatiskt> för "
+"att fixa detta."
+
+#: applet.js:470
+msgid "Open scripts folder"
+msgstr "Öppna skriptmappen"
+
+#: applet.js:475
+msgid "Update menu"
+msgstr "Uppdatera menyn"
+
+#: applet.js:482
+msgid "Applet 'Script Menu'"
+msgstr "Panelprogrammets \"Skriptmeny\""
+
+#. settings-schema.json->autoupdate->description
+msgid "Autoupdate. Update scripts list when the applet is opened."
+msgstr ""
+"Uppdatera automatiskt. Uppdatera skriptlistan när panelprogrammet när öppnat."
+
+#. settings-schema.json->directory->description
+msgid "Scripts directory"
+msgstr "Skriptmapp"
+
+#. settings-schema.json->head_icon->description
+msgid "Icon"
+msgstr "Ikon"
+
+#. settings-schema.json->customicon->description
+msgid "Custom icon"
+msgstr "Anpassad ikon"
+
+#. settings-schema.json->icon->description
+msgid "Icon (empty to hide the icon)"
+msgstr "Ikon (tom för dold ikon)"
+
+#. settings-schema.json->showtitle->description
+msgid "Show title"
+msgstr "Visa namn"
+
+#. settings-schema.json->paneltitle->description
+msgid "Title"
+msgstr "Namn"
+
+#. settings-schema.json->head_scriptExecution->description
+msgid "Script execution"
+msgstr "Skriptexekvering"
+
+#. settings-schema.json->leftClickBehavior->description
+msgid "Script execution method on left click"
+msgstr "Skriptexekveringsmetod vid vänsterklick"
+
+#. settings-schema.json->leftClickBehavior->tooltip
+msgid "How the scripts are processed when you left click on them."
+msgstr "Hur skripten bearbetas när du vänsterklickar du på dem."
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+msgid "Ask what to do"
+msgstr "Fråga vad som skall göras"
+
+#. settings-schema.json->rightClickBehavior->description
+msgid "Script execution method on right click"
+msgstr "Skriptexekveringsmetod vid högerklick"
+
+#. settings-schema.json->rightClickBehavior->tooltip
+msgid "How the scripts are processed when you right click on them."
+msgstr "Hur skripten bearbetas när du högerklickar du på dem."
+
+#. settings-schema.json->findTerminalAutomatically->description
+msgid "Find automatically a terminal? (To execute the scripts in a terminal)"
+msgstr ""
+"Vill du hitta en terminal automatiskt? (För att köra skript i en terminal.)"
+
+#. settings-schema.json->foundTerminalDescription->description
+msgid "The found terminal is:"
+msgstr "Identifierad terminal är:"
+
+#. settings-schema.json->overrideCommandToExecuteInTerminal->description
+msgid "Prepended command to execute the scripts in the terminal"
+msgstr "Förberett kommando för att köra skripten i terminal"
+
+#. settings-schema.json->overrideCommandToExecuteInTerminal->tooltip
+msgid ""
+"To execute the scripts 'in terminal', the scripts are executed with this "
+"command prepended.\n"
+"Some potential valid commands are:\n"
+"    gnome-terminal --\n"
+"    nxterm -e\n"
+"    rxvt -e\n"
+"    xterm -e"
+msgstr ""
+"För att köra skripten \"i terminal\" körs skripten med det här kommandot "
+"förberett.\n"
+"Några potentiellt giltiga kommandon är:\n"
+"    gnome-terminal --\n"
+"    nxterm -e\n"
+"    rxvt -e\n"
+"    xterm -e"
+
+#. settings-schema.json->useDefaultTextEditorWithScripts->description
+msgid "Use the default editor to edit scripts?"
+msgstr "Vill du använda standardredigeraren för att redigera skript?"
+
+#. settings-schema.json->overrideCommandToEditScripts->description
+msgid "Prepended command to edit the scripts"
+msgstr "Förberett kommando för att redigera skripten"
+
+#. settings-schema.json->overrideCommandToEditScripts->tooltip
+msgid ""
+"To edit the scripts, the scripts are executed with this command prepended."
+msgstr ""
+"För att redigera skripten, körs skripten med det här kommandot förberett."
+
+#. metadata.json->name
+msgid "Scripts Menu"
+msgstr "Skriptmeny"
+
+#. metadata.json->description
+msgid "Menu applet for starting scripts"
+msgstr "Menyprogram för att starta skript"

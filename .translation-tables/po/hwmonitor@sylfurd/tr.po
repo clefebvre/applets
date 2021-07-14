@@ -1,0 +1,815 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 14:53+0300\n"
+"PO-Revision-Date: 2021-03-04 17:08+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: tr <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid "Dependency missing"
+msgstr "Eksik bağımlılıklar var"
+
+#: 3.2/providers.js:19 3.8/providers.js:21
+#, javascript-format
+msgid "to use the applet %s"
+msgstr "%s uygulamacığını kullanmak için"
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+msgstr ""
+"Lütfen Gtop paketini yükleyin\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+
+#. 3.2->settings-schema.json->CPU->title
+#. 3.8->settings-schema.json->CPU->title
+#: 3.2/providers.js:36 3.8/providers.js:34
+msgid "CPU"
+msgstr "İşlemci"
+
+#. 3.2->settings-schema.json->MEM->title
+#. 3.8->settings-schema.json->MEM->title
+#: 3.2/providers.js:82 3.8/providers.js:76
+msgid "MEM"
+msgstr "Bellek"
+
+#. 3.2->settings-schema.json->NET_IN->title
+#. 3.8->settings-schema.json->NET_IN->title
+#: 3.2/providers.js:113 3.8/providers.js:102
+msgid "NET (in)"
+msgstr "AĞ (gelen)"
+
+#. 3.2->settings-schema.json->NET_OUT->title
+#. 3.8->settings-schema.json->NET_OUT->title
+#: 3.2/providers.js:117 3.8/providers.js:106
+msgid "NET (out)"
+msgstr "AĞ (giden)"
+
+#. 3.2->settings-schema.json->DISK_READ->title
+#. 3.8->settings-schema.json->DISK_READ->title
+#: 3.2/providers.js:232 3.8/providers.js:214
+msgid "DISK (read)"
+msgstr "DİSK (okuma)"
+
+#. 3.2->settings-schema.json->DISK_WRITE->title
+#. 3.8->settings-schema.json->DISK_WRITE->title
+#: 3.2/providers.js:235 3.8/providers.js:217
+msgid "DISK (write)"
+msgstr "DİSK (yazma)"
+
+#: 3.2/providers.js:318 3.8/providers.js:290
+msgid "BAT"
+msgstr "PİL"
+
+#: 3.2/applet.js:87 3.8/applet.js:87
+msgid "Open System Monitor"
+msgstr "Sistem Gözlemcisini Aç"
+
+#: 3.2/applet.js:91 3.8/applet.js:91
+msgid "Restart 'Graphical hardware monitor'"
+msgstr "'Grafiksel donanım izleyici'yi yeniden başlat"
+
+#. metadata.json->description
+msgid ""
+"Displaying realtime system information (CPU, memory, network and disk load)."
+msgstr ""
+"Sistem bilgilerini gerçek zamanlı gösterir (İşlemci, bellek, ağ ve disk "
+"yükleme)."
+
+#. metadata.json->name
+msgid "Graphical hardware monitor"
+msgstr "Grafiksel donanım izleyici"
+
+#. 3.2->settings-schema.json->General->title
+#. 3.8->settings-schema.json->General->title
+msgid "General"
+msgstr "Genel"
+
+#. 3.2->settings-schema.json->BAT->title
+#. 3.8->settings-schema.json->BAT->title
+msgid "BAT (battery)"
+msgstr "PİL (Batarya)"
+
+#. 3.2->settings-schema.json->general_settings->title
+#. 3.8->settings-schema.json->general_settings->title
+msgid "General settings"
+msgstr "Genel ayarlar"
+
+#. 3.2->settings-schema.json->theme_settings->title
+#. 3.2->settings-schema.json->theme->description
+#. 3.8->settings-schema.json->theme_settings->title
+#. 3.8->settings-schema.json->theme->description
+msgid "Theme (graph)"
+msgstr "Tema (grafik)"
+
+#. 3.2->settings-schema.json->theme_data_settings->title
+#. 3.2->settings-schema.json->theme_data->description
+#. 3.8->settings-schema.json->theme_data_settings->title
+#. 3.8->settings-schema.json->theme_data->description
+msgid "Theme (graph data)"
+msgstr "Tema (veri grafiği)"
+
+#. 3.2->settings-schema.json->CPU_settings->title
+#. 3.8->settings-schema.json->CPU_settings->title
+msgid "CPU settings"
+msgstr "İşlemci ayarları"
+
+#. 3.2->settings-schema.json->MEM_settings->title
+#. 3.8->settings-schema.json->MEM_settings->title
+msgid "MEM settings"
+msgstr "Bellek ayarları"
+
+#. 3.2->settings-schema.json->NET_IN_settings->title
+#. 3.8->settings-schema.json->NET_IN_settings->title
+msgid "NET (in) settings"
+msgstr "AĞ (gelen) ayarları"
+
+#. 3.2->settings-schema.json->NET_OUT_settings->title
+#. 3.8->settings-schema.json->NET_OUT_settings->title
+msgid "NET (out) settings"
+msgstr "AĞ (giden) ayarları"
+
+#. 3.2->settings-schema.json->DISK_READ_settings->title
+#. 3.8->settings-schema.json->DISK_READ_settings->title
+msgid "DISK (read) settings"
+msgstr "DİSK (okuma) ayarları"
+
+#. 3.2->settings-schema.json->DISK_WRITE_settings->title
+#. 3.8->settings-schema.json->DISK_WRITE_settings->title
+msgid "DISK (write) settings"
+msgstr "DİSK (yazma) ayarları"
+
+#. 3.2->settings-schema.json->BAT_settings->title
+#. 3.8->settings-schema.json->BAT_settings->title
+msgid "BAT (battery) settings"
+msgstr "PİL (Batarya) ayarları"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "0.5"
+msgstr "0.5"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "1.0"
+msgstr "1.0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "2.0"
+msgstr "2.0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "3.0"
+msgstr "3.0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "4.0"
+msgstr "4.0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "5.0"
+msgstr "5.0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "10.0"
+msgstr "10.0"
+
+#. 3.2->settings-schema.json->frequency->description
+#. 3.8->settings-schema.json->frequency->description
+msgid "Update frequency (seconds)"
+msgstr "Güncelleme sıklığı (saniye)"
+
+#. 3.2->settings-schema.json->frequency->tooltip
+#. 3.8->settings-schema.json->frequency->tooltip
+msgid "The amount of time (in seconds) between the graph updates."
+msgstr "Grafik güncellemeleri arasındaki süre (saniye cinsinden)."
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Don't draw grid lines"
+msgstr "Izgara çizgilerini gösterme"
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw graph over grid lines"
+msgstr "Grafiği ızgara çizgilerinin üstünde göster"
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw grid lines over graph"
+msgstr "Izgara çizgilerini grafik üstünde göster"
+
+#. 3.2->settings-schema.json->graph_line_mode->description
+#. 3.8->settings-schema.json->graph_line_mode->description
+msgid "Grid lines"
+msgstr "Izgara çizgileri"
+
+#. 3.2->settings-schema.json->graph_line_mode->tooltip
+#. 3.8->settings-schema.json->graph_line_mode->tooltip
+msgid "How to draw the graph grid lines."
+msgstr "Grafik ve ızgara çizgilerinin nasıl gösterileceğini belirler."
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "dark theme"
+msgstr "koyu tema"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "gray theme"
+msgstr "gri tema"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "light theme"
+msgstr "açık tema"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "custom theme"
+msgstr "özel tema"
+
+#. 3.2->settings-schema.json->theme->tooltip
+#. 3.2->settings-schema.json->theme_data->tooltip
+#. 3.8->settings-schema.json->theme->tooltip
+#. 3.8->settings-schema.json->theme_data->tooltip
+msgid ""
+"Use 'custom theme' to select colors that matches your current desktop theme."
+msgstr ""
+"Mevcut masaüstü temanızla eşleşen renkleri seçmek için 'özel tema'yı "
+"kullanın."
+
+#. 3.2->settings-schema.json->border_color->description
+#. 3.8->settings-schema.json->border_color->description
+msgid "Border color"
+msgstr "Kenarlık rengi"
+
+#. 3.2->settings-schema.json->border_color->tooltip
+#. 3.8->settings-schema.json->border_color->tooltip
+msgid "Click the button to select a border color for the graphs"
+msgstr "Grafiklere kenarlık rengi seçmek için düğmeye tıklayın"
+
+#. 3.2->settings-schema.json->background_color1->description
+#. 3.8->settings-schema.json->background_color1->description
+msgid "Background color 1"
+msgstr "Arkaplan rengi 1"
+
+#. 3.2->settings-schema.json->background_color1->tooltip
+#. 3.8->settings-schema.json->background_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Grafik arka planının doğrusal eğimine başlangıç rengi seçmek için düğmeye "
+"tıklayın"
+
+#. 3.2->settings-schema.json->background_color2->description
+#. 3.8->settings-schema.json->background_color2->description
+msgid "Background color 2"
+msgstr "Arkaplan rengi 2"
+
+#. 3.2->settings-schema.json->background_color2->tooltip
+#. 3.8->settings-schema.json->background_color2->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Grafik arka planının doğrusal eğimine bitiş rengi seçmek için düğmeye "
+"tıklayın"
+
+#. 3.2->settings-schema.json->label_color->description
+#. 3.8->settings-schema.json->label_color->description
+msgid "Label color"
+msgstr "Etiket rengi"
+
+#. 3.2->settings-schema.json->label_color->tooltip
+#. 3.8->settings-schema.json->label_color->tooltip
+msgid "Click the button to select a label color"
+msgstr "Bir etiket rengi seçmek için düğmeye tıklayın"
+
+#. 3.2->settings-schema.json->label_size->description
+#. 3.8->settings-schema.json->label_size->description
+msgid "Label font size"
+msgstr "Etiket yazı tipi boyutu"
+
+#. 3.2->settings-schema.json->label_size->tooltip
+#. 3.8->settings-schema.json->label_size->tooltip
+msgid "Set the font size for the main label."
+msgstr "Ana etiket için yazı tipi boyutunu ayarlar."
+
+#. 3.2->settings-schema.json->detail_label_color->description
+#. 3.8->settings-schema.json->detail_label_color->description
+msgid "Detail label color"
+msgstr "Detay etiket rengi"
+
+#. 3.2->settings-schema.json->detail_label_color->tooltip
+#. 3.8->settings-schema.json->detail_label_color->tooltip
+msgid "Click the button to select a detail label color"
+msgstr "Detaya bir etiket rengi seçmek için düğmeye tıklayın"
+
+#. 3.2->settings-schema.json->detail_label_size->description
+#. 3.8->settings-schema.json->detail_label_size->description
+msgid "Detail label font size"
+msgstr "Detay etiket yazı tipi boyutu"
+
+#. 3.2->settings-schema.json->detail_label_size->tooltip
+#. 3.8->settings-schema.json->detail_label_size->tooltip
+msgid "Set the font size for the detail label."
+msgstr "Detay etiketi için yazı tipi boyutunu ayarlar."
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "default theme"
+msgstr "varsayılan tema"
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "blue theme"
+msgstr "mavi tema"
+
+#. 3.2->settings-schema.json->graph_color1->description
+#. 3.8->settings-schema.json->graph_color1->description
+msgid "Graph color 1"
+msgstr "Grafik rengi 1"
+
+#. 3.2->settings-schema.json->graph_color1->tooltip
+#. 3.8->settings-schema.json->graph_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph colors. Offset for the first color is always 0."
+msgstr ""
+"Grafik renklerinin doğrusal eğimine bir başlangıç rengi seçmek için "
+"düğmesine tıklayın. İlk renk için ofset her zaman 0 dır."
+
+#. 3.2->settings-schema.json->graph_color2->description
+#. 3.8->settings-schema.json->graph_color2->description
+msgid "Graph color 2"
+msgstr "Grafik rengi 2"
+
+#. 3.2->settings-schema.json->graph_color2->tooltip
+#. 3.8->settings-schema.json->graph_color2->tooltip
+msgid ""
+"Click the button to select a first middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Grafik renklerinin doğrusal eğimine birinci ara rengi seçmek için düğmeye "
+"tıklayın."
+
+#. 3.2->settings-schema.json->graph_offset2->description
+#. 3.8->settings-schema.json->graph_offset2->description
+msgid "Offset for graph color 2"
+msgstr "Grafik rengi 2 için ofset"
+
+#. 3.2->settings-schema.json->graph_offset2->tooltip
+#. 3.8->settings-schema.json->graph_offset2->tooltip
+msgid "Offset for first middle color of the linear gradient"
+msgstr "Doğrusal eğimin birinci orta rengi için ofset"
+
+#. 3.2->settings-schema.json->graph_color3->description
+#. 3.8->settings-schema.json->graph_color3->description
+msgid "Graph color 3"
+msgstr "Grafik rengi 3"
+
+#. 3.2->settings-schema.json->graph_color3->tooltip
+#. 3.8->settings-schema.json->graph_color3->tooltip
+msgid ""
+"Click the button to select a second middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Grafik renklerinin doğrusal eğimine ikinci ara rengi seçmek için düğmeye "
+"tıklayın."
+
+#. 3.2->settings-schema.json->graph_offset3->description
+#. 3.8->settings-schema.json->graph_offset3->description
+msgid "Offset for graph color 3"
+msgstr "Grafik rengi 3 için ofset"
+
+#. 3.2->settings-schema.json->graph_offset3->tooltip
+#. 3.8->settings-schema.json->graph_offset3->tooltip
+msgid "Offset for second middle color of the linear gradient"
+msgstr "Doğrusal eğimin ikinci ara rengi için ofset"
+
+#. 3.2->settings-schema.json->graph_color4->description
+#. 3.8->settings-schema.json->graph_color4->description
+msgid "Graph color 4"
+msgstr "Grafik rengi 4"
+
+#. 3.2->settings-schema.json->graph_color4->tooltip
+#. 3.8->settings-schema.json->graph_color4->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph colors. Offset for the last color is always 1."
+msgstr ""
+"Grafik renklerinin doğrusal eğimine son rengi seçmek için düğmeye tıklayın. "
+"Son renk için ofset her zaman 1dir."
+
+#. 3.2->settings-schema.json->cpu_enable_graph->description
+#. 3.8->settings-schema.json->cpu_enable_graph->description
+msgid "Show CPU graph"
+msgstr "İşlemci grafiğini göster"
+
+#. 3.2->settings-schema.json->cpu_enable_graph->tooltip
+#. 3.8->settings-schema.json->cpu_enable_graph->tooltip
+msgid "Show or hide the CPU graph"
+msgstr "İşlemci grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->cpu_size->description
+#. 3.8->settings-schema.json->cpu_size->description
+msgid "Horizontal panel width or vertical panel height"
+msgstr "Yatay panel genişliği veya dikey panel yüksekliği"
+
+#. 3.2->settings-schema.json->cpu_size->tooltip
+#. 3.2->settings-schema.json->mem_size->tooltip
+#. 3.2->settings-schema.json->netin_size->tooltip
+#. 3.2->settings-schema.json->netout_size->tooltip
+#. 3.2->settings-schema.json->diskread_size->tooltip
+#. 3.2->settings-schema.json->diskwrite_size->tooltip
+#. 3.2->settings-schema.json->bat_size->tooltip
+#. 3.8->settings-schema.json->cpu_size->tooltip
+#. 3.8->settings-schema.json->mem_size->tooltip
+#. 3.8->settings-schema.json->netin_size->tooltip
+#. 3.8->settings-schema.json->netout_size->tooltip
+#. 3.8->settings-schema.json->diskread_size->tooltip
+#. 3.8->settings-schema.json->diskwrite_size->tooltip
+#. 3.8->settings-schema.json->bat_size->tooltip
+msgid ""
+"Set the width of the graph for horizontal panels, or the height of the graph "
+"for vertical panels."
+msgstr ""
+"Yatay paneller için grafik genişliğini veya dikey paneller için grafik "
+"yüksekliğini ayarlar."
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->description
+#. 3.2->settings-schema.json->mem_use_custom_label->description
+#. 3.2->settings-schema.json->netin_use_custom_label->description
+#. 3.2->settings-schema.json->netout_use_custom_label->description
+#. 3.8->settings-schema.json->cpu_use_custom_label->description
+#. 3.8->settings-schema.json->mem_use_custom_label->description
+#. 3.8->settings-schema.json->netin_use_custom_label->description
+#. 3.8->settings-schema.json->netout_use_custom_label->description
+msgid "Use custom graph label"
+msgstr "Özel grafik etiketi kullan"
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->tooltip
+#. 3.8->settings-schema.json->cpu_use_custom_label->tooltip
+msgid "Choose your own label for the CPU graph"
+msgstr "İşlemci grafiği için kendi etiketinizi belirleyin"
+
+#. 3.2->settings-schema.json->cpu_custom_label->description
+#. 3.8->settings-schema.json->cpu_custom_label->description
+msgid "Set the custom label for the CPU graph"
+msgstr "İşlemci grafiği için özel etiket belirle"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->description
+#. 3.2->settings-schema.json->mem_show_detail_label->description
+#. 3.2->settings-schema.json->netin_show_detail_label->description
+#. 3.2->settings-schema.json->netout_show_detail_label->description
+#. 3.8->settings-schema.json->cpu_show_detail_label->description
+#. 3.8->settings-schema.json->mem_show_detail_label->description
+#. 3.8->settings-schema.json->netin_show_detail_label->description
+#. 3.8->settings-schema.json->netout_show_detail_label->description
+msgid "Show details"
+msgstr "Detayları göster"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->tooltip
+#. 3.8->settings-schema.json->cpu_show_detail_label->tooltip
+msgid "Show or hide the CPU usage label"
+msgstr "İşlemci kullanım grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->mem_enable_graph->description
+#. 3.8->settings-schema.json->mem_enable_graph->description
+msgid "Show the memory graph"
+msgstr "Bellek grafiğini göster"
+
+#. 3.2->settings-schema.json->mem_enable_graph->tooltip
+#. 3.8->settings-schema.json->mem_enable_graph->tooltip
+msgid "Show or hide the memory graph"
+msgstr "Bellek grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->mem_size->description
+#. 3.2->settings-schema.json->netin_size->description
+#. 3.2->settings-schema.json->netout_size->description
+#. 3.2->settings-schema.json->diskread_size->description
+#. 3.2->settings-schema.json->diskwrite_size->description
+#. 3.2->settings-schema.json->bat_size->description
+#. 3.8->settings-schema.json->mem_size->description
+#. 3.8->settings-schema.json->netin_size->description
+#. 3.8->settings-schema.json->netout_size->description
+#. 3.8->settings-schema.json->diskread_size->description
+#. 3.8->settings-schema.json->diskwrite_size->description
+#. 3.8->settings-schema.json->bat_size->description
+msgid "Horizontal panel width or vertical panel height."
+msgstr "Yatay panel genişliği veya dikey panel yüksekliği."
+
+#. 3.2->settings-schema.json->mem_use_custom_label->tooltip
+#. 3.8->settings-schema.json->mem_use_custom_label->tooltip
+msgid "Choose your own label for the memory graph"
+msgstr "Bellek grafiği için kendi etiketinizi belirleyin"
+
+#. 3.2->settings-schema.json->mem_custom_label->description
+#. 3.8->settings-schema.json->mem_custom_label->description
+msgid "Set the custom label for the memory graph"
+msgstr "Bellek grafiği için özel etiket belirle"
+
+#. 3.2->settings-schema.json->mem_show_detail_label->tooltip
+#. 3.8->settings-schema.json->mem_show_detail_label->tooltip
+msgid "Show or hide the memory usage label"
+msgstr "Bellek kullanım grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->netin_enable_graph->description
+#. 3.8->settings-schema.json->netin_enable_graph->description
+msgid "Show NET (in) graph"
+msgstr "AĞ (gelen) grafiği"
+
+#. 3.2->settings-schema.json->netin_enable_graph->tooltip
+#. 3.8->settings-schema.json->netin_enable_graph->tooltip
+msgid "Show or hide the NET (in) graph"
+msgstr "AĞ (gelen) grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->netin_speed->units
+#. 3.2->settings-schema.json->netout_speed->units
+#. 3.8->settings-schema.json->netin_speed->units
+#. 3.8->settings-schema.json->netout_speed->units
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#. 3.2->settings-schema.json->netin_speed->description
+#. 3.8->settings-schema.json->netin_speed->description
+msgid "Internet speed (in)."
+msgstr "İnternet hızı (gelen)."
+
+#. 3.2->settings-schema.json->netin_speed->tooltip
+#. 3.8->settings-schema.json->netin_speed->tooltip
+msgid ""
+"Set your internet speed (in) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"İnternet hızınızı (gelen) Mbit/s olarak ayarlayın. Servis sağlayıcıların "
+"bazen, ödediğinizden (internet paketinizden) daha iyi ya da kötü bir "
+"internet hızı sunabileceğini dikkate alın. Doğru sonuçlar görünmesini "
+"sağlamak için, bu değeri yukarı veya aşağı ayarlamanız gerekebilir."
+
+#. 3.2->settings-schema.json->netin_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netin_use_custom_label->tooltip
+msgid "Choose your own label for the NET (in) graph"
+msgstr "AĞ (gelen) grafiği için kendi etiketinizi belirleyin"
+
+#. 3.2->settings-schema.json->netin_custom_label->description
+#. 3.8->settings-schema.json->netin_custom_label->description
+msgid "Set the custom label for the NET (in) graph"
+msgstr "AĞ (gelen) grafiği için özel etiket belirle"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "logarithmic"
+msgstr "logaritmik"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "linear"
+msgstr "doğrusal"
+
+#. 3.2->settings-schema.json->netin_linlog->description
+#. 3.2->settings-schema.json->netout_linlog->description
+#. 3.8->settings-schema.json->netin_linlog->description
+#. 3.8->settings-schema.json->netout_linlog->description
+msgid "Scale"
+msgstr "Ölçek"
+
+#. 3.2->settings-schema.json->netin_linlog->tooltip
+#. 3.2->settings-schema.json->netout_linlog->tooltip
+#. 3.8->settings-schema.json->netin_linlog->tooltip
+#. 3.8->settings-schema.json->netout_linlog->tooltip
+msgid "Use linear or logarithmic scale."
+msgstr "Doğrusal veya logaritmik ölçek kullanımı."
+
+#. 3.2->settings-schema.json->netin_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netin_show_detail_label->tooltip
+msgid "Show or hide the NET (in) usage label"
+msgstr "AĞ (gelen) kullanım grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->netout_enable_graph->description
+#. 3.8->settings-schema.json->netout_enable_graph->description
+msgid "Show NET (out) graph"
+msgstr "AĞ (giden) grafiği"
+
+#. 3.2->settings-schema.json->netout_enable_graph->tooltip
+#. 3.8->settings-schema.json->netout_enable_graph->tooltip
+msgid "Show or hide the NET (out) graph"
+msgstr "AĞ (giden) grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->netout_speed->description
+#. 3.8->settings-schema.json->netout_speed->description
+msgid "Internet speed (out)."
+msgstr "İnternet hızı (giden)."
+
+#. 3.2->settings-schema.json->netout_speed->tooltip
+#. 3.8->settings-schema.json->netout_speed->tooltip
+msgid ""
+"Set your internet speed (out) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"İnternet hızınızı (giden) Mbit/s olarak ayarlayın. Servis sağlayıcıların "
+"bazen, ödediğinizden (internet paketinizden) daha iyi ya da kötü bir "
+"internet hızı sunabileceğini dikkate alın. Doğru sonuçlar görünmesini "
+"sağlamak için, bu değeri yukarı veya aşağı ayarlamanız gerekebilir."
+
+#. 3.2->settings-schema.json->netout_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netout_use_custom_label->tooltip
+msgid "Choose your own label for the NET (out) graph"
+msgstr "AĞ (giden) grafiği için kendi etiketinizi belirleyin"
+
+#. 3.2->settings-schema.json->netout_custom_label->description
+#. 3.8->settings-schema.json->netout_custom_label->description
+msgid "Set the custom label for the NET (out) graph"
+msgstr "AĞ (giden) grafiği için özel etiket belirle"
+
+#. 3.2->settings-schema.json->netout_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netout_show_detail_label->tooltip
+msgid "Show or hide the NET (out) usage label"
+msgstr "AĞ (giden) kullanım grafiğini gösterir ya da gizler"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->description
+#. 3.8->settings-schema.json->diskread_enable_graph->description
+msgid "Show DISK (read) graph"
+msgstr "DİSK (okuma) grafiğini göster"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskread_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (read) graph. Shows usage of the drive specified below."
+msgstr ""
+"DİSK (okuma) grafiğini gösterir ya da gizler. Aşağıda belirtilen sürücünün "
+"kullanımını gösterir."
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sda"
+msgstr "sda"
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdb"
+msgstr "sdb"
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdc"
+msgstr "sdc"
+
+#. 3.2->settings-schema.json->diskread_device_name->description
+#. 3.2->settings-schema.json->diskread_device_name->tooltip
+msgid "Set the device name to monitor for the DISK (read) graph."
+msgstr "DİSK (okuma) grafiğini izlemek için bir aygıt belirleyin."
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->description
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.2->settings-schema.json->bat_use_custom_label->description
+#. 3.8->settings-schema.json->diskread_use_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.8->settings-schema.json->bat_use_custom_label->description
+msgid "Use custom graph label."
+msgstr "Özel grafik etiketi kullan."
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskread_use_custom_label->tooltip
+msgid "Choose your own label for the DISK (read) graph."
+msgstr "DİSK (okuma) grafiği için kendi etiketinizi belirleyin."
+
+#. 3.2->settings-schema.json->diskread_custom_label->description
+#. 3.8->settings-schema.json->diskread_custom_label->description
+msgid "Set the custom label for the DISK (read) graph."
+msgstr "DİSK (okuma) grafiği için özel etiket belirle."
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->description
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.2->settings-schema.json->bat_show_detail_label->description
+#. 3.8->settings-schema.json->diskread_show_detail_label->description
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.8->settings-schema.json->bat_show_detail_label->description
+msgid "Show details."
+msgstr "Detayları göster."
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskread_show_detail_label->tooltip
+msgid "Show or hide the DISK (read) usage label."
+msgstr "DİSK (okuma) kullanım grafiğini gösterir ya da gizler."
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->description
+#. 3.8->settings-schema.json->diskwrite_enable_graph->description
+msgid "Show DISK (write) graph."
+msgstr "DİSK (yazma) grafiğini göster."
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskwrite_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (write) graph. Shows usage of the drive specified "
+"below."
+msgstr ""
+"DİSK (yazma) grafiğini gösterir ya da gizler. Aşağıda belirtilen sürücünün "
+"kullanımını gösterir."
+
+#. 3.2->settings-schema.json->diskwrite_device_name->description
+#. 3.2->settings-schema.json->diskwrite_device_name->tooltip
+msgid "Set the device name to monitor for the DISK (write) graph."
+msgstr "DİSK (yazma) grafiğini izlemek için bir aygıt belirleyin."
+
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->tooltip
+msgid "Choose your own label for the DISK (write) graph."
+msgstr "DİSK (yazma) grafiği için kendi etiketinizi belirleyin."
+
+#. 3.2->settings-schema.json->diskwrite_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_custom_label->description
+msgid "Set the custom label for the DISK (write) graph."
+msgstr "DİSK (yazma) grafiği için özel etiket belirle."
+
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->tooltip
+msgid "Show or hide the DISK (write) usage label."
+msgstr "DİSK (yazma) kullanım grafiğini gösterir ya da gizler."
+
+#. 3.2->settings-schema.json->bat_enable_graph->description
+#. 3.8->settings-schema.json->bat_enable_graph->description
+msgid "Show BAT (battery) graph."
+msgstr "PİL (Batarya) grafiğini göster."
+
+#. 3.2->settings-schema.json->bat_enable_graph->tooltip
+#. 3.8->settings-schema.json->bat_enable_graph->tooltip
+msgid "Show or hide the BAT (battery) graph. Shows battery level."
+msgstr ""
+"PİL (batarya) grafiğini gösterir ya da gizler. Batarya seviyesini gösterir."
+
+#. 3.2->settings-schema.json->bat_use_custom_label->tooltip
+#. 3.8->settings-schema.json->bat_use_custom_label->tooltip
+msgid "Choose your own label for the BAT (battery) graph."
+msgstr "PİL (batarya) grafiği için kendi etiketinizi belirleyin."
+
+#. 3.2->settings-schema.json->bat_custom_label->description
+#. 3.8->settings-schema.json->bat_custom_label->description
+msgid "Set the custom label for the BAT (battery) graph."
+msgstr "PİL (baterya) grafiği için özel etiket belirle."
+
+#. 3.2->settings-schema.json->bat_show_detail_label->tooltip
+#. 3.8->settings-schema.json->bat_show_detail_label->tooltip
+msgid "Show or hide the BAT (battery) detail label."
+msgstr "PİL (batarya) etiketini gösterir ya da gizler."
+
+#. 3.8->settings-schema.json->diskread_device_name->options
+#. 3.8->settings-schema.json->diskwrite_device_name->options
+msgid "Select a device"
+msgstr "Bir aygıt seçin"
+
+#. 3.8->settings-schema.json->diskread_device_name->description
+#. 3.8->settings-schema.json->diskread_device_name->tooltip
+msgid "Set the device to monitor for the DISK (read) graph."
+msgstr "DİSK (okuma) grafiğini izlemek için bir aygıt belirleyin."
+
+#. 3.8->settings-schema.json->diskwrite_device_name->description
+#. 3.8->settings-schema.json->diskwrite_device_name->tooltip
+msgid "Set the device to monitor for the DISK (write) graph."
+msgstr "DİSK (yazma) grafiğini izlemek için bir aygıt belirleyin."
+
+#~ msgid "Graphical hardware monitor settings"
+#~ msgstr "Grafiksel donanım izleyici ayarları"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Graph size"
+#~ msgstr "Grafik boyutu"
+
+#~ msgid "Please install the GTop package\n"
+#~ msgstr "Lütfen GTop paketini kurunuz\n"

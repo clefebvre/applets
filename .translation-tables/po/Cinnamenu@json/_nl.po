@@ -1,0 +1,295 @@
+# Dutch translation for Cinnamenu
+# Copyright (C) 2019
+# This file is distributed under the same license as the Cinnamenu package.
+# Pjotr <pjotrvertaalt@gmail.com>, 2013-2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2021-03-22 17:41+0000\n"
+"Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
+"Language-Team: nl\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "All applications"
+msgstr ""
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Favorite apps"
+msgstr ""
+
+msgid "No recent files"
+msgstr ""
+
+msgid "Lock screen"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "No recent Items"
+msgstr ""
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+msgid "Other application..."
+msgstr ""
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+msgid "Search hidden"
+msgstr ""
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Search Stopped"
+msgstr ""
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Open menu on category:"
+msgstr ""
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "Show bookmarks and places category in the menu"
+msgstr ""
+
+msgid "Sidebar location"
+msgstr ""
+
+msgid "Choose where to show the sidebar"
+msgstr ""
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr ""
+
+msgid "Show recent items"
+msgstr ""
+
+msgid "Show recent items category in the menu"
+msgstr ""
+
+msgid "Show favorite apps category"
+msgstr ""
+
+msgid "Show your favorite apps category in the menu"
+msgstr ""
+
+msgid "Show home folder"
+msgstr ""
+
+msgid "Show home folder category in the menu"
+msgstr ""
+
+msgid "Last used category"
+msgstr ""
+
+msgid "Autoscroll the application list on mouse hover"
+msgstr ""
+
+msgid "Show hidden files"
+msgstr ""
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+msgid "Search home folder"
+msgstr ""
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+msgid "Web bookmarks search"
+msgstr ""
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+msgid "Use a custom icon size"
+msgstr ""
+
+msgid "Use a custom size for the panel icon"
+msgstr ""
+
+msgid "Panel icon size"
+msgstr ""
+
+msgid "Choose a custom size for the panel icon"
+msgstr ""
+
+msgid "Sidebar icon size"
+msgstr ""
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""

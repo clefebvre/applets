@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-21 00:29+0800\n"
+"PO-Revision-Date: 2021-03-29 20:21+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:38
+msgid "MySQL Browser"
+msgstr "MySQL böngésző"
+
+#: applet.js:45 applet.js:211
+msgid "Open Project Directory"
+msgstr "Projekt mappa megnyitása"
+
+#: applet.js:51
+msgid "Nginx Web Server"
+msgstr "Nginx webszerver"
+
+#: applet.js:52
+msgid "MySQL Server"
+msgstr "MySQL szerver"
+
+#: applet.js:53
+msgid "PostgreSQL Server"
+msgstr "PostgreSQL szerver"
+
+#: applet.js:55
+msgid "Apache Web Server"
+msgstr "Apache webszerver"
+
+#: applet.js:80
+msgid ""
+"ERROR: Could not execute command...\n"
+"Please check your configurations!\n"
+"\n"
+"Open applet configuration?\n"
+"\n"
+msgstr ""
+"HIBA: Nem sikerült végrehajtani a parancsot ...\n"
+"Kérjük, ellenőrizze konfigurációit!\n"
+"\n"
+"Megnyitja az kisalkalmazás-konfigurációt?\n"
+
+#: applet.js:85
+msgid "Open Applet Settings"
+msgstr "Kisalkalmazás beállítások megynitása"
+
+#: applet.js:92
+msgid "Open Applet Source"
+msgstr "Kisalkalmazás forráskód megnyitása"
+
+#: applet.js:99
+msgid "Cancel"
+msgstr "Mégse"
+
+#. devutils@fogl->metadata.json->name
+#: applet.js:126
+msgid "Development Utils"
+msgstr "Fejlesztési segédletek"
+
+#: applet.js:133
+msgid "Settings"
+msgstr "Beállítások"
+
+#: applet.js:138
+msgid "Looking Glass"
+msgstr "Looking Glass"
+
+#: applet.js:173
+msgid "Control "
+msgstr "Vezérlés "
+
+#: applet.js:174
+msgid "  Service is up"
+msgstr " A szolgáltatás készen áll"
+
+#: applet.js:174
+msgid "  Start service"
+msgstr " Szolgáltatás indítása"
+
+#: applet.js:175
+msgid "  Service is down"
+msgstr " A szolgáltatás nem elérhető"
+
+#: applet.js:175
+msgid "  Stop service"
+msgstr " A szolgáltatás leállítása"
+
+#: applet.js:221
+msgid "Launch 127.0.0.1"
+msgstr "Futtatás 127.0.0.1"
+
+#: applet.js:225
+msgid "Edit default nginx config"
+msgstr "Alapértelmezett nginx konfiguráció szerkesztése"
+
+#. devutils@fogl->metadata.json->description
+msgid "Development Utils Applet for Cinnamon"
+msgstr "Fejlesztési Segédlet Kisalkalmazás Cinnamonra"
+
+#. devutils@fogl->settings-schema.json->head_menu->description
+msgid "Menu Entries"
+msgstr "Menübejegyzések"
+
+#. devutils@fogl->settings-schema.json->mysql_browser->description
+msgid "Show \"MySQL Browser\" Launcher in Menu"
+msgstr "A \"MySQL Browser\" indító megjelenítése a Menüben"
+
+#. devutils@fogl->settings-schema.json->open_project_dir->description
+msgid "Specify file browser and path to your project directory"
+msgstr "Adja meg a fájlböngészőt és a projektkönyvtár elérési útját"
+
+#. devutils@fogl->settings-schema.json->open_project_dir->tooltip
+msgid "For example: nemo /home/username/Projects"
+msgstr "Például: nemo /home/username/Projects"
+
+#. devutils@fogl->settings-schema.json->select_mysql_browser->options
+msgid "HeidiSQL (requires installation of Wine)"
+msgstr "HeidiSQL (szükséges hozzá a Wine telepítése)"
+
+#. devutils@fogl->settings-schema.json->select_mysql_browser->options
+msgid "MySQL Workbench"
+msgstr "MySQL Workbench"
+
+#. devutils@fogl->settings-schema.json->select_mysql_browser->description
+msgid "Select MySQL Browser"
+msgstr "Válasszon MySQL böngészőt"
+
+#. devutils@fogl->settings-schema.json->geany->description
+msgid "Show \"Geany\" Launcher in Menu"
+msgstr "A \"Geany\" indító megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->eclipse->description
+msgid "Show \"Eclipse\" Launcher in Menu"
+msgstr "Az \"Eclipse\" indító megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->gedit->description
+msgid "Show \"Gedit\" Launcher in Menu"
+msgstr "A \"Gedit\" indító megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->filezilla->description
+msgid "Show \"Filezilla\" Launcher in Menu"
+msgstr "A \"Filezilla\" indító megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->terminal->description
+msgid "Show \"Terminal\" Launcher in Menu"
+msgstr "A \"Terminal\" indító megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->path_heidi->description
+msgid "Specify path to HeidiSQL"
+msgstr "Adja meg a HeidiSQL elérési útvonalát"
+
+#. devutils@fogl->settings-schema.json->path_heidi->tooltip
+msgid ""
+"For example \"wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/YOUR "
+"USERNAME/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/HeidiSQL/"
+"HeidiSQL.lnk\""
+msgstr ""
+"Például: \"wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/YOUR "
+"USERNAME/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/HeidiSQL/"
+"HeidiSQL.lnk\""
+
+#. devutils@fogl->settings-schema.json->head_services->description
+msgid "Services"
+msgstr "Szolgáltatások"
+
+#. devutils@fogl->settings-schema.json->config->description
+msgid "Show \"Configurations\" in Menu"
+msgstr "A \"Konfiguráció\" megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->services->description
+msgid "Show \"Services\" in Menu"
+msgstr "A \"Szolgáltatások\" megjelenítése a menüben"
+
+#. devutils@fogl->settings-schema.json->select_terminal->options
+msgid "xterm"
+msgstr "xterm"
+
+#. devutils@fogl->settings-schema.json->select_terminal->options
+msgid "Gnome Terminal"
+msgstr "Gnome Terminal"
+
+#. devutils@fogl->settings-schema.json->select_terminal->description
+msgid "Select Terminal"
+msgstr "Select terminált"
+
+#. devutils@fogl->settings-schema.json->services_type->options
+msgid "Submenu for each Service"
+msgstr "Almenü az egyes szolgáltatásokhoz"
+
+#. devutils@fogl->settings-schema.json->services_type->options
+msgid "Switch Buttons"
+msgstr "Kapcsoló gombok"
+
+#. devutils@fogl->settings-schema.json->services_type->description
+msgid "Select Services Type"
+msgstr "Szolgáltatások típusának kiválasztása"
+
+#. devutils@fogl->settings-schema.json->head_config->description
+msgid "Configurations"
+msgstr "Konfigurációk"
+
+#. devutils@fogl->settings-schema.json->head_mysql_browser->description
+msgid "MySQL Browser Settings"
+msgstr "MySQL böngésző beállítások"

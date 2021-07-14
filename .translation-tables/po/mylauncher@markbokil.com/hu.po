@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-19 14:22+0800\n"
+"PO-Revision-Date: 2021-03-30 22:28+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. mylauncher@markbokil.com->metadata.json->name
+#: applet.js:64
+msgid "My Launcher"
+msgstr "Saját indító"
+
+#: applet.js:183
+msgid "Edit launcher menu"
+msgstr "Indító menu szerkesztése"
+
+#: applet.js:190 mylauncher.properties:46
+msgid "Help"
+msgstr "Súgó"
+
+#: applet.js:194
+msgid "About"
+msgstr "Névjegy"
+
+#: applet.js:201
+msgid "Tooltips"
+msgstr "Eszköztippek"
+
+#: mylauncher.properties:6
+msgid "Apps"
+msgstr "Alkalmazások"
+
+#: mylauncher.properties:7
+msgid "Messenger"
+msgstr "Üzenetküldő"
+
+#: mylauncher.properties:9
+msgid "Office Suite"
+msgstr "Irodai alkalmazás"
+
+#: mylauncher.properties:10
+msgid "Audio Player"
+msgstr "Hang lejátszó"
+
+#: mylauncher.properties:11
+msgid "Text Editor"
+msgstr "Szövegszerkesztő"
+
+#: mylauncher.properties:12
+msgid "Image Editor"
+msgstr "Képszerkesztő"
+
+#: mylauncher.properties:13
+msgid "SVG Editor"
+msgstr "SVG szerkesztő"
+
+#: mylauncher.properties:16
+msgid "Calculator"
+msgstr "Számológép"
+
+#: mylauncher.properties:18
+msgid "My Computer"
+msgstr "Számítógép"
+
+#: mylauncher.properties:19
+msgid "CUPS Printer Admin"
+msgstr "CUPS nyomtató rendszergazda"
+
+#: mylauncher.properties:20
+msgid "Startup Applications"
+msgstr "Bejelentkezéskor elindítandó alkalmazások"
+
+#: mylauncher.properties:21
+msgid "System Monitor"
+msgstr "Rendszerfigyelő"
+
+#: mylauncher.properties:22
+msgid "System Settings"
+msgstr "Rendszerbeállítások"
+
+#: mylauncher.properties:23
+msgid "CompizConfig"
+msgstr "Compiz konfiguráció"
+
+#: mylauncher.properties:24
+msgid "Cinnamon Settings"
+msgstr "Cinnamon beállítások"
+
+#: mylauncher.properties:25
+msgid "Screenshot"
+msgstr "Képernyőkép"
+
+#: mylauncher.properties:26
+msgid "Search for files"
+msgstr "Fájl keresése"
+
+#: mylauncher.properties:31
+msgid "Add/Remove Applets"
+msgstr "Kisalkalmazás hozzáadása/eltávolítása"
+
+#: mylauncher.properties:32
+msgid "Reload Theme"
+msgstr "Téma újratöltése"
+
+#: mylauncher.properties:33
+msgid "Looking Glass"
+msgstr "Looking Glass"
+
+#: mylauncher.properties:35
+msgid "Restart Cinnamon"
+msgstr "Cinnamon környezet újraindítása"
+
+#: mylauncher.properties:36
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: mylauncher.properties:38
+msgid "Home"
+msgstr "Saját mappa"
+
+#: mylauncher.properties:39
+msgid "Terminal"
+msgstr "Terminál"
+
+#: mylauncher.properties:40
+msgid "Browser"
+msgstr "Böngésző"
+
+#: mylauncher.properties:41
+msgid "Run..."
+msgstr "Futtatás..."
+
+#: mylauncher.properties:42
+msgid "Toggle Desktop"
+msgstr "Váltás az Asztalra"
+
+#. mylauncher@markbokil.com->metadata.json->description
+msgid "Personal app launcher."
+msgstr "Személyes alkalmazásindító."

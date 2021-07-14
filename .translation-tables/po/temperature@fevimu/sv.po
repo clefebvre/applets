@@ -1,0 +1,154 @@
+# Swedish translation for temperature@fevimu.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: temperature@fevimu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 23:44+0200\n"
+"PO-Revision-Date: 2019-02-10 07:23+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:80 applet.js:159
+msgid "Temperature"
+msgstr "Temperatur"
+
+#: applet.js:148
+msgid "Error"
+msgstr "Fel"
+
+#: applet.js:149
+msgid ""
+"Run sensors-detect as root. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Kör sensors-detect som root. Om inte det hjälper, klicka då här och "
+"rapportera med utdata från dina sensorer!"
+
+#: applet.js:151
+msgid "Warning"
+msgstr "Varning"
+
+#: applet.js:152
+msgid ""
+"Please install lm_sensors. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Installera lm_sensors. Om inte det hjälper, klicka då här och rapportera med "
+"utdata från dina sensorer!"
+
+#: applet.js:224
+msgid "Thresholds Info"
+msgstr ""
+
+#: applet.js:225
+#, fuzzy
+msgid "High Temp"
+msgstr "Hög"
+
+#: applet.js:226
+#, fuzzy
+msgid "Crit. Temp"
+msgstr "Kritisk temperatur"
+
+#: applet.js:237
+msgid "Critical"
+msgstr "Kritisk"
+
+#: applet.js:240
+msgid "High"
+msgstr "Hög"
+
+#: applet.js:253
+msgid "Current Temperature"
+msgstr "Aktuell temperatur"
+
+#: applet.js:255
+msgid "Critical Temperature"
+msgstr "Kritisk temperatur"
+
+#. metadata.json->name
+msgid "CPU Temperature Indicator"
+msgstr "CPU-temperaturindikator"
+
+#. metadata.json->description
+msgid "Shows CPU Temperature"
+msgstr "Visar CPU-temperatur"
+
+#. settings-schema.json->use-fahrenheit->description
+msgid "Show temperature in Fahrenheit"
+msgstr "Visa temperatur i Fahrenheit"
+
+#. settings-schema.json->only-integer-part->description
+msgid "Use integer values for temperature"
+msgstr "Visa heltalsvärden för temperatur"
+
+#. settings-schema.json->show-unit->description
+msgid "Show unit"
+msgstr ""
+
+#. settings-schema.json->show-unit->tooltip
+msgid "Whether or not show the unit after the temperature value."
+msgstr ""
+
+#. settings-schema.json->show-unit-letter->description
+msgid "Show unit letter"
+msgstr ""
+
+#. settings-schema.json->show-unit-letter->tooltip
+msgid "Whether or not show the unit letter (C or F)."
+msgstr ""
+
+#. settings-schema.json->show-label-prefix->description
+msgid "Show label prefix"
+msgstr ""
+
+#. settings-schema.json->show-label-prefix->tooltip
+msgid "Whether or not to add a label before the temperature value."
+msgstr ""
+
+#. settings-schema.json->label-prefix->description
+msgid "Label prefix"
+msgstr ""
+
+#. settings-schema.json->label-prefix->tooltip
+msgid "The label to be shown before the temperature value."
+msgstr ""
+
+#. settings-schema.json->interval->units
+msgid "ms"
+msgstr "ms"
+
+#. settings-schema.json->interval->description
+msgid "Update interval"
+msgstr "Uppdateringsintervall"
+
+#. settings-schema.json->change-color->description
+msgid "Change color when the temperature becomes High or Critical"
+msgstr ""
+
+#. settings-schema.json->change-color->tooltip
+msgid ""
+"Selecting this option, this applet becomes\n"
+" orange when the High Temperature Threshold is reached,\n"
+" red when the Critical Temperature Threshold is reached."
+msgstr ""
+
+#. settings-schema.json->only-colors->description
+msgid "Only use colors to alert me"
+msgstr ""
+
+#. settings-schema.json->only-colors->tooltip
+msgid ""
+"Select this option to not display text alerts in horizontal panels.\n"
+"(No text alert is ever displayed on vertical panels.)"
+msgstr ""

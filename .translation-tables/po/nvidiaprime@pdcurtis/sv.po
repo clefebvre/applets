@@ -1,0 +1,142 @@
+# Swedish translation for nvidiaprime@pdcurtis.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nvidiaprime@pdcurtis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 05:35+0200\n"
+"PO-Revision-Date: 2017-06-15 05:42+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr "Väntar på nVIDIA"
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr "Öppna Strömstatistik"
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr "Öppna systemövervakaren"
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr "Underhåll och systemundermeny"
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr "Visa ändringslogg"
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr "Öppna hjälpfilen"
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr "nVIDIA-baserad GPU är inaktiverad"
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "nVIDIA-baserad GPU är aktiverad och kärntemperaturen är"
+
+#: applet.js:289
+msgid "Err"
+msgstr "Fel"
+
+#: applet.js:290
+msgid ""
+"Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-"
+"prime  installed?"
+msgstr ""
+"nVIDIA Prime är inte korrekt installerat. Är nVIDIAs drivrutiner och nvidia-"
+"prime installerat?"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "Visa GPU-temperatur och ikon"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Tillgänglig i horisontella och vertikala paneler. Visning sker i grader "
+"Celsius."
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid ""
+"Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+"Tillgång till fler funktioner via kontextmenyn - Kräver omstart av Cinnamon"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid ""
+"Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be "
+"installed"
+msgstr ""
+"Lägger till glxspheres64 Grafikprocessortest - VirtualGL behöver installeras"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr "Allmänna inställningar för nVIDIA Prime övervakningsprogram"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Uppdateringsintervall för panelvisning:"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Öka eller minska värdet för att ändra uppdateringsintervall. Långt intervall "
+"för långsamma maskiner."
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr "Tilläggsfunktioner"
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid ""
+"Displays which Graphics processor is active and nVidia GPU Temperature when "
+"active and in a horizontal panel"
+msgstr ""
+"Visar vilken grafikprocessor som är aktiv och nVIDIA GPU-temperatur, om "
+"aktiv och i horisontell panel."
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr "nVIDIA Prime GPU-visare"
+
+#~ msgid "ERROR"
+#~ msgstr "FEL"
+
+#~ msgid "Nvidia Prime is not installed so applet willl not work"
+#~ msgstr ""
+#~ "nVIDIA Prime är inte installerad, så programmet kommer inte att fungera"
+
+#~ msgid "Show GPU Temperature in Horizontal Panels"
+#~ msgstr "Visa GPU-temperatur i horisontella paneler"
+
+#~ msgid "Not available in Vertical Panels"
+#~ msgstr "Ej tillgänglig i vertikala paneler"
+
+#~ msgid "Displays nVidia GPU Temperature when using Prime"
+#~ msgstr "Visar nVIDIA GPU-temperatur när Prime används"

@@ -1,0 +1,115 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sveinn í Felli <sv@fellsnet.is>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 18:50+0200\n"
+"PO-Revision-Date: 2020-03-24 15:34+0000\n"
+"Last-Translator: Sveinn í Felli <sv@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: applet.js:28
+msgid "ScreenShot"
+msgstr "Skjámynd"
+
+#: applet.js:33
+msgid "Current Window"
+msgstr "Núverandi gluggi"
+
+#: applet.js:38
+msgid "Selected Area"
+msgstr "Valið svæði"
+
+#: applet.js:44
+msgid "Whole Screen"
+msgstr "Allur skjárinn"
+
+#: applet.js:46
+msgid "1 Second Delay"
+msgstr "1 sekúndu töf"
+
+#: applet.js:50
+msgid "3 Second Delay"
+msgstr "3 sekúndna töf"
+
+#: applet.js:54
+msgid "5 Second Delay"
+msgstr "5 sekúndna töf"
+
+#: applet.js:61
+msgid "Record Screencast"
+msgstr "Taka upp skjámyndskeið"
+
+#: applet.js:65
+msgid "Record Desktop With Audio"
+msgstr "Skjáupptaka með hljóði"
+
+#: applet.js:68 applet.js:74 applet.js:81 applet.js:87
+msgid "Recording"
+msgstr "Upptaka"
+
+#: applet.js:68 applet.js:81
+msgid "With-Audio"
+msgstr "Með-hljóði"
+
+#: applet.js:71
+msgid "Record Desktop Without Audio"
+msgstr "Skjáupptaka án hljóðs"
+
+#: applet.js:74 applet.js:87
+msgid "No-Audio"
+msgstr "Ekki-hljóð"
+
+#: applet.js:78
+msgid "Record Current Window With Audio"
+msgstr "Skjáupptaka af núverandi glugga með hljóði"
+
+#: applet.js:84
+msgid "Record Current Window Without Audio"
+msgstr "Skjáupptaka af núverandi glugga án hljóðs"
+
+#: applet.js:91
+msgid "Stop Recording"
+msgstr "Stöðva upptöku"
+
+#: applet.js:96
+msgid "Recording-Stopped"
+msgstr "Upptaka-stöðvuð"
+
+#: applet.js:97
+msgid "Recording-Finished"
+msgstr "Upptöku-lokið"
+
+#: applet.js:107
+msgid "Take A Snapshot or Record Your Desktop"
+msgstr "Taktu skjámynd eða myndskeið af skjáborðinu þínu"
+
+#: applet.js:124
+msgid "Pictures Folder"
+msgstr "Myndamappa"
+
+#: applet.js:130
+msgid "Videos Folder"
+msgstr "Myndskeiðamappa"
+
+#. metadata.json->description
+msgid ""
+"Take A Snapshot Or Record Your Desktop (recording requires the packages "
+"ffmpeg, xdotool & x11-utils to be installed)"
+msgstr ""
+"Taktu skjámynd eða myndskeið af skjáborðinu þínu (upptaka myndskeiðs krefst"
+" þess að pakkarnir ffmpeg, xdotool & x11-utils séu uppsettir)"
+
+#. metadata.json->name
+msgid "ScreenShot+Record Desktop"
+msgstr "Skjámynd-Skjáupptaka"
+

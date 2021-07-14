@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 19:36+0800\n"
+"PO-Revision-Date: 2017-10-07 13:46+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:77
+msgid "Click to edit the list"
+msgstr "Klik for at redigere listen"
+
+#. todo@threefi->metadata.json->description
+msgid "a simple todo list ticker for cinammon"
+msgstr "En enkel gøremålsticker til Cinnamon"
+
+#. todo@threefi->metadata.json->name
+msgid "Todo"
+msgstr "Gøremål"
+
+#. todo@threefi->settings-schema.json->important_color->description
+msgid "The color used to highlight important items"
+msgstr "Farven brugt til at fremhæve vigtige punkter"
+
+#. todo@threefi->settings-schema.json->list_editor->description
+msgid "The editor that should be used to edit the list"
+msgstr "Programmet til redigering af listen"
+
+#. todo@threefi->settings-schema.json->lead_trail_time->description
+msgid "The time before/after scrolling that long items will be fixed"
+msgstr "Tiden inden/efter rulning, hvor lange punkter ikke ruller"
+
+#. todo@threefi->settings-schema.json->text_width->description
+msgid "The width of text in characters"
+msgstr "Tekstbredde i antal tegn"

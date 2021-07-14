@@ -1,0 +1,112 @@
+# Swedish translation for sessionManager@scollins.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sessionManager@scollins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 23:47+0100\n"
+"PO-Revision-Date: 2017-05-11 21:10+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:159
+msgid "Session"
+msgstr "Session"
+
+#: applet.js:226
+msgid "Lock Screen"
+msgstr "Lås skärmen"
+
+#: applet.js:230
+msgid "Switch User"
+msgstr "Växla användare"
+
+#: applet.js:235
+msgid "Guest Session"
+msgstr "Gästsession"
+
+#: applet.js:240
+msgid "Log Off"
+msgstr "Logga ut"
+
+#: applet.js:246
+msgid "Suspend"
+msgstr "Vänteläge"
+
+#: applet.js:251
+msgid "Sleep"
+msgstr "Strömsparläge"
+
+#: applet.js:256
+msgid "Hibernate"
+msgstr "Viloläge"
+
+#: applet.js:262
+msgid "Restart"
+msgstr "Starta om"
+
+#: applet.js:266
+msgid "Shut Down"
+msgstr "Stäng av"
+
+#. sessionManager@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Panelikon"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->description
+msgid "Icon Size"
+msgstr "Ikonstorlek"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. sessionManager@scollins->settings-
+#. schema.json->symbolicMenuIcons->description
+msgid "Symbolic icons in menu"
+msgstr "Symboliska ikoner i menyn"
+
+#. sessionManager@scollins->settings-schema.json->panelText->description
+msgid "Panel Text"
+msgstr "Paneltext"
+
+#. sessionManager@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#. sessionManager@scollins->metadata.json->description
+msgid "Provides easy access to shut down, restart, etc"
+msgstr "Tillhandahåller enkel åtkomst till Stäng av och Starta om etc."
+
+#. sessionManager@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Author"
+
+#. sessionManager@scollins->metadata.json->comments
+msgid ""
+"Session Manager is an applet that provides easy access to session controls "
+"such as shut down, restart, log off, switch user, etc. It has been tested in "
+"Arch, Fedora and Linux Mint, and supports a wide variety of software "
+"configurations. If your particular configuration is not supported, please "
+"submit a feature request on github, and I will add it at my earliest "
+"convenience."
+msgstr ""
+"Sessionshanteraren är ett panelprogram som tillhandahåller enkel åtkomst "
+"till sessionskontroller som Stäng av, Starta om, Logga ut, Växla användare "
+"etc. Det har testats i Arch, Fedora och Linux Mint, och stödjer en stor "
+"variation mjukvarukonfigurationer. Om din specifika konfiguration inte "
+"stöds, kan du posta en funktionsbegäran så lägger jag till den så snart som "
+"möjligt."
+
+#. sessionManager@scollins->metadata.json->name
+msgid "Session Manager"
+msgstr "Sessionshanterare"

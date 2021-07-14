@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 12:03+0800\n"
+"PO-Revision-Date: 2019-10-24 21:08+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. ioDisk@ctrlesc->metadata.json->name
+#: applet.js:95
+msgid "Disk Utilization"
+msgstr "Utilizzo del Disco"
+
+#: applet.js:99
+msgid "Command [iostat] not found."
+msgstr "Comando [iostat] non trovato."
+
+#: applet.js:149
+msgid "No drives detected."
+msgstr "Nessun drive rilevato"
+
+#: applet.js:223
+msgid "io: ??%"
+msgstr "io: ??%"
+
+#: applet.js:235
+msgid "Error executing iostat."
+msgstr "Errore di esecuzione di iostat."
+
+#. ioDisk@ctrlesc->metadata.json->description
+msgid ""
+"Shows the current max disk I/O utilization in the panel and per device "
+"utilization in a popup menu."
+msgstr ""
+"Mostra l'attuale utilizzo I/O massimo del disco nel pannello e l'utilizzo "
+"dei dispositivi in un menu a comparsa."

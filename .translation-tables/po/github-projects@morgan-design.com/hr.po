@@ -1,0 +1,221 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Github Explorer 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 17:00+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:45 applet.js:46
+#, fuzzy
+msgid "GitHub Explorer"
+msgstr "GitHub preglednik"
+
+#: applet.js:45
+msgid "Attempting to Load your GitHub Repos"
+msgstr "Pokušaj učitavanja vaših Github repozitorija"
+
+#: applet.js:46
+#, fuzzy, c-format
+msgid "Successfully Loaded GitHub Repos for user %s"
+msgstr "GitHub repozitorij je uspješno učitan za korisnika"
+
+#: applet.js:47
+#, fuzzy
+msgid "ERROR:: GitHub Explorer ::ERROR"
+msgstr "GitHub preglednik"
+
+#: applet.js:47
+msgid "Failed to load GitHub Repositories! Check applet Configuration"
+msgstr "Neuspjelo učitavanje GitHub repozitorija! Provjerite postavke apleta"
+
+#: applet.js:166
+msgid "Settings"
+msgstr "Postavke"
+
+#: applet.js:177 applet.js:270
+msgid "Check Applet Configuration"
+msgstr "Provjeri postavke apleta"
+
+#: applet.js:266
+msgid "API Rate Exceeded will try again once we are allowed"
+msgstr "API ograničenje dostignuto ponovno ću pokušati kada bude dopušteno"
+
+#: applet.js:281
+msgid "Click here to open GitHub"
+msgstr "Klikni ovdje za otvaranje GitHuba"
+
+#: applet.js:331
+msgid "Open Repo In Browser"
+msgstr "Otvori repozitorij u pregledniku"
+
+#: applet.js:339
+msgid "Project Home"
+msgstr "Stranica projekta"
+
+#: applet.js:346
+msgid "Details"
+msgstr "Pojedinosti"
+
+#: applet.js:349
+msgid "Watchers"
+msgstr "Promatratelja"
+
+#: applet.js:356
+msgid "Open Issues"
+msgstr "Otvori problem"
+
+#: applet.js:363
+msgid "Forks"
+msgstr "Ogranci"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->description
+#: applet.js:393
+msgid "Open GitHub Home"
+msgstr "Otvori GitHub stranicu"
+
+#: applet.js:401
+msgid "Create A Gist"
+msgstr "Stvori Gist"
+
+#. github-projects@morgan-design.com->settings-
+#. schema.json->username->description
+msgid "GitHub username:"
+msgstr "GitHub korisničko ime:"
+
+#. github-projects@morgan-design.com->settings-schema.json->username->tooltip
+msgid "Set a username which you want to display public repositories for"
+msgstr "Postavite korisničko ime za koje želite prikaz javnog repozitorija"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->description
+msgid "Applet Version:"
+msgstr "Inačica apleta:"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->tooltip
+msgid "Current version installed"
+msgstr "Trenutna inačica instalirana"
+
+#. github-projects@morgan-design.com->settings-schema.json->head->description
+msgid "User Settings"
+msgstr "Korisničke postavke"
+
+#. github-projects@morgan-design.com->settings-schema.json->head2->description
+msgid "Version Details"
+msgstr "Pojedinosti inačice"
+
+#. github-projects@morgan-design.com->settings-schema.json->head1->description
+msgid "Usage Settings"
+msgstr "Postavke upotrebe"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->description
+msgid ""
+"Check this to enable notifications about changes to Watchers, Forks and "
+"Issues"
+msgstr ""
+"Odaberi za omogućavanje obavijesti o promjenama Gledatelja, Ogranaka i "
+"Problema"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->tooltip
+msgid "Checking this will enable more notification messages"
+msgstr "Odaberi za više poruka obavijesti"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->description
+msgid "Open Developer Home"
+msgstr "Otvori stranicu razvijatelja"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->tooltip
+msgid "Open morgan-design.com - my personal blog"
+msgstr "Otvori morgan-design.com - moj osobni blog"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->description
+msgid "Refresh Interval:"
+msgstr "Brzina osvježavanja"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->tooltip
+msgid ""
+"Change the amount of time between checking GitHub for changes to your "
+"Repositories"
+msgstr ""
+"Promijenite brzinu osvježavanja provjera vaših repozitorija između GitHuba"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->description
+msgid "Check this to enable automatic refreshing"
+msgstr "Odaberi za omogućavanje automatskog osvježavanja"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->tooltip
+msgid ""
+"Checking this will mean the applet will update itself according to your "
+"refresh interval"
+msgstr ""
+"Odabir ove mogućnosti znači da će se aplet nadopunjivati ovisno o vašoj "
+"brzini osvježavanja"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->description
+msgid "Visit Cinnamon Applet Home"
+msgstr "Posjeti Cinnamon aplet stranicu"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->tooltip
+msgid "Open cinnamon.com - rate the application"
+msgstr "Otvori cinnamon.com - ocijeni aplikaciju"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->description
+msgid "Check this to enable lots of logging in Looking Glass"
+msgstr ""
+"Odaberi za omogućavanje opširnijeg zapisivanje u Cinnamon napredne kontrole "
+"i upravljanje"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->tooltip
+msgid "Checking this will enable lots of logging"
+msgstr "Odabir ove mogućnosti će omogućiti opširnije zapisivanje"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->description
+msgid "Check this show the number of open issues next to the repository"
+msgstr "Odaberi za prikaz broja otvorenih problema pokraj repozitorija"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->tooltip
+msgid "Checking this show the number of issues next to each repository"
+msgstr ""
+"Odabir ove mogućnosti prikazuje broj otvorenih problema pokraj svakog "
+"repozitorija"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->tooltip
+msgid "Open github.com - fork the code or add features"
+msgstr "Otvori github.com - razgranaj kôd ili dodaj značajku"
+
+#. github-projects@morgan-design.com->metadata.json->description
+msgid "Click on the applet to explore your Public Github repositories"
+msgstr "Kliknite na aplet kako bi istražili svoje javne GitHub repozitorije"
+
+#. github-projects@morgan-design.com->metadata.json->name
+msgid "Github Explorer"
+msgstr "GitHub preglednik"
+
+#~ msgid "Check applet Configuration"
+#~ msgstr "Provjeri postavke apleta"

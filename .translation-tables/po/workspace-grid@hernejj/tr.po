@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. workspace-grid@hernejj->metadata.json->description
+msgid "2D workspace grid and switcher for Cinnamon"
+msgstr "Cinnamon için 2D çalışma alanı ızgarası ve değiştiricisi"
+
+#. workspace-grid@hernejj->metadata.json->name
+msgid "Workspace grid (2D) and switcher"
+msgstr "Çalışma alanı ızgarası (2D) ve değiştiricisi"
+
+#. workspace-grid@hernejj->settings-schema.json->numRows->description
+msgid "Number of rows:"
+msgstr "Satır sayısı:"
+
+#. workspace-grid@hernejj->settings-schema.json->numRows->units
+#. workspace-grid@hernejj->settings-schema.json->numCols->units
+msgid "desktops"
+msgstr "masaüstüleri"
+
+#. workspace-grid@hernejj->settings-schema.json->style->description
+msgid "Style:"
+msgstr "Tür:"
+
+#. workspace-grid@hernejj->settings-schema.json->style->options
+msgid "Single Row"
+msgstr "Tek Satır"
+
+#. workspace-grid@hernejj->settings-schema.json->style->options
+msgid "Grid"
+msgstr "Izgara"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->registerUpDownKeyBindings->description
+msgid "Use Keyboard shortcuts (Ctrl+Alt+Up/Down) to switch desktop rows"
+msgstr ""
+"Masaüstü satırları arasında geçiş için klavye kısayollarını (Ctrl+Alt+Yukarı/"
+"Aşağı) kullan"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->registerUpDownKeyBindings->tooltip
+msgid ""
+"This prevents the use of the Expo and Scale keyboard shortcuts in Cinnamon"
+msgstr ""
+"Bu, Cinnamon'daki Sergi ve Ölçeklendirme klavye kısayollarının "
+"kullanılmasını önler"
+
+#. workspace-grid@hernejj->settings-schema.json->numCols->description
+msgid "Number of columns:"
+msgstr "Sütun sayısı:"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->scrollWheelBehavior->description
+msgid "Scroll Wheel Behavior:"
+msgstr "Kaydırma Tekerleği Davranışı:"
+
+#. workspace-grid@hernejj->settings-schema.json->scrollWheelBehavior->options
+msgid "Scroll By Column"
+msgstr "Sürüna Göre Kaydır"
+
+#. workspace-grid@hernejj->settings-schema.json->scrollWheelBehavior->options
+msgid "Scroll By Row"
+msgstr "Satıra Göre Kaydır"

@@ -1,0 +1,63 @@
+# Gnote Cinnamon Applet.
+# Copyright (C) 2019
+# This file is distributed under the same license as the Gnote package.
+# tanktarta@gmail.com, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-26 18:09+0000\n"
+"PO-Revision-Date: 2019-12-26 18:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: English <tanktarta@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:209
+msgid "Type to search..."
+msgstr "Type om te zoeken..."
+
+#: applet.js:302
+#, fuzzy
+msgid "Gnote stopped working!"
+msgstr "Gnote werkt niet meer"
+
+#: applet.js:305
+#, fuzzy
+msgid "Gnote isn't running! Do you have it installed?"
+msgstr "Gnote is niet actief. Heb je het geïnstalleerd?"
+
+#. metadata.json->name
+#: applet.js:338
+msgid "Gnote"
+msgstr "Gnote"
+
+#: applet.js:359
+msgid "New Note"
+msgstr "Nieuwe notitie"
+
+#: applet.js:423
+msgid "GNote DBus service not found. Is GNote installed?"
+msgstr "GNote DBus-service niet gevonden. Is GNote geïnstalleerd?"
+
+#: applet.js:425
+#, fuzzy
+msgid "Click to see error!"
+msgstr "Klik om fout te zien."
+
+#: applet.js:427
+msgid "Error: "
+msgstr "Fout:"
+
+#: applet.js:428
+msgid "Retry"
+msgstr "Opnieuw"
+
+#. metadata.json->description
+msgid "Lists notes, view, create notes and search notes."
+msgstr "Toont notities, bekijk, maak notities en zoek notities."

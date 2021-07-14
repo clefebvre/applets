@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 13:13+0800\n"
+"PO-Revision-Date: 2017-10-01 19:19+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:51
+msgid "Panel Edit mode"
+msgstr "Panelredigeringstilstand"
+
+#: applet.js:57
+msgid "Add applets to the panel"
+msgstr "Tilføj panelprogrammer til panelet"
+
+#. show-hide-applets@mohammad-sn->metadata.json->description
+msgid ""
+"hide a few applet to have a neater panel, and make them show up again by a "
+"click"
+msgstr ""
+"Skjul nogle få panelprogrammer for at få et mere overskueligt panel og få "
+"dem til at dukke op igen med et klik"
+
+#. show-hide-applets@mohammad-sn->metadata.json->name
+msgid "Drawer (show/hide applets)"
+msgstr "Skuffe (vis/skjul panelprogrammer)"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->description
+msgid "Hide on hovering again"
+msgstr "Skjul, når markøren føres hen over igen"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->tooltip
+msgid "toggle visibility of applets on mouse hover"
+msgstr "Skift panelprogrammers synlighed, når markøren føres hen over"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiderstime->description
+msgid "Reshowers' autohide delay: "
+msgstr "Forsinkelse for automatisk skjul af panelprogrammer, som vises igen: "
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohiderstime->units
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->description
+msgid "Disable start time autohide"
+msgstr "Deaktivér skjul automatisk ved opstart"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->tooltip
+msgid "if not in autohide mode"
+msgstr "Hvis den ikke er i skjul automatisk-tilstand"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->head->description
+msgid "Settings for show-hide-applets@mohammad-sn"
+msgstr "Indstillinger"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->description
+msgid "Autohide"
+msgstr "Skjul automatisk"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->tooltip
+msgid ""
+"check if you want to hide applets automatically, unless you should click on "
+"applet to do so"
+msgstr ""
+"Aktivér hvis du vil skjule panelprogrammer automatisk, ellers skal du klikke "
+"på panelprogrammet for at gøre det"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiders->description
+msgid "Autohide reshowing applets"
+msgstr "Skjul automatisk panelprogrammer, som vises igen"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->description
+msgid "Hover activates/hides after "
+msgstr "Svævning viser/skjuler efter "
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->units
+msgid "miliseconds"
+msgstr "millisekunder"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->description
+msgid "Autohide after "
+msgstr "Skjul automatisk efter "
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->description
+msgid "Activate on hover"
+msgstr "Aktivér, når markøren føres hen over"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->tooltip
+msgid "show applets on mouse hover"
+msgstr "Vis panelprogrammer, når markøren føres hen over"

@@ -1,0 +1,329 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2017-12-20 20:20+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: applet.js:170
+msgid "Places"
+msgstr "Места"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Търси в домашната папка"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "СИСТЕМА"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Търси във файловата система"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "ПОСЛЕДНИ ДОКУМЕНТИ"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Изчисти"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Компютър"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Файлова система"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Мрежа"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Кошче"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Отваряне..."
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Отваряне на съдържащата папка..."
+
+#: search.py:85
+msgid "Search"
+msgstr "Търсене"
+
+#: search.py:106
+msgid "Start in"
+msgstr "Стартирай в"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Избор на папка"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Следвай символните връзки"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Търси в скритите"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Използване на регулярни изрази"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Спри"
+
+#: search.py:140
+msgid "File"
+msgstr "Файл"
+
+#: search.py:156
+msgid "Path"
+msgstr "Път"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Търсене..."
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Търсенето е спряно"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Търсене: "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Грешка: недостатъчно права за прочитане на папката"
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Търсенето завърши"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Пропускане"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - директорията е вече претърсена"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Централни места"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Доставя лесна за ползване подредба за достъп до вашите места"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Централни места е богат на функции, много платформен аплет за Cinnamon, "
+"който предоставя лесен достъп до най-използваните от вас места. Чувствайте "
+"се поканени да допринесете с pull request, искане за функции и отчет за "
+"грешки в моето github хранилище."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Автор: Стивън Колинс"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "Добавка на конфигурация при клик с колелцето: kehugter"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Общи"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Потребител"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "Система"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Последни документи"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Настройки на панела"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Настройки на менюто"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Секция потребител"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Секция система"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Иконка в панела"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr ""
+"Приемат се имена на иконки или директен път (поддържат се символни иконки)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Текст в панела"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Пряк път за меню"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "пкс"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Размер на иконките в менюто"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Отвори при клик с колелцето"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Остави празно за изключване"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Показване на работния плот"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Допълнителни места"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Списък с адреси/път до файл, които да се добавят. Добавените могат да се "
+"разделят със запетая(,) или нов ред. Може да добавите име за показване, като "
+"добавите :вашеИме след локацията. Също може да зададете иконка като "
+"добавите :имеНаИконка след зададеното име."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Показване на кошчето"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Никога"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Винаги"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Когато не е празно"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Покажи компютър"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Покажи фаловата система"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Показвай устройства"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Показвай само монтираните устройства"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Показвай мрежа"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Показване на последните документи"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+#, fuzzy
+msgid "All Recent Documents"
+msgstr "Последни документи"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Брой за показване"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""

@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 19:44+0100\n"
+"PO-Revision-Date: 2017-04-18 15:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:102
+msgid "desktop"
+msgstr "桌面"
+
+#: applet.js:320
+msgid "No open windows"
+msgstr "没有打开的窗口"
+
+#: applet.js:330
+msgid "Expo"
+msgstr "展示"
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifyskiptaskbar->description
+msgid "Opacify the icons on the desktop"
+msgstr "不透明桌面上的图标"
+
+#. SW++@mohammad-sn->settings-schema.json->head->description
+msgid "Appearance"
+msgstr "外观"
+
+#. SW++@mohammad-sn->settings-schema.json->closeallbuttons->description
+msgid "Show close all windows buttons for workspaces"
+msgstr "显示工作区所有窗口的按钮"
+
+#. SW++@mohammad-sn->settings-schema.json->head2->description
+msgid "Peek at desktop"
+msgstr "预览桌面"
+
+#. SW++@mohammad-sn->settings-schema.json->head1->description
+msgid "Menu options"
+msgstr "菜单选项"
+
+#. SW++@mohammad-sn->settings-schema.json->color->description
+msgid "The background color for the applet hover:"
+msgstr "小程序悬停的背景颜色："
+
+#. SW++@mohammad-sn->settings-schema.json->color->tooltip
+msgid "Click the button to select a new background color for applet"
+msgstr "点击按钮选择小程序新的背景颜色"
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel:"
+msgstr "要在面板中使用的图标："
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->tooltip
+msgid ""
+"Select an icon file, or you can type an icon name into the entry box, for "
+"example: desktop"
+msgstr "选择一个图标文件，或您可以键入一个图标名称到输入框中，例如：desktop"
+
+#. SW++@mohammad-sn->settings-schema.json->peekopacity->description
+msgid "Opacity on hover:"
+msgstr "预览时的不透明度："
+
+#. SW++@mohammad-sn->settings-schema.json->SHOW-MENU-ON-CLOSE->description
+msgid "Keep menu open while closing windows"
+msgstr "关闭窗口时保持菜单打开"
+
+#. SW++@mohammad-sn->settings-schema.json->width->description
+msgid "Applet width in the panel:"
+msgstr "面板中小程序的宽度："
+
+#. SW++@mohammad-sn->settings-schema.json->width->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the applet wider or narrower "
+"in the panel"
+msgstr "增大或减小此微调器值以使面板中的小程序变宽些或窄些"
+
+#. SW++@mohammad-sn->settings-schema.json->width->units
+msgid "pixels"
+msgstr "像素"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->description
+msgid "Opacify windows on hover"
+msgstr "悬停时不透明窗口"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->tooltip
+msgid "Take a glance at your desktop and desklets."
+msgstr "快速浏览您的桌面和桌面小工具。"
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifydesklets->description
+msgid "Opacify desklets"
+msgstr "不透明桌面小工具"
+
+#. SW++@mohammad-sn->settings-schema.json->blur->description
+msgid "Blur windows on hover"
+msgstr "悬停时模糊窗口"
+
+#. SW++@mohammad-sn->settings-schema.json->highlight->description
+msgid "Highlight applet next time it is added to the panel"
+msgstr "再次添加到面板时高亮小程序"
+
+#. SW++@mohammad-sn->settings-schema.json->closebuttons->description
+msgid "Show close buttons"
+msgstr "显示关闭按钮"
+
+#. SW++@mohammad-sn->metadata.json->description
+msgid ""
+"click to show/hide desktop, scroll to switch workspace and windows quick "
+"list by right click"
+msgstr "点击显示/隐藏桌面，右键点击滚动切换工作区和窗口快速列表"
+
+#. SW++@mohammad-sn->metadata.json->name
+msgid "Show desktop ++"
+msgstr "显示桌面++"

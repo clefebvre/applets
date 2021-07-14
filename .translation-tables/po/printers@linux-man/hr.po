@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Printers 0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2017-02-24 23:54+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "Prikaži ikonu"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "Uvijek"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "Kada je pisač dostupan"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "Kada se ispisuje"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "Kada prikazati ikonu"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "Greške ispisa"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "Prikaži ikonu greške ispisa"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "Broj dokumenata"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "Prikaži broj dokumenata pokraj ikone"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "Broj dokumenta"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "Prikaži svaki broj dokumenta na popisu ispisa"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "Pošalji naprijed"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "Dokumenti mogu biti poslani naprijed"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "Simboličke ikone"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "Koristi simboličke ikona"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr ""
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr ""
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "Pisači"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "Prekini sve zadatke"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "u"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "Upravljajte pisačima i zadacima ispisa"

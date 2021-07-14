@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-20 13:38+0200\n"
+"PO-Revision-Date: 2021-03-30 11:58+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:281 applet.js:484 applet.js:524
+msgid "Send SMS"
+msgstr "SMS küldése"
+
+#: applet.js:281
+msgid "Send"
+msgstr "Küldés"
+
+#: applet.js:281
+msgid "Enter Phone Number and Message to Send."
+msgstr "Írja be a telefonszámot és az üzenetet a küldéshez."
+
+#: applet.js:281
+msgid "Phone Number"
+msgstr "Telefonszám"
+
+#: applet.js:281
+msgid "Message"
+msgstr "Üzenet"
+
+#: applet.js:282 applet.js:570
+msgid "Share URL"
+msgstr "URL megosztása"
+
+#: applet.js:282
+msgid "Share"
+msgstr "Megosztás"
+
+#: applet.js:282
+msgid "Enter URL to Share."
+msgstr "Adja meg az URL-t a megosztáshoz."
+
+#: applet.js:282
+msgid "URL"
+msgstr "URL"
+
+#: applet.js:347
+msgid "KDE Connect Version"
+msgstr "KDE Connect verzió"
+
+#: applet.js:350
+msgid "Configure KDEConnect"
+msgstr "KDEConnect beállítása"
+
+#: applet.js:358 applet.js:361
+msgid "KDEConnect is not running!"
+msgstr "KDEConect nem fut!"
+
+#: applet.js:363
+msgid "Reload Applet"
+msgstr "Kisalkalmazás újratöltése"
+
+#: applet.js:397 applet.js:400
+msgid "No reachable paired devices!"
+msgstr "Nincs elérhető párosított eszköz!"
+
+#: applet.js:405
+msgid "Devices"
+msgstr "Eszközök"
+
+#: applet.js:408
+msgid "Device"
+msgstr "Eszköz"
+
+#: applet.js:431
+msgid "ID"
+msgstr "Azonosító"
+
+#: applet.js:435
+msgid "Copied Device ID to the clipboard"
+msgstr "Eszközazonosító átmásolva a vágólapra"
+
+#: applet.js:470
+msgid "Send Ping"
+msgstr "Ping küldése"
+
+#: applet.js:496 applet.js:536
+msgid "Sent SMS to ${phonenumber}"
+msgstr "SMS elküldve ide: ${phonenumber}"
+
+#: applet.js:514
+msgid "Launch SMS App"
+msgstr "SMS alkalmazás indítása"
+
+#: applet.js:554
+msgid "Share File"
+msgstr "File megosztása"
+
+#: applet.js:561
+msgid "Shared file with ${name}"
+msgstr "Fájl megosztása ezzel: ${name}"
+
+#: applet.js:580
+msgid "Shared URL with ${name}"
+msgstr "URL megosztva ezzel: ${name}"
+
+#: applet.js:602 applet.js:749
+msgid "Mount and Browse"
+msgstr "Csatolás és böngészés"
+
+#: applet.js:623
+msgid "The Device couldn't be mounted!"
+msgstr "Az eszközt nem tudtuk csatolni!"
+
+#: applet.js:629
+msgid "Unmount"
+msgstr "Leválasztás"
+
+#: applet.js:638 applet.js:744
+msgid "Browse"
+msgstr "Tallózás"
+
+#: applet.js:658
+msgid "Find My Device"
+msgstr "Saját eszköz megtalálása"
+
+#: applet.js:673
+msgid "Request Photo"
+msgstr "Fénykép kérése"
+
+#: applet.js:680
+msgid "Requested photo from ${name}"
+msgstr "Fénykép kérése ettől: ${name}"
+
+#: applet.js:754
+msgid "Photo received"
+msgstr "Fénykép fogadva"
+
+#. metadata.json->name
+msgid "KDEConnect Applet"
+msgstr "KDEConnect kisalkalmazás"
+
+#. metadata.json->description
+msgid "Applet for interacting with Devices connected via KDE COnnect."
+msgstr ""
+"Kisalkalmazás a KDE Connect-en keresztül csatlakoztatott eszközökkel való "
+"interakcióhoz."
+
+#. metadata.json->comments
+msgid "Requires 'zenity' for some features."
+msgstr "Bizonyos funkciókhoz szükséges a 'zenity'."

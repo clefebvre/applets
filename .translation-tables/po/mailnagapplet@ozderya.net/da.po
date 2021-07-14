@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-21 19:27+0800\n"
+"PO-Revision-Date: 2017-08-17 19:31+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:165
+msgid "just now"
+msgstr "lige nu"
+
+#: applet.js:169
+msgid "1 minute ago"
+msgstr "1 minut siden"
+
+#: applet.js:173
+msgid " minutes ago"
+msgstr " minutter siden"
+
+#: applet.js:177
+msgid "1 hour ago"
+msgstr "1 time siden"
+
+#: applet.js:181
+msgid " hours ago"
+msgstr " timer siden"
+
+#: applet.js:188
+msgid "yesterday"
+msgstr "i går"
+
+#: applet.js:192
+msgid " days ago"
+msgstr " dage siden"
+
+#: applet.js:196
+msgid " weeks ago"
+msgstr " uger siden"
+
+#: applet.js:281
+msgid "Configure Mailnag"
+msgstr "Konfigurér Mailnag"
+
+#: applet.js:360
+msgid "Mailnag daemon stopped working!"
+msgstr "Mailnag-dæmonen holdt op med at virke!"
+
+#: applet.js:364
+msgid "Mailnag daemon isn't running! Do you have it installed?"
+msgstr "Mailnag-dæmonen kører ikke! Er den installeret?"
+
+#: applet.js:593
+#, c-format
+msgid "You have %d new mails!"
+msgstr "Du har %d nye mail!"
+
+#: applet.js:594 applet.js:639
+msgid "Mark All Read"
+msgstr "Markér alle som læst"
+
+#: applet.js:602
+msgid "You have new mail!"
+msgstr "Du har ny mail!"
+
+#: applet.js:604
+msgid "Mark Read"
+msgstr "Markér som læst"
+
+#: applet.js:687 applet.js:749
+msgid "No unread mails."
+msgstr "Ingen ulæste mail."
+
+#: applet.js:725
+msgid "Mailnag daemon is not running!"
+msgstr "Mailnag-dæmonen kører ikke!"
+
+#: applet.js:738
+#, c-format
+msgid "You have a mail from %s!"
+msgstr "Der er mail fra %s!"
+
+#: applet.js:744
+#, c-format
+msgid "You have %d unread mails!"
+msgstr "Du har %d ulæste mail!"
+
+#: applet.js:760
+msgid "Click to see error!"
+msgstr "Klik for at se fejl!"
+
+#: applet.js:761
+msgid "Error: "
+msgstr "Fejl: "
+
+#. mailnagapplet@ozderya.net->metadata.json->name
+msgid "Mailnag"
+msgstr "Mailnag"
+
+#. mailnagapplet@ozderya.net->metadata.json->description
+msgid "Mailnag mail notifier applet"
+msgstr "Få meddelelser om mail via Mailnag"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->description
+msgid "Show notifications"
+msgstr "Vis meddelelser"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->tooltip
+msgid ""
+"Enables display of mail arrived notifications by applet. Make sure you "
+"disable mailnag notification plugin, otherwise you will have duplicates."
+msgstr ""
+"Tillader visning af meddelelser om ny mail. Deaktivér Mailnags \"notification"
+"\"-plugin for at undgå dobbeltmeddelelser."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->description
+msgid "Mail client to launch (or webpage)"
+msgstr "Mailklient (eller webside)"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->tooltip
+msgid ""
+"Enter the command to launch your mail client here. You can also enter a web "
+"address that starts with 'http'."
+msgstr ""
+"Indtast kommandoen til din mailklient her. Du kan også indtaste en "
+"webadresse, som begynder med \"http\"."
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->description
+msgid "Launch mail client on click"
+msgstr "Kør mailklienten ved klik"
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->tooltip
+msgid "Mail client is launched when clicked on a menu item."
+msgstr "Mailklienten startes, når der klikkes på et menupunkt."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->description
+msgid "On middle click:"
+msgstr "Midterklik:"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->tooltip
+msgid "What to do when middle clicked on applet icon"
+msgstr ""
+"Hvad der skal ske, når der klikkes med midterste tast på panelprogrammets "
+"ikon"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Mark all read"
+msgstr "Markér alle som læst"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Launch mail client"
+msgstr "Kør mailklient"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Do nothing"
+msgstr "Gør ingenting"

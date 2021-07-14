@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 23:55+0200\n"
+"PO-Revision-Date: 2019-10-22 19:56+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:152
+msgid "Bumblebee program not installed"
+msgstr "Programma Bumblebee non installato"
+
+#: applet.js:152
+msgid ""
+"You appear to be missing some of the required programs for 'bumblebee' to "
+"switch graphics processors using NVIDIA Optimus."
+msgstr ""
+"Sembra che manchino alcuni dei programmi richiesti per 'bumblebee' per "
+"cambiare i processori grafici usando NVIDIA Optimus."
+
+#: applet.js:152
+msgid "Please read the help file."
+msgstr "Si prega di leggere il file di aiuto."
+
+#: applet.js:172
+msgid "Waiting for Bumblebee"
+msgstr "Aspettando Bumblebee"
+
+#: applet.js:232
+msgid "Open nVidia Settings Program"
+msgstr "Apri il Programma di Impostazioni nVidia"
+
+#: applet.js:238
+msgid "Open Power Statistics"
+msgstr "Apri Monitoraggio Energetico"
+
+#: applet.js:244
+msgid "Open System Monitor"
+msgstr "Apri Monitor di Sistema"
+
+#: applet.js:253
+msgid "Housekeeping and System Sub Menu"
+msgstr "Sottomenu Pulizia e Sistema"
+
+#: applet.js:256
+msgid "View the Changelog"
+msgstr "Visualizza il Changelog"
+
+#: applet.js:262
+msgid "Open the Help file"
+msgstr "Apri il file di Aiuto"
+
+#: applet.js:278
+msgid "Launch programs using the nVidia Graphics Processor"
+msgstr "Avvia i programmi utilizzando il Processore Grafico nVidia"
+
+#: applet.js:359
+msgid "NVidia based GPU is Off"
+msgstr "La GPU basata su nVidia è disattivata"
+
+#: applet.js:384
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "La GPU basata su nVidia è Attiva e la Temperatura Interna è"
+
+#: applet.js:392
+msgid "Err"
+msgstr "Err"
+
+#: applet.js:393
+msgid ""
+"Bumblebee is not set up correctly - are bbswitch, bumblebee and nvidia "
+"drivers installed?"
+msgstr ""
+"Bumblebee non è impostato correttamente - sono stati installati i driver "
+"bbswitch, bumblebee e nvidia?"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "Mostra la temperatura della GPU e l'icona"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Disponibile in pannelli orizzontali e verticali. La visualizzazione è in "
+"gradi centigradi."
+
+#. bumblebee@pdcurtis->settings-schema.json->head2->description
+msgid "Programs settings for Optimus"
+msgstr "Impostazioni dei programmi per Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->description
+msgid "Command String for Program 2"
+msgstr "Stringa di Comando per il Programma 2"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->tooltip
+msgid ""
+"Put the command string to run the program here starting with optirun or "
+"primusrun"
+msgstr ""
+"Inserisci qui la stringa di comando per eseguire il programma da avviare con "
+"optirun o primusrun"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->description
+msgid "Command String for Program 3"
+msgstr "Stringa di Comando per il Programma 3"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->description
+msgid "Command String for Program 1"
+msgstr "Stringa di Comando per il Programma 1"
+
+#. bumblebee@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Monitoring Applet"
+msgstr "Impostazioni Generali per l'Applet di Monitoraggio nVidia"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->description
+msgid "Command String for Program 4"
+msgstr "Stringa di Comando per il Programma 4"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->description
+msgid "Command String for Program 5"
+msgstr "Stringa di Comando per il Programma 5"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->description
+msgid "Display Name of Program 4 to be run using Optimus technology"
+msgstr ""
+"Visualizza il Nome del Programma 4 da eseguire utilizzando la tecnologia "
+"Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description5->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description3->tooltip
+msgid ""
+"Put the name of the program here or none if you do not want it displayed"
+msgstr ""
+"Inserisci qui il nome del programma o 'none' se non vuoi che venga "
+"visualizzato"
+
+#. bumblebee@pdcurtis->settings-schema.json->description5->description
+msgid "Display Name of Program 5 to be run using Optimus technology"
+msgstr ""
+"Visualizza il Nome del Programma 5 da eseguire utilizzando la tecnologia "
+"Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->description2->description
+msgid "Display Name of Program 2 to be run using Optimus technology"
+msgstr ""
+"Visualizza il Nome del Programma 2 da eseguire utilizzando la tecnologia "
+"Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->description3->description
+msgid "Display Name of Program 3 to be run using Optimus technology"
+msgstr ""
+"Visualizza il Nome del Programma 3 da eseguire utilizzando la tecnologia "
+"Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->description
+msgid "Display Name of Program 1 to be run using Optimus technology"
+msgstr ""
+"Visualizza il Nome del Programma 1 da eseguire utilizzando la tecnologia "
+"Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->tooltip
+msgid ""
+"Put the name of the program here or null if you do not want it displayed"
+msgstr ""
+"Inserisci qui il nome del programma o null se non vuoi che venga visualizzato"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Intervallo di Aggiornamento del Display:"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Aumenta o diminuisci questo valore di spinner per modificare l'intervallo di "
+"aggiornamento: usa un aggiornamento lento se hai una macchina lenta"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "secondi"
+
+#. bumblebee@pdcurtis->metadata.json->description
+msgid ""
+"Displays Status of Bumblebee and nVidia GPU Temperature with associated "
+"support functions including starting selected programs with optirun or "
+"primusrun"
+msgstr ""
+"Visualizza lo Stato della Temperatura della GPU di Bumblebee e nVidia con le "
+"relative funzioni di supporto, incluso l'avvio di programmi selezionati con "
+"optirun o primusrun"
+
+#. bumblebee@pdcurtis->metadata.json->name
+msgid "Bumblebee Status with NVidia Temperature Display"
+msgstr "Stato di Bumblebee con Visualizzazione della Temperatura nVidia"

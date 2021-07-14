@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 13:12+0200\n"
+"PO-Revision-Date: 2019-08-21 17:19+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:143
+msgid "Active applications"
+msgstr "Applications actives"
+
+#: applet.js:144
+msgid "Inactive applications"
+msgstr "Applications inactives"
+
+#: CSCollapseBtn.js:104
+msgid "Collapse"
+msgstr "Plier"
+
+#: CSCollapseBtn.js:110
+msgid "Expand"
+msgstr "Déplier"
+
+#: CSCollapseBtn.js:116
+msgid "No icons to hide/reveal"
+msgstr "Aucune icône à cacher/révéler"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->name
+msgid "Collapsible Systray"
+msgstr "Tableau de bord repliable (Collapsible Systray)"
+
+#. collapsible-systray@feuerfuchs.eu->metadata.json->description
+msgid "A replacement for the abandoned System Tray Collapsible Cinnamon applet"
+msgstr "Remplace l'applet abandonnée System Tray Collapsible"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-
+#. hover->description
+msgid "Expand on hover"
+msgstr "Déplier au survol de la souris"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->description
+msgid "Animation duration"
+msgstr "Durée de l'animation"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. duration->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->units
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->units
+msgid "milliseconds"
+msgstr "millisecondes"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-leave-
+#. delay->description
+msgid "Collapse on un-hover delay"
+msgstr "Durée du repliage lorsque la souris ne survole plus l'applet"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->description
+msgid "Vertical collapse icon"
+msgstr "Icône de repliage (sens vertical)"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-collapse-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->tooltip
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->tooltip
+msgid "Enter either the icon's qualified name or it's full path"
+msgstr "Entrez le nom standard de l'icône ou son chemin d'accès complet"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->appearance-
+#. section->title
+msgid "Appearance"
+msgstr "Apparence"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior-
+#. section->title
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->behavior->title
+msgid "Behavior"
+msgstr "Comportement"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-
+#. collapse-icon-name->description
+msgid "Horizontal collapse icon"
+msgstr "Icône de repliage (sens horizontal)"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->horizontal-expand-
+#. icon-name->description
+msgid "Horizontal expand icon"
+msgstr "Icône de dépliage (sens horizontal)"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->icon-visibility-
+#. list->description
+msgid "Internal use"
+msgstr "Utilisé uniquement par le développeur"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->description
+msgid "Sort icons by name"
+msgstr "Trier les icônes par nom des applications"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->sort-
+#. icons->tooltip
+msgid "If unchecked, the order of the icons will be pretty much random"
+msgstr "Si décoché, l'ordre des icônes sera plutôt aléatoire"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->description
+msgid "Animation support (disable if icons stop updating)"
+msgstr ""
+"Activer les animations (désactiver si les icônes ne se mettent pas à jour)"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->animation-
+#. support->tooltip
+msgid "Disable if you have issues with icons not updating themselves."
+msgstr ""
+"Désactivez cette option si vous rencontrez des problèmes avec les icônes qui "
+"ne se mettent pas à jour."
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->vertical-expand-
+#. icon-name->description
+msgid "Vertical expand icon"
+msgstr "Icône de dépliage (sens vertical)"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->description
+msgid "Padding of tray icons"
+msgstr "Espace supplémentaire entre deux icônes"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->tray-icon-
+#. padding->units
+msgid "px"
+msgstr "px"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->description
+msgid "Startup collapse delay"
+msgstr "Durée avant le repliage automatique"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-
+#. delay->tooltip
+msgid "The delay until the applet automatically collapses upon startup"
+msgstr ""
+"Nombre de secondes s'écoulant avant que ne démarre le repliage automatique "
+"lorsque la souris ne survole plus l'applet"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->init-delay->units
+msgid "seconds"
+msgstr "secondes"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->expand-on-hover-
+#. delay->description
+msgid "Expand on hover delay"
+msgstr "Durée avant dépliage lors du survol par la souris"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->collapse-on-
+#. leave->description
+msgid "Collapse on un-hover"
+msgstr "Replier lorsque la souris ne survole pas/plus cette applet"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->description
+msgid "Disable hover effect for tray icons"
+msgstr "Désactiver l'effet d'animation lors du survol des icônes"
+
+#. collapsible-systray@feuerfuchs.eu->settings-schema.json->no-hover-for-tray-
+#. icons->tooltip
+msgid ""
+"If you have problems with the hover effect or it simply doesn't look good, "
+"you should enable this setting"
+msgstr ""
+"Si vous avez des problèmes avec l’effet d'animation lors du survol ou si "
+"tout simplement il ne vous convient pas, activez cette option"

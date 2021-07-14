@@ -1,0 +1,279 @@
+# SpicesUpdate@claudiux Applet POT File.
+# Copyright (C) 2019 Claudiux <claude.clerc@gmail.com>
+# This file is distributed under the same license as the Cinnamon package.
+# FIRST AUTHOR Claudiux <claude.clerc@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SpicesUpdate@claudiux v2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 16:29+0200\n"
+"PO-Revision-Date: 2019-08-19 09:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 4.2/applet.js:141
+msgid "You are advised to restart Cinnamon"
+msgstr ""
+
+#: 4.2/applet.js:142
+msgid "To be sure to use the right code, you are advised to restart Cinnamon."
+msgstr ""
+
+#: 4.2/applet.js:148
+msgid "Restart Cinnamon"
+msgstr ""
+
+#: 4.2/applet.js:163 4.2/applet.js:1900 4.2/applet.js:1906 3.8/applet.js:243
+#: 3.8/applet.js:1913 3.8/applet.js:1919 2.8/applet.js:1709 2.8/applet.js:1715
+#: 4.6/applet.js:146 4.6/applet.js:2023 4.6/applet.js:2031
+msgid "Middle-Click to Refresh"
+msgstr ""
+
+#: 4.2/applet.js:297 4.6/applet.js:294
+msgid "Spices Update has just been installed or upgraded"
+msgstr ""
+
+#: 4.2/applet.js:298 4.6/applet.js:295
+msgid ""
+"Certain parameters require your vigilance: some may have been modified; "
+"others are new."
+msgstr ""
+
+#: 4.2/applet.js:299 4.6/applet.js:296
+msgid ""
+"Please check your settings using the menu of the SpicesUpdate applet or the "
+"button below."
+msgstr ""
+
+#: 4.2/applet.js:301 4.6/applet.js:298
+msgid "Spices Update Settings"
+msgstr ""
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update It Now!"
+msgstr ""
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update Them All Now!"
+msgstr ""
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget It"
+msgstr ""
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget Them All"
+msgstr ""
+
+#: 4.2/applet.js:1712 3.8/applet.js:1776 2.8/applet.js:1620 4.6/applet.js:1792
+msgid "Open useful Cinnamon Settings"
+msgstr ""
+
+#: 4.2/applet.js:1748 3.8/applet.js:1798 2.8/applet.js:1642 4.6/applet.js:1828
+msgid "Help"
+msgstr ""
+
+#: 4.2/applet.js:1891 3.8/applet.js:1904 2.8/applet.js:1700 4.6/applet.js:2014
+msgid "Middle-Click to open useful Cinnamon Settings"
+msgstr ""
+
+#: 4.2/constants.js:151 4.6/constants.js:154
+msgid "If you do not want an applet to be checked, uncheck its first box."
+msgstr ""
+
+#: 4.2/constants.js:152 4.6/constants.js:155
+msgid "If you do not want a desklet to be checked, uncheck its first box."
+msgstr ""
+
+#: 4.2/constants.js:153 4.6/constants.js:156
+msgid "If you do not want an extension to be checked, uncheck its first box."
+msgstr ""
+
+#: 4.2/constants.js:154 4.6/constants.js:157
+msgid "If you do not want a theme to be checked, uncheck its first box."
+msgstr ""
+
+#: 4.2/constants.js:158 4.6/constants.js:161
+msgid ""
+"If you want to get the latest version of an applet now, check both boxes."
+msgstr ""
+
+#: 4.2/constants.js:159 4.6/constants.js:162
+msgid ""
+"If you want to get the latest version of a desklet now, check both boxes."
+msgstr ""
+
+#: 4.2/constants.js:160 4.6/constants.js:163
+msgid ""
+"If you want to get the latest version of an extension now, check both boxes."
+msgstr ""
+
+#: 4.2/constants.js:161 4.6/constants.js:164
+msgid "If you want to get the latest version of a theme now, check both boxes."
+msgstr ""
+
+#: 4.2/constants.js:164 3.8/applet.js:93 4.6/constants.js:167
+msgid "When all your choices are made, click the Refresh button."
+msgstr ""
+
+#: 3.8/applet.js:80
+msgid ""
+"If you do not want an applet to be checked, set its first switch to FALSE."
+msgstr ""
+
+#: 3.8/applet.js:81
+msgid ""
+"If you do not want a desklet to be checked, set its first switch to FALSE."
+msgstr ""
+
+#: 3.8/applet.js:82
+msgid ""
+"If you do not want an extension to be checked, set its first switch to FALSE."
+msgstr ""
+
+#: 3.8/applet.js:83
+msgid ""
+"If you do not want a theme to be checked, set its first switch to FALSE."
+msgstr ""
+
+#: 3.8/applet.js:87
+msgid ""
+"If you want to get the latest version of an applet now, set its two switches "
+"to TRUE."
+msgstr ""
+
+#: 3.8/applet.js:88
+msgid ""
+"If you want to get the latest version of a desklet now, set its two switches "
+"to TRUE."
+msgstr ""
+
+#: 3.8/applet.js:89
+msgid ""
+"If you want to get the latest version of an extension now, set its two "
+"switches to TRUE."
+msgstr ""
+
+#: 3.8/applet.js:90
+msgid ""
+"If you want to get the latest version of a theme now, set its two switches "
+"to TRUE."
+msgstr ""
+
+#: 4.6/applet.js:2028
+msgid "The Cinnamon Server seems to be DOWN!"
+msgstr ""
+
+#: 4.6/applet.js:2028
+msgid "Middle-Click to Retry"
+msgstr ""
+
+#. 4.6->settings-schema.json->section_general4->title
+msgid "Display"
+msgstr ""
+
+#. 4.2->settings-schema.json->section_general3->title
+#. 4.6->settings-schema.json->section_general3->title
+msgid "Notification contents"
+msgstr ""
+
+#. 4.2->settings-schema.json->unprotected_applets->columns->title
+#. 4.2->settings-schema.json->unprotected_desklets->columns->title
+#. 4.2->settings-schema.json->unprotected_extensions->columns->title
+#. 4.2->settings-schema.json->unprotected_themes->columns->title
+#. 3.8->settings-schema.json->unprotected_applets->columns->title
+#. 3.8->settings-schema.json->unprotected_desklets->columns->title
+#. 3.8->settings-schema.json->unprotected_extensions->columns->title
+#. 3.8->settings-schema.json->unprotected_themes->columns->title
+#. 4.6->settings-schema.json->unprotected_applets->columns->title
+#. 4.6->settings-schema.json->unprotected_desklets->columns->title
+#. 4.6->settings-schema.json->unprotected_extensions->columns->title
+#. 4.6->settings-schema.json->unprotected_themes->columns->title
+msgid "Get the latest version now"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_frequency->tooltip
+#. 4.6->settings-schema.json->general_frequency->tooltip
+msgid "Min value: 1 hour. Max value: 720 hours (30 days)."
+msgstr ""
+
+#. 4.2->settings-schema.json->general_first_check->description
+#. 4.6->settings-schema.json->general_first_check->description
+msgid "Make a first check one minute after starting"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_first_check->tooltip
+#. 4.6->settings-schema.json->general_first_check->tooltip
+msgid ""
+"By checking this box, the first check will take place one minute after "
+"starting this applet."
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons as icons"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->tooltip
+#. 4.6->settings-schema.json->general_type_notif->tooltip
+msgid ""
+"Minimal:\n"
+"\tDisplays simple and short notifications.\n"
+"With action buttons:\n"
+"\tNotifications also contain some buttons which have these roles:\n"
+"\t\tThe leftmost button opens the Download tab in System Settings for the "
+"concerned Spices, which are sorted by date (most recent first). So you can "
+"update the Spices you want.\n"
+"\t\tThe rightmost button refreshes the cache and notifications, if "
+"necessary.\n"
+"\t\tOptionally, a central button allows you to forget new spices or update "
+"the installed ones, depending on the case."
+msgstr ""
+
+#. 4.2->settings-schema.json->general_show_updateall_button->description
+#. 4.6->settings-schema.json->general_show_updateall_button->description
+msgid "Show the 'Update Now' button in notifications"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_show_updateall_button->tooltip
+#. 4.6->settings-schema.json->general_show_updateall_button->tooltip
+msgid ""
+"By checking this box, a button 'Update All' appears in notifications.\n"
+"By pressing this button:\n"
+" 1. The Download tab of the System Settings concerning this type of Spices "
+"appears.\n"
+" 2. The cache is updated.\n"
+" 3. Your Spices are updated.\n"
+" 4. When all updates are made, just close the window."
+msgstr ""
+
+#. 3.8->settings-schema.json->general_frequency->description
+#. 2.8->settings-schema.json->general_frequency->description
+msgid "Time interval between two checks (hours)"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->units
+msgid "% of screen width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->description
+msgid "Tooltip: Maximum width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->tooltip
+msgid ""
+"What is the maximum percentage of your screen width that the tooltip can "
+"occupy?"
+msgstr ""

@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 22:25+0800\n"
+"PO-Revision-Date: 2017-04-20 22:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:33
+msgid "Open System Monitor"
+msgstr "打开系统监视器"
+
+#: applet.js:72
+msgid "Click to open Gnome system monitor"
+msgstr "点击打开Gnome系统监视器"
+
+#. mem-monitor-text@datanom.net->metadata.json->description
+msgid "A simple applet that displays the memory usage."
+msgstr "一个显示内存使用率的简单的小程序。"
+
+#. mem-monitor-text@datanom.net->metadata.json->name
+msgid "Simple Memory Monitor"
+msgstr "简单的内存监视器"
+
+#. mem-monitor-text@datanom.net->settings-schema.json->mem-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr "输入要在面板中显示的自定义文本。"

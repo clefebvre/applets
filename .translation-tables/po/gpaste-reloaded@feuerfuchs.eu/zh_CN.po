@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-28 09:54+0100\n"
+"PO-Revision-Date: 2017-05-01 20:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:55
+msgid "[GPaste is not installed]"
+msgstr "[未安装GPaste]"
+
+#: applet.js:91
+msgid "GPaste clipboard"
+msgstr "GPaste 剪贴板"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->gpaste-
+#. settings->description
+#: applet.js:97 applet.js:135
+msgid "GPaste Main Program"
+msgstr "GPaste 主程序"
+
+#: applet.js:102
+msgid "Select History"
+msgstr "选择历史"
+
+#: applet.js:111
+msgid "Track clipboard changes"
+msgstr "跟踪剪贴板更改"
+
+#: applet.js:119
+msgid "(Empty)"
+msgstr "(空)"
+
+#: applet.js:122
+msgid "(No results)"
+msgstr "(没有结果)"
+
+#: applet.js:127
+msgid "New item"
+msgstr "新建条目"
+
+#: applet.js:130
+msgid "Empty history"
+msgstr "清空历史"
+
+#: applet.js:447
+msgid "Do you really want to empty the current history?"
+msgstr "你确实要清空当前历史吗？"
+
+#: GPasteNewItemDialog.js:48
+msgid "Please enter the text you want to add to the current history:"
+msgstr "请输入您想要添加到当前历史的文本："
+
+#: GPasteNewItemDialog.js:54 GPasteNotInstalledDialog.js:27
+msgid "OK"
+msgstr "确定"
+
+#: GPasteNewItemDialog.js:58
+msgid "Cancel"
+msgstr "取消"
+
+#: GPasteSearchItem.js:29
+msgid "Type to search..."
+msgstr "键入以搜索..."
+
+#: GPasteNotInstalledDialog.js:22
+msgid ""
+"GPaste is not installed. Please install the necessary packages and then "
+"restart Cinnamon for this applet to start working."
+msgstr ""
+"未安装GPaste。请安装必要的软件包，然后重启Cinnamon以使这个小程序开始工作。"
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->name
+msgid "GPaste Reloaded"
+msgstr "GPaste Reloaded"
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->description
+msgid ""
+"A complete rewrite of the GPaste applet based on the Gnome Shell extension"
+msgstr "一个基于Gnome Shell扩展完全重写的GPaste小程序"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-gpaste-
+#. ui->description
+msgid "Display 'GPaste Main Program'"
+msgstr "显示 'GPaste 主程序'"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->kb-show-
+#. history->description
+#, fuzzy
+msgid "Show history"
+msgstr "清空历史"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->other->description
+msgid "Other"
+msgstr ""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->key-
+#. bindings->description
+msgid "Key bindings"
+msgstr ""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->shown-
+#. entries->description
+msgid "Shown entries"
+msgstr "显示条目"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-empty-
+#. history->description
+msgid "Display 'Empty history'"
+msgstr "显示 '清空历史'"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-track-
+#. switch->description
+msgid "Display 'Track clipboard changes'"
+msgstr "显示 '跟踪剪贴板更改'"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-new-
+#. item->description
+msgid "Display 'New item'"
+msgstr "显示 '新建条目'"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-
+#. searchbar->description
+msgid "Display search bar"
+msgstr "显示搜索栏"

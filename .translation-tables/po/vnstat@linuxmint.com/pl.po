@@ -1,0 +1,36 @@
+# Polish translation for vnstat@linuxmint.com.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# xearonet , 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vnstat@linuxmint.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 12:43+0100\n"
+"PO-Revision-Date: 2017-06-04 15:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: xearonet\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:105
+msgid ""
+"Please make sure vnstat and vnstati are installed and that the vnstat daemon "
+"is running!"
+msgstr ""
+"Upewnij się, że posiadasz w systemie vnstat i vnstati oraz czy demon vnstat "
+"działa!"
+
+#. vnstat@linuxmint.com->metadata.json->description
+msgid "Network usage monitor using vnstat"
+msgstr "Monitor użycia sieci używa vnstat"
+
+#. vnstat@linuxmint.com->metadata.json->name
+msgid "Network usage monitor"
+msgstr "Monitor użycia sieci"

@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-10 11:09+0100\n"
+"PO-Revision-Date: 2017-04-17 12:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: applet.js\n"
+
+#: applet.js:156
+msgid "Settings"
+msgstr "设置"
+
+#: applet.js:174
+msgid "Editing Homestead configuration..."
+msgstr "编辑Homestead设置..."
+
+#: applet.js:180
+msgid "Rancher: Bringing Homestead up, please wait..."
+msgstr "Rancher：正在启动Homestead，请等待..."
+
+#: applet.js:182
+msgid "Bringing Homestead up..."
+msgstr "正在启动Homestead..."
+
+#: applet.js:185
+msgid "Rancher: Taking Homestead down, please wait..."
+msgstr "Rancher：正在关闭Homestead，请等待..."
+
+#: applet.js:187
+msgid "Taking Homestead down..."
+msgstr "正在关闭Homestead..."
+
+#: applet.js:194
+msgid "Rancher: Provisioning Homestead, please wait..."
+msgstr "Rancher：正在重新配置Homestead，请等待..."
+
+#: applet.js:196
+msgid "Provisioning Homestead..."
+msgstr "正在重新配置Homestead..."
+
+#: applet.js:200
+msgid "Rancher: Destroying Homestead, please wait..."
+msgstr "Rancher：正在销毁Homestead，请等待..."
+
+#: applet.js:202
+msgid "Destroying Homestead..."
+msgstr "正在销毁Homestead..."
+
+#: applet.js:206
+msgid "Rancher: Suspending Homestead, please wait..."
+msgstr "Rancher：正在挂起Homestead，请等待..."
+
+#: applet.js:208
+msgid "Suspending Homestead..."
+msgstr "正在挂起Homestead..."
+
+#: applet.js:213
+msgid "Homestead SSH Terminal opened"
+msgstr "Homestead SSH 终端已打开"
+
+#: applet.js:217
+msgid "Rancher: Recompiling Kernel, please wait..."
+msgstr "Rancher：正在重新编译内核，请等待..."
+
+#: applet.js:219
+msgid "Recompiling Kernel..."
+msgstr "正在重新编译内核..."
+
+#: applet.js:262
+msgid "Rancher: Homestead missing or not configured."
+msgstr "Rancher：Homestead丢失或未配置。"
+
+#: applet.js:263 applet.js:309
+msgid "Homestead missing or not configured."
+msgstr "Homestead丢失或未配置。"
+
+#: applet.js:270 applet.js:271 applet.js:315
+msgid "Kernel Module not loaded. Needs recompilation."
+msgstr "内核模块未加载。需要重新编译。"
+
+#: applet.js:276
+msgid "Rancher: Homestead up."
+msgstr "Rancher：Homestead已启动。"
+
+#: applet.js:277
+msgid "Homestead up."
+msgstr "Homestead已启动。"
+
+#: applet.js:278
+msgid " (Running)"
+msgstr " (正在运行)"
+
+#: applet.js:282
+msgid "Rancher: Homestead suspended."
+msgstr "Rancher：Homestead已挂起。"
+
+#: applet.js:283
+msgid "Homestead suspended."
+msgstr "Homestead已挂起。"
+
+#: applet.js:284
+msgid " (Suspended)"
+msgstr " (已挂起)"
+
+#: applet.js:287
+msgid "Rancher: Homestead down."
+msgstr "Rancher：Homestead已关闭。"
+
+#: applet.js:288
+msgid "Homestead down."
+msgstr "Homestead已关闭。"
+
+#: applet.js:289
+msgid " (Down)"
+msgstr " (关闭)"
+
+#: applet.js:292
+msgid "Rancher: Homestead not created."
+msgstr "Rancher：没有创建Homestead。"
+
+#: applet.js:293
+msgid "Homestead not created"
+msgstr "没有创建Homestead"
+
+#: applet.js:294 applet.js:299
+msgid " (Not created/Destroyed)"
+msgstr " (未创建/已销毁)"
+
+#: applet.js:297
+msgid "Rancher: Homestead not installed."
+msgstr "Rancher：没有安装Homestead。"
+
+#: applet.js:298 applet.js 305
+msgid "Homestead not installed"
+msgstr "没有安装Homestead"
+
+#: applet.js 306
+msgid "Click here for installation instructions"
+msgstr "点击这里查看安装说明"
+
+#: applet.js 307 applet.js:310 applet.js:370
+msgid "Refresh this menu"
+msgstr "刷新此菜单"
+
+#: applet.js 316
+msgid "Recompile Kernel Module."
+msgstr "编译内核模块。"
+
+#: applet.js 320
+msgid "Status"
+msgstr "状态"
+
+#: applet.js 323
+msgid "Run provisioning"
+msgstr "运行配置"
+
+#: applet.js 324
+msgid "Suspend Homestead"
+msgstr "挂起Homestead"
+
+#: applet.js 325
+msgid "SSH Terminal..."
+msgstr "SSH终端..."
+
+#: applet.js 329
+msgid "Destroy Homestead"
+msgstr "销毁Homestead"
+
+#: applet.js 336
+msgid "Configuration"
+msgstr "配置"
+
+#: applet.js 337
+msgid "IP: "
+msgstr "IP："
+
+#: applet.js 338
+msgid "Memory: "
+msgstr "内存："
+
+#: applet.js 339
+msgid "CPU: "
+msgstr "CPU："
+
+#: applet.js 340
+msgid "Provider: "
+msgstr "提供者："
+
+#: applet.js 342
+msgid "Edit Homestead configuration..."
+msgstr "编辑Homestead设置..."
+
+#: applet.js 345
+msgid "Hosted Sites"
+msgstr "托管网站"
+
+#: applet.js 355
+msgid "Edit hosts file..."
+msgstr "编辑主机文件..."
+
+#: applet.js 358
+msgid "Hosted Databases"
+msgstr "托管数据"
+
+#: terminal_reader.js:58
+msgid "Command not found."
+msgstr "命令未找到。"
+
+#. rancher@centurix->settings-schema.json->editor->description
+msgid "Default text editor"
+msgstr "默认文本编辑器"
+
+#. rancher@centurix->settings-schema.json->homesteadProjectFolder->description
+msgid "Homestead project folder"
+msgstr "Homestead项目文件夹"
+
+#. rancher@centurix->settings-schema.json->homesteadConfigFolder->description
+msgid "Homestead config folder"
+msgstr "Homestead配置文件夹"
+
+#. rancher@centurix->settings-schema.json->vagrantCmd->description
+msgid "Vagrant command"
+msgstr "Vagrant命令"
+
+#. rancher@centurix->metadata.json->description
+msgid "An applet to manage Homestead."
+msgstr "一个用来管理Homestead的小程序。"
+
+#. rancher@centurix->metadata.json->name
+msgid "Homestead manager"
+msgstr "Homestead管理器"
+
+#~ msgid "Homestead missing or not configured"
+#~ msgstr "Homestead丢失或未配置"
+
+#~ msgid "SSH Terminal"
+#~ msgstr "SSH终端"
+
+#~ msgid "Edit Homestead configuration"
+#~ msgstr "编辑Homestead配置"
+
+#~ msgid "Update Homestead box"
+#~ msgstr "更新Homestead盒子"

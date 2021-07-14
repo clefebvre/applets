@@ -1,0 +1,423 @@
+# Chinese translation for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2017-04-29 14:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:437
+#, fuzzy
+msgid "Network interfaces"
+msgstr "网络接口"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "总数据开始于"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "启动小程序"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "今天"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "昨天"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "3天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "5天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "7天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "10天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "14天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "30天前"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "自定义日期"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "图形用户界面"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "小"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "大"
+
+#: applet.js:825
+msgid "b"
+msgstr ""
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "总下载："
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "总上传："
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "显示网络接口的使用情况"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "下载和上传速度"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "配置"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "显示"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "每秒的平均速度"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "传输的数据量"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "显示在面板中的值"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "单位"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "字节"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "比特"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "显示在面板中的基本数据单位"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "秒"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "计算每"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "计算下载和上传速度的频率"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr ""
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "类型"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "小程序图形用户界面"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Download first"
+msgstr "下载图标"
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Upload first"
+msgstr "上传图标"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "小数位"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "自动"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0"
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1"
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2"
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3"
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr "显示面板中下载和上传速度的小数位"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "文本CSS"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "应用到面板中文本的CSS样式"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "下载图标"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "上传图标"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr ""
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "弹窗文本CSS"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr "应用到悬浮弹窗中描述文本的CSS样式"
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "弹窗数字CSS"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr "应用到悬浮弹窗中的数字的CSS样式"
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+#, fuzzy
+msgid "bytes"
+msgstr "字节"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+#, fuzzy
+msgid "A minimum download value to display in the panel"
+msgstr "显示面板中上传速度旁边的图标"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+#, fuzzy
+msgid "A minimum upload value to display in the panel"
+msgstr "显示面板中上传速度旁边的图标"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "总数据"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr "悬停时显示总下载和总上传"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr "显示下载和上传的数据总量的悬浮弹窗"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "开始"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr "计算下载和上传数据总量的开始时间"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "自定义日期"
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"自定义日期以YYYY-MM-DD格式用作开始时间。如果在“开始”组合框中选择了“自定义日"
+"期”，则会使用该选项。"
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "保存每"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr "将下载和上传的数据总量保存到文件的频率。0表示不保存到文件。"
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "数据限制"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "MB"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "数据限制"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr "下载和上传数据的最大数据量。0表示没有限制。"
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "显示数据限制使用情况"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "无"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "圆形"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "文本"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr "显示面板中已使用的数据限制的百分比"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr "超出数据限制时调用命令"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr "当下载和上传的数据量超出限制时调用命令"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "命令"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "要调用的命令"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "连接"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "鼠标左键点击时列出当前的互联网连接"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr "鼠标左键点击时打开一个包含当前连接列表的终端。再一次点击关闭终端。"
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "命令"
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr "用来列出当前互联网连接的命令"
+
+#~ msgid "Settings for download-and-upload-speed@cardsurf"
+#~ msgstr "download-and-upload-speed@cardsurf的设置"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr "显示面板中下载速度旁边的图标"

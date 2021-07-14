@@ -1,0 +1,343 @@
+# Swedish translation for feeds@jonbrettdev.wordpress.com.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: feeds@jonbrettdev.wordpress.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2017-05-09 08:26+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "Ogiltig flödesadress"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " olästa objekt!"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Läser in flöde"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "Flödesläsare"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Markera alla som lästa"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Läs in igen"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Hantera flöden"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Inställningar"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "Inga olästa flöden"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Flöden"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Högerklicka för att öppna flöde:\n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Markera alla poster som lästa"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Markera nästa "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " poster lästa"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Uppdatera flödes-URL"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Publicerad:"
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Markera posten som läst"
+
+#: applet.js:958
+msgid "d) "
+msgstr "d) "
+
+#: applet.js:960
+msgid "h) "
+msgstr "t) "
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr "(<1t) "
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Hantera dina flöden"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Instansnamn:"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Lägg till/Ta bort flödeslista"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Aktivera"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "URL"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Anpassad titel"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Avisera"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Visa lästa"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Intervall"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Visa bild"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "Importera"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_Importera OPML"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Importera flöden från OPML-fil"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "_Importera flödesfil"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Importera flöden från fil"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Exportera"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "_Exportera flödesfil"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Exportera flöden till fil"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "Alternativ"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "_Dolda fält av/på"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Dölj eller visa dolda fält"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Ändringar kommer att förkastas. Vill du fortsätta?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Nytt instansnamn (listnamn)."
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Lägg till ny instans (lista)"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Kunde inte spara konfigurationsfilen"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "Välj en OPML flödesfil"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "OPML-filer"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Välj en flödesfil"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Textfiler"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Alla filer"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "fil importerad"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "Importerade %d flöden"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "Kunde inte importera filen"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Sparade en flödesfil"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Kunde inte exportera filen, undantag: %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Kunde inte exportera filen"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "Visar RSS nyhetsflöden"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Flödesläsare"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "Flödes-URL:er"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Hantera flöden..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr "Starta flödeshanteraren för att lägga till/ta bort/redigera flöden"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "flöden"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Max antal objekt"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Max antal objekt att visa i detta flöde"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "minuter"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Uppdateringsintervall"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Tidsintervall mellan sökningar efter nya objekt"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Visa avisering för nya objekt"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "Vid aktivering, kommer popup-aviseringar att visas för nya objekt"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr "Aktivera det här, för felloggning i Looking Glass"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "Markering av det här, aktiverar felsökningsläget"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Flödesinstansnamn"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "Ändra inte! Detta modifieras av fönstret \"Hantera flöden\"."
+
+#~ msgid "Show read items"
+#~ msgstr "Visa lästa objekt"
+
+#~ msgid ""
+#~ "Controls whether previously read items are displayed in the feed menu"
+#~ msgstr "Avgör om tidigare lästa objekt skall visas i flödesmenyn"
+
+#~ msgid "Feed URL(s)"
+#~ msgstr "Flödesinställningar"
+
+#~ msgid "Enter the URLs of a valid RSS/Atom feed, one feed per line"
+#~ msgstr "Ange URL:er för giltiga RSS-/Atom-flöden, ett flöde per rad"
+
+#~ msgid "Show feed image(s)"
+#~ msgstr "Visa flödesbild(er)"
+
+#~ msgid ""
+#~ "Controls whether a display the feed image (where available) in the feed "
+#~ "menu"
+#~ msgstr "Avgör om flödets bilder (om tillgängliga) skall visas i flödesmenyn"

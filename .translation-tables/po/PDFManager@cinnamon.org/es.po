@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mickael Albertus <mickael.albertus@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr ""
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "Merge PDF"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "Extracto PDF"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "Reducir el tamaño del PDF"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "Girar izquierda PDF"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "Girar a la derecha PDF"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "Voltear verticalmente PDF"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "Abierto Visor de documentos"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr ""
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "Abierto PDF Mod"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "Abierto PDF Editor"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr ""
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "Seleccione su PDF..."
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "Fcheros PDF"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr ""
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr ""
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "Guardar como..."
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr ""
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr ""
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr ""
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr ""
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "Instalar herramientas PDFManager"
+
+#~ msgid "Click here to manage your PDF"
+#~ msgstr "Haga clic aquí para administrar sus archivos PDF"
+
+#~ msgid "Manager of PDF"
+#~ msgstr "Manager de PDF"
+
+#~ msgid "Pages to extract"
+#~ msgstr "Extracción de páginas"
+
+#~ msgid "Input pages to extract (e.g. : 1-5 7-9 or 3-end or even or odd) :"
+#~ msgstr ""
+#~ "Entrar en las páginas de extraer (e.g. : 1-5 7-9 o 3-end o even o odd) :"
+
+#~ msgid "Installation of PDFManager's tools"
+#~ msgstr "Instalación de herramientas de PDFManager"

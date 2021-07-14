@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 18:50+0200\n"
+"PO-Revision-Date: 2017-09-04 10:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:28
+msgid "ScreenShot"
+msgstr "屏幕截图"
+
+#: applet.js:33
+msgid "Current Window"
+msgstr "当前窗口"
+
+#: applet.js:38
+msgid "Selected Area"
+msgstr "选定区域"
+
+#: applet.js:44
+msgid "Whole Screen"
+msgstr "整个屏幕"
+
+#: applet.js:46
+msgid "1 Second Delay"
+msgstr "延迟1秒"
+
+#: applet.js:50
+msgid "3 Second Delay"
+msgstr "延迟3秒"
+
+#: applet.js:54
+msgid "5 Second Delay"
+msgstr "延迟5秒"
+
+#: applet.js:61
+msgid "Record Screencast"
+msgstr "屏幕录像"
+
+#: applet.js:65
+msgid "Record Desktop With Audio"
+msgstr "录制桌面（有声）"
+
+#: applet.js:68 applet.js:74 applet.js:81 applet.js:87
+msgid "Recording"
+msgstr "录制"
+
+#: applet.js:68 applet.js:81
+msgid "With-Audio"
+msgstr "有声"
+
+#: applet.js:71
+msgid "Record Desktop Without Audio"
+msgstr "录制桌面（无声）"
+
+#: applet.js:74 applet.js:87
+msgid "No-Audio"
+msgstr "无声"
+
+#: applet.js:78
+#, fuzzy
+msgid "Record Current Window With Audio"
+msgstr "录制当前窗口（有声）"
+
+#: applet.js:84
+#, fuzzy
+msgid "Record Current Window Without Audio"
+msgstr "录制当前窗口（无声）"
+
+#: applet.js:91
+#, fuzzy
+msgid "Stop Recording"
+msgstr "录制"
+
+#: applet.js:96
+msgid "Recording-Stopped"
+msgstr "录制已停止"
+
+#: applet.js:97
+msgid "Recording-Finished"
+msgstr "录制已完成"
+
+#: applet.js:107
+msgid "Take A Snapshot or Record Your Desktop"
+msgstr "对您的桌面进行截图或录像"
+
+#: applet.js:124
+msgid "Pictures Folder"
+msgstr "图片文件夹"
+
+#: applet.js:130
+msgid "Videos Folder"
+msgstr "视频文件夹"
+
+#. metadata.json->description
+msgid ""
+"Take A Snapshot Or Record Your Desktop (recording requires the packages "
+"ffmpeg, xdotool & x11-utils to be installed)"
+msgstr ""
+
+#. metadata.json->name
+msgid "ScreenShot+Record Desktop"
+msgstr "屏幕截图+桌面录像"
+
+#~ msgid "Start No Audio"
+#~ msgstr "无声开始"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "Take A Snapshot Or Record Your Desktop"
+#~ msgstr "对您的桌面进行截图或录像"
+
+#~ msgid "Record Desktop"
+#~ msgstr "桌面录像"
+
+#~ msgid "Start With Audio"
+#~ msgstr "有声开始"

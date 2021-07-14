@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 23:55+0200\n"
+"PO-Revision-Date: 2021-03-23 21:37+0100\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:152
+msgid "Bumblebee program not installed"
+msgstr "Bumblebee program nincs installálva"
+
+#: applet.js:152
+msgid ""
+"You appear to be missing some of the required programs for 'bumblebee' to "
+"switch graphics processors using NVIDIA Optimus."
+msgstr ""
+"Úgy tűnik, hogy hiányzik néhány szükséges program a „bumblebee” számára a "
+"grafikus processzorok nVidia Optimus-szal történő váltásához."
+
+#: applet.js:152
+msgid "Please read the help file."
+msgstr "Kérjük, olvassa el a súgófájlt."
+
+#: applet.js:172
+msgid "Waiting for Bumblebee"
+msgstr "Várakozás Bumblebee-re"
+
+#: applet.js:232
+msgid "Open nVidia Settings Program"
+msgstr "NVidia beállítások megnyitása"
+
+#: applet.js:238
+msgid "Open Power Statistics"
+msgstr "Energiastatisztika megnyitása"
+
+#: applet.js:244
+msgid "Open System Monitor"
+msgstr "Rendszer Figyelő megnyitása"
+
+#: applet.js:253
+msgid "Housekeeping and System Sub Menu"
+msgstr "Karbantartás és Rendszer Almenü"
+
+#: applet.js:256
+msgid "View the Changelog"
+msgstr "Változásnapló megtekintése"
+
+#: applet.js:262
+msgid "Open the Help file"
+msgstr "Sugó megnyitása"
+
+#: applet.js:278
+msgid "Launch programs using the nVidia Graphics Processor"
+msgstr "Program indítása nVidia grafikus processzorral"
+
+#: applet.js:359
+msgid "NVidia based GPU is Off"
+msgstr "NVidia GPU kikapcsolva"
+
+#: applet.js:384
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia GPU bekapcsolva és a maghőmérséklete"
+
+#: applet.js:392
+msgid "Err"
+msgstr "Err"
+
+#: applet.js:393
+msgid ""
+"Bumblebee is not set up correctly - are bbswitch, bumblebee and nvidia "
+"drivers installed?"
+msgstr ""
+"Bumblebee nincs megfelelően beállítva - telepítve vannak a bbswitch, a "
+"Bumblebee és az nVidia illesztőprogramok?"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "A GPU hőmérséklete és az ikon megjelenítése"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Elérhető a vízszintes és függőleges paneleken. Megjelenítés Celsius fokban."
+
+#. bumblebee@pdcurtis->settings-schema.json->head2->description
+msgid "Programs settings for Optimus"
+msgstr "Programbeállítások az Optimus számára"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->description
+msgid "Command String for Program 2"
+msgstr "Parancssor a 2. programhoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->tooltip
+msgid ""
+"Put the command string to run the program here starting with optirun or "
+"primusrun"
+msgstr ""
+"Írja a parancssort ide a program futtatásához, kezdve az optirun vagy a "
+"primusrun-nal"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->description
+msgid "Command String for Program 3"
+msgstr "Parancssor a 3. programhoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->description
+msgid "Command String for Program 1"
+msgstr "Parancssor az 1. programhoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Monitoring Applet"
+msgstr "Általános beállítások az nVidia Figyelő Kisalkalmazáshoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->description
+msgid "Command String for Program 4"
+msgstr "Parancssor a 4. programhoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->description
+msgid "Command String for Program 5"
+msgstr "Parancssor az 5. programhoz"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->description
+msgid "Display Name of Program 4 to be run using Optimus technology"
+msgstr "Az Optimus technológiával futtatandó 4. program megjelenített neve"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description5->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description3->tooltip
+msgid ""
+"Put the name of the program here or none if you do not want it displayed"
+msgstr ""
+"Írja ide a program nevét, vagy hagyja üresen, ha nem szeretné, hogy "
+"megjelenjen"
+
+#. bumblebee@pdcurtis->settings-schema.json->description5->description
+msgid "Display Name of Program 5 to be run using Optimus technology"
+msgstr "Az Optimus technológiával futtatandó 5. program megjelenített neve"
+
+#. bumblebee@pdcurtis->settings-schema.json->description2->description
+msgid "Display Name of Program 2 to be run using Optimus technology"
+msgstr "Az Optimus technológiával futtatandó 2. program megjelenített neve"
+
+#. bumblebee@pdcurtis->settings-schema.json->description3->description
+msgid "Display Name of Program 3 to be run using Optimus technology"
+msgstr "Az Optimus technológiával futtatandó 3. program megjelenített neve"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->description
+msgid "Display Name of Program 1 to be run using Optimus technology"
+msgstr "Az Optimus technológiával futtatandó 1. program megjelenített neve"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->tooltip
+msgid ""
+"Put the name of the program here or null if you do not want it displayed"
+msgstr ""
+"Írja ide a program nevét, vagy írjon 0-át, ha nem szeretné, hogy megjelenjen"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Frissítési intervallum megjelenítése:"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Növelje vagy csökkentse ezt a tárcsaértéket a frissítési intervallum "
+"megváltoztatásához - használjon lassú frissítési értéket, ha lassú "
+"számítógépe van"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "másodpercek"
+
+#. bumblebee@pdcurtis->metadata.json->description
+msgid ""
+"Displays Status of Bumblebee and nVidia GPU Temperature with associated "
+"support functions including starting selected programs with optirun or "
+"primusrun"
+msgstr ""
+"Megjeleníti a Bumblebee és az nVidia GPU hőmérsékletét a kapcsolódó "
+"támogatási funkciókkal, beleértve a kiválasztott programok indítását optirun "
+"vagy primusrun segítségével"
+
+#. bumblebee@pdcurtis->metadata.json->name
+msgid "Bumblebee Status with NVidia Temperature Display"
+msgstr "Bumblebee státusz nVidia hőmérséklet megjelenítésével"

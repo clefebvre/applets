@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-01 20:00+0100\n"
+"PO-Revision-Date: 2019-10-17 20:48+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:45
+msgid "Turn off monitor"
+msgstr "Spegni schermo"
+
+#. metadata.json->name
+msgid "Turn Off Monitor"
+msgstr "Spegni Schermo"
+
+#. metadata.json->description
+msgid "Click on the applet to turn off monitor"
+msgstr "Clicca sull'applet per spegnere lo schermo"
+
+#. settings-schema.json->General->title
+msgid "General"
+msgstr ""
+
+#. settings-schema.json->section-mouse->title
+msgid "Mouse"
+msgstr ""
+
+#. settings-schema.json->section-keybinding->title
+msgid "Shortcuts"
+msgstr ""
+
+#. settings-schema.json->section-icon->title
+msgid "Icon"
+msgstr ""
+
+#. settings-schema.json->mouse-deactivation-duration->units
+msgid "seconds"
+msgstr ""
+
+#. settings-schema.json->mouse-deactivation-duration->description
+msgid "Duration of deactivation of the mouse"
+msgstr ""
+
+#. settings-schema.json->mouse-deactivation-duration->tooltip
+msgid ""
+"To prevent the monitor from turning on too soon after turning it off, the "
+"mouse will be disabled for the number of seconds set here."
+msgstr ""
+
+#. settings-schema.json->keybinding->description
+msgid "Keyboard shortcut to turn off your monitor"
+msgstr ""
+
+#. settings-schema.json->use-symbolic-icon->description
+msgid "Use a symbolic icon"
+msgstr ""
+
+#. settings-schema.json->icon-color->description
+msgid "Color of the symbolic icon"
+msgstr ""

@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:47+0200\n"
+"PO-Revision-Date: 2017-12-05 19:41+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:46
+msgid "Tor network"
+msgstr "Tor-netværk"
+
+#: applet.js:50
+msgid "Rebuild chain"
+msgstr "Genbyg kæde"
+
+#: applet.js:82 applet.js:143
+msgid "Tor disabled"
+msgstr "Tor er deaktiveret"
+
+#: applet.js:88 applet.js:107 applet.js:126 applet.js:154
+msgid "Error"
+msgstr "Fejl"
+
+#: applet.js:88
+msgid "Unable to parse "
+msgstr "Kan ikke fortolke "
+
+#: applet.js:107
+msgid "Unable to open configuration file "
+msgstr "Kan ikke åbne konfigurationsfilen"
+
+#: applet.js:121
+msgid "Process launched."
+msgstr "Proces opstartet."
+
+#: applet.js:122
+msgid "Tor enabled"
+msgstr "Tor er aktiveret"
+
+#: applet.js:126
+msgid "Unable to start Tor: "
+msgstr "Kunne ikke starte Tor: "
+
+#: applet.js:142
+msgid "Process closed."
+msgstr "Proces lukket."
+
+#: applet.js:154
+msgid "Tor is not running."
+msgstr "Tor kører ikke."
+
+#. tor-button@shatur->settings-schema.json->showNotifications->description
+msgid "Show notifications"
+msgstr "Vis meddelelser"
+
+#. tor-button@shatur->settings-schema.json->showNotifications->tooltip
+msgid "Show notifications when the Tor network is turned on/off."
+msgstr "Vis meddelelser, når der tændes/slukkes for Tor-netværket."
+
+#. tor-button@shatur->settings-schema.json->torPath->description
+msgid "Tor location path"
+msgstr "Sti til Tors placering"
+
+#. tor-button@shatur->settings-schema.json->torPath->tooltip
+msgid "Specify the command to launch Tor."
+msgstr "Angiv kommandoen til at starte Tor."
+
+#. tor-button@shatur->settings-schema.json->torrc-page->title
+msgid "Tor settings"
+msgstr "Tor-indstillinger"
+
+#. tor-button@shatur->settings-schema.json->applet-section->title
+msgid "Settings for applet"
+msgstr "Indstillinger for panelprogrammet"
+
+#. tor-button@shatur->settings-schema.json->applet-page->title
+msgid "Applet settings"
+msgstr "Panelprogramindstillinger"
+
+#. tor-button@shatur->settings-schema.json->torrc-section->title
+msgid "Settings for Tor"
+msgstr "Indstillinger for Tor"
+
+#. tor-button@shatur->settings-schema.json->configPath->description
+msgid "Tor config path"
+msgstr "Sti til Tors konfiguration"
+
+#. tor-button@shatur->settings-schema.json->configPath->tooltip
+msgid "Specify the path to torrc file."
+msgstr "Angiv stien til torrc-filen."
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->description
+msgid "Launch Tor as tor user"
+msgstr "Kør Tor som tor-bruger"
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->tooltip
+msgid ""
+"Launch Tor with polkit as tor user. Needed if you don't have permissions to "
+"launch Tor as normal user."
+msgstr ""
+"Kør Tor med polkit som tor-bruger. Nødvendigt hvis du ikke har rettigheder "
+"til at køre Tor som normal bruger."
+
+#. tor-button@shatur->metadata.json->description
+msgid "Applet for Tor network management"
+msgstr "Håndtering af Tor-netværk"
+
+#. tor-button@shatur->metadata.json->name
+msgid "Tor Button"
+msgstr "Tor-knap"
+
+#~ msgid "Refresh Interval for check Tor activity:"
+#~ msgstr "Opdateringsinterval for tjek af Tor-aktivitet:"
+
+#~ msgid "Increase or decrease refresh interval for check Tor status."
+#~ msgstr ""
+#~ "Forøg eller formindsk opdateringsintervallet for tjek af Tors status."
+
+#~ msgid "Show Tor notifications launch."
+#~ msgstr "Vis meddelelser om opstart af Tor."

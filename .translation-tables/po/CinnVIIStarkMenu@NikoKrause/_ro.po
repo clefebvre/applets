@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 23:23+0100\n"
+"PO-Revision-Date: 2017-09-23 00:35+0300\n"
+"Last-Translator: Romeo Cristian Danilet <yupy17y@live.com>\n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: 4.2/applet.js:635
+msgid "Search for results on the web"
+msgstr ""
+
+#: 4.2/applet.js:3280
+msgid "Clear all recent documents"
+msgstr ""
+
+#. 3.2->settings-schema.json->all-programs-label->tooltip
+#. 2.6->settings-schema.json->all-programs-label->tooltip
+#. 3.4->settings-schema.json->all-programs-label->tooltip
+#. 4.2->settings-schema.json->all-programs-label->tooltip
+msgid "Enter custom text for the 'All Programs' button."
+msgstr ""
+
+#. 4.2->settings-schema.json->websearch->title
+msgid "Web Search"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search-engine->title
+#. 4.2->settings-schema.json->web-search->description
+msgid "Web Search Engine"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-custom->description
+msgid "Use a custom icon and label"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-custom->tooltip
+msgid "Check this to specify a custom icon and label"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-label->description
+msgid "Text"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->description
+msgid "Reverse quit button order"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->tooltip
+msgid ""
+"Choose whether to display the 'Quit' button first or last. (Has no effect on "
+"'DropDown' layout.)"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Use"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Name"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "URL"
+msgstr ""

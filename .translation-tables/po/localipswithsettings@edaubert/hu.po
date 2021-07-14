@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-23 10:37+0800\n"
+"PO-Revision-Date: 2021-03-30 20:52+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:47
+msgid "Your local IPs."
+msgstr "Az ön helyi IP címei."
+
+#. localipswithsettings@edaubert->metadata.json->description
+msgid "Shows local IP addresses."
+msgstr "Helyi IP címek megjelenítése."
+
+#. localipswithsettings@edaubert->metadata.json->name
+msgid "Local IPs with settings"
+msgstr "Helyi IP címek és beállításaik"
+
+#. localipswithsettings@edaubert->settings-
+#. schema.json->refreshInterval->description
+msgid "Update interval"
+msgstr "Frissítési gyakoriság"
+
+#. localipswithsettings@edaubert->settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. localipswithsettings@edaubert->settings-schema.json->IPv4->description
+msgid "Display IPv4 information"
+msgstr "IPv4 információ megjelenítése"
+
+#. localipswithsettings@edaubert->settings-schema.json->inet->description
+msgid ""
+"List all interfaces we want to display.\n"
+"Separated by comma.\n"
+"Regex is accepted (usefull to list all docker interfaces for example)"
+msgstr ""
+"Sorolja fel az összes megjeleníteni kívánt felületet.\n"
+"Vesszővel elválasztva.\n"
+"A regex elfogadott (hasznos például az összes dokkoló interfész "
+"felsorolásához)"
+
+#. localipswithsettings@edaubert->settings-schema.json->IPv6->description
+msgid "Display IPv6 information"
+msgstr "IPv6 információ megjelenítése"

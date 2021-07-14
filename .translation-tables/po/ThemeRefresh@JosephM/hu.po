@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 14:04+0800\n"
+"PO-Revision-Date: 2021-04-04 16:22+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:27
+msgid "Refresh Current Cinnamon Theme"
+msgstr "Jelenlegi Cinnamon téma frissítése"
+
+#. ThemeRefresh@JosephM->metadata.json->description
+msgid "A simple applet that allows you to refresh the current Cinnamon Theme"
+msgstr ""
+"Egy egyszerű kisalkalmazás, amely lehetővé teszi az aktuális Cinnamon téma "
+"frissítését"
+
+#. ThemeRefresh@JosephM->metadata.json->name
+msgid "Reload Current Theme"
+msgstr "Jelenlegi téma újratöltése"

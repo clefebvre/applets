@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-22 12:21-0300\n"
+"PO-Revision-Date: 2017-11-11 12:11+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:199
+msgid "Computer"
+msgstr "Bilgisayar"
+
+#: applet.js:211
+msgid "File System"
+msgstr "Dosya Sistemi"
+
+#. places-bookmarks@dmo60.de->metadata.json->name
+msgid "Places"
+msgstr "Konumlar"
+
+#. places-bookmarks@dmo60.de->metadata.json->description
+msgid "Access your places and bookmarks"
+msgstr "Konumlar ve yerimlerinize erişin"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_icon_size->description
+msgid "Menu items icon size"
+msgstr "Menü öğeleri simge boyutu"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_icon_size->units
+msgid "pixels"
+msgstr "piksel"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->head->description
+msgid "Settings for places-bookmarks@dmo60.de"
+msgstr "Konumlar uygulamacığı için ayarlar"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_icon->description
+msgid "Applet icon"
+msgstr "Uygulamacık simgesi"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_icon->tooltip
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_label->tooltip
+msgid "Leave blank to remove."
+msgstr "Silmek için boş bırakın."
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_label->description
+msgid "Applet label"
+msgstr "Uygulamacık etiketi"

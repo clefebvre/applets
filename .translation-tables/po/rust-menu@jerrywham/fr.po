@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-13 12:38+0800\n"
+"PO-Revision-Date: 2020-04-18 22:56+0200\n"
+"Last-Translator: jerrywham <contact@ecyseo.net>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:82
+msgid "Open cook book"
+msgstr "Ouvrir la documentation"
+
+#: applet.js:86
+msgid "Open projects directory"
+msgstr "Ouvrir le repertoire de projets"
+
+#: applet.js:93
+msgid "First edition of cook book"
+msgstr "Première édition de la doc"
+
+#: applet.js:96
+msgid "Rust by example"
+msgstr "Rust par l'exemple"
+
+#: applet.js:99
+msgid "Cargo book"
+msgstr "Manuel de Cargo"
+
+#: applet.js:102
+msgid "Rustc book"
+msgstr "Manuel de Rustc"
+
+#: applet.js:105
+msgid "Rustdoc book"
+msgstr "Manuel de Rustdoc"
+
+#: applet.js:112
+msgid "Create std"
+msgstr "Create std"
+
+#: applet.js:115
+msgid "Create alloc"
+msgstr "Create alloc"
+
+#: applet.js:118
+msgid "Create core"
+msgstr "Create core"
+
+#: applet.js:121
+msgid "Create proc_macro"
+msgstr "Create proc_macro"
+
+#: applet.js:124
+msgid "Create test"
+msgstr "Create test"
+
+#: applet.js:131
+msgid "Edition guide"
+msgstr "Manuel d'édition"
+
+#: applet.js:134
+msgid "Reference guide"
+msgstr "Manuel de référence"
+
+#: applet.js:137
+msgid "Embedded book"
+msgstr "Manuel pour l'embarqué"
+
+#: applet.js:140
+msgid "Rustonomicon book"
+msgstr "Manuel pour usage non sûrs"
+
+#: applet.js:143
+msgid "Unstable book"
+msgstr "Manuel non stable"
+
+#: applet.js:150
+msgid "Launch Nursery"
+msgstr "Lancer Nursery"
+
+#. rust-menu@jerrywham->metadata.json->description
+msgid "A Menu for Rust Developers"
+msgstr "Un menu pour les développeurs Rust"
+
+#. rust-menu@jerrywham->settings-schema.json->head->description
+msgid "Applet Settings"
+msgstr "Configuration de l'appliquette"
+
+#. rust-menu@jerrywham->settings-schema.json->use-custom-directory->description
+msgid "Check this to use a custom directory"
+msgstr "Activez ce curseur pour personnaliser le dossier principal"
+
+#. rust-menu@jerrywham->settings-schema.json->use-custom-directory->tooltip
+msgid ""
+"Checking this box allows you to set a custom directory in the field below"
+msgstr ""
+"Activer ce curseur vous permettra de modifier le dossier principal de vos "
+"projets RUST"
+
+#. rust-menu@jerrywham->settings-schema.json->custom-directory->description
+msgid "Custom Directory Projects"
+msgstr "Dossier principal personnalisé"
+
+#. rust-menu@jerrywham->settings-schema.json->custom-directory->tooltip
+msgid ""
+"Set your custom directory here.  This field is unavailable unless the switch "
+"above is enabled"
+msgstr ""
+"Renseignez votre dossier personnalisé ici. Ce champ n'est valable que si le "
+"curseur ci-dessous est activé"
+
+#. rust-menu@jerrywham->settings-schema.json->keybinding-project->description
+msgid "Keybinding, which open the documentation"
+msgstr "Raccourci clavier pour ouvrir la documentation"
+
+#. rust-menu@jerrywham->settings-schema.json->keybinding-documentation->description
+msgid "Keybinding, which open the RUST projects directory"
+msgstr "Raccourci clavier pour ouvrir le dossier principal des projets RUST"
+
+#~ msgid "Rust Developer Menu"
+#~ msgstr "Rust Developer Menu"

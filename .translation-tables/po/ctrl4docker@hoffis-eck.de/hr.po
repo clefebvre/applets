@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Docker Container\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 14:29+0100\n"
+"PO-Revision-Date: 2017-02-23 23:22+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:77
+msgid "Checking status"
+msgstr "Provjera stanja"
+
+#: applet.js:108
+msgid "Container does not exist"
+msgstr "Spremnik ne postoji"
+
+#: applet.js:111
+msgid "Containername is in use"
+msgstr "Naziv spremnika je u upotrebi"
+
+#: applet.js:114
+msgid "Container is running"
+msgstr "Spremnik je pokrenut"
+
+#: applet.js:117
+msgid "Container is paused"
+msgstr "Spremnik je pauziran"
+
+#: applet.js:120
+msgid "Container has an error"
+msgstr "Spremnik ima grešku"
+
+#: applet.js:123
+msgid "Container is not running"
+msgstr "Spremnik nije pokrenut"
+
+#: applet.js:129
+msgid "Error, trying to set unknown status!"
+msgstr "Greška, pokušaj postavljanja nepoznatog stanja!"
+
+#: applet.js:158
+msgid "Error, don't know what to do on unknown status!"
+msgstr "Greška, ne znam što činiti pri nepoznatom stanju!"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->image->description
+msgid "docker image"
+msgstr "docker slika"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->container->description
+msgid "container name"
+msgstr "naziv spremnika"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->parameter->description
+msgid "parameter for the container"
+msgstr "parametar za spremnik"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->description
+msgid "Activates/Deactivates Docker Container"
+msgstr "Aktivira/Deaktivira spremnik Dockera"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->name
+msgid "Docker Control"
+msgstr "Upravljanje Dockera"

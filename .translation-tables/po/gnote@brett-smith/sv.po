@@ -1,0 +1,60 @@
+# Swedish translation for gnote@brett-smith.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnote@brett-smith\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-26 18:09+0000\n"
+"PO-Revision-Date: 2019-12-30 17:30+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:209
+msgid "Type to search..."
+msgstr "Skriv vad du söker..."
+
+#: applet.js:302
+msgid "Gnote stopped working!"
+msgstr "Gnote slutade fungera!"
+
+#: applet.js:305
+msgid "Gnote isn't running! Do you have it installed?"
+msgstr "Gnote är inte igång! Har du den installerad?"
+
+#. metadata.json->name
+#: applet.js:338
+msgid "Gnote"
+msgstr "Gnote"
+
+#: applet.js:359
+msgid "New Note"
+msgstr "Ny anteckning"
+
+#: applet.js:423
+msgid "GNote DBus service not found. Is GNote installed?"
+msgstr "GNote DBus-tjäns kunde inte hittas. Är GNote installerad?"
+
+#: applet.js:425
+msgid "Click to see error!"
+msgstr "Klicka för att se fel!"
+
+#: applet.js:427
+msgid "Error: "
+msgstr "Fel: "
+
+#: applet.js:428
+msgid "Retry"
+msgstr "Försök igen"
+
+#. metadata.json->description
+msgid "Lists notes, view, create notes and search notes."
+msgstr "Lista anteckningar, visa, skapa och sök anteckningar."

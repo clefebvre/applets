@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2021-04-02 09:09+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "Ikon megjelenítése"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "Mindig"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "Amikor a nyomtató elérhető"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "Nyomtatáskor"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "Mikor jelenítse meg az ikont"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "Nyomtató hibák"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "Nyomtató hiba ikon megjelenítése"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "Dokumentumok számlálása"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "Dokumentum számláló megjelenítése az ikon mellett"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "Dokumentum száma"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "Az egyes dokumentumszámok megjelenítése a nyomtatási listán"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "Előre küldés"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "A dokumentumokat előre lehet küldeni"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "Szimbolikus ikonok"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "Szimbolikus ikonok használata"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr "Kisalkalmazás újratöltése"
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr "CUPS újratöltése"
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "Nyomtatók"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "Összes nyomtatás megszakítása"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "itt"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "Nyomtatás és nyomtatók kezelése"

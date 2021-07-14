@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: 2021-03-04 23:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr "PDF'lerinizi yönetin"
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "PDF birleştir"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "PDF çıkart"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "PDF boyutunu küçült"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "PDF sola döndür"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "PDF sağa döndür"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "PDF dikey çevir"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "Belge Görüntüleyici aç"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr "Evince aç"
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "PDF Mod aç"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "PDF Düzenleyiciyi aç"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr "PDF Toolkit kurulumu gerekiyor"
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+"PDF toolkit kurulumunu istiyor musunuz? İşlemleriniz kurulumdan sonra "
+"gerçekleştirilecektir."
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+"Kurulum başarısız. Tekrar denemek ister misiniz? İşlemleriniz kurulumdan "
+"sonra gerçekleştirilecektir."
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "PDF seçin..."
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "PDF dosyaları"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr "PDF küçültme"
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr "PDF'niz küçültülüyor... Seçili dosyaları değiştirmeyin!"
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "Farklı kaydet..."
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr "Aşağıdaki sayfaları çıkart (örneğin: 1-10 15-17):"
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr "Çift sayfaları çıkart"
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr "Tekil sayfaları çıkart"
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr "PDF-Yönetici"
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr "PDF manipüle etmek için kullanışlı bir uygulamacık"

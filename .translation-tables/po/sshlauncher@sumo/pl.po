@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-19 17:20+0100\n"
+"PO-Revision-Date: 2020-10-22 14:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: krzysztof.blachowicz@gmail.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+
+#. metadata.json->name
+#: applet.js:40 applet.js:56 applet.js:99 applet.js:206 applet.js:223
+msgid "SSH Launcher"
+msgstr ""
+
+#: applet.js:99
+msgid "No suitable icon found, falling back to custom icon"
+msgstr "Nie znaleziono odpowiedniej ikony, przywracanie własnej ikony"
+
+#: applet.js:105
+msgid "Force Update from SSH config"
+msgstr "Wymuś aktualizację konfiguracji SSH"
+
+#: applet.js:143
+msgid "Background (-fN)"
+msgstr "W tle (-fN)"
+
+#: applet.js:146
+msgid "Forward X11 (-X)"
+msgstr "Przekieruj X11 (-X)"
+
+#: applet.js:187
+msgid "ERROR. "
+msgstr "BŁĄD. "
+
+#: applet.js:190
+msgid "Edit SSH config"
+msgstr "Edytuj konfigurację SSH"
+
+#: applet.js:206
+msgid ""
+"Error: I can't open the terminal.\n"
+"You need to set a default terminal first in Preferred Applications!\n"
+"\n"
+"(More help in Right Click->About->More Info)"
+msgstr ""
+"Błąd: nie można otworzyć terminala.\n"
+"Musisz ustawić domyślny terminal w 'Preferowane programy'!\n"
+"\n"
+"(Aby uzyskać pomoc kliknij prawym przyciskiem myszy -> O programie... -> "
+"Więcej informacji)"
+
+#: applet.js:223
+msgid "Connection opened to "
+msgstr "Nawiązano połączenie z "
+
+#: applet.js:223
+msgid " using "
+msgstr " używając "
+
+#. settings-schema.json->headAppearance->description
+msgid "Appearance"
+msgstr "Wygląd"
+
+#. settings-schema.json->themeIcon->description
+msgid "Use icon from your icon theme"
+msgstr "Używaj ikony z motywu ikon"
+
+#. settings-schema.json->symbolicIcon->description
+msgid "Use symbolic icon"
+msgstr "Używaj ikony symbolicznej"
+
+#. settings-schema.json->headFunc->description
+msgid "Functionality"
+msgstr "Funkcjonalność"
+
+#. settings-schema.json->customCommand->description
+msgid "Use custom command for opening terminal"
+msgstr "Użyj własnego polecenia otwierania terminala"
+
+#. settings-schema.json->customCommand->tooltip
+msgid ""
+"Usually it should end with -e so it will execute the supplied ssh command, "
+"check your chosen terminal's manual."
+msgstr ""
+"Zwykle powinno kończyć się opcją -e, tak aby uruchomić polecenie ssh. "
+"Sprawdź szczegóły w pomocy wybranego terminala."
+
+#. metadata.json->description
+msgid "An applet to connect to SSH hosts configured in ~/.ssh/config"
+msgstr "Aplet do nawiązywania połączeń SSH skonfigurowanych w ~/.ssh/config"

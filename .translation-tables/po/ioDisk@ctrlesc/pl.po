@@ -1,0 +1,49 @@
+# Polish translation for ioDisk@ctrlesc.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# xearonet , 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ioDisk@ctrlesc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 12:03+0800\n"
+"PO-Revision-Date: 2017-09-03 12:29+0200\n"
+"Last-Translator: xearonet \n"
+"Language-Team: xearonet <xearonet@o2.pl>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#. ioDisk@ctrlesc->metadata.json->name
+#: applet.js:95
+msgid "Disk Utilization"
+msgstr "Użycie dysku"
+
+#: applet.js:99
+msgid "Command [iostat] not found."
+msgstr "Brak programu [iostat] ."
+
+#: applet.js:149
+msgid "No drives detected."
+msgstr "Brak dysków."
+
+#: applet.js:223
+msgid "io: ??%"
+msgstr "io: ??%"
+
+#: applet.js:235
+msgid "Error executing iostat."
+msgstr "Błąd uruchomienia iostat."
+
+#. ioDisk@ctrlesc->metadata.json->description
+msgid ""
+"Shows the current max disk I/O utilization in the panel and per device "
+"utilization in a popup menu."
+msgstr ""
+"Pokazuje maksymalny zapis/odczyt dysków w panelu oraz dla każdego urządzenia "
+"w dymku."

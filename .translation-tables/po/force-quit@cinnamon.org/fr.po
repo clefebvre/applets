@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-01 13:38+0200\n"
+"PO-Revision-Date: 2020-07-12 15:38+0200\n"
+"Last-Translator: claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:25
+msgid "Click here to kill a window"
+msgstr ""
+"Cliquer ici puis sur la fenêtre d'une application pour la tuer\n"
+"(clic droit pour ne rien faire)"
+
+#. metadata.json->name
+msgid "Force Quit"
+msgstr "Forcer à quitter (Force Quit)"
+
+#. metadata.json->description
+msgid ""
+"Click on the applet to launch xkill and force any window to quit immediately"
+msgstr ""
+"Cliquez sur l'applet pour lancer xkill puis forcez la fermeture immédiate "
+"d'une application en cliquant sur sa fenêtre"

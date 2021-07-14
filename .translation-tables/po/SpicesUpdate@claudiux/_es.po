@@ -1,0 +1,45 @@
+# SpicesUpdate@claudiux Applet POT File.
+# Copyright (C) 2019 Claudiux <claude.clerc@gmail.com>
+# This file is distributed under the same license as the Cinnamon package.
+# FIRST AUTHOR Claudiux <claude.clerc@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SpicesUpdate@claudiux v2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 16:29+0200\n"
+"PO-Revision-Date: 2020-07-31 04:00+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 4.6/applet.js:2028
+msgid "The Cinnamon Server seems to be DOWN!"
+msgstr ""
+
+#: 4.6/applet.js:2028
+msgid "Middle-Click to Retry"
+msgstr ""
+
+#. 4.6->settings-schema.json->section_general4->title
+msgid "Display"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->units
+msgid "% of screen width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->description
+msgid "Tooltip: Maximum width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->tooltip
+msgid ""
+"What is the maximum percentage of your screen width that the tooltip can "
+"occupy?"
+msgstr ""

@@ -1,0 +1,269 @@
+# Catalan translations for PACKAGE package.
+# Copyright (C) 2014 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# carlos <c.carrizosa@gmx.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:26+0100\n"
+"PO-Revision-Date: 2021-02-16 11:26+0100\n"
+"Last-Translator: carlos <c.carrizosa@gmx.com>\n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+# notifications
+#: applet.js:394
+msgid "Pomodoro started"
+msgstr "Inici del pomodoro"
+
+#: applet.js:437 applet.js:737
+msgid "Waiting to start"
+msgstr ""
+
+#: applet.js:455
+#, javascript-format
+msgid "Pomodori %d, set %d running"
+msgstr ""
+
+#: applet.js:462
+msgid "Let's go to work!"
+msgstr ""
+
+#: applet.js:477
+msgid "Take a short break"
+msgstr "Pren un descans curt"
+
+#: applet.js:478
+#, fuzzy
+msgid "Short break running"
+msgstr "Duració del descans curt:  "
+
+#: applet.js:497
+msgid "Take a long break"
+msgstr "Pren un descans llarg"
+
+#: applet.js:499
+#, fuzzy
+msgid "Long break running"
+msgstr "Duració del descans llarg:  "
+
+#: applet.js:533
+msgid "Pomodoro ended"
+msgstr "Fi del pomodoro"
+
+#: applet.js:665
+msgid "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+msgstr ""
+
+# applet menu
+#. metadata.json->name
+#: applet.js:837
+msgid "Pomodoro Timer"
+msgstr "Cronòmetre Pomodoro"
+
+#: applet.js:848
+msgid "Completed"
+msgstr "Completats"
+
+#: applet.js:861
+msgid "Reset Timer"
+msgstr "Reiniciar cronometre"
+
+#: applet.js:873
+msgid "Reset Counts and Timer"
+msgstr "Reiniciar comptador i cronòmetre"
+
+#: applet.js:886
+msgid "What is this?"
+msgstr "Què és això?"
+
+#: applet.js:943
+msgid "None"
+msgstr "Cap"
+
+# dialog
+#: applet.js:973
+msgid "Switch Off Pomodoro"
+msgstr "Tancar Pomodoro"
+
+#: applet.js:979
+msgid "Start a new Pomodoro"
+msgstr "Començar un nou Pomodoro"
+
+#: applet.js:985
+msgid "Hide"
+msgstr "Amaga"
+
+#: applet.js:997
+#, fuzzy
+msgid "Pomodoro set finished, you deserve a break!"
+msgstr "Pomodoro finalitzat, et mereixes un descans!"
+
+#: applet.js:1005
+msgid "Your break is over, start another pomodoro!"
+msgstr "El descans s'acaba, comença un altre pomodoro!"
+
+#: applet.js:1010
+#, fuzzy, javascript-format
+msgid "A new pomodoro begins in %s."
+msgstr "Un nou pomodoro comença en "
+
+#: applet.js:1021
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1022
+#, javascript-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1024
+#, javascript-format
+msgid "%s and %s"
+msgstr ""
+
+#: applet.js:1048
+msgid "Continue Current Pomodoro"
+msgstr ""
+
+#: applet.js:1054
+#, fuzzy
+msgid "Pause Pomodoro"
+msgstr "Començar un nou Pomodoro"
+
+#: applet.js:1065
+msgid "Short break finished, ready to continue?"
+msgstr ""
+
+#. settings-schema.json->head_durations->description
+msgid "Durations (minutes)"
+msgstr "Duracions (minuts)"
+
+#. settings-schema.json->pomodoro_duration->description
+#, fuzzy
+msgid "Pomodoro Duration:"
+msgstr "Duració del pomodoro:  "
+
+#. settings-schema.json->short_break_duration->description
+#, fuzzy
+msgid "Short Break Duration:"
+msgstr "Duració del descans curt:  "
+
+#. settings-schema.json->long_break_duration->description
+#, fuzzy
+msgid "Long Break Duration:"
+msgstr "Duració del descans llarg:  "
+
+#. settings-schema.json->pomodori_number->description
+#, fuzzy
+msgid "Number of pomodori before long break:"
+msgstr "Número de pomodoros abans del descans llarg:  "
+
+#. settings-schema.json->head_options->description
+msgid "Options"
+msgstr "Opcions"
+
+#. settings-schema.json->show_dialog_messages->description
+msgid "Show Dialog Messages"
+msgstr "Mostra missatges "
+
+#. settings-schema.json->auto_start_after_short_break_ends->description
+#, fuzzy
+msgid "Auto start after a short break ends"
+msgstr "Comença un nou pomodoro després que finalitzi un descans"
+
+#. settings-schema.json->auto_start_after_break_ends->description
+msgid "Auto start a new pomodoro after a break ends"
+msgstr "Comença un nou pomodoro després que finalitzi un descans"
+
+#. settings-schema.json->display_icon->description
+msgid "Display the pomodoro icon in the applet panel"
+msgstr "Mostra la icona pomodoro en el panell de miniaplicacions"
+
+#. settings-schema.json->use_symbolic_icon->description
+#, fuzzy
+msgid "Use a symbolic icon in the applet panel"
+msgstr "Mostra la icona pomodoro en el panell de miniaplicacions"
+
+#. settings-schema.json->show_timer->description
+#, fuzzy
+msgid "Show the pomodoro timer in the applet panel"
+msgstr "Mostra la icona pomodoro en el panell de miniaplicacions"
+
+#. settings-schema.json->head_sounds->description
+msgid "Sounds"
+msgstr "Sons"
+
+#. settings-schema.json->sox-info->description
+msgid "Please install 'sox' and restart Cinnamon to use the sound feature!"
+msgstr ""
+
+#. settings-schema.json->timer_sound->description
+msgid "Play Timer Sound"
+msgstr "Reprodueix so pel cronòmetre"
+
+#. settings-schema.json->timer_sound_file->description
+#, fuzzy
+msgid "Timer Sound File"
+msgstr "Fitxer d'àudio pel cronòmetre"
+
+#. settings-schema.json->timer_sound_volume->description
+#. settings-schema.json->break_sound_volume->description
+#. settings-schema.json->warn_sound_volume->description
+#. settings-schema.json->start_sound_volume->description
+msgid "Sound volume:"
+msgstr ""
+
+#. settings-schema.json->break_sound->description
+msgid "Play Break Sound"
+msgstr "Reprodueix so de descans"
+
+#. settings-schema.json->break_sound_file->description
+#, fuzzy
+msgid "Break Sound File"
+msgstr "Fitxer d'àudio pel descans"
+
+#. settings-schema.json->warn_sound->description
+msgid "Play Warn Sound"
+msgstr "Reprodueix so d'avís"
+
+#. settings-schema.json->warn_sound_delay->description
+#, fuzzy
+msgid "Warn Delay (in secs):"
+msgstr "Retràs de l'avís (en segons):  "
+
+#. settings-schema.json->warn_sound_file->description
+#, fuzzy
+msgid "Warn Sound File"
+msgstr "Fitxer d'àudio per l'avís"
+
+#. settings-schema.json->start_sound->description
+#, fuzzy
+msgid "Play Start Sound"
+msgstr "Reprodueix so d'avís"
+
+#. settings-schema.json->start_sound_file->description
+#, fuzzy
+msgid "Start Sound File"
+msgstr "Fitxer d'àudio per l'avís"
+
+#. metadata.json->description
+msgid "Great tool for boosted productivity!"
+msgstr ""
+
+#~ msgid "Settings"
+#~ msgstr "Ajustos"
+
+#~ msgid "%d minutes and %d seconds"
+#~ msgstr "%d minuts i %d segons"

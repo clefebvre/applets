@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-07 18:47+0200\n"
+"PO-Revision-Date: 2021-02-24 22:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:207 3.2/applet.js:239
+msgid "Change theme"
+msgstr "Farbe ändern"
+
+#: applet.js:216 3.2/applet.js:250
+msgid "Edit title"
+msgstr "Titel bearbeiten"
+
+#: applet.js:216 3.2/applet.js:250
+msgid "Add title"
+msgstr "Titel hinzufügen"
+
+#: applet.js:222 3.2/applet.js:262
+msgid "Copy"
+msgstr "Kopieren"
+
+#: applet.js:226 3.2/applet.js:266
+msgid "Paste"
+msgstr "Einfügen"
+
+#: applet.js:232 3.2/applet.js:272
+msgid "About..."
+msgstr "Über …"
+
+#: applet.js:236 3.2/applet.js:276
+msgid "Configure..."
+msgstr "Einrichten …"
+
+#: applet.js:242 3.2/applet.js:282
+msgid "Remove this note"
+msgstr "Diese Notiz entfernen"
+
+#: applet.js:408 3.2/applet.js:482
+msgid "Title"
+msgstr "Titel"
+
+#: applet.js:504 3.2/applet.js:600
+msgid "Switch to check list"
+msgstr "Zu einer Checkliste wechseln"
+
+#: applet.js:712 3.2/applet.js:808
+msgid "Switch to regular note"
+msgstr "Zu einer normalen Notiz wechseln"
+
+#: applet.js:716 3.2/applet.js:812
+msgid "Remove completed items"
+msgstr "Durchgestrichene Einträge entfernen"
+
+#: applet.js:1605 3.2/applet.js:1735
+msgid "New note"
+msgstr "Neue Notiz"
+
+#: applet.js:1609 3.2/applet.js:1739
+msgid "New check-list"
+msgstr "Neue Checkliste"
+
+#: applet.js:1615 3.2/applet.js:1749
+msgid "Pin notes (keep on top)"
+msgstr "Notizen anheften (oben behalten)"
+
+#. 3.2->settings-schema.json->startState->options
+#. sticky@scollins->settings-schema.json->startState->options
+#: applet.js:1622 3.2/applet.js:1756
+msgid "Hide notes"
+msgstr "Notizen verbergen"
+
+#: applet.js:1627 3.2/applet.js:1761
+msgid "Back up notes"
+msgstr "Notizen sichern"
+
+#: applet.js:1631 3.2/applet.js:1765
+msgid "Restore from backup"
+msgstr "Aus Sicherung wiederherstellen"
+
+#: applet.js:1652 3.2/applet.js:1810
+msgid ""
+"This will permanently remove all existing notes. Are you sure you want to "
+"continue?"
+msgstr ""
+"Hierdurch werden alle vorhandenen Notizen endgültig entfernt. Sind Sie sich "
+"sicher, dass Sie fortfahren möchten?"
+
+#: 3.2/applet.js:87
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: 3.2/applet.js:92
+msgid "Ok"
+msgstr "Ok"
+
+#: 3.2/applet.js:256
+msgid "Save as template"
+msgstr "Als Vorlage speichern"
+
+#: 3.2/applet.js:533
+msgid "Enter a name for the template."
+msgstr "Einen Namen für die Vorlage eingeben."
+
+#: 3.2/applet.js:816
+msgid "Unselect all items"
+msgstr "Alle Elemente abwählen"
+
+#: 3.2/applet.js:1743
+msgid "New from template"
+msgstr "Neu aus Vorlage"
+
+#. 3.2->settings-schema.json->behavior->description
+#. sticky@scollins->settings-schema.json->behaviorHeader->description
+msgid "Behavior"
+msgstr "Verhalten"
+
+#. 3.2->settings-schema.json->startState->description
+#. sticky@scollins->settings-schema.json->startState->description
+msgid "When Cinnamon starts"
+msgstr "Wenn Cinnamon startet"
+
+#. 3.2->settings-schema.json->startState->options
+#. sticky@scollins->settings-schema.json->startState->options
+msgid "Show notes above windows"
+msgstr "Notizen über den Fenstern anzeigen"
+
+#. 3.2->settings-schema.json->startState->options
+#. sticky@scollins->settings-schema.json->startState->options
+msgid "Restore previous state"
+msgstr "Vorherigen Zustand wiederherstellen"
+
+#. 3.2->settings-schema.json->startState->options
+#. sticky@scollins->settings-schema.json->startState->options
+msgid "Show notes on Desktop"
+msgstr "Notizen auf dem Schreibtisch anzeigen"
+
+#. 3.2->settings-schema.json->appearance->description
+#. sticky@scollins->settings-schema.json->appearanceHeader->description
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#. 3.2->settings-schema.json->height->description
+#. sticky@scollins->settings-schema.json->height->description
+msgid "Default height"
+msgstr "Standardhöhe"
+
+#. 3.2->settings-schema.json->width->description
+#. sticky@scollins->settings-schema.json->width->description
+msgid "Default width"
+msgstr "Standardbreite"
+
+#. 3.2->settings-schema.json->theme->description
+#. sticky@scollins->settings-schema.json->theme->description
+msgid "Default theme"
+msgstr "Standardfarbe"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Blue"
+msgstr "Blau"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Pink"
+msgstr "Pink"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Brown"
+msgstr "Braun"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Purple"
+msgstr "Lila"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Random"
+msgstr "Zufällig"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Aqua"
+msgstr "Aquamarin"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Yellow"
+msgstr "Gelb"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Sand"
+msgstr "Sandfarben"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Green"
+msgstr "Grün"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Teal"
+msgstr "Seegrün"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Orange"
+msgstr "Orange"
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Red"
+msgstr "Rot"
+
+#. 3.2->settings-schema.json->boxShadow->description
+#. sticky@scollins->settings-schema.json->boxShadow->description
+msgid "Show shadow behind notes"
+msgstr "Schatten hinter Notizen anzeigen"
+
+#. 3.2->settings-schema.json->boxShadow->tooltip
+#. sticky@scollins->settings-schema.json->boxShadow->tooltip
+msgid ""
+"Warning: this has been known to slow down some computers - not recommended "
+"on older hardware"
+msgstr ""
+"Warnung: Es ist bekannt, dass diese Einstellung einige Computer verlangsamt "
+"- nicht für ältere Hardware empfohlen"
+
+#. 3.2->settings-schema.json->font->description
+msgid "Font"
+msgstr "Schriftart"
+
+#. sticky@scollins->metadata.json->description
+msgid "Applet that allows you to manage desktop notes"
+msgstr "Applet, mit dem Sie Schreibtisch-Notizen verwalten können"
+
+#. sticky@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autor"
+
+#. sticky@scollins->metadata.json->comments
+msgid ""
+"This applet is designed to be a simple, quick, and easy-to-use note utility. "
+"While there is some customization available, the emphasis is on making it "
+"feel as smooth and easy to use as possible."
+msgstr ""
+"Dieses Applet ist als ein schlichtes, schnelles und einfach zu bedienendes "
+"Notizprogramm konzipiert. Zwar stehen einige Anpassungen zur Verfügung, aber "
+"der Schwerpunkt liegt auf einer reibungslosen und einfachen Bedienung."
+
+#. sticky@scollins->metadata.json->name
+msgid "Sticky Notes"
+msgstr "Klebezettel"
+
+#~ msgid ""
+#~ "This applet is designed to be a simple, quick, and easy-to-use note "
+#~ "utility. While there is some customization available, the emphasis is on "
+#~ "making it feel as smooth and easy to use as possible. Feel free to "
+#~ "contribute by submitting pull requests, bug reports and feature requests "
+#~ "to my github repo."
+#~ msgstr ""
+#~ "Dieses Applet wurde als ein simples, schnelles und einfach zu bedienendes "
+#~ "Notiz-Programm entwickelt. Während einige Anpassungen verfügbar sind, "
+#~ "liegt der Schwerpunkt jedoch auf einem reibungslosen Benutzergefühl und "
+#~ "einer möglichst einfachen Bedienung. Sie können gerne dazu beitragen, "
+#~ "indem Sie Pull-Requests, Fehlerberichte und Feature-Anfragen in meinem "
+#~ "Github-Repository erstellen."

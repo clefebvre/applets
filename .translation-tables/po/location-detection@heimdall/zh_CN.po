@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-26 17:55+0200\n"
+"PO-Revision-Date: 2017-04-26 18:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:56
+msgid "Your percieved location."
+msgstr "您的感知位置。"
+
+#: applet.js:104
+msgid "Your IPInfoDB account has been suspended."
+msgstr "您的IPInfoDB帐户已经被挂起。"
+
+#: applet.js:104 applet.js:107
+msgid "Please set a valid API key in the applets settings."
+msgstr "请在小程序设置中设置一个有效的API密钥。"
+
+#: applet.js:107
+msgid "Invalid API key."
+msgstr "API密钥无效。"
+
+#: applet.js:119
+msgid "Something went Wrong!"
+msgstr "出错了！"
+
+#. location-detection@heimdall->metadata.json->description
+msgid "Shows the geographic location of your public IP and country-flag."
+msgstr "显示您的公共IP的地理位置和国旗。"
+
+#. location-detection@heimdall->metadata.json->name
+msgid "Location Detection + Flags"
+msgstr "位置检测 + 国旗"
+
+#. location-detection@heimdall->settings-schema.json->register-
+#. ipinfodb->description
+msgid "Register on IPInfoDB to get an API key"
+msgstr "注册IPInfoDB获取API密钥"
+
+#. location-detection@heimdall->settings-schema.json->api-key->description
+msgid "API key from IPInfoDB"
+msgstr "IPInfoDB的API密钥"
+
+#. location-detection@heimdall->settings-schema.json->api-key->tooltip
+msgid "Get your API key from IPInfoDB and place it here."
+msgstr "从IPInfoDB获取您的API密钥并将其放置在这里。"

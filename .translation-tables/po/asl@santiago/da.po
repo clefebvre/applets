@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 23:19+0100\n"
+"PO-Revision-Date: 2019-11-30 13:30+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:33
+msgid "American Sign Language"
+msgstr "Amerikansk tegnsprog"
+
+#: applet.js:56
+msgid "Alphabet"
+msgstr "Alfabet"
+
+#: applet.js:59 applet.js:65 applet.js:71 applet.js:77 applet.js:83
+#: applet.js:89 applet.js:95 applet.js:101 applet.js:107 applet.js:113
+#: applet.js:119 applet.js:125 applet.js:131 applet.js:137 applet.js:143
+#: applet.js:149 applet.js:155 applet.js:161 applet.js:167 applet.js:173
+#: applet.js:179 applet.js:185 applet.js:191 applet.js:197 applet.js:203
+#: applet.js:209
+#, fuzzy
+msgid "Letter"
+msgstr "Bogstavet A"
+
+#: applet.js:60 applet.js:66 applet.js:72 applet.js:78 applet.js:84
+#: applet.js:90 applet.js:96 applet.js:102 applet.js:108 applet.js:114
+#: applet.js:120 applet.js:126 applet.js:132 applet.js:138 applet.js:144
+#: applet.js:150 applet.js:156 applet.js:162 applet.js:168 applet.js:174
+#: applet.js:180 applet.js:186 applet.js:192 applet.js:198 applet.js:204
+#: applet.js:210
+#, fuzzy
+msgid "ASL"
+msgstr "A - ASL"
+
+#: applet.js:320
+msgid "Check more vocabulary"
+msgstr ""
+
+#. metadata.json->name
+msgid "American Sign Language vocabulary"
+msgstr "Amerikansk tegnsprogsordbog"
+
+#. metadata.json->description
+msgid "Information to American Sign Language vocabulary"
+msgstr "Information til amerikansk tegnsprogsordbog"
+
+#~ msgid "Letter B"
+#~ msgstr "Bogstavet B"
+
+#~ msgid "B - ASL"
+#~ msgstr "B - ASL"
+
+#~ msgid "Letter C"
+#~ msgstr "Bogstavet C"
+
+#~ msgid "C - ASL"
+#~ msgstr "C - ASL"
+
+#~ msgid "Letter D"
+#~ msgstr "Bogstavet D"
+
+#~ msgid "D - ASL"
+#~ msgstr "D - ASL"
+
+#~ msgid "Letter E"
+#~ msgstr "Bogstavet E"
+
+#~ msgid "E - ASL"
+#~ msgstr "E - ASL"
+
+#~ msgid "Letter F"
+#~ msgstr "Bogstavet F"
+
+#~ msgid "F - ASL"
+#~ msgstr "F - ASL"
+
+#~ msgid "Letter G"
+#~ msgstr "Bogstavet G"
+
+#~ msgid "G - ASL"
+#~ msgstr "G - ASL"
+
+#~ msgid "Letter H"
+#~ msgstr "Bogstavet H"
+
+#~ msgid "H - ASL"
+#~ msgstr "H - ASL"
+
+#~ msgid "Letter I"
+#~ msgstr "Bogstavet I"
+
+#~ msgid "I - ASL"
+#~ msgstr "I - ASL"
+
+#~ msgid "Letter J"
+#~ msgstr "Bogstavet J"
+
+#~ msgid "J - ASL"
+#~ msgstr "J - ASL"
+
+#~ msgid "Letter K"
+#~ msgstr "Bogstavet K"
+
+#~ msgid "K - ASL"
+#~ msgstr "K - ASL"
+
+#~ msgid "Letter L"
+#~ msgstr "Bogstavet L"
+
+#~ msgid "L - ASL"
+#~ msgstr "L - ASL"
+
+#~ msgid "Letter M"
+#~ msgstr "Bogstavet M"
+
+#~ msgid "M - ASL"
+#~ msgstr "M - ASL"
+
+#~ msgid "Letter N"
+#~ msgstr "Bogstavet N"
+
+#~ msgid "N - ASL"
+#~ msgstr "N - ASL"
+
+#~ msgid "Letter O"
+#~ msgstr "Bogstavet O"
+
+#~ msgid "O - ASL"
+#~ msgstr "O - ASL"
+
+#~ msgid "Letter P"
+#~ msgstr "Bogstavet P"
+
+#~ msgid "P - ASL"
+#~ msgstr "P - ASL"
+
+#~ msgid "Letter Q"
+#~ msgstr "Bogstavet Q"
+
+#~ msgid "Q - ASL"
+#~ msgstr "Q - ASL"
+
+#~ msgid "Letter R"
+#~ msgstr "Bogstavet R"
+
+#~ msgid "R - ASL"
+#~ msgstr "R - ASL"
+
+#~ msgid "Letter S"
+#~ msgstr "Bogstavet S"
+
+#~ msgid "S - ASL"
+#~ msgstr "S - ASL"
+
+#~ msgid "Letter T"
+#~ msgstr "Bogstavet T"
+
+#~ msgid "T - ASL"
+#~ msgstr "T - ASL"
+
+#~ msgid "Letter U"
+#~ msgstr "Bogstavet U"
+
+#~ msgid "U - ASL"
+#~ msgstr "U - ASL"
+
+#~ msgid "Letter V"
+#~ msgstr "Bogstavet V"
+
+#~ msgid "V - ASL"
+#~ msgstr "V - ASL"
+
+#~ msgid "Letter W"
+#~ msgstr "Bogstavet W"
+
+#~ msgid "W - ASL"
+#~ msgstr "W - ASL"
+
+#~ msgid "Letter X"
+#~ msgstr "Bogstavet X"
+
+#~ msgid "X - ASL"
+#~ msgstr "X - ASL"
+
+#~ msgid "Letter Y"
+#~ msgstr "Bogstavet Y"
+
+#~ msgid "Y - ASL"
+#~ msgstr "Y - ASL"
+
+#~ msgid "Letter Z"
+#~ msgstr "Bogstavet Z"
+
+#~ msgid "Z - ASL"
+#~ msgstr "Z - ASL"

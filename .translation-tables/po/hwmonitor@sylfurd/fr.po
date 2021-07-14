@@ -1,0 +1,839 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 14:53+0300\n"
+"PO-Revision-Date: 2019-09-15 23:27+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid "Dependency missing"
+msgstr "Dépendance manquante"
+
+#: 3.2/providers.js:19 3.8/providers.js:21
+#, javascript-format
+msgid "to use the applet %s"
+msgstr "pour pouvoir utiliser l'applet %s"
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+msgstr ""
+"Veuillez installer le paquet GTop\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+
+#. 3.2->settings-schema.json->CPU->title
+#. 3.8->settings-schema.json->CPU->title
+#: 3.2/providers.js:36 3.8/providers.js:34
+msgid "CPU"
+msgstr "CPU"
+
+#. 3.2->settings-schema.json->MEM->title
+#. 3.8->settings-schema.json->MEM->title
+#: 3.2/providers.js:82 3.8/providers.js:76
+msgid "MEM"
+msgstr "MEM"
+
+#. 3.2->settings-schema.json->NET_IN->title
+#. 3.8->settings-schema.json->NET_IN->title
+#: 3.2/providers.js:113 3.8/providers.js:102
+msgid "NET (in)"
+msgstr ""
+
+#. 3.2->settings-schema.json->NET_OUT->title
+#. 3.8->settings-schema.json->NET_OUT->title
+#: 3.2/providers.js:117 3.8/providers.js:106
+msgid "NET (out)"
+msgstr ""
+
+#. 3.2->settings-schema.json->DISK_READ->title
+#. 3.8->settings-schema.json->DISK_READ->title
+#: 3.2/providers.js:232 3.8/providers.js:214
+msgid "DISK (read)"
+msgstr ""
+
+#. 3.2->settings-schema.json->DISK_WRITE->title
+#. 3.8->settings-schema.json->DISK_WRITE->title
+#: 3.2/providers.js:235 3.8/providers.js:217
+msgid "DISK (write)"
+msgstr ""
+
+#: 3.2/providers.js:318 3.8/providers.js:290
+msgid "BAT"
+msgstr ""
+
+#: 3.2/applet.js:87 3.8/applet.js:87
+msgid "Open System Monitor"
+msgstr "Ouvrir le Moniteur système"
+
+#: 3.2/applet.js:91 3.8/applet.js:91
+msgid "Restart 'Graphical hardware monitor'"
+msgstr "Redémarrer 'Moniteur graphique'"
+
+#. metadata.json->description
+#, fuzzy
+msgid ""
+"Displaying realtime system information (CPU, memory, network and disk load)."
+msgstr "Affiche en temps réel la charge des processeurs et de la mémoire"
+
+#. metadata.json->name
+msgid "Graphical hardware monitor"
+msgstr "Moniteur graphique"
+
+#. 3.2->settings-schema.json->General->title
+#. 3.8->settings-schema.json->General->title
+msgid "General"
+msgstr ""
+
+#. 3.2->settings-schema.json->BAT->title
+#. 3.8->settings-schema.json->BAT->title
+msgid "BAT (battery)"
+msgstr ""
+
+#. 3.2->settings-schema.json->general_settings->title
+#. 3.8->settings-schema.json->general_settings->title
+msgid "General settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->theme_settings->title
+#. 3.2->settings-schema.json->theme->description
+#. 3.8->settings-schema.json->theme_settings->title
+#. 3.8->settings-schema.json->theme->description
+msgid "Theme (graph)"
+msgstr ""
+
+#. 3.2->settings-schema.json->theme_data_settings->title
+#. 3.2->settings-schema.json->theme_data->description
+#. 3.8->settings-schema.json->theme_data_settings->title
+#. 3.8->settings-schema.json->theme_data->description
+msgid "Theme (graph data)"
+msgstr ""
+
+#. 3.2->settings-schema.json->CPU_settings->title
+#. 3.8->settings-schema.json->CPU_settings->title
+msgid "CPU settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->MEM_settings->title
+#. 3.8->settings-schema.json->MEM_settings->title
+msgid "MEM settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->NET_IN_settings->title
+#. 3.8->settings-schema.json->NET_IN_settings->title
+msgid "NET (in) settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->NET_OUT_settings->title
+#. 3.8->settings-schema.json->NET_OUT_settings->title
+msgid "NET (out) settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->DISK_READ_settings->title
+#. 3.8->settings-schema.json->DISK_READ_settings->title
+msgid "DISK (read) settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->DISK_WRITE_settings->title
+#. 3.8->settings-schema.json->DISK_WRITE_settings->title
+msgid "DISK (write) settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->BAT_settings->title
+#. 3.8->settings-schema.json->BAT_settings->title
+msgid "BAT (battery) settings"
+msgstr ""
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "0.5"
+msgstr "0,5"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "1.0"
+msgstr "1,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "2.0"
+msgstr "2,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "3.0"
+msgstr "3,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "4.0"
+msgstr "4,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "5.0"
+msgstr "5,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "10.0"
+msgstr "10,0"
+
+#. 3.2->settings-schema.json->frequency->description
+#. 3.8->settings-schema.json->frequency->description
+msgid "Update frequency (seconds)"
+msgstr "Fréquence de mise à jour (en secondes)"
+
+#. 3.2->settings-schema.json->frequency->tooltip
+#. 3.8->settings-schema.json->frequency->tooltip
+msgid "The amount of time (in seconds) between the graph updates."
+msgstr "La durée (en secondes) entre deux mises à jour du graphique."
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Don't draw grid lines"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw graph over grid lines"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw grid lines over graph"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_line_mode->description
+#. 3.8->settings-schema.json->graph_line_mode->description
+msgid "Grid lines"
+msgstr ""
+
+#. 3.2->settings-schema.json->graph_line_mode->tooltip
+#. 3.8->settings-schema.json->graph_line_mode->tooltip
+msgid "How to draw the graph grid lines."
+msgstr ""
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "dark theme"
+msgstr "thème sombre"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+#, fuzzy
+msgid "gray theme"
+msgstr "thème sombre"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "light theme"
+msgstr "thème clair"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "custom theme"
+msgstr "thème personnalisé"
+
+#. 3.2->settings-schema.json->theme->tooltip
+#. 3.2->settings-schema.json->theme_data->tooltip
+#. 3.8->settings-schema.json->theme->tooltip
+#. 3.8->settings-schema.json->theme_data->tooltip
+#, fuzzy
+msgid ""
+"Use 'custom theme' to select colors that matches your current desktop theme."
+msgstr ""
+"Sélectionner \"thème personnalisé\" pour choisir vous-même des couleurs "
+"assorties à votre thème de Bureau."
+
+#. 3.2->settings-schema.json->border_color->description
+#. 3.8->settings-schema.json->border_color->description
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#. 3.2->settings-schema.json->border_color->tooltip
+#. 3.8->settings-schema.json->border_color->tooltip
+msgid "Click the button to select a border color for the graphs"
+msgstr "Cliquez pour choisir la couleurs des bordures"
+
+#. 3.2->settings-schema.json->background_color1->description
+#. 3.8->settings-schema.json->background_color1->description
+msgid "Background color 1"
+msgstr "Arrière-plan : couleur n°1"
+
+#. 3.2->settings-schema.json->background_color1->tooltip
+#. 3.8->settings-schema.json->background_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Cliquez pour choisir la couleur de début (gauche ou haut) du dégradé "
+"d'arrière plan"
+
+#. 3.2->settings-schema.json->background_color2->description
+#. 3.8->settings-schema.json->background_color2->description
+msgid "Background color 2"
+msgstr "Arrière-plan : couleur n°2"
+
+#. 3.2->settings-schema.json->background_color2->tooltip
+#. 3.8->settings-schema.json->background_color2->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Cliquez pour choisir la couleur de fin (droite ou bas) du dégradé d'arrière "
+"plan"
+
+#. 3.2->settings-schema.json->label_color->description
+#. 3.8->settings-schema.json->label_color->description
+msgid "Label color"
+msgstr "Couleur des étiquettes"
+
+#. 3.2->settings-schema.json->label_color->tooltip
+#. 3.8->settings-schema.json->label_color->tooltip
+msgid "Click the button to select a label color"
+msgstr "Cliquez pour choisir la couleur des étiquettes"
+
+#. 3.2->settings-schema.json->label_size->description
+#. 3.8->settings-schema.json->label_size->description
+msgid "Label font size"
+msgstr "Taille de police des étiquettes"
+
+#. 3.2->settings-schema.json->label_size->tooltip
+#. 3.8->settings-schema.json->label_size->tooltip
+msgid "Set the font size for the main label."
+msgstr "Indiquez la taille de police des étiquettes de titre."
+
+#. 3.2->settings-schema.json->detail_label_color->description
+#. 3.8->settings-schema.json->detail_label_color->description
+msgid "Detail label color"
+msgstr "Couleur des étiquettes de détail"
+
+#. 3.2->settings-schema.json->detail_label_color->tooltip
+#. 3.8->settings-schema.json->detail_label_color->tooltip
+msgid "Click the button to select a detail label color"
+msgstr "Cliquez pour choisir la couleur des étiquettes de détail"
+
+#. 3.2->settings-schema.json->detail_label_size->description
+#. 3.8->settings-schema.json->detail_label_size->description
+msgid "Detail label font size"
+msgstr "Taille de police pour les étiquettes de détail"
+
+#. 3.2->settings-schema.json->detail_label_size->tooltip
+#. 3.8->settings-schema.json->detail_label_size->tooltip
+msgid "Set the font size for the detail label."
+msgstr "Indiquez la taille de police pour les étiquettes de détail."
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+#, fuzzy
+msgid "default theme"
+msgstr "thème sombre"
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+#, fuzzy
+msgid "blue theme"
+msgstr "thème clair"
+
+#. 3.2->settings-schema.json->graph_color1->description
+#. 3.8->settings-schema.json->graph_color1->description
+msgid "Graph color 1"
+msgstr "Graphiques : couleur n°1"
+
+#. 3.2->settings-schema.json->graph_color1->tooltip
+#. 3.8->settings-schema.json->graph_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph colors. Offset for the first color is always 0."
+msgstr ""
+"Cliquez pour choisir la couleur de début du dégradé des graphiques. Le "
+"décalage pour la couleur de début est toujours 0."
+
+#. 3.2->settings-schema.json->graph_color2->description
+#. 3.8->settings-schema.json->graph_color2->description
+msgid "Graph color 2"
+msgstr "Graphiques : couleur n°2"
+
+#. 3.2->settings-schema.json->graph_color2->tooltip
+#. 3.8->settings-schema.json->graph_color2->tooltip
+msgid ""
+"Click the button to select a first middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Cliquez pour choisir la couleur au premier tiers du dégradé des graphiques."
+
+#. 3.2->settings-schema.json->graph_offset2->description
+#. 3.8->settings-schema.json->graph_offset2->description
+msgid "Offset for graph color 2"
+msgstr "Décalage pour la couleur n°2 des graphiques"
+
+#. 3.2->settings-schema.json->graph_offset2->tooltip
+#. 3.8->settings-schema.json->graph_offset2->tooltip
+msgid "Offset for first middle color of the linear gradient"
+msgstr "Décalage de dégradé pour la couleur n°2 des graphiques"
+
+#. 3.2->settings-schema.json->graph_color3->description
+#. 3.8->settings-schema.json->graph_color3->description
+msgid "Graph color 3"
+msgstr "Graphiques : couleur n°3"
+
+#. 3.2->settings-schema.json->graph_color3->tooltip
+#. 3.8->settings-schema.json->graph_color3->tooltip
+msgid ""
+"Click the button to select a second middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Cliquez pour choisir la couleur au second tiers du dégradé des graphiques."
+
+#. 3.2->settings-schema.json->graph_offset3->description
+#. 3.8->settings-schema.json->graph_offset3->description
+msgid "Offset for graph color 3"
+msgstr "Décalage pour la couleur n°3 des graphiques"
+
+#. 3.2->settings-schema.json->graph_offset3->tooltip
+#. 3.8->settings-schema.json->graph_offset3->tooltip
+msgid "Offset for second middle color of the linear gradient"
+msgstr "Décalage de dégradé pour la couleur n°3 des graphiques"
+
+#. 3.2->settings-schema.json->graph_color4->description
+#. 3.8->settings-schema.json->graph_color4->description
+msgid "Graph color 4"
+msgstr "Graphiques : couleur n°4"
+
+#. 3.2->settings-schema.json->graph_color4->tooltip
+#. 3.8->settings-schema.json->graph_color4->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph colors. Offset for the last color is always 1."
+msgstr ""
+"Cliquez pour choisir la couleur de fin du dégradé des graphiques. Le "
+"décalage pour la couleur de fin est toujours 1."
+
+#. 3.2->settings-schema.json->cpu_enable_graph->description
+#. 3.8->settings-schema.json->cpu_enable_graph->description
+msgid "Show CPU graph"
+msgstr "Afficher le graphique du CPU"
+
+#. 3.2->settings-schema.json->cpu_enable_graph->tooltip
+#. 3.8->settings-schema.json->cpu_enable_graph->tooltip
+msgid "Show or hide the CPU graph"
+msgstr "Affiche ou cache le graphique du CPU"
+
+#. 3.2->settings-schema.json->cpu_size->description
+#. 3.8->settings-schema.json->cpu_size->description
+msgid "Horizontal panel width or vertical panel height"
+msgstr ""
+"Largeur/hauteur du graphique dans un tableau de bord horizontal/vertical"
+
+#. 3.2->settings-schema.json->cpu_size->tooltip
+#. 3.2->settings-schema.json->mem_size->tooltip
+#. 3.2->settings-schema.json->netin_size->tooltip
+#. 3.2->settings-schema.json->netout_size->tooltip
+#. 3.2->settings-schema.json->diskread_size->tooltip
+#. 3.2->settings-schema.json->diskwrite_size->tooltip
+#. 3.2->settings-schema.json->bat_size->tooltip
+#. 3.8->settings-schema.json->cpu_size->tooltip
+#. 3.8->settings-schema.json->mem_size->tooltip
+#. 3.8->settings-schema.json->netin_size->tooltip
+#. 3.8->settings-schema.json->netout_size->tooltip
+#. 3.8->settings-schema.json->diskread_size->tooltip
+#. 3.8->settings-schema.json->diskwrite_size->tooltip
+#. 3.8->settings-schema.json->bat_size->tooltip
+msgid ""
+"Set the width of the graph for horizontal panels, or the height of the graph "
+"for vertical panels."
+msgstr ""
+"Définissez la largeur du graphique pour les panneaux horizontaux ou la "
+"hauteur du graphique pour les panneaux verticaux."
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->description
+#. 3.2->settings-schema.json->mem_use_custom_label->description
+#. 3.2->settings-schema.json->netin_use_custom_label->description
+#. 3.2->settings-schema.json->netout_use_custom_label->description
+#. 3.8->settings-schema.json->cpu_use_custom_label->description
+#. 3.8->settings-schema.json->mem_use_custom_label->description
+#. 3.8->settings-schema.json->netin_use_custom_label->description
+#. 3.8->settings-schema.json->netout_use_custom_label->description
+msgid "Use custom graph label"
+msgstr "Étiquette personnalisée pour le graphique"
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->tooltip
+#. 3.8->settings-schema.json->cpu_use_custom_label->tooltip
+msgid "Choose your own label for the CPU graph"
+msgstr "Choisissez votre propre étiquette pour le graphique de la CPU"
+
+#. 3.2->settings-schema.json->cpu_custom_label->description
+#. 3.8->settings-schema.json->cpu_custom_label->description
+msgid "Set the custom label for the CPU graph"
+msgstr "Définir l'étiquette personnalisée pour le graphique du CPU"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->description
+#. 3.2->settings-schema.json->mem_show_detail_label->description
+#. 3.2->settings-schema.json->netin_show_detail_label->description
+#. 3.2->settings-schema.json->netout_show_detail_label->description
+#. 3.8->settings-schema.json->cpu_show_detail_label->description
+#. 3.8->settings-schema.json->mem_show_detail_label->description
+#. 3.8->settings-schema.json->netin_show_detail_label->description
+#. 3.8->settings-schema.json->netout_show_detail_label->description
+msgid "Show details"
+msgstr "Afficher les détails"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->tooltip
+#. 3.8->settings-schema.json->cpu_show_detail_label->tooltip
+msgid "Show or hide the CPU usage label"
+msgstr "Affiche ou cache l'étiquette de la charge du processeur"
+
+#. 3.2->settings-schema.json->mem_enable_graph->description
+#. 3.8->settings-schema.json->mem_enable_graph->description
+msgid "Show the memory graph"
+msgstr "Afficher le graphique de la mémoire"
+
+#. 3.2->settings-schema.json->mem_enable_graph->tooltip
+#. 3.8->settings-schema.json->mem_enable_graph->tooltip
+msgid "Show or hide the memory graph"
+msgstr "Affiche ou cache le graphique de la mémoire"
+
+#. 3.2->settings-schema.json->mem_size->description
+#. 3.2->settings-schema.json->netin_size->description
+#. 3.2->settings-schema.json->netout_size->description
+#. 3.2->settings-schema.json->diskread_size->description
+#. 3.2->settings-schema.json->diskwrite_size->description
+#. 3.2->settings-schema.json->bat_size->description
+#. 3.8->settings-schema.json->mem_size->description
+#. 3.8->settings-schema.json->netin_size->description
+#. 3.8->settings-schema.json->netout_size->description
+#. 3.8->settings-schema.json->diskread_size->description
+#. 3.8->settings-schema.json->diskwrite_size->description
+#. 3.8->settings-schema.json->bat_size->description
+msgid "Horizontal panel width or vertical panel height."
+msgstr ""
+"Largeur/hauteur du graphique dans un tableau de bord horizontal/vertical."
+
+#. 3.2->settings-schema.json->mem_use_custom_label->tooltip
+#. 3.8->settings-schema.json->mem_use_custom_label->tooltip
+msgid "Choose your own label for the memory graph"
+msgstr "Choisissez votre propre étiquette pour le graphique de la mémoire"
+
+#. 3.2->settings-schema.json->mem_custom_label->description
+#. 3.8->settings-schema.json->mem_custom_label->description
+msgid "Set the custom label for the memory graph"
+msgstr "Définir l'étiquette personnalisée pour le graphique de la mémoire"
+
+#. 3.2->settings-schema.json->mem_show_detail_label->tooltip
+#. 3.8->settings-schema.json->mem_show_detail_label->tooltip
+msgid "Show or hide the memory usage label"
+msgstr "Affiche ou cache l'étiquette d'utilisation de la mémoire"
+
+#. 3.2->settings-schema.json->netin_enable_graph->description
+#. 3.8->settings-schema.json->netin_enable_graph->description
+msgid "Show NET (in) graph"
+msgstr "Afficher le graphique du débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->netin_enable_graph->tooltip
+#. 3.8->settings-schema.json->netin_enable_graph->tooltip
+msgid "Show or hide the NET (in) graph"
+msgstr "Affiche ou cache le graphique des entrées réseau"
+
+#. 3.2->settings-schema.json->netin_speed->units
+#. 3.2->settings-schema.json->netout_speed->units
+#. 3.8->settings-schema.json->netin_speed->units
+#. 3.8->settings-schema.json->netout_speed->units
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#. 3.2->settings-schema.json->netin_speed->description
+#. 3.8->settings-schema.json->netin_speed->description
+msgid "Internet speed (in)."
+msgstr "Débit en entrée."
+
+#. 3.2->settings-schema.json->netin_speed->tooltip
+#. 3.8->settings-schema.json->netin_speed->tooltip
+msgid ""
+"Set your internet speed (in) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"Définissez votre débit Internet entrant maximal en Mbit / s. Notez que, "
+"parfois, le fournisseur de services Internet offre un débit supérieur ou "
+"inférieur à celui pour lequel vous payez. Vous devrez peut-être ajuster "
+"cette valeur à la hausse ou à la baisse pour qu'elle vous corresponde bien."
+
+#. 3.2->settings-schema.json->netin_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netin_use_custom_label->tooltip
+msgid "Choose your own label for the NET (in) graph"
+msgstr "Écrivez ici votre étiquette personnalisée"
+
+#. 3.2->settings-schema.json->netin_custom_label->description
+#. 3.8->settings-schema.json->netin_custom_label->description
+msgid "Set the custom label for the NET (in) graph"
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "logarithmic"
+msgstr "logarithmique"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "linear"
+msgstr "linéaire"
+
+#. 3.2->settings-schema.json->netin_linlog->description
+#. 3.2->settings-schema.json->netout_linlog->description
+#. 3.8->settings-schema.json->netin_linlog->description
+#. 3.8->settings-schema.json->netout_linlog->description
+msgid "Scale"
+msgstr "Échelle"
+
+#. 3.2->settings-schema.json->netin_linlog->tooltip
+#. 3.2->settings-schema.json->netout_linlog->tooltip
+#. 3.8->settings-schema.json->netin_linlog->tooltip
+#. 3.8->settings-schema.json->netout_linlog->tooltip
+msgid "Use linear or logarithmic scale."
+msgstr "Choisissez entre échelle linéaire et échelle logarithmique"
+
+#. 3.2->settings-schema.json->netin_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netin_show_detail_label->tooltip
+msgid "Show or hide the NET (in) usage label"
+msgstr "Affiche ou cache l'étiquette de débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->netout_enable_graph->description
+#. 3.8->settings-schema.json->netout_enable_graph->description
+msgid "Show NET (out) graph"
+msgstr "Afficher le graphique du débit sortant (réseau)"
+
+#. 3.2->settings-schema.json->netout_enable_graph->tooltip
+#. 3.8->settings-schema.json->netout_enable_graph->tooltip
+msgid "Show or hide the NET (out) graph"
+msgstr "Affiche ou cache le graphique du débit sortant (réseau)"
+
+#. 3.2->settings-schema.json->netout_speed->description
+#. 3.8->settings-schema.json->netout_speed->description
+msgid "Internet speed (out)."
+msgstr "Débit sortant maximal"
+
+#. 3.2->settings-schema.json->netout_speed->tooltip
+#. 3.8->settings-schema.json->netout_speed->tooltip
+msgid ""
+"Set your internet speed (out) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"Définissez votre débit Internet sortant maximal en Mbit / s. Notez que, "
+"parfois, le fournisseur de services Internet offre un débit supérieur ou "
+"inférieur à celui pour lequel vous payez. Vous devrez peut-être ajuster "
+"cette valeur à la hausse ou à la baisse pour qu'elle vous corresponde bien."
+
+#. 3.2->settings-schema.json->netout_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netout_use_custom_label->tooltip
+msgid "Choose your own label for the NET (out) graph"
+msgstr "Écrivez ici votre étiquette personnalisée"
+
+#. 3.2->settings-schema.json->netout_custom_label->description
+#. 3.8->settings-schema.json->netout_custom_label->description
+msgid "Set the custom label for the NET (out) graph"
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->netout_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netout_show_detail_label->tooltip
+msgid "Show or hide the NET (out) usage label"
+msgstr "Affiche ou cache l'étiquette de débit sortant (réseau)"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->description
+#. 3.8->settings-schema.json->diskread_enable_graph->description
+#, fuzzy
+msgid "Show DISK (read) graph"
+msgstr "Afficher le graphique du débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskread_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (read) graph. Shows usage of the drive specified below."
+msgstr ""
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sda"
+msgstr ""
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdb"
+msgstr ""
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdc"
+msgstr ""
+
+#. 3.2->settings-schema.json->diskread_device_name->description
+#. 3.2->settings-schema.json->diskread_device_name->tooltip
+#, fuzzy
+msgid "Set the device name to monitor for the DISK (read) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->description
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.2->settings-schema.json->bat_use_custom_label->description
+#. 3.8->settings-schema.json->diskread_use_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.8->settings-schema.json->bat_use_custom_label->description
+#, fuzzy
+msgid "Use custom graph label."
+msgstr "Étiquette personnalisée pour le graphique"
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskread_use_custom_label->tooltip
+#, fuzzy
+msgid "Choose your own label for the DISK (read) graph."
+msgstr "Écrivez ici votre étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskread_custom_label->description
+#. 3.8->settings-schema.json->diskread_custom_label->description
+#, fuzzy
+msgid "Set the custom label for the DISK (read) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->description
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.2->settings-schema.json->bat_show_detail_label->description
+#. 3.8->settings-schema.json->diskread_show_detail_label->description
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.8->settings-schema.json->bat_show_detail_label->description
+#, fuzzy
+msgid "Show details."
+msgstr "Afficher les détails"
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskread_show_detail_label->tooltip
+#, fuzzy
+msgid "Show or hide the DISK (read) usage label."
+msgstr "Affiche ou cache l'étiquette de débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->description
+#. 3.8->settings-schema.json->diskwrite_enable_graph->description
+#, fuzzy
+msgid "Show DISK (write) graph."
+msgstr "Afficher le graphique du débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskwrite_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (write) graph. Shows usage of the drive specified "
+"below."
+msgstr ""
+
+#. 3.2->settings-schema.json->diskwrite_device_name->description
+#. 3.2->settings-schema.json->diskwrite_device_name->tooltip
+#, fuzzy
+msgid "Set the device name to monitor for the DISK (write) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->tooltip
+#, fuzzy
+msgid "Choose your own label for the DISK (write) graph."
+msgstr "Écrivez ici votre étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskwrite_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_custom_label->description
+#, fuzzy
+msgid "Set the custom label for the DISK (write) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->tooltip
+#, fuzzy
+msgid "Show or hide the DISK (write) usage label."
+msgstr "Affiche ou cache l'étiquette de débit entrant (réseau)"
+
+#. 3.2->settings-schema.json->bat_enable_graph->description
+#. 3.8->settings-schema.json->bat_enable_graph->description
+#, fuzzy
+msgid "Show BAT (battery) graph."
+msgstr "Afficher le graphique du débit sortant (réseau)"
+
+#. 3.2->settings-schema.json->bat_enable_graph->tooltip
+#. 3.8->settings-schema.json->bat_enable_graph->tooltip
+#, fuzzy
+msgid "Show or hide the BAT (battery) graph. Shows battery level."
+msgstr "Affiche ou cache l'étiquette de débit sortant (réseau)"
+
+#. 3.2->settings-schema.json->bat_use_custom_label->tooltip
+#. 3.8->settings-schema.json->bat_use_custom_label->tooltip
+#, fuzzy
+msgid "Choose your own label for the BAT (battery) graph."
+msgstr "Écrivez ici votre étiquette personnalisée"
+
+#. 3.2->settings-schema.json->bat_custom_label->description
+#. 3.8->settings-schema.json->bat_custom_label->description
+#, fuzzy
+msgid "Set the custom label for the BAT (battery) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.2->settings-schema.json->bat_show_detail_label->tooltip
+#. 3.8->settings-schema.json->bat_show_detail_label->tooltip
+#, fuzzy
+msgid "Show or hide the BAT (battery) detail label."
+msgstr "Affiche ou cache l'étiquette de débit sortant (réseau)"
+
+#. 3.8->settings-schema.json->diskread_device_name->options
+#. 3.8->settings-schema.json->diskwrite_device_name->options
+msgid "Select a device"
+msgstr ""
+
+#. 3.8->settings-schema.json->diskread_device_name->description
+#. 3.8->settings-schema.json->diskread_device_name->tooltip
+#, fuzzy
+msgid "Set the device to monitor for the DISK (read) graph."
+msgstr "Étiquette personnalisée"
+
+#. 3.8->settings-schema.json->diskwrite_device_name->description
+#. 3.8->settings-schema.json->diskwrite_device_name->tooltip
+#, fuzzy
+msgid "Set the device to monitor for the DISK (write) graph."
+msgstr "Étiquette personnalisée"
+
+#~ msgid "Graphical hardware monitor settings"
+#~ msgstr "Préférences du Moniteur graphique"
+
+#~ msgid "Theme"
+#~ msgstr "Thème"
+
+#~ msgid "Graph size"
+#~ msgstr "Taille du graphique"
+
+#~ msgid "pixels"
+#~ msgstr "pixels"
+
+#~ msgid "Vertical panel graph height"
+#~ msgstr "Hauteur du graphique dans un tableau de bord vertical"
+
+#~ msgid "0,5"
+#~ msgstr "0,5"

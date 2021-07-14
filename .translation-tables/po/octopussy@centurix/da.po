@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-04 20:17+1000\n"
+"PO-Revision-Date: 2020-12-20 16:19+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:132
+msgid "OctoPussy: OctoPrint manager."
+msgstr "OctoPussy: OctoPrint-håndtering."
+
+#: applet.js:205
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: applet.js:278 applet.js:351
+msgid "Time lapsed: "
+msgstr "Forløbet tid: "
+
+#: applet.js:282 applet.js:352
+msgid "Estimated: "
+msgstr "Anslået: "
+
+#: applet.js:292 applet.js:353
+msgid "Total time: "
+msgstr "Total tid: "
+
+#: applet.js:355
+msgid "Pause current print"
+msgstr "Sæt nuværende udskrivning på pause"
+
+#: applet.js:356
+msgid "Continue current print"
+msgstr "Fortsæt nuværende udskrivning"
+
+#: applet.js:358
+msgid "Change filament"
+msgstr "Skift filament"
+
+#: applet.js:359
+msgid "Camera monitor"
+msgstr "Kameraovervågning"
+
+#: applet.js:360
+msgid "Open OctoPrint web"
+msgstr "Åbn OctoPrint web"
+
+#: applet.js:362
+msgid "Restart OctoPrint"
+msgstr "Genstart OctoPrint"
+
+#: applet.js:363
+msgid "Shutdown OctoPrint"
+msgstr "Afslut Octoprint"
+
+#: applet.js:364
+msgid "Configure..."
+msgstr "Indstil …"
+
+#. settings-schema.json->octoprintUrl->description
+#. settings-schema.json->octoprintUrl->tooltip
+msgid "OctoPrint API Address"
+msgstr "OctoPrint API-adresse"
+
+#. settings-schema.json->octoprintApiKey->description
+msgid "OctoPrint API Key. Get an API key from the OctoPrint site settings."
+msgstr "OctoPrint API-nøgle. Hent en API-nøgle fra OctoPrints website."
+
+#. settings-schema.json->octoprintInterval->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. settings-schema.json->octoprintInterval->description
+msgid "Refresh Interval:"
+msgstr "Opdateringsinterval:"
+
+#. settings-schema.json->octoprintInterval->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Forøg eller formindsk denne værdi for at ændre opdateringsintervallet - brug "
+"et langt interval, hvis din maskine er langsom"
+
+#. settings-schema.json->octoprintVideoCommand->description
+msgid "Video command to use when showing the webcam. Defaults to vlc."
+msgstr "Kommando til visning af feed fra webcam (som standard vlc)."
+
+#. metadata.json->description
+msgid "An applet to manage OctoPrint."
+msgstr "Håndtering af OctoPrint"
+
+#. metadata.json->name
+msgid "OctoPrint manager"
+msgstr "OctoPrint-håndtering"

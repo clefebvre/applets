@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2019-09-08 19:13+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr "(Clic droit pour ouvrir son dossier)"
+
+#: applet.js:170
+msgid "Places"
+msgstr "Emplacements"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Rechercher dans mon dossier personnel"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "SYSTÈME"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Rechercher dans le système de fichiers"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "DOCUMENTS RÉCENTS"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Effacer"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Ordinateur"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Système de fichiers"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Réseau"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Corbeille"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Ouvrir..."
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Ouvrir le dossier contenant..."
+
+#: search.py:85
+msgid "Search"
+msgstr "Rechercher"
+
+#: search.py:106
+msgid "Start in"
+msgstr "À partir de"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Choisir un dossier"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Suivre les liens symboliques"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Rechercher également les fichiers cachés"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Utiliser des expressions régulières"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Arrêter"
+
+#: search.py:140
+msgid "File"
+msgstr "Fichier"
+
+#: search.py:156
+msgid "Path"
+msgstr "Chemin"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Recherche en cours..."
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Recherche interrompue"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Recherche : "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Erreur : permissions insuffisantes pour lire le dossier "
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Recherche terminée"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Ignoré"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - dossier déjà exploré"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Accès direct (Places Center)"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr ""
+"Procure une interface pratique pour accéder rapidement à vos dossiers et "
+"documents indispensables"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Places Center est une applet Cinnamon multi-plateforme et riche en "
+"fonctionnalités qui permet d'accéder facilement à tous vos emplacements "
+"préférés. N'hésitez pas à contribuer en effectuant des rapports de bugs ou "
+"en demandant ou proposant de nouvelles fonctionnalités sur mon compte github."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Auteur"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - Ajout de la configurabilité du clic central"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Général"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Utilisateur"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "Système"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Documents récents"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Paramètres du tableau de bord"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Paramètres du menu"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Section Utilisateur"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Section Système"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Icône sur le tableau de bord"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr ""
+"Accepte le nom d'une icône ou le chemin complet vers celle-ci (l'icône peut "
+"être symbolique)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Texte sur le tableau de bord"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Raccourci-clavier pour afficher le menu"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Taille des icônes dans le menu"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Ouvrir d'un clic central (clic molette)"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Laisser vide pour l'ignorer"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Montrer le Bureau"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Emplacements personnels"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Liste des emplacements des fichiers ou dossiers à inclure. Les entrées "
+"peuvent être séparées par une virgule (,) ou par un retour à la ligne. La "
+"structure d'une entrée est composée de trois parties séparées par un deux-"
+"points (:), les deux dernières parties étant optionnelles :\n"
+"Par exemple :\n"
+"/usr/share/icons/gnome/scalable:Icônes système:folder-symbolic\n"
+"pour accéder aux icônes du système."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Montrer la Corbeille"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Jamais"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Toujours"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Quand elle n'est pas vide"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Montrer l'Ordinateur"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Montrer le Système de fichiers"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Montrer les Disques"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Montrer seulement les disques montés"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Montrer le Réseau"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Montrer les Documents Récents"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr "Tous les documents récents"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Nombre de documents récents à afficher"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#~ msgid "Click to open the file."
+#~ msgstr "Clic gauche pour ouvrir le fichier."
+
+#~ msgid "Show help about recent documents"
+#~ msgstr "Afficher l'aide concernant les documents récents"

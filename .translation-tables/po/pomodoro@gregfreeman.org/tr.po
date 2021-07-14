@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:26+0100\n"
+"PO-Revision-Date: 2018-11-06 02:05+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:394
+msgid "Pomodoro started"
+msgstr "Pomodoro başlatıldı"
+
+#: applet.js:437 applet.js:737
+msgid "Waiting to start"
+msgstr "Başlatma bekleniyor"
+
+#: applet.js:455
+#, javascript-format
+msgid "Pomodori %d, set %d running"
+msgstr "Pomodori %d, set %d çalışıyor"
+
+#: applet.js:462
+msgid "Let's go to work!"
+msgstr "Haydi çalışma başlayalım!"
+
+#: applet.js:477
+msgid "Take a short break"
+msgstr "Kısa bir mola ver"
+
+#: applet.js:478
+msgid "Short break running"
+msgstr "Kısa mola yürütülüyor"
+
+#: applet.js:497
+msgid "Take a long break"
+msgstr "Uzun bir mola ver"
+
+#: applet.js:499
+msgid "Long break running"
+msgstr "Uzun mola yürütülüyor"
+
+#: applet.js:533
+msgid "Pomodoro ended"
+msgstr "Pomodoro sona erdi"
+
+#: applet.js:665
+msgid "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+msgstr ""
+
+#. metadata.json->name
+#: applet.js:837
+msgid "Pomodoro Timer"
+msgstr "Pomodoro Zamanlayıcı"
+
+#: applet.js:848
+msgid "Completed"
+msgstr "Tamamlanan"
+
+#: applet.js:861
+msgid "Reset Timer"
+msgstr "Zamanlayıcıyı Sıfırla"
+
+#: applet.js:873
+msgid "Reset Counts and Timer"
+msgstr "Sayıyı ve Zamanlayıcıyı Sıfırla"
+
+#: applet.js:886
+msgid "What is this?"
+msgstr "Bu nedir?"
+
+#: applet.js:943
+msgid "None"
+msgstr "Yok"
+
+#: applet.js:973
+msgid "Switch Off Pomodoro"
+msgstr "Pomodoro'yu kapat"
+
+#: applet.js:979
+msgid "Start a new Pomodoro"
+msgstr "Yeni bir Pomodoro başlat"
+
+#: applet.js:985
+msgid "Hide"
+msgstr "Gizle"
+
+#: applet.js:997
+msgid "Pomodoro set finished, you deserve a break!"
+msgstr "Pomodoro seti bitti, bir mola hakettin!"
+
+#: applet.js:1005
+msgid "Your break is over, start another pomodoro!"
+msgstr "Mola sona erdi, başka bir pomodoro başlat!"
+
+#: applet.js:1010
+#, fuzzy, javascript-format
+msgid "A new pomodoro begins in %s."
+msgstr "Yeni bir pomodoro başlatma için süre "
+
+#: applet.js:1021
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1022
+#, javascript-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: applet.js:1024
+#, javascript-format
+msgid "%s and %s"
+msgstr ""
+
+#: applet.js:1048
+msgid "Continue Current Pomodoro"
+msgstr "Mevcut Pomodoroya Devam Et"
+
+#: applet.js:1054
+msgid "Pause Pomodoro"
+msgstr "Pomodoroyu Beklet"
+
+#: applet.js:1065
+msgid "Short break finished, ready to continue?"
+msgstr "Kısa mola bitti, devam etmeye hazır mısın?"
+
+#. settings-schema.json->head_durations->description
+msgid "Durations (minutes)"
+msgstr "Süreler (dakika)"
+
+#. settings-schema.json->pomodoro_duration->description
+#, fuzzy
+msgid "Pomodoro Duration:"
+msgstr "Pomodoro Süresi:  "
+
+#. settings-schema.json->short_break_duration->description
+#, fuzzy
+msgid "Short Break Duration:"
+msgstr "Kısa Mola Süresi:  "
+
+#. settings-schema.json->long_break_duration->description
+#, fuzzy
+msgid "Long Break Duration:"
+msgstr "Uzun Mola Süresi:  "
+
+#. settings-schema.json->pomodori_number->description
+#, fuzzy
+msgid "Number of pomodori before long break:"
+msgstr "Uzun mola öncesi pomodori sayısı:  "
+
+#. settings-schema.json->head_options->description
+msgid "Options"
+msgstr "Seçenekler"
+
+#. settings-schema.json->show_dialog_messages->description
+msgid "Show Dialog Messages"
+msgstr "İletişim Mesajlarını Göster"
+
+#. settings-schema.json->auto_start_after_short_break_ends->description
+msgid "Auto start after a short break ends"
+msgstr "Kısa bir moladan sonra otomatik başlat"
+
+#. settings-schema.json->auto_start_after_break_ends->description
+msgid "Auto start a new pomodoro after a break ends"
+msgstr "Bir mola bittikten sonra otomatik olarak yeni bir pomodoro başlat"
+
+#. settings-schema.json->display_icon->description
+msgid "Display the pomodoro icon in the applet panel"
+msgstr "Uygulama panelinde pomodoro simgesini görüntüle"
+
+#. settings-schema.json->use_symbolic_icon->description
+#, fuzzy
+msgid "Use a symbolic icon in the applet panel"
+msgstr "Uygulama panelinde pomodoro simgesini görüntüle"
+
+#. settings-schema.json->show_timer->description
+msgid "Show the pomodoro timer in the applet panel"
+msgstr "Uygulama panelinde pomodoro zamanlayıcısını göster"
+
+#. settings-schema.json->head_sounds->description
+msgid "Sounds"
+msgstr "Sesler"
+
+#. settings-schema.json->sox-info->description
+msgid "Please install 'sox' and restart Cinnamon to use the sound feature!"
+msgstr ""
+
+#. settings-schema.json->timer_sound->description
+msgid "Play Timer Sound"
+msgstr "Zamanlayıcı Sesi Çal"
+
+#. settings-schema.json->timer_sound_file->description
+#, fuzzy
+msgid "Timer Sound File"
+msgstr "Zamanlayıcı Ses Dosyası "
+
+#. settings-schema.json->timer_sound_volume->description
+#. settings-schema.json->break_sound_volume->description
+#. settings-schema.json->warn_sound_volume->description
+#. settings-schema.json->start_sound_volume->description
+#, fuzzy
+msgid "Sound volume:"
+msgstr "Ses Seviyesi:  "
+
+#. settings-schema.json->break_sound->description
+msgid "Play Break Sound"
+msgstr "Mola Sesi Çal"
+
+#. settings-schema.json->break_sound_file->description
+#, fuzzy
+msgid "Break Sound File"
+msgstr "Molaa Ses Dosyası "
+
+#. settings-schema.json->warn_sound->description
+msgid "Play Warn Sound"
+msgstr "Uyarı Sesi Çal"
+
+#. settings-schema.json->warn_sound_delay->description
+#, fuzzy
+msgid "Warn Delay (in secs):"
+msgstr "Uyarma Gecikmesi (saniye cinsinden): "
+
+#. settings-schema.json->warn_sound_file->description
+#, fuzzy
+msgid "Warn Sound File"
+msgstr "Uyarı Ses Dosyası "
+
+#. settings-schema.json->start_sound->description
+msgid "Play Start Sound"
+msgstr "Başlangıç Sesi Çal"
+
+#. settings-schema.json->start_sound_file->description
+#, fuzzy
+msgid "Start Sound File"
+msgstr "Başlangıç Sesi Dosyası "
+
+#. metadata.json->description
+msgid "Great tool for boosted productivity!"
+msgstr "Verimlilik artırma için harika bir araç!"
+
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#~ msgid "%d minutes and %d seconds"
+#~ msgstr "%d dakika ve %d saniye"

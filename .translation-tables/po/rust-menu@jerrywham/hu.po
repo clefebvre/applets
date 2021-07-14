@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-13 12:38+0800\n"
+"PO-Revision-Date: 2021-04-02 23:20+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:82
+msgid "Open cook book"
+msgstr "Szakácskönyv megnyitása"
+
+#: applet.js:86
+msgid "Open projects directory"
+msgstr "Projektek mappa megnyitása"
+
+#: applet.js:93
+msgid "First edition of cook book"
+msgstr "A szakácskönyv első kiadása"
+
+#: applet.js:96
+msgid "Rust by example"
+msgstr "Rust példával"
+
+#: applet.js:99
+msgid "Cargo book"
+msgstr "Cargo könyv"
+
+#: applet.js:102
+msgid "Rustc book"
+msgstr "Rustc könyv"
+
+#: applet.js:105
+msgid "Rustdoc book"
+msgstr "Rustdoc könyv"
+
+#: applet.js:112
+msgid "Create std"
+msgstr "Std készítése"
+
+#: applet.js:115
+msgid "Create alloc"
+msgstr "Alloc készítése"
+
+#: applet.js:118
+msgid "Create core"
+msgstr "Core készítése"
+
+#: applet.js:121
+msgid "Create proc_macro"
+msgstr "Proc_macro készítése"
+
+#: applet.js:124
+msgid "Create test"
+msgstr "Teszt készítése"
+
+#: applet.js:131
+msgid "Edition guide"
+msgstr "Kiadási segédlet"
+
+#: applet.js:134
+msgid "Reference guide"
+msgstr "Útmutató"
+
+#: applet.js:137
+msgid "Embedded book"
+msgstr "Beágyazott könyv"
+
+#: applet.js:140
+msgid "Rustonomicon book"
+msgstr "Rustonomicon könyv"
+
+#: applet.js:143
+msgid "Unstable book"
+msgstr "Unstable könyv"
+
+#: applet.js:150
+msgid "Launch Nursery"
+msgstr "Bölcsőde indítása"
+
+#. rust-menu@jerrywham->metadata.json->description
+msgid "A Menu for Rust Developers"
+msgstr "Egy menü Rust fejlesztőkenek"
+
+#. rust-menu@jerrywham->settings-schema.json->head->description
+msgid "Applet Settings"
+msgstr "Kisalkalmazás beállítások"
+
+#. rust-menu@jerrywham->settings-schema.json->use-custom-directory->description
+msgid "Check this to use a custom directory"
+msgstr "Jelölje ki ezt a lehetőséget az egyedi mappa használatához"
+
+#. rust-menu@jerrywham->settings-schema.json->use-custom-directory->tooltip
+msgid ""
+"Checking this box allows you to set a custom directory in the field below"
+msgstr ""
+"Ennek a négyzetnek a bejelölésével egyéni könyvtárat állíthat be az alábbi "
+"mezőben"
+
+#. rust-menu@jerrywham->settings-schema.json->custom-directory->description
+msgid "Custom Directory Projects"
+msgstr "Egyéni könyvtár projektek"
+
+#. rust-menu@jerrywham->settings-schema.json->custom-directory->tooltip
+msgid ""
+"Set your custom directory here.  This field is unavailable unless the switch "
+"above is enabled"
+msgstr ""
+"Állítsa be egyéni mappáját itt.  Ez a mező csak akkor érhető el, ha a fenti "
+"kapcsoló be van kapcsolva"
+
+#. rust-menu@jerrywham->settings-schema.json->keybinding-project->description
+msgid "Keybinding, which open the documentation"
+msgstr "Billentyűkombináció, amely megnyitja a dokumentációt"
+
+#. rust-menu@jerrywham->settings-schema.json->keybinding-documentation->description
+msgid "Keybinding, which open the RUST projects directory"
+msgstr "Billentyűkombináció, amely megnyitja a RUST projekt mappát"

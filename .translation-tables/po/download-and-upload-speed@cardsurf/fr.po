@@ -1,0 +1,455 @@
+# Main translation file for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2021-02-28 18:06+0100\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:437
+msgid "Network interfaces"
+msgstr "Interfaces réseau"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "Quantités totales depuis..."
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "le lancement de l'applet"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "aujourd'hui"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "hier"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "3 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "5 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "7 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "10 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "14 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "30 jours"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "la date choisie"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "Affichage"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "Compact"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "Étendu"
+
+#: applet.js:825
+msgid "b"
+msgstr "b"
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "Total reçu :"
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "Total envoyé :"
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "Affiche l'utilisation d'une interface réseau"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "Vitesses de réception et d'envoi"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Configuration"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "Affichage"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "Vitesse moyenne par seconde"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "Quantité de données transférées"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "Valeurs affichées dans le panneau"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "Unité"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "Octets"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "Bits"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "Unité de base des données affichées dans le panneau"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "secondes"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "Période de calcul"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "Fréquence de calcul de vitesse d'envoi et de réception"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr "Période de mise à jour des interfaces disponibles"
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+"Périodicité de la mise à jour de la liste des interfaces réseaux "
+"disponibles. 0 signifie que cette liste n'est pas mise à jour périodiquement."
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "Type d'affichage"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "Affichage de l'applet"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr "Ordre des valeurs"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Download first"
+msgstr "Réception en premier"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Upload first"
+msgstr "Envoi en premier"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr "Choisir l'ordre des valeurs affichées dans le panneau et dans la bulle"
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "Nombre de décimales"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "Auto"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0 "
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1 "
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2 "
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3 "
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr ""
+"Nombre de décimales des vitesses de réception et d'envoi affichées dans le "
+"panneau"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "Style CSS du texte"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "Saisir le style CSS appliqué au texte du panneau"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "Icône Réception"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+"Icône affichée à côté de la vitesse de réception dans le panneau.\n"
+"Pour afficher une icône symbolique, assurez-vous que son nom se termine pas "
+"« -symbolic.svg »."
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "Icône Envoi"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+"Icône affichée à côté de la vitesse d'envoi dans le panneau.\n"
+"Pour afficher une icône symbolique, assurez-vous que son nom se termine pas "
+"« -symbolic.svg »."
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr "Afficher par défaut un ensemble d'icônes symboliques"
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "Style CSS du texte affiché dans la bulle"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr ""
+"Saisir le style CSS appliqué au texte de description dans la fenêtre "
+"contextuelle"
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "Style CSS des nombres affichés dans la bulle"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr "Saisir le style CSS appliqué aux nombres dans la fenêtre contextuelle"
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+msgid "bytes"
+msgstr "octets"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr "Valeur minimale affichée en réception"
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+msgid "A minimum download value to display in the panel"
+msgstr "Une valeur de téléchargement minimale à afficher dans le panneau"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr "Valeur minimale affichée en envoi"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+msgid "A minimum upload value to display in the panel"
+msgstr "Une valeur d'envoi minimale à afficher dans le panneau"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "Quantité totale de données"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr ""
+"Afficher dans la bulle la quantité totale de données reçues et envoyées"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr ""
+"Afficher dans la bulle la quantité totale de données reçues et envoyées"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "Début du comptage"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr ""
+"Indiquer depuis quand la quantité totale de données reçues et envoyées est "
+"comptabilisée"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "Date personnalisée "
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"Entrez la date personnalisée, utilisée comme instant de départ du comptage, "
+"au format AAAA-MM-JJ. Cette date n'est utilisée que si l'option \"la date "
+"choisie\" est sélectionnée dans la liste déroulante \"Début du comptage\"."
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "Période de sauvegarde"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr ""
+"Périodicité de la sauvegarde des quantités de données reçues et envoyées. 0 "
+"signifie qu'il n'y a aucune sauvegarde dans le fichier."
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "Quantité limite de données"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "Mo"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "Quantité limite de données"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr ""
+"Quantité maximale de données en réception et en envoi. 0 signifie qu'il n'y "
+"a pas de limite."
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "Type d'affichage du pourcentage de données autorisées"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "Aucun"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "Cercle"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "Texte"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr ""
+"Afficher dans le panneau le pourcentage de quantité de données autorisée"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr ""
+"Exécuter la commande suivante quand la quantité limite de données est "
+"dépassée"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr ""
+"Exécuter la commande qui suit lorsque la quantité de données reçues et "
+"envoyées excède la limite"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "Commande"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "Saisir une commande à exécuter"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "Connexions"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "Le clic gauche montre la liste des connexions internet"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr ""
+"Le clic gauche ouvre un terminal avec la liste des connexions actives. Le "
+"clic suivant ferme ce terminal."
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "Commande "
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr ""
+"Saisir une commande permettant d'obtenir la liste des connexions internet "
+"disponibles"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr ""
+#~ "Choisir une icône affichée à côté de la vitesse de réception dans le "
+#~ "panneau"
+
+#~ msgid "An icon displayed next to upload speed in the panel"
+#~ msgstr ""
+#~ "Choisir une icône affichée à côté de la vitesse d'envoi dans le panneau"
+
+#~ msgid "Settings for download-and-upload-speed@cardsurf"
+#~ msgstr ""
+#~ "Réglages pour l'applet Vitesses d'Envoi et de Réception (download-and-"
+#~ "upload-speed@cardsurf)"

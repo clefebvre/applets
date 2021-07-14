@@ -1,0 +1,34 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DevBar\n"
+"POT-Creation-Date: 2021-03-22\n"
+"PO-Revision-Date: 2021-03-23 21:16+0300\n"
+"Last-Translator: Serkan ÖNDER <serkanonder@outlook.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. metadata.json->name
+msgid "DevBar"
+msgstr "DevBar"
+
+#. metadata.json->description
+msgid "This applet helps you keep track of your development workflow."
+msgstr "Bu uygulama, geliştirme iş akışınızı takip etmenize yardımcı olur."
+
+#. settings-schema.json->url->description
+msgid "Url to fetch information from"
+msgstr "Bilgilerin alınacağı URL"
+
+#. settings-schema.json->appendUsername->description
+msgid "Append your username to url"
+msgstr "Kullanıcı adınızı url’ye ekleyin"
+
+#. settings-schema.json->interval->description
+msgid "Update interval in seconds"
+msgstr "Güncelleme aralığı (saniye)"

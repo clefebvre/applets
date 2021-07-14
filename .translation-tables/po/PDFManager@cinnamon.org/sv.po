@@ -1,0 +1,139 @@
+# Swedish localisation for PDFManager@cinnamon.org.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: 2019-02-08 08:04+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr "Hantera dina PDF:er"
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "Slå samman PDF"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "Extrahera PDF"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "Reducera storleken på PDF"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "Rotera åt vänster"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "Rotera åt höger"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "Vänd vertikalt"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "Öppna dokumentläsaren"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr "Öppna Evince"
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "Öppna PDF-mod"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "Öppna PDF-redigeraren"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr "Installation av PDF Toolkit krävs"
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+"Vill du installera PDF Toolkit? Dina PDF-åtgärder kommer att utföras efter "
+"installationen."
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+"Installationen misslyckades. Vill du försöka igen? Dina PDF-åtgärder kommer "
+"att utföras efter installationen."
+
+# #########################################
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "Välj en PDF..."
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "PDF-filer"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr "Reducera  PDF"
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr "Dina PDF:er reduceras. Manipulera inte de valda filerna!"
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "Spara som..."
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr "Extrahera följande sidor (exempel: 1-10 15-17):"
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr "Extrahera jämna sidor"
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr "Extrahera udda sidor"
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr "PDF-hanterare"
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "Installera PDF Toolkit"
+
+#~ msgid "Click here to manage your PDF"
+#~ msgstr "Klicka här för att hantera din PDF"
+
+#~ msgid "Pages to extract"
+#~ msgstr "Sidor att extrahera"
+
+#~ msgid "Input pages to extract (e.g. : 1-5 7-9 or 3-end or even or odd) :"
+#~ msgstr ""
+#~ "Sidor att extrahera (exempel: 1-5 7-9 eller 3-end eller -even eller -odd):"

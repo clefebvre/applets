@@ -1,0 +1,343 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Places Center 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2017-02-26 21:10+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: applet.js:170
+msgid "Places"
+msgstr "Lokacije"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Pretraži osobnu mapu"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "SUSTAV"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Pretraži datotečni sustav"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "NEDAVNI DOKUMENTI"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Obriši"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Računalo"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Datotečni sustav"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Mreža"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Smeće"
+
+#: search.py:43
+msgid "Open..."
+msgstr ""
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr ""
+
+#: search.py:85
+msgid "Search"
+msgstr ""
+
+#: search.py:106
+msgid "Start in"
+msgstr ""
+
+#: search.py:107
+#, fuzzy
+msgid "Select a folder"
+msgstr "Pretraži osobnu mapu"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr ""
+
+#: search.py:117
+msgid "Search hidden"
+msgstr ""
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr ""
+
+#: search.py:125
+msgid "Stop"
+msgstr ""
+
+#: search.py:140
+msgid "File"
+msgstr ""
+
+#: search.py:156
+msgid "Path"
+msgstr ""
+
+#: search.py:184
+msgid "Searching..."
+msgstr ""
+
+#: search.py:198 search.py:199
+#, fuzzy
+msgid "Search Stopped"
+msgstr "Pretraži osobnu mapu"
+
+#: search.py:215
+msgid "Searching: "
+msgstr ""
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+#: search.py:252
+#, fuzzy
+msgid "Search Completed"
+msgstr "Pretraži osobnu mapu"
+
+#: search.py:259
+msgid "Skipping"
+msgstr ""
+
+#: search.py:259
+msgid " - directory already searched"
+msgstr ""
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Središte lokacija"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Omogućuje lako čitljiv raspored za pristup vašim lokacijama"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Središte lokacija je značajkama bogat, višeplatformski Cinnamon aplet koji "
+"omogućuje lagan pristup vašim najposjećenijim lokacijama. Slobodno možete "
+"doprinijeti slanjem zahtjeva s novom značajkom, prijave grešaka i zahtjevom "
+"nove značajke na moj github repozitorij."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autor"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - Dodao prilagodljiv srednji klik"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Općenito"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Korisnik"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "Sustav"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Nedavni dokumenti"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Postavke panela"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Postavke izbornika"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Korisnikove mogućnosti"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Mogućnosti sustava"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Ikona panela"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Upišite naziv ikone ili izravnu putanju (podržava simboličke ikone)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Tekst panela"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Prečac tipkovnice izbornika"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "pikseli"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Veličina ikone izbornika"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Otvori pri srednjem kliku"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Ostavi prazno za onemgućavanje"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Prikaži radnu površinu"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Prilagođene lokacije"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+#, fuzzy
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Popis uri-ja/putanja datoteka koje su uključene. Unosi mogu biti odvojeni "
+"ili zarezom (,) ili novim redkom. Možete postaviti naziv za prikaz "
+"dodavanjem :Prilagođeni-Naziv nakon lokacije."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Prikaži smeće"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Nikada"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Uvijek"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Kada nije prazno"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Prikaži računalo"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Prikaži datotečni sustav"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Prikaži montirane uređaje"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Prikaži samo montirane uređaje"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Prikaži mrežu"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Prikaži nedavne dokumente"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+#, fuzzy
+msgid "All Recent Documents"
+msgstr "Nedavni dokumenti"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Broj prikazanih nedavnih dokumenata"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""
+
+#~ msgid "General Settings"
+#~ msgstr "Opće postavke"
+
+#~ msgid "User Section"
+#~ msgstr "Korisnikove mogućnosti"
+
+#~ msgid "Icon size"
+#~ msgstr "Veličina ikone"
+
+#~ msgid "System Section"
+#~ msgstr "Mogućnosti sustava"

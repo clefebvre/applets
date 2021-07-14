@@ -1,0 +1,30 @@
+# Turkish translations for AutostartPrograms@spacy package.
+# Copyright (C) 2018 THE AutostartPrograms@spacy'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the AutostartPrograms@spacy package.
+# Muhammet Kara <muhammetk@gnome.org>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AutostartPrograms@spacy 01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 16:02+0200\n"
+"PO-Revision-Date: 2018-10-30 23:51+0300\n"
+"Last-Translator: Muhammet Kara <muhammetk@gnome.org>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#. AutostartPrograms@spacy01->metadata.json->description
+#: applet.js:25
+msgid "Click here to add or remove programs to start with the session."
+msgstr ""
+"Oturumla birlikte başlatılacak programları eklemek ya da kaldırmak için "
+"buraya tıklayın."
+
+#. AutostartPrograms@spacy01->metadata.json->name
+msgid "Autostart programs"
+msgstr "Programları otomatik başlat"

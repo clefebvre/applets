@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-27 11:20-0500\n"
+"PO-Revision-Date: 2017-05-03 21:10+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: po\n"
+
+#: ../3.0/prefsui.glade.h:1 ../3.2/prefsui.glade.h:1 ../3.4/prefsui.glade.h:1
+msgid "Multi-Core System Monitor Preferences"
+msgstr ""
+
+#: ../3.0/prefsui.glade.h:11 ../3.2/prefsui.glade.h:12
+#: ../3.4/prefsui.glade.h:11
+msgid "Usedup"
+msgstr ""
+
+#: ../3.0/prefsui.glade.h:12 ../3.2/prefsui.glade.h:13
+#: ../3.4/prefsui.glade.h:12
+msgid "Cached"
+msgstr ""
+
+#: ../3.0/prefsui.glade.h:13 ../3.2/prefsui.glade.h:14
+#: ../3.4/prefsui.glade.h:13
+msgid "Buffer"
+msgstr ""
+
+#: ../3.0/prefsui.glade.h:14 ../3.2/prefsui.glade.h:15
+#: ../3.4/prefsui.glade.h:14
+msgid "Free"
+msgstr ""
+
+#: ../3.0/prefsui.glade.h:25 ../3.2/prefsui.glade.h:26
+#: ../3.4/prefsui.glade.h:25
+msgid ""
+"Auto Scaling:\n"
+"\tThis will scale the line graph by the largest reading within the\n"
+"\tdisplayed area. Once the largest reading is no longer displayed\n"
+"\tthe next largest becomes the new value by which the readings\n"
+"\tare scaled. This lets the plot \"zoom\" to show details of the graph.\n"
+"\tHowever, it also means that if there is a large reading small readings\n"
+"\tmay become indistinguishable from 0. And if there are only small readings\n"
+"\tthen slightly larger readings may appear larger than they should.\n"
+"\tIf not enabled the largest value used will be the largest reading since\n"
+"\tcinnamon was started.\n"
+"\n"
+"Logarithmic Scaling:\n"
+"\tThis transforms the readings so that they are displayed using a\n"
+"\tlogarithmic scale. If you are not familiar basically, it reduces the\n"
+"\tlarge values so that they dont dominate the smaller readings."
+msgstr ""
+
+#: ../3.2/prefsui.glade.h:5 ../3.4/prefsui.glade.h:4
+msgid "Label Color"
+msgstr ""
+
+#: ../3.0/DataProviders.js:103 ../3.2/DataProviders.js:103
+#: ../3.4/DataProviders.js:123
+msgid "------------- CPU ------------"
+msgstr ""
+
+#: ../3.0/DataProviders.js:150 ../3.2/DataProviders.js:150
+#: ../3.4/DataProviders.js:158
+msgid "----------- Memory -----------"
+msgstr ""
+
+#: ../3.0/DataProviders.js:151 ../3.2/DataProviders.js:151
+msgid "Usedup:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:152 ../3.2/DataProviders.js:152
+#: ../3.4/DataProviders.js:159
+msgid "Cached:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:153 ../3.2/DataProviders.js:153
+#: ../3.4/DataProviders.js:159
+msgid "Buffer:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:154 ../3.2/DataProviders.js:154
+#: ../3.4/DataProviders.js:159
+msgid "Free:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:186 ../3.2/DataProviders.js:186
+#: ../3.4/DataProviders.js:191
+msgid "------------ Swap ------------"
+msgstr ""
+
+#: ../3.0/DataProviders.js:292 ../3.2/DataProviders.js:292
+#: ../3.4/DataProviders.js:286
+msgid "---------- Networks ----------"
+msgstr ""
+
+#: ../3.0/DataProviders.js:294 ../3.2/DataProviders.js:294
+#: ../3.4/DataProviders.js:297
+msgid "Down:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:294 ../3.2/DataProviders.js:294
+#: ../3.4/DataProviders.js:298
+msgid "Up:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:295 ../3.2/DataProviders.js:295
+msgid "(KiB/s)"
+msgstr ""
+
+#: ../3.0/DataProviders.js:394 ../3.2/DataProviders.js:394
+#: ../3.4/DataProviders.js:375
+msgid "------------ Disks -----------"
+msgstr ""
+
+#: ../3.0/DataProviders.js:396 ../3.2/DataProviders.js:396
+#: ../3.4/DataProviders.js:383
+msgid "Read:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:396 ../3.2/DataProviders.js:396
+#: ../3.4/DataProviders.js:384
+msgid "Write:"
+msgstr ""
+
+#: ../3.0/DataProviders.js:397 ../3.2/DataProviders.js:397
+msgid "(MiB/s)"
+msgstr ""
+
+#: ../3.0/ErrorApplet.js:28 ../3.0/ErrorApplet.js:34 ../3.2/ErrorApplet.js:28
+#: ../3.2/ErrorApplet.js:34
+msgid "Multi-Core System Monitor Error."
+msgstr ""
+
+#: ../3.0/prefs.js:530 ../3.2/prefs.js:540
+msgid "Error while saving file:"
+msgstr ""
+
+#: ../3.4/DataProviders.js:46
+msgid "/s"
+msgstr ""
+
+#: ../3.4/DataProviders.js:126
+msgid "Core"
+msgstr ""
+
+#: ../3.4/DataProviders.js:159
+msgid "Used:"
+msgstr ""
+
+#: ../3.4/applet.js:60
+msgid "Dependency missing"
+msgstr ""
+
+#: ../3.4/applet.js:62
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+"to use "
+msgstr ""

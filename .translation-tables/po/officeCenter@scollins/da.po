@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 12:45+0100\n"
+"PO-Revision-Date: 2017-09-24 19:09+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:165
+msgid "Clear"
+msgstr "Ryd"
+
+#: applet.js:221
+msgid "Office"
+msgstr "Kontor"
+
+#: applet.js:301
+msgid "LAUNCHERS"
+msgstr "PROGRAMSTARTERE"
+
+#: applet.js:317
+msgid "DOCUMENTS"
+msgstr "DOKUMENTER"
+
+#: applet.js:328
+msgid "Open folder"
+msgstr "Åbn mappe"
+
+#: applet.js:354
+msgid "RECENT DOCUMENTS"
+msgstr "SENESTE DOKUMENTER"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panelikon"
+
+#. officeCenter@scollins->settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Godtager ikonnavn eller direkte sti (understøtter symbolske ikoner)"
+
+#. officeCenter@scollins->settings-schema.json->documents->description
+msgid "Documents"
+msgstr "Dokumenter"
+
+#. officeCenter@scollins->settings-schema.json->docMax->description
+msgid "Limit number of documents shown to"
+msgstr "Begræns antallet af viste dokumenter til"
+
+#. officeCenter@scollins->settings-schema.json->keyOpen->description
+msgid "Menu shorcut key"
+msgstr "Genvejstast til åbning af menuen"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->description
+msgid "Icon size"
+msgstr "Ikonstørrelse"
+
+#. officeCenter@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. officeCenter@scollins->settings-schema.json->recurseDocuments->description
+msgid "Include subfolders"
+msgstr "Medtag undermapper"
+
+#. officeCenter@scollins->settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Antal der skal vises"
+
+#. officeCenter@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#. officeCenter@scollins->settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Paneltekst"
+
+#. officeCenter@scollins->settings-schema.json->altDir->description
+msgid "Use alternate directory"
+msgstr "Anvend alternativ mappe"
+
+#. officeCenter@scollins->settings-
+#. schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Vis seneste dokumenter"
+
+#. officeCenter@scollins->settings-schema.json->showDocuments->description
+msgid "Show contents of documents folder"
+msgstr "Vis indholdet af mappen \"Dokumenter\""
+
+#. officeCenter@scollins->settings-schema.json->recent->description
+msgid "Recent Documents"
+msgstr "Seneste dokumenter"
+
+#. officeCenter@scollins->metadata.json->description
+msgid "Provides an easy and fast resource for all your office needs"
+msgstr "En let og hurtig ressource til alle dine kontorbehov"
+
+#. officeCenter@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - forfatter"
+
+#. officeCenter@scollins->metadata.json->comments
+msgid ""
+"Office Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy aceess to all of your office programs and documents. Feel free "
+"to contribute by submitting pull requests, bug reports and feature requests "
+"to my github repo."
+msgstr ""
+"Kontorcenter er et Cinnamon-panelprogram med mange funktioner, som giver nem "
+"adgang til dine kontorprogrammer og dokumenter. Du er velkommen til at "
+"bidrage ved at indsende pull-anmodninger, fejlrapporter og ønsker til nye "
+"funktioner til mit github-arkiv."
+
+#. officeCenter@scollins->metadata.json->name
+msgid "Office Center"
+msgstr "Kontorcenter"

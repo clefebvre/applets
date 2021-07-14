@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2018-04-10 15:45+0200\n"
+"Last-Translator: Claude CLERC <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "L'URL du flux est invalide"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " éléments non lus !"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Chargement du flux"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "Lecteur de flux"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Tous marquer comme lu"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Rafraîchir"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Gérer les flux"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Paramètres"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "Aucun flux non lu"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Flux"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Clic droit pour ouvrir le flux : \n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Marquer tous les messages comme lus"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Marquer ces "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " messages comme lus"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Mettre à jour l'URL du flux"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Publié :"
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Marquer comme lu"
+
+#: applet.js:958
+msgid "d) "
+msgstr "j) "
+
+#: applet.js:960
+msgid "h) "
+msgstr ""
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr ""
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Gérer vos flux"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Nom de la liste :"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Ajouter / Supprimer une liste de flux"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Activer"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "URL"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Titre personnalisé"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Notifier"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Montrer ceux déjà lus"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Intervalle"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Afficher l'image"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "Importer"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_Importer un fichier OPML"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Importer des flux à partir d'un fichier au format OPML"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "_Importer un fichier de flux"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Importer les flux à partir d'un fichier"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Exporter"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "_Exporter les flux"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Exporter les flux dans un fichier"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr ""
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "Afficher/Masquer _Tous les champs cachés"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Afficher ou Masquer les champs habituellement cachés"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Vos modifications seront ignorées. Continuer?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Nom de la nouvelle liste"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Ajouter une nouvelle liste"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Impossible d'enregistrer le fichier de configuration"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "Choisir un fichier de flux au format OPML"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "Fichiers OPML"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Choisir un fichier de flux"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Fichiers texte"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Tous les fichiers"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "fichier importé"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "%d flux importé(s)"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "Impossible d'importer ce fichier"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Enregistrer un fichier de flux"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Export de fichier impossible, erreur : %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Export de fichier impossible"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "Affiche les flux de nouvelles de type RSS"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Lecteur de flux"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "Adresses URL des flux"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Gérer les flux..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr ""
+"Lance l'application de gestion des flux pour ajouter / supprimer / modifier "
+"les flux"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "flux"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Nombre maximum d'éléments"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Nombre maximal d'éléments à afficher pour ce flux"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr ""
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Intervalle de mise à jour"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Intervalle entre deux recherches de nouveaux éléments"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Notifier l'arrivée de nouveaux éléments"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr ""
+"Si cochée, une notification s'affichera pour signaler de nouveaux éléments"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr ""
+"Cochez cette case pour activer la journalisation des messages d'erreur dans "
+"Looking Glass"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "En cochant ceci, vous activez la journalisation des messages d'erreur"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Nom de la liste de flux"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "Ne pas changer, ceci est modifié par la fenêtre Gérer les flux."

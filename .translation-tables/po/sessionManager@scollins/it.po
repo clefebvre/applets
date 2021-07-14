@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 23:47+0100\n"
+"PO-Revision-Date: 2019-10-17 20:53+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:159
+msgid "Session"
+msgstr "Sessione"
+
+#: applet.js:226
+msgid "Lock Screen"
+msgstr "Blocca Schermo"
+
+#: applet.js:230
+msgid "Switch User"
+msgstr "Cambia utente"
+
+#: applet.js:235
+msgid "Guest Session"
+msgstr "Sessione Ospite"
+
+#: applet.js:240
+msgid "Log Off"
+msgstr "Disconnetti"
+
+#: applet.js:246
+msgid "Suspend"
+msgstr "Sospendi"
+
+#: applet.js:251
+msgid "Sleep"
+msgstr "Sospendi"
+
+#: applet.js:256
+msgid "Hibernate"
+msgstr "Iberna"
+
+#: applet.js:262
+msgid "Restart"
+msgstr "Riavvia"
+
+#: applet.js:266
+msgid "Shut Down"
+msgstr "Arresta"
+
+#. sessionManager@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Icona Pannello"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->description
+msgid "Icon Size"
+msgstr "Dimensione Icona"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. sessionManager@scollins->settings-
+#. schema.json->symbolicMenuIcons->description
+msgid "Symbolic icons in menu"
+msgstr "Icone simboliche nel menù"
+
+#. sessionManager@scollins->settings-schema.json->panelText->description
+msgid "Panel Text"
+msgstr "Testo Pannello"
+
+#. sessionManager@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#. sessionManager@scollins->metadata.json->description
+msgid "Provides easy access to shut down, restart, etc"
+msgstr "Fornisce un facile accesso per l'arresto, il riavvio, ecc"
+
+#. sessionManager@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autore"
+
+#. sessionManager@scollins->metadata.json->comments
+msgid ""
+"Session Manager is an applet that provides easy access to session controls "
+"such as shut down, restart, log off, switch user, etc. It has been tested in "
+"Arch, Fedora and Linux Mint, and supports a wide variety of software "
+"configurations. If your particular configuration is not supported, please "
+"submit a feature request on github, and I will add it at my earliest "
+"convenience."
+msgstr ""
+"Gestore Sessione è un'applet che fornisce un facile accesso ai controlli di "
+"sessione come spegnimento, riavvio, disconnessione, cambio utente, ecc. È "
+"stato testato in Arch, Fedora e Linux Mint e supporta un'ampia varietà di "
+"configurazioni software. Se la tua particolare configurazione non è "
+"supportata, invia una richiesta di funzionalità su github e la aggiungerò al "
+"più presto."
+
+#. sessionManager@scollins->metadata.json->name
+msgid "Session Manager"
+msgstr "Gestore Sessione"

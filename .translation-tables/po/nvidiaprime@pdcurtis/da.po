@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-14 07:13+0100\n"
+"PO-Revision-Date: 2017-09-24 18:52+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr "Venter på NVIDIA"
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr "Åbn strømstatistik"
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr "Åbn systemovervågning"
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr "Vedligehold og systemundermenu"
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr "Vis ændringsloggen"
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr "Åbn hjælpfilen"
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr "NVIDIA-baseret GPU er slukket"
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVIDIA-baseret GPU er tændt og kernetemperaturen er"
+
+#: applet.js:289
+msgid "Err"
+msgstr "Fejl"
+
+#: applet.js:290
+msgid ""
+"Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-"
+"prime  installed?"
+msgstr ""
+"NVIDIA Prime er ikke korrekt sat op. Er NVIDIA-driverne og nvidia-prima "
+"installerede?"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "Vis både GPU-temperatur og ikon"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Tilgængelig i vandrette og lodrette paneler. Visning er i grader Celsius."
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid ""
+"Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+"Tilgå udvidet funktionalitet gennem genvejsmenuen - kræver genstart af "
+"Cinnamon"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid ""
+"Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be "
+"installed"
+msgstr ""
+"Tilføjer for nærværende glxspheres64-grafikprocessortest - VirtualGL skal "
+"være installeret"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr ""
+"Generelle indstillinger for NVIDIA Prime-panelprogrammet til overvågning"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Opdateringsinterval for visning:"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Forøg eller formindsk denne værdi for at ændre opdateringsintervallet - brug "
+"et langt interval, hvis din maskine er langsom"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr "Yderligere funktionalitet"
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid ""
+"Displays which Graphics processor is active and nVidia GPU Temperature when "
+"active and in a horizontal panel"
+msgstr ""
+"Viser hvilken grafikprocessor er aktiv og NVIDIA-GPU'ens temperatur i et "
+"vandret panel"
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr "NVIDIA Prime GPU-visning"

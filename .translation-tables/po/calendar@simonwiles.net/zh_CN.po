@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 01:51+0800\n"
+"PO-Revision-Date: 2017-04-20 01:58+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:27
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+#: applet.js:132
+msgid "%A %B %e, %Y"
+msgstr "%A %B %e, %Y"
+
+#: applet.js:277
+msgid "Edit World Clocks"
+msgstr "编辑世界时钟"
+
+#: applet.js:279
+msgid "Date and Time Settings"
+msgstr "日期和时间设置"
+
+#: world_clock_calendar_settings.py:76
+msgid "Display Name"
+msgstr "显示名称"
+
+#: world_clock_calendar_settings.py:88
+msgid "Timezone"
+msgstr "时区"
+
+#: world_clock_calendar_settings.py:126
+msgid "Time format for World Clocks"
+msgstr "世界时钟的时间格式"
+
+#: world_clock_calendar_settings.py:135
+msgid "Browse valid timezone values by country (online)"
+msgstr "按国家浏览有效的时区值（在线）"
+
+#: world_clock_calendar_settings.py:214
+msgid "Coordinated Universal Time"
+msgstr "协调世界时"
+
+#. calendar@simonwiles.net->metadata.json->name
+msgid "World Clock Calendar"
+msgstr "世界时钟日历"
+
+#. calendar@simonwiles.net->metadata.json->description
+msgid ""
+"Fork of the Cinnamon calendar applet with support for displaying multiple "
+"timezones"
+msgstr "支持显示多个时区的Cinnamon日历小程序的分支"
+
+#. calendar@simonwiles.net->settings-schema.json->custom-format->description
+msgid "Date format:"
+msgstr "日期格式："
+
+#. calendar@simonwiles.net->settings-schema.json->custom-format->tooltip
+msgid "Set your custom format here."
+msgstr "在这里设置您的自定义格式。"
+
+#. calendar@simonwiles.net->settings-schema.json->header->description
+msgid "World-Clock Settings"
+msgstr "世界时钟设置"
+
+#. calendar@simonwiles.net->settings-schema.json->show-week-
+#. numbers->description
+msgid "Show week numbers in calendar"
+msgstr "在日历中显示周数"
+
+#. calendar@simonwiles.net->settings-schema.json->show-week-numbers->tooltip
+msgid "Check this to show week numbers in the calendar."
+msgstr "选中此项在日历中显示周数。"
+
+#. calendar@simonwiles.net->settings-schema.json->worldclock-setup-
+#. button->description
+msgid "Configure World-clocks"
+msgstr "配置世界时钟"
+
+#. calendar@simonwiles.net->settings-schema.json->worldclock-setup-
+#. button->tooltip
+msgid "Add, remove and configure additional clocks and format."
+msgstr "添加、移除和配置额外的时钟和格式。"
+
+#. calendar@simonwiles.net->settings-schema.json->format-button->description
+msgid "Show information on date format syntax"
+msgstr "显示有关日期格式语法的信息"
+
+#. calendar@simonwiles.net->settings-schema.json->format-button->tooltip
+msgid "Click this button to know more about the syntax for date formats."
+msgstr "点击此按钮了解更多关于日期格式的语法。"
+
+#. calendar@simonwiles.net->settings-schema.json->use-custom-
+#. format->description
+msgid "Use a custom date format"
+msgstr "使用自定义日期格式"
+
+#. calendar@simonwiles.net->settings-schema.json->use-custom-format->tooltip
+msgid ""
+"Check this to define a custom format for the date in the calendar applet."
+msgstr "选中此项可定义日历小程序中日期的自定义格式。"

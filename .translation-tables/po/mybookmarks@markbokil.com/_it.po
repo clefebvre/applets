@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 11:14+0800\n"
+"PO-Revision-Date: 2019-10-24 21:31+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mybookmarks.properties:6
+msgid "Blogger"
+msgstr ""
+
+#: mybookmarks.properties:7
+msgid "Talk"
+msgstr ""
+
+#: mybookmarks.properties:8
+msgid "Voice"
+msgstr ""
+
+#: mybookmarks.properties:9
+msgid "Translate"
+msgstr ""
+
+#: mybookmarks.properties:10
+msgid "Play"
+msgstr ""
+
+#: mybookmarks.properties:11
+msgid "Books"
+msgstr ""
+
+#: mybookmarks.properties:12
+msgid "Reader"
+msgstr ""
+
+#: mybookmarks.properties:13
+msgid "Maps"
+msgstr ""
+
+#: mybookmarks.properties:14
+msgid "Youtube"
+msgstr ""
+
+#: mybookmarks.properties:15
+msgid "iGoogle"
+msgstr ""
+
+#: mybookmarks.properties:17
+msgid "DuckDuckGo"
+msgstr ""
+
+#: mybookmarks.properties:18
+msgid "Google Search"
+msgstr ""
+
+#: mybookmarks.properties:25
+msgid "Dropbox"
+msgstr ""
+
+#: mybookmarks.properties:36
+msgid "News"
+msgstr ""
+
+#: mybookmarks.properties:37
+msgid "Google+"
+msgstr ""
+
+#: mybookmarks.properties:38
+msgid "Cloud Storage"
+msgstr ""
+
+#: mybookmarks.properties:39
+msgid "Calendar"
+msgstr ""
+
+#: mybookmarks.properties:40
+msgid "Mail"
+msgstr ""
+
+#: mybookmarks.properties:41
+msgid "Yahoo Mail"
+msgstr ""
+
+#: mybookmarks.properties:42
+msgid "Hotmail"
+msgstr ""

@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-28 04:35+0100\n"
+"PO-Revision-Date: 2021-01-04 14:59+0300\n"
+"Last-Translator: Serkan ÖNDER <serkanonder@outlook.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:124 3.2/applet.js:164
+msgid "Some Dependencies not Installed"
+msgstr "Bazı Bağımlılıklar Yüklenmedi"
+
+#: applet.js:124
+msgid ""
+"Both 'sox' and 'zenity' are required for this applet to have all its "
+"facilities including notifications and audible alerts .\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+"Bu uygulamanın bildirimler ve sesli uyarılar dahil tüm olanaklarına sahip "
+"olması için hem 'sox' hem de 'zenity' gereklidir.\n"
+"\n"
+"Lütfen bunların nasıl kurulacağına ilişkin yardım dosyasını okuyun."
+
+#: applet.js:132 3.2/applet.js:197
+msgid "Battery Monitor Applet"
+msgstr "Pil İzleme Uygulaması"
+
+#: applet.js:132
+msgid ""
+"A User Defined Sound File has been Specified for low Battery\n"
+"\n"
+"Please ensure the volume is set sensibly in public places\n"
+"especially if a long loud file is specifed\n"
+msgstr ""
+"Düşük Pil için Kullanıcı Tanımlı Ses Dosyası Belirtildi\n"
+"\n"
+"Lütfen ses seviyesinin halka açık yerlerde makul bir şekilde ayarlandığından "
+"emin olun\n"
+"özellikle uzun yüksek sesli bir dosya belirtilmişse\n"
+
+#: applet.js:163
+msgid " "
+msgstr " "
+
+#: applet.js:164 3.2/applet.js:137
+msgid "Waiting"
+msgstr "Bekleniyor"
+
+#: applet.js:230 3.2/applet.js:296
+msgid "Open Power Statistics"
+msgstr "Güç İstatistiklerini Aç"
+
+#: applet.js:236 3.2/applet.js:302
+msgid "Open System Monitor"
+msgstr "Sistem Gözlemcisini Aç"
+
+#: applet.js:245 3.2/applet.js:311
+msgid "Housekeeping and System Sub Menu"
+msgstr "Düzenleme ve Sistem Alt Menüsü"
+
+#: applet.js:248 3.2/applet.js:314
+msgid "View the Changelog"
+msgstr "Değişim Günlüğünü İncele"
+
+#: applet.js:254 3.2/applet.js:320
+msgid "Open the Help file"
+msgstr "Yardım dosyasını aç"
+
+#: applet.js:260 3.2/applet.js:326
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Stylesheet.css aç (Gelişmiş İşlev)"
+
+#. metadata.json->name
+#: applet.js:276 3.2/applet.js:342
+msgid "Battery  Applet with Monitoring and Shutdown (BAMS)"
+msgstr "Pil İzleme ve Kapatma Uygulamacığı (BAMS)"
+
+#: applet.js:281 3.2/applet.js:347
+msgid "Waiting for battery information"
+msgstr "Pil bilgileri bekleniyor"
+
+#: applet.js:343 3.2/applet.js:427
+msgid "Battery Low - turn off or connect to mains"
+msgstr "Düşük Pil - kapat veya ana şebekeye bağla"
+
+#: applet.js:350 3.2/applet.js:435
+msgid "Battery Monitor Applet Alert"
+msgstr "Pil İzleme Uygulaması Uyarısı"
+
+#: applet.js:350 3.2/applet.js:435
+msgid ""
+"The Battery Level has fallen to your alert level\n"
+"\n"
+"either reconnect to a power source,\n"
+"\n"
+"close down your work and suspend or shutdown the machine\n"
+"\n"
+msgstr ""
+"Pil Düzeyi, uyarı düzeyinize düştü\n"
+"\n"
+"ya bir güç kaynağına yeniden bağlanın,\n"
+"\n"
+"işinizi kapatın ve makineyi askıya alın veya kapatın\n"
+"\n"
+
+#: applet.js:352 3.2/applet.js:437
+msgid ""
+"The Battery Level has fallen to your alert level\n"
+"\n"
+" either reconnect to a power source,\n"
+"\n"
+"close down your work and suspend or shutdown the machine\n"
+"\n"
+msgstr ""
+"Pil Düzeyi, uyarı düzeyinize düştü\n"
+"\n"
+"  ya bir güç kaynağına yeniden bağlanın,\n"
+"\n"
+"işinizi kapatın ve makineyi askıya alın veya kapatın\n"
+"\n"
+
+#: applet.js:368 3.2/applet.js:453
+msgid "Battery Critical will Suspend unless connected to mains"
+msgstr "Pil Kritik, şebekeye bağlanmazsa askıya alınacak"
+
+#: applet.js:383 3.2/applet.js:468
+msgid "Charge:"
+msgstr "Şarj:"
+
+#: applet.js:383 3.2/applet.js:468
+msgid "Alert:"
+msgstr "Uyarı:"
+
+#: applet.js:383 3.2/applet.js:468
+msgid "Suspend:"
+msgstr "Askı:"
+
+#: applet.js:441 3.2/applet.js:516
+msgid "Percentage Charge:"
+msgstr "Şarj Oranı:"
+
+#: applet.js:441 3.2/applet.js:516
+msgid "Alert at:"
+msgstr "Uyarı durumu:"
+
+#: applet.js:441 3.2/applet.js:516
+msgid "Suspend at:"
+msgstr "Askı durumu:"
+
+#: 3.2/applet.js:136
+msgid "--%"
+msgstr "--%"
+
+#: 3.2/applet.js:164
+msgid ""
+"'upower', 'sox' and 'zenity' are required for this applet to have all its "
+"facilities including notifications and audible alerts .\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+"Bu uygulamanın bildirimler ve sesli uyarılar dahil tüm olanaklarına sahip "
+"olması için 'upower', 'sox' ve 'zenity' gereklidir.\n"
+"\n"
+"Lütfen bunların nasıl kurulacağına ilişkin yardım dosyasını okuyun."
+
+#: 3.2/applet.js:197
+msgid ""
+"A User Defined Sound File has been Specified for Low Battery\n"
+"\n"
+"Please ensure the volume is set sensibly in public places\n"
+"especially if a long loud file is specifed\n"
+msgstr ""
+"Düşük Pil İçin Kullanıcı Tanımlı Ses Dosyası Belirtildi\n"
+"\n"
+"Lütfen ses seviyesinin halka açık yerlerde makul bir şekilde ayarlandığından "
+"emin olun\n"
+"özellikle uzun yüksek sesli bir dosya belirtilmişse\n"
+
+#. metadata.json->description
+msgid "Displays Charge as Percentage and allows Alerts and Actions"
+msgstr "Şarj Yüzdesini Gösterir, Uyarı ve Eylemlere Olanak Sağlar"
+
+#. settings-schema.json->head->description
+#. 3.2->settings-schema.json->head->description
+msgid "General Settings for the Battery Applet with Monitoring and Shutdown"
+msgstr "Pil İzleme ve Kapatma Uygulamacığı Genel Ayarları"
+
+#. settings-schema.json->refreshInterval-spinner->units
+#. 3.2->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "saniye"
+
+#. settings-schema.json->refreshInterval-spinner->description
+#. 3.2->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Görüntüleme için Yenileme Aralığı:"
+
+#. settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.2->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine. This also governs the flash speed."
+msgstr ""
+"Yenileme aralığını değiştirmek için bu değeri artırın veya azaltın - yavaş "
+"makineniz varsa (yüksek değer belirleyerek) yavaş bir yenileme kullanınız. "
+"Bu ayrıca vurgu hızını da yönetir."
+
+#. settings-schema.json->alertPercentage->description
+#. 3.2->settings-schema.json->alertPercentage->description
+msgid "Percentage Battery Charge at which Alert Displayed"
+msgstr "Uyarı Gösterilecek Pil Şarj Yüzdesi"
+
+#. settings-schema.json->alertPercentage->tooltip
+#. 3.2->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Battery Charge at which Orange Warning Background is displayed "
+"- It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"Turuncu Uyarı Arkaplanının gösterildiği Pil Şarj Oranı - Bu ayrıca "
+"uygulamacığın sol tıklama menüsünde gösterilir ve buradan ayarlanabilir"
+
+#. settings-schema.json->head1->description
+#. 3.2->settings-schema.json->head1->description
+msgid "Display Mode"
+msgstr "Görünüm Kipi"
+
+#. settings-schema.json->displayType->options
+#. 3.2->settings-schema.json->displayType->options
+msgid ""
+"Classic - Battery Percentage with extended messages for horizontal panel"
+msgstr "Klasik - Pil Oranı ve yatay panel için ek mesajlar"
+
+#. settings-schema.json->displayType->options
+#. 3.2->settings-schema.json->displayType->options
+msgid "Classic Plus - Classic with addition of Battery Icon"
+msgstr "Klasik Ek - Klasik ve ek Pil Simgesi"
+
+#. settings-schema.json->displayType->options
+#. 3.2->settings-schema.json->displayType->options
+msgid "Compact - Battery Percentage without extended messages"
+msgstr "Sıkışık - Pil Yüzdesi, ek mesaj olmadan"
+
+#. settings-schema.json->displayType->options
+#. 3.2->settings-schema.json->displayType->options
+msgid "Compact Plus - Compact  with addition of Battery Icon"
+msgstr "Şıkışık Ek - Şıkışık ve ek Pil Simgesi"
+
+#. settings-schema.json->displayType->options
+#. 3.2->settings-schema.json->displayType->options
+msgid "Icon Only on coloured background indicating status"
+msgstr "Sadece Simge - renkli arka plan üstünde durum gösterimi"
+
+#. settings-schema.json->displayType->description
+msgid "Type of Display"
+msgstr "Görünüm Tipi"
+
+#. settings-schema.json->displayType->tooltip
+#. 3.2->settings-schema.json->displayType->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional battery "
+"icon and some more compact displays suitable for a vertical panel "
+"(CompactCompact Plus and Icon Only)"
+msgstr ""
+"Bu özellik (varsayılan) Klasik görünüme ek olarak pil simgesi de sunmayı "
+"sağlar, (Sıkışık, Sıkışık Ek ve Sadece Simge seçenekleri ile birlikte) dikey "
+"panellere de uygun hale getirebilirsiniz."
+
+#. 3.2->settings-schema.json->displayType->description
+msgid "Type of Display in Toolbar"
+msgstr "Araç Çubuğundaki Görüntü Türü"
+
+#. 3.2->settings-schema.json->head2->description
+msgid "Battery Low Alert Settings"
+msgstr "Düşük Pil Uyarısı Ayarları"
+
+#. 3.2->settings-schema.json->useBatteryLowSound->description
+msgid "Provide audible alerts when Battery Low and at Shutdown Level"
+msgstr "Pil Zayıf ve Kapatma Seviyesinde olduğunda sesli uyarılar sağlayın"
+
+#. 3.2->settings-schema.json->useBatteryLowSound->tooltip
+msgid ""
+"Must have Sox installed. Limited number of sound file types supported (.oga "
+"and .wav)"
+msgstr ""
+"Sox kurulu olmalıdır. Sınırlı sayıda ses dosyası türü desteklenir (.oga ve ."
+"wav)"
+
+#. 3.2->settings-schema.json->chooseBatteryLowSound->description
+msgid ""
+"Allow choice of audible alert file when Battery Low and at Shutdown Level"
+msgstr ""
+"Pil Zayıf ve Kapatma Seviyesindeyken sesli uyarı dosyası seçimine izin ver"
+
+#. 3.2->settings-schema.json->chooseBatteryLowSound->tooltip
+msgid ""
+"Must have Sox installed. Limited number of sound file types supported in "
+"versions < 4.2"
+msgstr ""
+"Sox kurulu olmalıdır. 4.2'nin altındaki sürümlerde desteklenen sınırlı "
+"sayıda ses dosyası türü"
+
+#. 3.2->settings-schema.json->batteryLowSound->description
+msgid "Choose sound file to use when Battery is Low"
+msgstr "Pil Düşük olduğunda kullanılacak ses dosyasını seçin"
+
+#. 3.2->settings-schema.json->batteryLowSound->tooltip
+msgid ""
+"Please ensure the volume is set sensibly in public places especially if a "
+"long loud file is specifed"
+msgstr ""
+"Lütfen, özellikle uzun bir yüksek sesli dosya belirtilmişse, halka açık "
+"yerlerde ses düzeyinin makul bir şekilde ayarlandığından emin olun"
+
+#. 3.2->settings-schema.json->batteryShutdownSound->description
+msgid "Choose sound file to use when Battery is at Shutdown Level"
+msgstr "Pil Kapatma Seviyesindeyken kullanılacak ses dosyasını seçin"
+
+#. 3.2->settings-schema.json->batteryShutdownSound->tooltip
+msgid ""
+"Please ensure the volume is set sensibly in public places - do not specify a "
+"long loud file at Shutdown"
+msgstr ""
+"Lütfen halka açık yerlerde ses seviyesinin makul bir şekilde ayarlandığından "
+"emin olun - Shutdow'da uzun yüksek sesli bir dosya belirtmeyin"
+
+#. 3.2->settings-schema.json->notifyBatteryLowSound->description
+msgid ""
+"Provide Notification when user specified sound file is in use - Recommended"
+msgstr ""
+"Kullanıcı tarafından belirlenen ses dosyası kullanımdayken Bildirim sağlayın "
+"- Önerilir"
+
+#. 3.2->settings-schema.json->notifyBatteryLowSound->tooltip
+msgid ""
+"To remind users that the volume may need to be set sensibly in public places"
+msgstr ""
+"Kullanıcılara, halka açık yerlerde ses seviyesinin makul bir şekilde "
+"ayarlanması gerekebileceğini hatırlatmak için"
+
+#. 3.2->settings-schema.json->head3->description
+msgid "Household Tasks"
+msgstr "Ev işleri"
+
+#. 3.2->settings-schema.json->deleteTempraryFiles->description
+msgid "Delete temporary files after upgrade to version 1.4"
+msgstr "1.4 sürümüne yükselttikten sonra geçici dosyaları silin"
+
+#. 3.2->settings-schema.json->deleteTempraryFiles->tooltip
+msgid ""
+"Versions prior to 1.4 used temporary files in the home directory. These are "
+"not needed any more and can be deleted."
+msgstr ""
+"1.4'ten önceki sürümler, ana dizinde geçici dosyalar kullanıyordu. Bunlara "
+"artık ihtiyaç yoktur ve silinebilir."
+
+#~ msgid "Ok"
+#~ msgstr "Tamam"

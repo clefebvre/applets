@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 12:09+0800\n"
+"PO-Revision-Date: 2019-11-30 14:37+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. settings-schema.json->advanced-page->title
+msgid "Advanced"
+msgstr ""
+
+#. settings-schema.json->amount->description
+msgid "Amount"
+msgstr ""
+
+#. settings-schema.json->amount->tooltip
+msgid "Set the balance to multiply the price"
+msgstr ""
+
+#. settings-schema.json->show-currency->options
+msgid "Name"
+msgstr ""
+
+#. settings-schema.json->show-currency->options
+msgid "Symbol"
+msgstr ""
+
+#. settings-schema.json->show-currency->options
+msgid "None"
+msgstr ""
+
+#. settings-schema.json->rates-update-interval->description
+msgid "Rates update interval (in seconds)"
+msgstr ""
+
+#. settings-schema.json->rates-update-interval->tooltip
+msgid "Set the delay between each rates update."
+msgstr ""
+
+#. settings-schema.json->graph-type->description
+msgid "Graph Type"
+msgstr ""
+
+#. settings-schema.json->graph-type->options
+msgid "Candlestick"
+msgstr ""
+
+#. settings-schema.json->graph-type->options
+msgid "Line"
+msgstr ""
+
+#. settings-schema.json->graph-color->description
+msgid "Graph Foreground Color"
+msgstr ""
+
+#. settings-schema.json->alert-delta-update-interval->units
+msgid "seconds"
+msgstr ""
+
+#. settings-schema.json->currency-format-enable->description
+msgid "Custom format"
+msgstr ""
+
+#. settings-schema.json->currency-format-symbol->description
+msgid "Currency symbol"
+msgstr ""
+
+#. settings-schema.json->currency-format-name->description
+msgid "Currency name"
+msgstr ""
+
+#. settings-schema.json->currency-format-precision->description
+msgid "Decimal places"
+msgstr ""

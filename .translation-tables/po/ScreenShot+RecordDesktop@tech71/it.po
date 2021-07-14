@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 18:50+0200\n"
+"PO-Revision-Date: 2019-10-15 23:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:28
+msgid "ScreenShot"
+msgstr "ScreenShot"
+
+#: applet.js:33
+msgid "Current Window"
+msgstr "Finestra Corrente"
+
+#: applet.js:38
+msgid "Selected Area"
+msgstr "Area Selezionata"
+
+#: applet.js:44
+msgid "Whole Screen"
+msgstr "Schermo Intero"
+
+#: applet.js:46
+msgid "1 Second Delay"
+msgstr "Ritarda 1 Secondo"
+
+#: applet.js:50
+msgid "3 Second Delay"
+msgstr "Ritarda 3 Secondi"
+
+#: applet.js:54
+msgid "5 Second Delay"
+msgstr "Ritarda 5 Secondi"
+
+#: applet.js:61
+msgid "Record Screencast"
+msgstr "Registra schermo"
+
+#: applet.js:65
+msgid "Record Desktop With Audio"
+msgstr "Registra Desktop Con Audio"
+
+#: applet.js:68 applet.js:74 applet.js:81 applet.js:87
+msgid "Recording"
+msgstr "Registrando"
+
+#: applet.js:68 applet.js:81
+msgid "With-Audio"
+msgstr "Con Audio"
+
+#: applet.js:71
+msgid "Record Desktop Without Audio"
+msgstr "Registra Desktop Senza Audio"
+
+#: applet.js:74 applet.js:87
+msgid "No-Audio"
+msgstr "Senza Audio"
+
+#: applet.js:78
+msgid "Record Current Window With Audio"
+msgstr "Registra Finestra Corrente Con Audio"
+
+#: applet.js:84
+msgid "Record Current Window Without Audio"
+msgstr "Registra Finestra Corrente Senza Audio"
+
+#: applet.js:91
+msgid "Stop Recording"
+msgstr "Interrompi Registrazione"
+
+#: applet.js:96
+msgid "Recording-Stopped"
+msgstr "Registrazione Interrotta"
+
+#: applet.js:97
+msgid "Recording-Finished"
+msgstr "Registrazione Terminata"
+
+#: applet.js:107
+msgid "Take A Snapshot or Record Your Desktop"
+msgstr "Scatta Un'Istantanea o Registra il Desktop"
+
+#: applet.js:124
+msgid "Pictures Folder"
+msgstr "Cartella Immagini"
+
+#: applet.js:130
+msgid "Videos Folder"
+msgstr "Cartella Video"
+
+#. metadata.json->description
+msgid ""
+"Take A Snapshot Or Record Your Desktop (recording requires the packages "
+"ffmpeg, xdotool & x11-utils to be installed)"
+msgstr ""
+"Scatta Un'Istantanea o Registra il Desktop (la registrazione richiede "
+"l'installazione dei pacchetti ffmpeg, xdotool e x11-utils)"
+
+#. metadata.json->name
+msgid "ScreenShot+Record Desktop"
+msgstr "ScreenShot+Record Desktop"

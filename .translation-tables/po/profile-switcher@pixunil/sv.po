@@ -1,0 +1,68 @@
+# Swedish translation for profile-switcher@pixunil.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: profile-switcher@pixunil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-23 12:11+0800\n"
+"PO-Revision-Date: 2017-05-24 06:24+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:90
+msgid "Add Profile"
+msgstr "Lägg till en profil"
+
+#: applet.js:94
+msgid "Remove Profile"
+msgstr "Ta bort profilen"
+
+#: applet.js:98
+msgid "Rename Profile"
+msgstr "Byt namn på profilen"
+
+#: applet.js:135
+msgid "OK"
+msgstr "OK"
+
+#: applet.js:164 applet.js:194
+msgid "Profile name"
+msgstr "Profilnamn"
+
+#: applet.js:326
+msgid "Track changes"
+msgstr "Spåra ändringar"
+
+#: applet.js:330
+msgid "Add profile"
+msgstr "Lägg till en profil"
+
+#: applet.js:361
+#, c-format
+msgid "%s Profile"
+msgstr "Profil %s"
+
+#. profile-switcher@pixunil->metadata.json->description
+msgid "Change your settings profile"
+msgstr "Ändra din inställningsprofil"
+
+#. profile-switcher@pixunil->metadata.json->name
+msgid "Profile switcher"
+msgstr "Profilväxlare"
+
+#. profile-switcher@pixunil->settings-schema.json->active-profile->description
+msgid "Active Profile"
+msgstr "Aktiv profil"
+
+#. profile-switcher@pixunil->settings-schema.json->active-profile->options
+msgid "default"
+msgstr "standard"

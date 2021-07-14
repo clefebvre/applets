@@ -1,0 +1,289 @@
+# Bulgarian translation for qredshift@quintao.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Peyu Yovev <spacy00001@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 13:58-0300\n"
+"PO-Revision-Date: 2020-04-18 10:45+0300\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:115
+msgid "REDSHIFT NOT INSTALLED!"
+msgstr "REDSHIFT НЕ Е ИНСТАЛИРАН!"
+
+#: applet.js:116
+msgid "Requires Redshift: sudo apt-get install redshift"
+msgstr "Изисква се Redshift: sudo apt-get install redshift"
+
+#: applet.js:119 applet.js:159
+msgid "Reload Applet"
+msgstr "Презареди аплета"
+
+#: applet.js:164
+msgid "Recompile Translations"
+msgstr "Прекомпилирай преводите"
+
+#. settings-schema.json->enabled->description
+#: applet.js:356
+msgid "Enabled"
+msgstr "Включен"
+
+#: applet.js:364 applet.js:410
+msgid "Temp:"
+msgstr "Темп:"
+
+#: applet.js:375 applet.js:421
+msgid "Bright:"
+msgstr "Яркост:"
+
+#: applet.js:387 applet.js:635
+msgid "Gamma:"
+msgstr "Гама:"
+
+#. settings-schema.json->enabledNight->description
+#: applet.js:402
+msgid "Night Enabled"
+msgstr "Нощен режим"
+
+#. settings-schema.json->iconLabel->description
+#: applet.js:464
+msgid "Show Label"
+msgstr "Покажи етикет"
+
+#: applet.js:618
+msgid "On"
+msgstr "Вкл."
+
+#: applet.js:618 applet.js:620
+msgid "Off"
+msgstr "Изкл."
+
+#: applet.js:626
+msgid "Day Temperature"
+msgstr "Дневна температура"
+
+#: applet.js:627
+msgid "Day Brightness"
+msgstr "Дневна яркост"
+
+#: applet.js:629
+msgid "Night Temperature"
+msgstr "Нощна температура"
+
+#: applet.js:630
+msgid "Night Brightness"
+msgstr "Нощна яркост"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->dayTemp->description
+#. settings-schema.json->nightTemp->description
+#: applet.js:632
+msgid "Temperature"
+msgstr "Температура"
+
+#. settings-schema.json->dayBrightness->description
+#. settings-schema.json->nightBrightness->description
+#: applet.js:633
+msgid "Brightness"
+msgstr "Яркост"
+
+#. metadata.json->name
+msgid "QRedshift"
+msgstr "QRedshift"
+
+#. metadata.json->description
+#, fuzzy
+msgid ""
+"Sets brightness, gamma levels and color temperature with Redshift. This "
+"applet conflicts with redshift-gtk, make sure you remove it."
+msgstr ""
+"Задаване нива на яркост, гама  и цветова температура с Redshift.\n"
+"Този аплет е в конфликт с redshift-gtk, убедете се че сте го махнали."
+
+#. settings-schema.json->panel-options->title
+msgid "Settings"
+msgstr "Настройки"
+
+#. settings-schema.json->panel-location->title
+msgid "Location"
+msgstr "Локация"
+
+#. settings-schema.json->panel-shortcuts->title
+msgid "Shortcuts"
+msgstr "Бързи клавиши"
+
+#. settings-schema.json->info-section->title
+msgid "Tips"
+msgstr "Съвети"
+
+#. settings-schema.json->opt-section->title
+msgid "Options"
+msgstr "Опции"
+
+#. settings-schema.json->day-section->title
+msgid "Day Settings"
+msgstr "Дневни настройки"
+
+#. settings-schema.json->night-section->title
+msgid "Night Settings"
+msgstr "Нощни настройки"
+
+#. settings-schema.json->keybind-section->title
+msgid "Key Bindings"
+msgstr "Клавишни комбинаци"
+
+#. settings-schema.json->location-section->title
+msgid "Location Settings"
+msgstr "Настройки за локация"
+
+#. settings-schema.json->autoUpdate->description
+msgid "Auto Update"
+msgstr "Автоматично обновяване"
+
+#. settings-schema.json->autoUpdate->tooltip
+msgid "Continuously adjust color temperature"
+msgstr "Постоянно пренагласяне на цветовата температура"
+
+#. settings-schema.json->autoUpdateInterval->units
+msgid "Sec."
+msgstr "Сек."
+
+#. settings-schema.json->autoUpdateInterval->description
+msgid "Update interval"
+msgstr "Интервал на обновяване"
+
+#. settings-schema.json->adjustmentMethod->description
+msgid "Adjustment Method"
+msgstr "Метод на пренагласяне"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "needload"
+msgstr "needload"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "randr"
+msgstr "randr"
+
+#. settings-schema.json->adjustmentMethod->options
+msgid "vidmode"
+msgstr "vidmode"
+
+#. settings-schema.json->adjustmentMethod->tooltip
+msgid "Method to use to set color temperature"
+msgstr "Метод на използване за настройка на цветовата температура"
+
+#. settings-schema.json->labelScrollAction->description
+msgid "Icon Scroll Action"
+msgstr "Действие  при скрол върху иконката"
+
+#. settings-schema.json->labelScrollAction->options
+msgid "Disabled"
+msgstr "Изключено"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->keyToggle->description
+msgid "On/Off"
+msgstr "Вкл/Изкл"
+
+#. settings-schema.json->keyBrightnessUp->description
+msgid "Increase brightness level"
+msgstr ""
+
+#. settings-schema.json->keyBrightnessDown->description
+#, fuzzy
+msgid "Decrease brightness level"
+msgstr "Дневна яркост"
+
+#. settings-schema.json->keyTempUp->description
+msgid "Increase temperature level"
+msgstr ""
+
+#. settings-schema.json->keyTempDown->description
+#, fuzzy
+msgid "Decrease temperature level"
+msgstr "Дневна температура"
+
+#. settings-schema.json->keyGammaUp->description
+msgid "Increase gamma level"
+msgstr ""
+
+#. settings-schema.json->keyGammaDown->description
+msgid "Decrease gamma level"
+msgstr ""
+
+#. settings-schema.json->labelScrollAction->options
+msgid "Bright"
+msgstr "Яркост"
+
+#. settings-schema.json->labelScrollAction->options
+#. settings-schema.json->gammaMix->description
+msgid "Gamma"
+msgstr "Гама"
+
+#. settings-schema.json->labelScrollAction->tooltip
+msgid "Action when scroll on applet icon."
+msgstr "Действие, когато скролнете върху иконката."
+
+#. settings-schema.json->dayTemp->units
+#. settings-schema.json->nightTemp->units
+msgid "K"
+msgstr "K"
+
+#. settings-schema.json->dayBrightness->units
+#. settings-schema.json->nightBrightness->units
+msgid "%"
+msgstr "%"
+
+#. settings-schema.json->locationRemote->description
+msgid "Remote Location"
+msgstr "Далечна локация"
+
+#. settings-schema.json->locationRemote->tooltip
+#. settings-schema.json->locationUpdate->tooltip
+msgid "Native geoclue on redshift can make the experience slow."
+msgstr "Вградената геолокация на redshift може да доведе до забавяния."
+
+#. settings-schema.json->locationUpdate->description
+msgid "Update Location"
+msgstr "Обнови локацията"
+
+#. settings-schema.json->locationLatitude->description
+msgid "Latitude"
+msgstr "Ширина"
+
+#. settings-schema.json->locationLongitude->description
+msgid "Longitude"
+msgstr "Дължина"
+
+#. settings-schema.json->aboutLocation->description
+msgid ""
+"Native geoclue on redshift can make the experience slow.\n"
+"Using: https://geolocation-db.com/"
+msgstr ""
+"Вградената геолокация на redshift може да доведе до забавяния.\n"
+"Използване на: https://geolocation-db.com/"
+
+#. settings-schema.json->textTips->description
+msgid "* Right-click the sliders to reset the default (neutral) value."
+msgstr ""
+"*Десен клик на плъзгачите връща стойността по подразбиране (неутралната)."
+
+#. settings-schema.json->textInfo->description
+msgid ""
+"If you like and use this applet take the time to visit it's page on Cinnamon "
+"Spices and give it a star. You only need a github account to do this."
+msgstr ""
+"Ако сте харесали този аплет, намерете време да посетите страницата с аплети "
+"на Cinnamon и да му сложите звезда. За да сторите това, ще имате нужда само "
+"от github акаунт."

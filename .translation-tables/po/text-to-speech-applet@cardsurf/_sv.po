@@ -1,0 +1,74 @@
+# Swedish translation file for text-to-speech-applet@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: text-to-speech-applet@cardsurf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 22:48+0100\n"
+"PO-Revision-Date: 2017-05-31 16:17+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:222
+msgid "The following packages were not found:"
+msgstr ""
+
+#: applet.js:223
+msgid "Please install the above packages to use the applet"
+msgstr ""
+
+#: applet.js:254
+msgid "The default text-to-speech engine"
+msgstr ""
+
+#: applet.js:254
+msgid "not found."
+msgstr ""
+
+#: applet.js:255
+msgid "To use the applet either install"
+msgstr ""
+
+#: applet.js:256
+msgid ""
+"or specify other engine as 'Voice command' parameter in applet configuration."
+msgstr ""
+
+#: applet.js:257
+msgid "Do you want to continue ?"
+msgstr ""
+
+#. settings-schema.json->voice_command->tooltip
+msgid ""
+"A command used to read the text. \n"
+"Text to read will be passed as the last command argument."
+msgstr ""
+
+#. settings-schema.json->shortcuts_start->description
+msgid "Shortcuts"
+msgstr ""
+
+#. settings-schema.json->start_stop_keys->description
+msgid "Reading shortcut"
+msgstr ""
+
+#. settings-schema.json->start_stop_keys->tooltip
+msgid "A keyboard shortcut to start or stop reading the text"
+msgstr ""
+
+#. settings-schema.json->pause_resume_keys->description
+msgid "Pause shortcut"
+msgstr ""
+
+#. settings-schema.json->pause_resume_keys->tooltip
+msgid "A keyboard shortcut to pause or resume reading the text"
+msgstr ""

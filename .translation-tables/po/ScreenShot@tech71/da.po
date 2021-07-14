@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-18 12:16+0800\n"
+"PO-Revision-Date: 2017-07-02 18:54+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:34
+msgid "Take A Screen Shot"
+msgstr "Tag et skærmbillede"
+
+#. ScreenShot@tech71->metadata.json->name
+#: applet.js:45
+msgid "ScreenShot"
+msgstr "Skærmbillede"
+
+#: applet.js:50
+msgid "Whole Screen"
+msgstr "Hele skærmen"
+
+#: applet.js:52
+msgid "1 Second Delay"
+msgstr "1 sekunds forsinkelse"
+
+#: applet.js:56
+msgid "3 Second Delay"
+msgstr "3 sekunders forsinkelse"
+
+#: applet.js:60
+msgid "5 Second Delay"
+msgstr "5 sekunders forsinkelse"
+
+#: applet.js:69
+msgid "Current Window"
+msgstr "Aktuelle vindue"
+
+#: applet.js:74
+msgid "Selected Area"
+msgstr "Valgte område"
+
+#. ScreenShot@tech71->metadata.json->description
+msgid "Take a snapshot of your desktop or individual windows"
+msgstr "Tag et skærmbillede af dit skrivebord eller individuelle vinduer"

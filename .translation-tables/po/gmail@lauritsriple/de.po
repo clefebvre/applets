@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 03:30+0200\n"
+"PO-Revision-Date: 2017-09-22 03:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:86 applet.js:170
+msgid "No new mail"
+msgstr "Keine neue E-Mail"
+
+#: applet.js:130
+msgid "Something went wrong"
+msgstr "Etwas ist schief gelaufen"
+
+#: applet.js:133
+msgid "INFO: Install python libaries from terminal"
+msgstr "INFO: Python-Bibliotheken im Terminal installieren"
+
+#: applet.js:133
+msgid "How To"
+msgstr "Wie es geht"
+
+#: applet.js:133
+msgid "guide"
+msgstr "Anleitung"
+
+#: applet.js:133
+msgid "You need pip3:"
+msgstr "Sie benötigen »pip3«:"
+
+#: applet.js:133
+msgid "You need python-feedparser:"
+msgstr "Sie benötigen »python-feedparser«:"
+
+#: applet.js:133
+msgid "You need python keyring and python keyring-alt:"
+msgstr "Sie benötigen »python keyring« und »python keyring-alt«:"
+
+#: applet.js:133
+msgid "and"
+msgstr "und"
+
+#: applet.js:135
+msgid "INFO: Are you getting this message? You should not!"
+msgstr "INFO: Erhalten Sie diese Nachricht? Das sollten Sie nicht!"
+
+#: applet.js:135
+msgid "ERROR"
+msgstr "FEHLER"
+
+#: applet.js:135
+msgid ""
+"Check internet connection\n"
+"Install the needed python libaries\n"
+"Configure password correctly"
+msgstr ""
+"Überprüfen Sie die Internetverbindung\n"
+"Installieren Sie die benötigten Python-Bibliotheken\n"
+"Konfigurieren Sie das Passwort korrekt"
+
+#: applet.js:138
+msgid "ERROR: Error from json parser"
+msgstr "FEHLER: JSON-Parser-Fehler"
+
+#: applet.js:161
+msgid "New mail"
+msgstr "Neue E-Mail"
+
+#: applet.js:163
+msgid "New mails"
+msgstr "Neue E-Mails"
+
+#: applet.js:172
+msgid "No new mails"
+msgstr "Keine neuen E-Mails"
+
+#: applet.js:172
+msgid "Have a nice day"
+msgstr "Einen schönen Tag noch"
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->description
+msgid "Username:"
+msgstr "Benutzername:"
+
+#. gmail@lauritsriple->settings-schema.json->settings-username->tooltip
+msgid "Set your username"
+msgstr "Ihren Benutzernamen eingeben"
+
+#. gmail@lauritsriple->settings-schema.json->head->description
+msgid ""
+"Store your username and password.\n"
+"Uses the keyring so password is not stored in cleartext.\n"
+"It might take a while (2-10seconds) before the password\n"
+"gets visible removed after you press the button.\n"
+"If your gmail adress is usernam@gmail.com, only put in the username part "
+"here.\n"
+"There are still some issues so you might have to press the button a couple "
+"of time.\n"
+"If the password changes to something else, dont press it again."
+msgstr ""
+"Speichern Sie Ihren Benutzernamen und Ihr Passwort.\n"
+"Es wird der »keyring«-Schlüsselbund verwendet,\n"
+"so dass das Passwort nicht in Klartext gespeichert ist.\n"
+"Nach dem Drücken der Taste kann es kann eine Weile dauern (2-10 Sekunden)\n"
+"bevor das Passwort unsichtbar wird.\n"
+"Wenn Ihre GMail-Adresse »benutzername@gmail.com« ist,\n"
+"dann geben Sie hier nur »benutzername« ein.\n"
+"Es gibt noch einige Probleme, so müssen Sie den Knopf eventuell ein paar Mal "
+"drücken.\n"
+"Wenn sich das Passwort zu etwas anderem ändert, den Knopf nicht noch einmal "
+"drücken."
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->description
+msgid "Password:"
+msgstr "Passwort:"
+
+#. gmail@lauritsriple->settings-schema.json->settings-password->tooltip
+msgid "Set your password"
+msgstr "Ihr Passwort eingeben"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->description
+msgid "Save username and password"
+msgstr "Benutzernamen und Passwort speichern"
+
+#. gmail@lauritsriple->settings-schema.json->demo-button->tooltip
+msgid "Click to save username and password"
+msgstr "Klicken, um Benutzernamen und Passwort zu speichern"
+
+#. gmail@lauritsriple->metadata.json->description
+msgid "Shows most recent mails, and how many unread messages you have."
+msgstr "Zeigt die neuesten E-Mails und die Anzahl ungelesener Nachrichten an"
+
+#. gmail@lauritsriple->metadata.json->name
+msgid "GmailNotifier"
+msgstr "GmailNotifier"
+
+#~ msgid ""
+#~ "You need pip3, 'sudo apt-get install pip3'\n"
+#~ "You need python-feedparser, 'sudo pip3 install feedparser'\n"
+#~ "You need python keyring and python keyring-alt, 'sudo pip3 install "
+#~ "keyring' and 'sudo pip3 install keyrings-alt'"
+#~ msgstr ""
+#~ "Sie benötigen »pip3«: 'sudo apt-get install pip3'\n"
+#~ "Sie benötigen »python-feedparser«: 'sudo pip3 install feedparser'\n"
+#~ "Sie benötigen »python keyring« und »python keyring-alt«: 'sudo pip3 "
+#~ "install keyring' und 'sudo pip3 install keyrings-alt'"
+
+#~ msgid ""
+#~ "Check internet conneciton\n"
+#~ "Install the needed python libaries\n"
+#~ "Configure password correctly"
+#~ msgstr ""
+#~ "Überprüfen Sie die Internetverbindung\n"
+#~ "Installieren Sie die benötigten Python-Bibliotheken\n"
+#~ "Konfigurieren Sie das Passwort korrekt"
+
+#~ msgid "Install python libaries from terminal"
+#~ msgstr "Python-Bibliotheken im Terminal installieren"
+
+#~ msgid ""
+#~ "You need pip3, 'sudo apt-get install pip3'\n"
+#~ "You need python-feedparser, 'sudo pip3 install feedparser'\n"
+#~ "You need python keyring and python keyring-alt, 'sudo pip3 install "
+#~ "keyrings' and 'sudo pip3 install keyrings-alt'"
+#~ msgstr ""
+#~ "Sie benötigen »pip3«: 'sudo apt-get install pip3'\n"
+#~ "Sie benötigen »python-feedparser«: 'sudo pip3 install feedparser'\n"
+#~ "Sie benötigen »python keyring« und »python keyring-alt«: 'sudo pip3 "
+#~ "install keyrings' und 'sudo pip3 install keyrings-alt'"
+
+#~ msgid "Could not get json from python"
+#~ msgstr "Konnte »json« von Python nicht erhalten"

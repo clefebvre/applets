@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Stopwatch for Cinnamon 1.8+\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 16:14+0100\n"
+"PO-Revision-Date: 2017-02-26 21:36+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:133
+msgid "Start"
+msgstr "Pokreni"
+
+#: applet.js:141
+msgid "Pause"
+msgstr "Pauza"
+
+#: applet.js:149
+msgid "Reset counter"
+msgstr "Poništi brojač"
+
+#: applet.js:156
+msgid "If paused, continue counting from now"
+msgstr "Ako je pauzirano, nastavi odbrojavanje od sada"
+
+#: applet.js:167
+msgid "If paused, continue counting from original start time"
+msgstr "Ako je pauzirano, nastavi odbrojavanje od izvornog vremena pokretanja"
+
+#: applet.js:179
+msgid "Housekeeping and System Sub Menu"
+msgstr "Upravljanje i podizbornici sustava"
+
+#: applet.js:182
+msgid "View the Changelog"
+msgstr "Pogledaj zapis promjena"
+
+#: applet.js:188
+msgid "Open the Help file"
+msgstr "Otvori datoteku pomoći"
+
+#: applet.js:195
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Otvori stylesheet.css  (Napredne funkcije)"
+
+#: applet.js:201
+msgid "Open the gnome system monitor (Advanced testing function)"
+msgstr "Otvori gnome nadgledatelja sustava (Napredne funkcije testiranja)"
+
+#: applet.js:210
+msgid "Configure..."
+msgstr "Prilagodi…"
+
+#: applet.js:255
+msgid "days"
+msgstr "dana"
+
+#: applet.js:258
+msgid "hours"
+msgstr "sata"
+
+#: applet.js:313
+msgid "Running for"
+msgstr "Pokrenuto"
+
+#: applet.js:313
+msgid "Click to Pause"
+msgstr "Kliknite za pauzu"
+
+#: applet.js:323 applet.js:325
+msgid "Paused at"
+msgstr "Pauzirano pri"
+
+#: applet.js:323
+msgid "Click to Continue Counting"
+msgstr "Kliknite za nastavak odbrojavanja"
+
+#: applet.js:325
+msgid "Click to Reset"
+msgstr "Kliknite za poništavanje"
+
+#: applet.js:335
+msgid "Ready - Click to Start"
+msgstr "Spremni - Kliknite za pokretanje"
+
+#. stopwatch@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the Stopwatch Applet"
+msgstr "Opće postavke za aplet štoperice"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterStatus->description
+msgid "Should not be changed"
+msgstr "Trebalo bi se mijenjati"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->description
+msgid "Check box to continue counting on clicking applet when paused"
+msgstr "Uključi za nastavak odbrojavanja pri kliku na aplet tijekom pauze"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->tooltip
+msgid ""
+"Normal sequence on clicking is 'start -> pause -> reset' this changes to "
+"'start -> pause -> continue -> pause -> continue etc'. In this mode one has "
+"to use the Right Click (Context) Menu to reset the counter"
+msgstr ""
+"Normalan slijed pri kliku je 'pokretanje -> pauza -> poništi brojač' i vrati "
+"na 'pokretanje -> pauza -> nastavi -> pauza -> nastavi itd'. U ovom načinu "
+"koristi se desni klik na (sadržajni) izbornik za poništavanje brojača"
+
+#. stopwatch@pdcurtis->settings-schema.json->pausedAt->description
+#. stopwatch@pdcurtis->settings-schema.json->startTime->description
+msgid "Must not be changed"
+msgstr "Ne bi se trebalo mijenjati"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->description
+msgid "Provide a meaningful title to the counter"
+msgstr "Odredi smislen naslov za brojač"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->tooltip
+msgid ""
+"This forms the first part of the tooltip and is useful for identification if "
+"you have multiple instances of counters - default is Stopwatch"
+msgstr ""
+"Ovo formira prvi dio napomene i korisno je za indentifikaciju ako imate više "
+"primjeraka brojača - zadana je štoperica"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Razdoblje osvježavanja prikaza:"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have multiple active counters and/or a slow machine"
+msgstr ""
+"Povećajte ili smanjite ovu vrijednost kako bi promijenili razdoblje "
+"osvježavanja - koristite sporije osvježavanje ako imate više aktivnih "
+"primjeraka brojača  i/ili sporo računalo"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunde"
+
+#. stopwatch@pdcurtis->metadata.json->description
+msgid ""
+"Allows one to time activities such as the time online with multiple "
+"instances possible"
+msgstr ""
+"Omogućuje odbrojavanje aktivnosti poput vremena provedenog na internetu s "
+"više pokrenutih primjeraka"
+
+#. stopwatch@pdcurtis->metadata.json->name
+msgid "Stopwatch for Cinnamon 1.8+"
+msgstr "Štoperica za Cinnamon 1.8+"

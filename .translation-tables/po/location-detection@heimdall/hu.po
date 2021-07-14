@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-26 17:55+0200\n"
+"PO-Revision-Date: 2021-03-30 21:10+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:56
+msgid "Your percieved location."
+msgstr "Az ön észlelt helye."
+
+#: applet.js:104
+msgid "Your IPInfoDB account has been suspended."
+msgstr "IPInfoDB-fiókját felfüggesztettük."
+
+#: applet.js:104 applet.js:107
+msgid "Please set a valid API key in the applets settings."
+msgstr ""
+"Kérjük, állítson be egy érvényes API kulcsot a kisalkalmazások "
+"beállításaiban."
+
+#: applet.js:107
+msgid "Invalid API key."
+msgstr "Érvénytelen API kulcs."
+
+#: applet.js:119
+msgid "Something went Wrong!"
+msgstr "Hoppá, valami elromlott!"
+
+#. location-detection@heimdall->metadata.json->description
+msgid "Shows the geographic location of your public IP and country-flag."
+msgstr ""
+"Megjeleníti az ön nyilvános IP-címéhez tartozó földrajzi helyzetet és annak "
+"országzászlóját."
+
+#. location-detection@heimdall->metadata.json->name
+msgid "Location Detection + Flags"
+msgstr "Helymeghatározás + zászlók"
+
+#. location-detection@heimdall->settings-schema.json->register-
+#. ipinfodb->description
+msgid "Register on IPInfoDB to get an API key"
+msgstr "Regisztráljon az IPInfoDB-n API-kulcs megszerzéséhez"
+
+#. location-detection@heimdall->settings-schema.json->api-key->description
+msgid "API key from IPInfoDB"
+msgstr "API kulcs az IPInfoDB-ről"
+
+#. location-detection@heimdall->settings-schema.json->api-key->tooltip
+msgid "Get your API key from IPInfoDB and place it here."
+msgstr "Szerezze be API kulcsát az IPInfoDB-től, és helyezze ide."

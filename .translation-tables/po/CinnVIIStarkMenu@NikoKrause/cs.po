@@ -1,0 +1,1218 @@
+# Czech translation for cinnviistarkmenu
+# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# This file is distributed under the same license as the cinnviistarkmenu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnviistarkmenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 23:23+0100\n"
+"PO-Revision-Date: 2017-05-08 14:35+0200\n"
+"Last-Translator: Radek Otáhal <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2017-03-19 06:52+0000\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: 3.2/applet.js:175 2.6/applet.js:176
+msgid "Please enter your password to uninstall this application"
+msgstr "Zadejte prosím heslo k odinstalaci této aplikace"
+
+#: 3.2/applet.js:258 2.6/applet.js:259 3.4/applet.js:258 4.2/applet.js:460
+msgid "Add to panel"
+msgstr "Přidat na panel"
+
+#: 3.2/applet.js:261 2.6/applet.js:262 3.4/applet.js:261 4.2/applet.js:464
+msgid "Add to desktop"
+msgstr "Přidat na plochu"
+
+#: 3.2/applet.js:265 2.6/applet.js:266 3.4/applet.js:265 4.2/applet.js:469
+msgid "Remove from favorites"
+msgstr "Odebrat z oblíbených"
+
+#: 3.2/applet.js:268 2.6/applet.js:269 3.4/applet.js:268 4.2/applet.js:472
+msgid "Add to favorites"
+msgstr "Přidat do oblíbených"
+
+#: 3.2/applet.js:272 2.6/applet.js:273 3.4/applet.js:272 4.2/applet.js:477
+msgid "Uninstall"
+msgstr "Odinstalovat"
+
+#: 3.2/applet.js:276 2.6/applet.js:277 3.4/applet.js:276 4.2/applet.js:453
+#: 4.2/applet.js:456
+msgid "Run with NVIDIA GPU"
+msgstr "Spustit s GPU NVIDIA"
+
+#: 3.2/applet.js:439 3.2/applet.js:473 2.6/applet.js:426 2.6/applet.js:460
+#: 3.4/applet.js:436 3.4/applet.js:470 4.2/applet.js:289 4.2/applet.js:569
+msgid "No description available"
+msgstr "Popis není dostupný"
+
+#: 3.2/applet.js:740 2.6/applet.js:3327 3.4/applet.js:737 4.2/applet.js:827
+msgid "This file is no longer available"
+msgstr "Tento soubor už není k dispozici"
+
+#: 3.2/applet.js:790 2.6/applet.js:761 3.4/applet.js:787 4.2/applet.js:841
+msgid "Open with"
+msgstr "Otevřít s"
+
+#: 3.2/applet.js:836 2.6/applet.js:807 3.4/applet.js:833 4.2/applet.js:887
+msgid "Other application..."
+msgstr "Jiná aplikace…"
+
+#: 3.2/applet.js:911 2.6/applet.js:884 3.4/applet.js:908 4.2/applet.js:3279
+msgid "Clear list"
+msgstr "Vymazat seznam"
+
+#: 3.2/applet.js:957 2.6/applet.js:932 3.4/applet.js:954 4.2/applet.js:902
+msgid "All Applications"
+msgstr "Všechny aplikace"
+
+#: 3.2/applet.js:986 2.6/applet.js:960 3.4/applet.js:983 4.2/applet.js:3226
+msgid "Places"
+msgstr "Místa"
+
+#: 3.2/applet.js:1010 2.6/applet.js:984 3.4/applet.js:1007 4.2/applet.js:3264
+msgid "Recent Files"
+msgstr "Naposledy otevřené soubory"
+
+#: 3.2/applet.js:1637 3.2/applet.js:1831 2.6/applet.js:1611 2.6/applet.js:1798
+#: 3.4/applet.js:1580 3.4/applet.js:1765 4.2/applet.js:1453 4.2/applet.js:1633
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: 3.2/applet.js:1639 2.6/applet.js:1613 3.4/applet.js:1582 4.2/applet.js:1455
+msgid "Lock Screen"
+msgstr "Zamknout obrazovku"
+
+#: 3.2/applet.js:1824 2.6/applet.js:1791 3.4/applet.js:1758 4.2/applet.js:1626
+msgid "Shutdown the computer"
+msgstr "Vypnout počítač"
+
+#: 3.2/applet.js:1825 2.6/applet.js:1792 3.4/applet.js:1759 4.2/applet.js:1627
+msgid "Leave the session"
+msgstr "Opustit sezení"
+
+#: 3.2/applet.js:1826 2.6/applet.js:1793 3.4/applet.js:1760 4.2/applet.js:1628
+msgid "Lock the screen"
+msgstr "Uzamknout obrazovku"
+
+#: 3.2/applet.js:1828 3.2/applet.js:1829 2.6/applet.js:1795 2.6/applet.js:1796
+#: 3.4/applet.js:1762 3.4/applet.js:1763 4.2/applet.js:1630 4.2/applet.js:1631
+msgid "Quit"
+msgstr "Ukončit"
+
+#: 3.2/applet.js:1840 3.2/applet.js:1844 2.6/applet.js:1807 2.6/applet.js:1811
+#: 3.4/applet.js:1774 3.4/applet.js:1778 4.2/applet.js:1642 4.2/applet.js:1646
+msgid "Lock screen"
+msgstr "Zamknout obrazovku"
+
+#: 3.2/applet.js:2051
+msgid "All Programs"
+msgstr "Všechny aplikace"
+
+#: 3.2/applet.js:2051
+msgid "Favorites"
+msgstr "Oblíbené"
+
+#: 3.2/applet.js:2052
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: 3.2/applet.js:2052
+msgid "nemo Documents"
+msgstr "nemo Dokumenty"
+
+#: 3.2/applet.js:2053
+msgid "Pictures"
+msgstr "Obrázky"
+
+#: 3.2/applet.js:2053
+msgid "nemo Pictures"
+msgstr "nemo Obrázky"
+
+#: 3.2/applet.js:2054
+msgid "Music"
+msgstr "Hudba"
+
+#: 3.2/applet.js:2054
+msgid "nemo Music"
+msgstr "nemo Hudba"
+
+#: 3.2/applet.js:2055
+msgid "Videos"
+msgstr "Videa"
+
+#: 3.2/applet.js:2055
+msgid "nemo Videos"
+msgstr "nemo Videa"
+
+#: 3.2/applet.js:2056
+msgid "Downloads"
+msgstr "Stažené"
+
+#: 3.2/applet.js:2056
+msgid "nemo Downloads"
+msgstr "nemo Stažené"
+
+#. 3.2->settings-schema.json->menu->title
+#. 3.4->settings-schema.json->menu->title
+#. 4.2->settings-schema.json->menu->title
+#: 3.2/applet.js:2072 2.6/applet.js:2022 3.4/applet.js:1998 4.2/applet.js:1871
+msgid "Menu"
+msgstr "Menu"
+
+#: 3.2/applet.js:3513 2.6/applet.js:3359 3.4/applet.js:3469
+msgid "No recent documents"
+msgstr "Žádné nedávno otevřené dokumenty"
+
+#: 3.2/applet.js:3899 2.6/applet.js:3670 3.4/applet.js:3849
+msgid "Type to search..."
+msgstr "Vyhledávejte psaním..."
+
+#: 3.2/applet.js:4427 2.6/applet.js:4172 3.4/applet.js:4376
+msgid "No results found"
+msgstr "Nenalezeny žádné výsledky"
+
+#: 3.2/applet.js:4429 2.6/applet.js:4174 3.4/applet.js:4378
+#, javascript-format
+msgid "%d result found"
+msgid_plural "%d results found"
+msgstr[0] "nalezený výsledek %d"
+msgstr[1] "nalezených výsledků %d"
+msgstr[2] "nalezených výsledků %d"
+
+#: 4.2/applet.js:635
+msgid "Search for results on the web"
+msgstr ""
+
+#: 4.2/applet.js:3280
+#, fuzzy
+msgid "Clear all recent documents"
+msgstr "Žádné nedávno otevřené dokumenty"
+
+#. metadata.json->name
+msgid "CinnVIIStarkMenu"
+msgstr "CinnVIIStarkMenu"
+
+#. metadata.json->description
+msgid ""
+"Cinnamon Menu with the look of the Windows 7 Start Menu or the MATE Menu"
+msgstr ""
+"Cinnamon Menu se vzhledem nabídky Start systému Windows 7 nebo MATE Menu"
+
+#. 3.2->settings-schema.json->panel->title
+#. 3.4->settings-schema.json->panel->title
+#. 4.2->settings-schema.json->panel->title
+msgid "Panel"
+msgstr "Panel"
+
+#. 3.2->settings-schema.json->sidebar->title
+#. 3.4->settings-schema.json->sidebar->title
+#. 4.2->settings-schema.json->sidebar->title
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#. 3.2->settings-schema.json->quicklauncher->title
+#. 3.4->settings-schema.json->quicklauncher->title
+#. 4.2->settings-schema.json->quicklauncher->title
+msgid "Quicklauncher"
+msgstr "Spouštěč"
+
+#. 3.2->settings-schema.json->panel-appear->title
+#. 3.4->settings-schema.json->panel-appear->title
+#. 4.2->settings-schema.json->panel-appear->title
+msgid "Appearance"
+msgstr "Vzhled"
+
+#. 3.2->settings-schema.json->panel-behave->title
+#. 3.2->settings-schema.json->menu-behave->title
+#. 3.4->settings-schema.json->panel-behave->title
+#. 3.4->settings-schema.json->menu-behave->title
+#. 4.2->settings-schema.json->panel-behave->title
+#. 4.2->settings-schema.json->menu-behave->title
+msgid "Behavior"
+msgstr "Chování"
+
+#. 3.2->settings-schema.json->menu-appear->title
+#. 3.4->settings-schema.json->menu-appear->title
+#. 4.2->settings-schema.json->menu-appear->title
+msgid "Layout and content"
+msgstr "Rozložení a obsah"
+
+#. 3.2->settings-schema.json->menu-icons->title
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->menu-icons->title
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->menu-icons->title
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Icons and Labels"
+msgstr "Ikony a názvy"
+
+#. 3.2->settings-schema.json->sidebar-layout->title
+#. 2.6->settings-schema.json->head-sidebar-layout->description
+#. 3.4->settings-schema.json->sidebar-layout->title
+#. 4.2->settings-schema.json->sidebar-layout->title
+msgid "Sidebar Layout"
+msgstr "Uspořádání postranního panelu"
+
+#. 3.2->settings-schema.json->quitmenu-layout->title
+#. 3.4->settings-schema.json->quitmenu-layout->title
+#. 4.2->settings-schema.json->quitmenu-layout->title
+msgid "Quit Menu Layout"
+msgstr "Uspořádání menu ukončení"
+
+#. 3.2->settings-schema.json->custom-quicklauncher->title
+#. 2.6->settings-schema.json->head-custom-quicklauncher->description
+msgid "Custom Quicklauncher"
+msgstr "Uživatelský spouštěč"
+
+#. 3.2->settings-schema.json->menu-layout->options
+#. 2.6->settings-schema.json->menu-layout->options
+#. 3.4->settings-schema.json->menu-layout->options
+#. 4.2->settings-schema.json->menu-layout->options
+msgid "Stark-Menu"
+msgstr "Stark-Menu"
+
+#. 3.2->settings-schema.json->menu-layout->options
+#. 2.6->settings-schema.json->menu-layout->options
+#. 3.4->settings-schema.json->menu-layout->options
+#. 4.2->settings-schema.json->menu-layout->options
+msgid "MATE-Menu"
+msgstr "MATE-Menu"
+
+#. 3.2->settings-schema.json->menu-layout->description
+#. 2.6->settings-schema.json->menu-layout->description
+#. 3.4->settings-schema.json->menu-layout->description
+#. 4.2->settings-schema.json->menu-layout->description
+msgid "Menu layout"
+msgstr "Uspořádání menu"
+
+#. 3.2->settings-schema.json->menu-layout->tooltip
+#. 2.6->settings-schema.json->menu-layout->tooltip
+#. 3.4->settings-schema.json->menu-layout->tooltip
+#. 4.2->settings-schema.json->menu-layout->tooltip
+msgid "Choose between Stark-Menu and MATE-Menu layout"
+msgstr "Vyberte si mezi Stark-Menu a MATE-Menu uspořádáním"
+
+#. 3.2->settings-schema.json->overlay-key->description
+#. 2.6->settings-schema.json->overlay-key->description
+#. 3.4->settings-schema.json->overlay-key->description
+#. 4.2->settings-schema.json->overlay-key->description
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Klávesová zkratka pro otevírání a zavírání menu"
+
+#. 3.2->settings-schema.json->menu-icon-custom->description
+#. 2.6->settings-schema.json->menu-icon-custom->description
+#. 3.4->settings-schema.json->menu-icon-custom->description
+msgid "Use a custom icon"
+msgstr "Použít vlastní ikonu"
+
+#. 3.2->settings-schema.json->menu-icon-custom->tooltip
+#. 2.6->settings-schema.json->menu-icon-custom->tooltip
+#. 3.4->settings-schema.json->menu-icon-custom->tooltip
+msgid "Unchecking this allows the theme to set the icon"
+msgstr "Odškrtnutí tohoto umožní tématu nastavit ikonu"
+
+#. 3.2->settings-schema.json->menu-icon->description
+#. 2.6->settings-schema.json->menu-icon->description
+#. 3.4->settings-schema.json->menu-icon->description
+#. 4.2->settings-schema.json->menu-icon->description
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Icon"
+msgstr "Ikona"
+
+#. 3.2->settings-schema.json->menu-icon->tooltip
+#. 2.6->settings-schema.json->menu-icon->tooltip
+#. 3.4->settings-schema.json->menu-icon->tooltip
+#. 4.2->settings-schema.json->menu-icon->tooltip
+msgid "Select an icon to show in the panel."
+msgstr "Zvolte ikonu, která se zobrazí na panelu."
+
+#. 3.2->settings-schema.json->menu-label->description
+#. 2.6->settings-schema.json->menu-label->description
+#. 3.4->settings-schema.json->menu-label->description
+msgid "'Menu'-Button label"
+msgstr "'Menu' - uživatelský název"
+
+#. 3.2->settings-schema.json->menu-label->tooltip
+#. 2.6->settings-schema.json->menu-label->tooltip
+#. 3.4->settings-schema.json->menu-label->tooltip
+#. 4.2->settings-schema.json->menu-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr "Vložte text, který se zobrazí na panelu."
+
+#. 3.2->settings-schema.json->all-programs-label->description
+#. 2.6->settings-schema.json->all-programs-label->description
+#. 3.4->settings-schema.json->all-programs-label->description
+#. 4.2->settings-schema.json->all-programs-label->description
+msgid "'All Programs'-Button label"
+msgstr "'Všechny aplikace' - uživatelský název"
+
+#. 3.2->settings-schema.json->all-programs-label->tooltip
+#. 2.6->settings-schema.json->all-programs-label->tooltip
+#. 3.4->settings-schema.json->all-programs-label->tooltip
+#. 4.2->settings-schema.json->all-programs-label->tooltip
+msgid "Enter custom text for the 'All Programs' button."
+msgstr "Zadejte vlastní text pro tlačítko 'Všechny aplikace'."
+
+#. 3.2->settings-schema.json->favorites-label->description
+#. 2.6->settings-schema.json->favorites-label->description
+#. 3.4->settings-schema.json->favorites-label->description
+#. 4.2->settings-schema.json->favorites-label->description
+msgid "'Favorites'-Button label"
+msgstr "'Oblíbené' - uživatelský název"
+
+#. 3.2->settings-schema.json->favorites-label->tooltip
+#. 2.6->settings-schema.json->favorites-label->tooltip
+#. 3.4->settings-schema.json->favorites-label->tooltip
+#. 4.2->settings-schema.json->favorites-label->tooltip
+msgid "Enter custom text for the 'Favorites' button."
+msgstr "Zadejte vlastní text pro tlačítko 'Oblíbené'."
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->description
+#. 2.6->settings-schema.json->show-apps-description-on-buttons->description
+#. 3.4->settings-schema.json->show-apps-description-on-buttons->description
+#. 4.2->settings-schema.json->show-apps-description-on-buttons->description
+msgid "Show application's description under their titles"
+msgstr "Zobrazit popis aplikace pod názvem"
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 2.6->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 3.4->settings-schema.json->show-apps-description-on-buttons->tooltip
+#. 4.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+msgid ""
+"Choose whether or not to show the application description on the application "
+"buttons."
+msgstr "Zaškrtněte pro zobrazení popisu aplikace na tlačítku aplikace."
+
+#. 3.2->settings-schema.json->show-places->description
+#. 2.6->settings-schema.json->show-places->description
+#. 3.4->settings-schema.json->show-places->description
+#. 4.2->settings-schema.json->show-places->description
+msgid "Show bookmarks and places"
+msgstr "Zobrazit záložky a místa"
+
+#. 3.2->settings-schema.json->show-places->tooltip
+#. 2.6->settings-schema.json->show-places->tooltip
+#. 3.4->settings-schema.json->show-places->tooltip
+#. 4.2->settings-schema.json->show-places->tooltip
+msgid "Choose whether or not to show bookmarks and places in the menu."
+msgstr "Zaškrtněte pro zobrazení míst a záložek v menu"
+
+#. 3.2->settings-schema.json->enable-autoscroll->description
+#. 2.6->settings-schema.json->enable-autoscroll->description
+#. 3.4->settings-schema.json->enable-autoscroll->description
+#. 4.2->settings-schema.json->enable-autoscroll->description
+msgid "Enable autoscrolling in application list"
+msgstr "Povolit automatický posun v seznamu aplikací"
+
+#. 3.2->settings-schema.json->enable-autoscroll->tooltip
+#. 2.6->settings-schema.json->enable-autoscroll->tooltip
+#. 3.4->settings-schema.json->enable-autoscroll->tooltip
+#. 4.2->settings-schema.json->enable-autoscroll->tooltip
+msgid ""
+"Choose whether or not to enable smooth autoscrolling in the application list."
+msgstr "Zaškrtněte pro automatický posun v seznamu aplikací."
+
+#. 3.2->settings-schema.json->search-filesystem->description
+#. 2.6->settings-schema.json->search-filesystem->description
+#. 3.4->settings-schema.json->search-filesystem->description
+#. 4.2->settings-schema.json->search-filesystem->description
+msgid "Enable filesystem path entry in search box"
+msgstr "Povolit ve vyhledávacím boxu zadávání cesty v souborovém systému"
+
+#. 3.2->settings-schema.json->search-filesystem->tooltip
+#. 2.6->settings-schema.json->search-filesystem->tooltip
+#. 3.4->settings-schema.json->search-filesystem->tooltip
+#. 4.2->settings-schema.json->search-filesystem->tooltip
+msgid "Allows path entry in the menu search box."
+msgstr "Povolit zadání cesty ve vyhledávacím poli."
+
+#. 3.2->settings-schema.json->activate-on-hover->description
+#. 2.6->settings-schema.json->activate-on-hover->description
+#. 3.4->settings-schema.json->activate-on-hover->description
+#. 4.2->settings-schema.json->activate-on-hover->description
+msgid "Open the menu when I move my mouse over it"
+msgstr "Otevřít menu najetím myši"
+
+#. 3.2->settings-schema.json->activate-on-hover->tooltip
+#. 2.6->settings-schema.json->activate-on-hover->tooltip
+#. 3.4->settings-schema.json->activate-on-hover->tooltip
+#. 4.2->settings-schema.json->activate-on-hover->tooltip
+msgid "Enable opening the menu when the mouse enters the applet"
+msgstr "Povolit otevření menu při najetí myší na applet"
+
+#. 3.2->settings-schema.json->hover-delay->units
+#. 2.6->settings-schema.json->hover-delay->units
+#. 3.4->settings-schema.json->hover-delay->units
+#. 4.2->settings-schema.json->hover-delay->units
+msgid "milliseconds"
+msgstr "milisekund"
+
+#. 3.2->settings-schema.json->hover-delay->description
+#. 3.4->settings-schema.json->hover-delay->description
+#. 4.2->settings-schema.json->hover-delay->description
+msgid "Menu hover delay"
+msgstr "Zpoždění menu při najetí"
+
+#. 3.2->settings-schema.json->hover-delay->tooltip
+#. 3.4->settings-schema.json->hover-delay->tooltip
+#. 4.2->settings-schema.json->hover-delay->tooltip
+msgid "Delay before the menu opens when hovered"
+msgstr "Zpoždění před otevřením menu při najetí"
+
+#. 3.2->settings-schema.json->enable-animation->description
+#. 2.6->settings-schema.json->enable-animation->description
+#. 3.4->settings-schema.json->enable-animation->description
+#. 4.2->settings-schema.json->enable-animation->description
+msgid "Use menu animations"
+msgstr "Používat animace menu"
+
+#. 3.2->settings-schema.json->enable-animation->tooltip
+#. 2.6->settings-schema.json->enable-animation->tooltip
+#. 3.4->settings-schema.json->enable-animation->tooltip
+#. 4.2->settings-schema.json->enable-animation->tooltip
+msgid "Allow the menu to animate on open and close"
+msgstr "Povolit animace menu při otevírání a zavírání"
+
+#. 3.2->settings-schema.json->menu-editor-button->description
+#. 2.6->settings-schema.json->menu-editor-button->description
+#. 3.4->settings-schema.json->menu-editor-button->description
+#. 4.2->settings-schema.json->menu-editor-button->description
+msgid "Open the menu editor"
+msgstr "Otevřít menu editor"
+
+#. 3.2->settings-schema.json->menu-editor-button->tooltip
+#. 2.6->settings-schema.json->menu-editor-button->tooltip
+#. 3.4->settings-schema.json->menu-editor-button->tooltip
+#. 4.2->settings-schema.json->menu-editor-button->tooltip
+msgid "Press this button to customize your menu entries."
+msgstr "Stiskněte toto tlačítko, pokud chcete upravit vaše menu"
+
+#. 3.2->settings-schema.json->show-category-icons->description
+#. 2.6->settings-schema.json->show-category-icons->description
+#. 3.4->settings-schema.json->show-category-icons->description
+#. 4.2->settings-schema.json->show-category-icons->description
+msgid "Show category icons"
+msgstr "Zobrazit ikony kategorií"
+
+#. 3.2->settings-schema.json->show-category-icons->tooltip
+#. 2.6->settings-schema.json->show-category-icons->tooltip
+#. 3.4->settings-schema.json->show-category-icons->tooltip
+#. 4.2->settings-schema.json->show-category-icons->tooltip
+msgid "Choose whether or not to show icons on categories."
+msgstr "Zaškrtněte pro zobrazení ikon kategorií."
+
+#. 3.2->settings-schema.json->show-application-icons->description
+#. 2.6->settings-schema.json->show-application-icons->description
+#. 3.4->settings-schema.json->show-application-icons->description
+#. 4.2->settings-schema.json->show-application-icons->description
+msgid "Show application icons"
+msgstr "Zobrazit ikony aplikací"
+
+#. 3.2->settings-schema.json->show-application-icons->tooltip
+#. 2.6->settings-schema.json->show-application-icons->tooltip
+#. 3.4->settings-schema.json->show-application-icons->tooltip
+#. 4.2->settings-schema.json->show-application-icons->tooltip
+msgid "Choose whether or not to show icons on applications."
+msgstr "Zaškrtněte pro zobrazení ikon aplikací."
+
+#. 3.2->settings-schema.json->show-context-menu-icons->description
+#. 2.6->settings-schema.json->show-context-menu-icons->description
+#. 3.4->settings-schema.json->show-context-menu-icons->description
+msgid "Show context menu icons"
+msgstr "Zobrazit ikony v kontextovém menu"
+
+#. 3.2->settings-schema.json->show-context-menu-icons->tooltip
+#. 2.6->settings-schema.json->show-context-menu-icons->tooltip
+#. 3.4->settings-schema.json->show-context-menu-icons->tooltip
+msgid "Choose whether or not to show icons on context menus."
+msgstr "Zaškrtněte pro zobrazení ikon v kontextovém menu."
+
+#. 3.2->settings-schema.json->show-favorite-icons->description
+#. 2.6->settings-schema.json->show-favorite-icons->description
+#. 3.4->settings-schema.json->show-favorite-icons->description
+#. 4.2->settings-schema.json->show-favorite-icons->description
+msgid "Show favorite icons"
+msgstr "Zobrazit ikony oblíbených položek"
+
+#. 3.2->settings-schema.json->show-favorite-icons->tooltip
+#. 2.6->settings-schema.json->show-favorite-icons->tooltip
+#. 3.4->settings-schema.json->show-favorite-icons->tooltip
+#. 4.2->settings-schema.json->show-favorite-icons->tooltip
+msgid "Choose whether or not to show icons on favorites."
+msgstr "Zaškrtněte pro zobrazení ikon oblíbených položek."
+
+#. 3.2->settings-schema.json->favorite-button-size->units
+#. 2.6->settings-schema.json->favorite-button-size->units
+#. 3.4->settings-schema.json->favorite-button-size->units
+#. 4.2->settings-schema.json->favorite-button-size->units
+msgid "pixels"
+msgstr "pixelů"
+
+#. 3.2->settings-schema.json->favorite-button-size->description
+#. 2.6->settings-schema.json->favorite-button-size->description
+#. 3.4->settings-schema.json->favorite-button-size->description
+#. 4.2->settings-schema.json->favorite-button-size->description
+msgid "Size of the favorite buttons"
+msgstr "Velikost tlačítek oblíbených položek"
+
+#. 3.2->settings-schema.json->favorite-button-size->tooltip
+#. 2.6->settings-schema.json->favorite-button-size->tooltip
+#. 3.4->settings-schema.json->favorite-button-size->tooltip
+#. 4.2->settings-schema.json->favorite-button-size->tooltip
+msgid "Change the size of the favorite buttons"
+msgstr "Změna velikosti tlačítek oblíbených položek"
+
+#. 3.2->settings-schema.json->show-sidebar->description
+#. 2.6->settings-schema.json->show-sidebar->description
+#. 3.4->settings-schema.json->show-sidebar->description
+#. 4.2->settings-schema.json->show-sidebar->description
+msgid "Show sidebar on menu"
+msgstr "Zobrazit postranní panel v menu"
+
+#. 3.2->settings-schema.json->show-sidebar->tooltip
+#. 2.6->settings-schema.json->show-sidebar->tooltip
+#. 3.4->settings-schema.json->show-sidebar->tooltip
+#. 4.2->settings-schema.json->show-sidebar->tooltip
+msgid "Choose whether or not to show the sidebar."
+msgstr "Zaškrtněte pro zobrazení postranního panelu."
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "User picture and user name"
+msgstr "Obrázek a jméno uživatele"
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "User picture only"
+msgstr "Obrázek uživatele"
+
+#. 3.2->settings-schema.json->user-box-layout->options
+#. 2.6->settings-schema.json->user-box-layout->options
+#. 3.4->settings-schema.json->user-box-layout->options
+#. 4.2->settings-schema.json->user-box-layout->options
+msgid "Hide"
+msgstr "Skrýt"
+
+#. 3.2->settings-schema.json->user-box-layout->description
+#. 2.6->settings-schema.json->user-box-layout->description
+#. 3.4->settings-schema.json->user-box-layout->description
+#. 4.2->settings-schema.json->user-box-layout->description
+msgid "User account info box style"
+msgstr "Styl infoboxu s uživatelským účtem"
+
+#. 3.2->settings-schema.json->user-box-layout->tooltip
+#. 2.6->settings-schema.json->user-box-layout->tooltip
+#. 3.4->settings-schema.json->user-box-layout->tooltip
+#. 4.2->settings-schema.json->user-box-layout->tooltip
+msgid "Choose whether to show the user name and/or user picture."
+msgstr "Zaškrtněte pro zobrazení jména uživatele a/nebo obrázku uživatele."
+
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Icons only"
+msgstr "Pouze Ikony"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->options
+#. 2.6->settings-schema.json->quicklauncher-layout->options
+#. 3.4->settings-schema.json->quicklauncher-layout->options
+#. 4.2->settings-schema.json->quicklauncher-layout->options
+msgid "Labels only"
+msgstr "Pouze názvy"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->description
+#. 2.6->settings-schema.json->quicklauncher-layout->description
+#. 3.4->settings-schema.json->quicklauncher-layout->description
+#. 4.2->settings-schema.json->quicklauncher-layout->description
+msgid "Quicklauncher button style"
+msgstr "Styl tlačítka spouštěče"
+
+#. 3.2->settings-schema.json->quicklauncher-layout->tooltip
+#. 2.6->settings-schema.json->quicklauncher-layout->tooltip
+#. 3.4->settings-schema.json->quicklauncher-layout->tooltip
+#. 4.2->settings-schema.json->quicklauncher-layout->tooltip
+msgid ""
+"Choose whether to show icons and/or labels on the quicklauncher buttons."
+msgstr "Zaškrtněte pro zobrazení ikony a popisu na tlačítku spouštěče."
+
+#. 3.2->settings-schema.json->show-shutdown-menu->description
+#. 2.6->settings-schema.json->show-shutdown-menu->description
+#. 3.4->settings-schema.json->show-shutdown-menu->description
+#. 4.2->settings-schema.json->show-shutdown-menu->description
+msgid "Show quit buttons"
+msgstr "Zobrazit tlačítka ukončení"
+
+#. 3.2->settings-schema.json->show-shutdown-menu->tooltip
+#. 2.6->settings-schema.json->show-shutdown-menu->tooltip
+#. 3.4->settings-schema.json->show-shutdown-menu->tooltip
+#. 4.2->settings-schema.json->show-shutdown-menu->tooltip
+msgid "Choose whether or not to show the quit buttons."
+msgstr "Zaškrtněte pro zobrazení ikon ukončení."
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "DropDown"
+msgstr "Výsuvné menu"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "Vertical"
+msgstr "Svisle"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->options
+#. 2.6->settings-schema.json->shutdown-menu-layout->options
+#. 3.4->settings-schema.json->shutdown-menu-layout->options
+#. 4.2->settings-schema.json->shutdown-menu-layout->options
+msgid "Horizontal"
+msgstr "Vodorovně"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->description
+#. 2.6->settings-schema.json->shutdown-menu-layout->description
+#. 3.4->settings-schema.json->shutdown-menu-layout->description
+#. 4.2->settings-schema.json->shutdown-menu-layout->description
+msgid "Quit buttons layout"
+msgstr "Uspořádání tlačítek ukončení"
+
+#. 3.2->settings-schema.json->shutdown-menu-layout->tooltip
+#. 2.6->settings-schema.json->shutdown-menu-layout->tooltip
+#. 3.4->settings-schema.json->shutdown-menu-layout->tooltip
+#. 4.2->settings-schema.json->shutdown-menu-layout->tooltip
+msgid "Choose the layout of the quit options."
+msgstr "Zvolte uspořádání voleb ukončení."
+
+#. 3.2->settings-schema.json->shutdown-label->description
+#. 2.6->settings-schema.json->shutdown-label->description
+#. 3.4->settings-schema.json->shutdown-label->description
+#. 4.2->settings-schema.json->shutdown-label->description
+msgid "'Quit'-Button label"
+msgstr "'Ukončení' - uživatelský název"
+
+#. 3.2->settings-schema.json->shutdown-label->tooltip
+#. 2.6->settings-schema.json->shutdown-label->tooltip
+#. 3.4->settings-schema.json->shutdown-label->tooltip
+#. 4.2->settings-schema.json->shutdown-label->tooltip
+msgid "Enter custom text for the 'Quit' button."
+msgstr "Vložte text, který se zobrazí pro tlačítko ukončení"
+
+#. 3.2->settings-schema.json->quicklauncher-0-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-1-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-2-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-3-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-4-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-5-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-6-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-7-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-8-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-9-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-10-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-11-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-12-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-13-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-14-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-15-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-16-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-17-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-18-checkbox->description
+#. 3.2->settings-schema.json->quicklauncher-19-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-0-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-1-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-2-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-3-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-4-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-5-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-6-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-7-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-8-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-9-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-10-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-11-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-12-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-13-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-14-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-15-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-16-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-17-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-18-checkbox->description
+#. 2.6->settings-schema.json->quicklauncher-19-checkbox->description
+msgid "Show quicklauncher on the sidebar"
+msgstr "Zobrazit spouštěč v postranním panelu"
+
+#. 3.2->settings-schema.json->quicklauncher-0-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-checkbox->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-checkbox->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-checkbox->tooltip
+msgid "Choose whether or not to show this quicklauncher in the sidebar."
+msgstr "Zaškrtněte pro zobrazení spouštěče v postranním panelu."
+
+#. 3.2->settings-schema.json->quicklauncher-0-label->description
+#. 3.2->settings-schema.json->quicklauncher-1-label->description
+#. 3.2->settings-schema.json->quicklauncher-2-label->description
+#. 3.2->settings-schema.json->quicklauncher-3-label->description
+#. 3.2->settings-schema.json->quicklauncher-4-label->description
+#. 3.2->settings-schema.json->quicklauncher-5-label->description
+#. 3.2->settings-schema.json->quicklauncher-6-label->description
+#. 3.2->settings-schema.json->quicklauncher-7-label->description
+#. 3.2->settings-schema.json->quicklauncher-8-label->description
+#. 3.2->settings-schema.json->quicklauncher-9-label->description
+#. 3.2->settings-schema.json->quicklauncher-10-label->description
+#. 3.2->settings-schema.json->quicklauncher-11-label->description
+#. 3.2->settings-schema.json->quicklauncher-12-label->description
+#. 3.2->settings-schema.json->quicklauncher-13-label->description
+#. 3.2->settings-schema.json->quicklauncher-14-label->description
+#. 3.2->settings-schema.json->quicklauncher-15-label->description
+#. 3.2->settings-schema.json->quicklauncher-16-label->description
+#. 3.2->settings-schema.json->quicklauncher-17-label->description
+#. 3.2->settings-schema.json->quicklauncher-18-label->description
+#. 3.2->settings-schema.json->quicklauncher-19-label->description
+#. 2.6->settings-schema.json->quicklauncher-0-label->description
+#. 2.6->settings-schema.json->quicklauncher-1-label->description
+#. 2.6->settings-schema.json->quicklauncher-2-label->description
+#. 2.6->settings-schema.json->quicklauncher-3-label->description
+#. 2.6->settings-schema.json->quicklauncher-4-label->description
+#. 2.6->settings-schema.json->quicklauncher-5-label->description
+#. 2.6->settings-schema.json->quicklauncher-6-label->description
+#. 2.6->settings-schema.json->quicklauncher-7-label->description
+#. 2.6->settings-schema.json->quicklauncher-8-label->description
+#. 2.6->settings-schema.json->quicklauncher-9-label->description
+#. 2.6->settings-schema.json->quicklauncher-10-label->description
+#. 2.6->settings-schema.json->quicklauncher-11-label->description
+#. 2.6->settings-schema.json->quicklauncher-12-label->description
+#. 2.6->settings-schema.json->quicklauncher-13-label->description
+#. 2.6->settings-schema.json->quicklauncher-14-label->description
+#. 2.6->settings-schema.json->quicklauncher-15-label->description
+#. 2.6->settings-schema.json->quicklauncher-16-label->description
+#. 2.6->settings-schema.json->quicklauncher-17-label->description
+#. 2.6->settings-schema.json->quicklauncher-18-label->description
+#. 2.6->settings-schema.json->quicklauncher-19-label->description
+msgid "Quicklauncher label"
+msgstr "Název spouštěče"
+
+#. 3.2->settings-schema.json->quicklauncher-0-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-label->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-label->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-label->tooltip
+msgid "Enter label for the quicklauncher"
+msgstr "Zadejte uživatelský název pro spouštěč"
+
+#. 3.2->settings-schema.json->quicklauncher-0-icon->description
+#. 3.2->settings-schema.json->quicklauncher-1-icon->description
+#. 3.2->settings-schema.json->quicklauncher-2-icon->description
+#. 3.2->settings-schema.json->quicklauncher-3-icon->description
+#. 3.2->settings-schema.json->quicklauncher-4-icon->description
+#. 3.2->settings-schema.json->quicklauncher-5-icon->description
+#. 3.2->settings-schema.json->quicklauncher-6-icon->description
+#. 3.2->settings-schema.json->quicklauncher-7-icon->description
+#. 3.2->settings-schema.json->quicklauncher-8-icon->description
+#. 3.2->settings-schema.json->quicklauncher-9-icon->description
+#. 3.2->settings-schema.json->quicklauncher-10-icon->description
+#. 3.2->settings-schema.json->quicklauncher-11-icon->description
+#. 3.2->settings-schema.json->quicklauncher-12-icon->description
+#. 3.2->settings-schema.json->quicklauncher-13-icon->description
+#. 3.2->settings-schema.json->quicklauncher-14-icon->description
+#. 3.2->settings-schema.json->quicklauncher-15-icon->description
+#. 3.2->settings-schema.json->quicklauncher-16-icon->description
+#. 3.2->settings-schema.json->quicklauncher-17-icon->description
+#. 3.2->settings-schema.json->quicklauncher-18-icon->description
+#. 3.2->settings-schema.json->quicklauncher-19-icon->description
+#. 2.6->settings-schema.json->quicklauncher-0-icon->description
+#. 2.6->settings-schema.json->quicklauncher-1-icon->description
+#. 2.6->settings-schema.json->quicklauncher-2-icon->description
+#. 2.6->settings-schema.json->quicklauncher-3-icon->description
+#. 2.6->settings-schema.json->quicklauncher-4-icon->description
+#. 2.6->settings-schema.json->quicklauncher-5-icon->description
+#. 2.6->settings-schema.json->quicklauncher-6-icon->description
+#. 2.6->settings-schema.json->quicklauncher-7-icon->description
+#. 2.6->settings-schema.json->quicklauncher-8-icon->description
+#. 2.6->settings-schema.json->quicklauncher-9-icon->description
+#. 2.6->settings-schema.json->quicklauncher-10-icon->description
+#. 2.6->settings-schema.json->quicklauncher-11-icon->description
+#. 2.6->settings-schema.json->quicklauncher-12-icon->description
+#. 2.6->settings-schema.json->quicklauncher-13-icon->description
+#. 2.6->settings-schema.json->quicklauncher-14-icon->description
+#. 2.6->settings-schema.json->quicklauncher-15-icon->description
+#. 2.6->settings-schema.json->quicklauncher-16-icon->description
+#. 2.6->settings-schema.json->quicklauncher-17-icon->description
+#. 2.6->settings-schema.json->quicklauncher-18-icon->description
+#. 2.6->settings-schema.json->quicklauncher-19-icon->description
+msgid "Quicklauncher icon"
+msgstr "Ikona spouštěče"
+
+#. 3.2->settings-schema.json->quicklauncher-0-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-1-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-icon->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-icon->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-icon->tooltip
+msgid ""
+"Select an icon file or type an icon name into the entry box for the "
+"quicklauncher"
+msgstr ""
+"Zvolte soubor s ikonou, nebo napište jméno ikony do vstupního pole pro "
+"spouštěč"
+
+#. 3.2->settings-schema.json->quicklauncher-0-command->description
+#. 3.2->settings-schema.json->quicklauncher-1-command->description
+#. 3.2->settings-schema.json->quicklauncher-2-command->description
+#. 3.2->settings-schema.json->quicklauncher-3-command->description
+#. 3.2->settings-schema.json->quicklauncher-4-command->description
+#. 3.2->settings-schema.json->quicklauncher-5-command->description
+#. 3.2->settings-schema.json->quicklauncher-6-command->description
+#. 3.2->settings-schema.json->quicklauncher-7-command->description
+#. 3.2->settings-schema.json->quicklauncher-8-command->description
+#. 3.2->settings-schema.json->quicklauncher-9-command->description
+#. 3.2->settings-schema.json->quicklauncher-10-command->description
+#. 3.2->settings-schema.json->quicklauncher-11-command->description
+#. 3.2->settings-schema.json->quicklauncher-12-command->description
+#. 3.2->settings-schema.json->quicklauncher-13-command->description
+#. 3.2->settings-schema.json->quicklauncher-14-command->description
+#. 3.2->settings-schema.json->quicklauncher-15-command->description
+#. 3.2->settings-schema.json->quicklauncher-16-command->description
+#. 3.2->settings-schema.json->quicklauncher-17-command->description
+#. 3.2->settings-schema.json->quicklauncher-18-command->description
+#. 3.2->settings-schema.json->quicklauncher-19-command->description
+#. 2.6->settings-schema.json->quicklauncher-0-command->description
+#. 2.6->settings-schema.json->quicklauncher-1-command->description
+#. 2.6->settings-schema.json->quicklauncher-2-command->description
+#. 2.6->settings-schema.json->quicklauncher-3-command->description
+#. 2.6->settings-schema.json->quicklauncher-4-command->description
+#. 2.6->settings-schema.json->quicklauncher-5-command->description
+#. 2.6->settings-schema.json->quicklauncher-6-command->description
+#. 2.6->settings-schema.json->quicklauncher-7-command->description
+#. 2.6->settings-schema.json->quicklauncher-8-command->description
+#. 2.6->settings-schema.json->quicklauncher-9-command->description
+#. 2.6->settings-schema.json->quicklauncher-10-command->description
+#. 2.6->settings-schema.json->quicklauncher-11-command->description
+#. 2.6->settings-schema.json->quicklauncher-12-command->description
+#. 2.6->settings-schema.json->quicklauncher-13-command->description
+#. 2.6->settings-schema.json->quicklauncher-14-command->description
+#. 2.6->settings-schema.json->quicklauncher-15-command->description
+#. 2.6->settings-schema.json->quicklauncher-16-command->description
+#. 2.6->settings-schema.json->quicklauncher-17-command->description
+#. 2.6->settings-schema.json->quicklauncher-18-command->description
+#. 2.6->settings-schema.json->quicklauncher-19-command->description
+msgid "Command to launch"
+msgstr "Příkaz pro spuštění"
+
+#. 3.2->settings-schema.json->quicklauncher-0-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-7-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-12-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-13-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-14-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-15-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-16-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-17-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-18-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-19-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-0-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-7-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-12-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-13-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-14-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-15-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-16-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-17-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-18-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-19-command->tooltip
+msgid "Enter command to start the quicklauncher"
+msgstr "Zadejte příkaz pro start spouštěče"
+
+#. 3.2->settings-schema.json->quicklauncher-1-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-2-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-3-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-4-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-5-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-6-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-8-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-9-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-10-command->tooltip
+#. 3.2->settings-schema.json->quicklauncher-11-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-1-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-2-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-3-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-4-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-5-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-6-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-8-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-9-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-10-command->tooltip
+#. 2.6->settings-schema.json->quicklauncher-11-command->tooltip
+msgid "Enter command for the quicklauncher"
+msgstr "Zadejte příkaz pro spouštěč"
+
+#. 2.6->settings-schema.json->head-menu-layout->description
+msgid "Stark-Menu/MATE-Menu"
+msgstr "Stark-Menu/MATE-Menu"
+
+#. 2.6->settings-schema.json->head-settings->description
+msgid "General Settings"
+msgstr "Obecná nastavení"
+
+#. 2.6->settings-schema.json->hover-delay->description
+msgid "Category hover delay"
+msgstr "Zpoždění při najetí na kategorii"
+
+#. 2.6->settings-schema.json->hover-delay->tooltip
+msgid "Delay between switching categories"
+msgstr "Zpoždění mezi přepnutím kategorií"
+
+#. 2.6->settings-schema.json->head-button-show-hide-icons->description
+msgid "Icons"
+msgstr "Ikony"
+
+#. 3.4->settings-schema.json->quicklauncher-separator-layout->title
+#. 4.2->settings-schema.json->quicklauncher-separator-layout->title
+#, fuzzy
+msgid "Quicklauncher Separators"
+msgstr "Ikona spouštěče"
+
+#. 3.4->settings-schema.json->custom-quicklauncher-places->title
+#. 4.2->settings-schema.json->custom-quicklauncher-places->title
+#, fuzzy
+msgid "Quicklauncher Places"
+msgstr "Název spouštěče"
+
+#. 3.4->settings-schema.json->custom-quicklauncher-apps->title
+#. 4.2->settings-schema.json->custom-quicklauncher-apps->title
+#, fuzzy
+msgid "Quicklauncher Applications"
+msgstr "Ikona spouštěče"
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->description
+#. 4.2->settings-schema.json->quicklauncher-separator1->description
+#, fuzzy
+msgid "Separator below user account info box"
+msgstr "Styl infoboxu s uživatelským účtem"
+
+#. 3.4->settings-schema.json->quicklauncher-separator1->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator2->tooltip
+#. 3.4->settings-schema.json->quicklauncher-separator3->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator1->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator2->tooltip
+#. 4.2->settings-schema.json->quicklauncher-separator3->tooltip
+#, fuzzy
+msgid "Choose whether or not to show this separator."
+msgstr "Zaškrtněte pro zobrazení postranního panelu."
+
+#. 3.4->settings-schema.json->quicklauncher-places->description
+#. 4.2->settings-schema.json->quicklauncher-places->description
+#, fuzzy
+msgid "Custom Quicklauncher Places"
+msgstr "Uživatelský spouštěč"
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Visible"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+msgid "Directory"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Custom Label"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-places->columns->title
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-places->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+#, fuzzy
+msgid "Custom Icon"
+msgstr "Použít vlastní ikonu"
+
+#. 3.4->settings-schema.json->quicklauncher-separator2->description
+#. 4.2->settings-schema.json->quicklauncher-separator2->description
+#, fuzzy
+msgid "Separator below quicklauncher places"
+msgstr "Zadejte uživatelský název pro spouštěč"
+
+#. 3.4->settings-schema.json->quicklauncher-apps->description
+#. 4.2->settings-schema.json->quicklauncher-apps->description
+#, fuzzy
+msgid "Custom Quicklauncher Applications"
+msgstr "Uživatelský spouštěč"
+
+#. 3.4->settings-schema.json->quicklauncher-apps->columns->title
+#. 4.2->settings-schema.json->quicklauncher-apps->columns->title
+msgid "Command"
+msgstr ""
+
+#. 3.4->settings-schema.json->quicklauncher-separator3->description
+#. 4.2->settings-schema.json->quicklauncher-separator3->description
+#, fuzzy
+msgid "Separator above quit buttons"
+msgstr "Zobrazit tlačítka ukončení"
+
+#. 4.2->settings-schema.json->websearch->title
+msgid "Web Search"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search-engine->title
+#. 4.2->settings-schema.json->web-search->description
+msgid "Web Search Engine"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-custom->description
+#, fuzzy
+msgid "Use a custom icon and label"
+msgstr "Použít vlastní ikonu"
+
+#. 4.2->settings-schema.json->menu-custom->tooltip
+msgid "Check this to specify a custom icon and label"
+msgstr ""
+
+#. 4.2->settings-schema.json->menu-label->description
+msgid "Text"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->description
+msgid "Reverse quit button order"
+msgstr ""
+
+#. 4.2->settings-schema.json->shutdown-menu-reverse-order->tooltip
+msgid ""
+"Choose whether to display the 'Quit' button first or last. (Has no effect on "
+"'DropDown' layout.)"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Use"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "Name"
+msgstr ""
+
+#. 4.2->settings-schema.json->web-search->columns->title
+msgid "URL"
+msgstr ""

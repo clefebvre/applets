@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MessagingMenuV3@blub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 00:57+0100\n"
+"PO-Revision-Date: 2017-05-02 13:48+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:182
+msgid "Compose New Message..."
+msgstr "Sastavi novu poruku..."
+
+#: applet.js:184
+msgid "Contacts"
+msgstr "Kontakti"
+
+#. metadata.json->name
+#, fuzzy
+msgid "Messaging Menu"
+msgstr "Izbornik poruka V3"
+
+#. metadata.json->description
+#, fuzzy
+msgid "Messaging Menu applet"
+msgstr "Izbornik poruka V3"
+
+#~ msgid "Messaging Menu applet now compatible with Cinnamon 2.4"
+#~ msgstr "Aplet izbornika poruka kompatibilan sa Cinnamonom 2.4"

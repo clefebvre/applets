@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 16:29+0200\n"
+"PO-Revision-Date: 2020-04-15 18:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: 4.2/applet.js:141
+msgid "You are advised to restart Cinnamon"
+msgstr ""
+
+#: 4.2/applet.js:142
+msgid "To be sure to use the right code, you are advised to restart Cinnamon."
+msgstr ""
+
+#: 4.2/applet.js:148
+msgid "Restart Cinnamon"
+msgstr ""
+
+#: 4.2/applet.js:297 4.6/applet.js:294
+msgid "Spices Update has just been installed or upgraded"
+msgstr ""
+
+#: 4.2/applet.js:298 4.6/applet.js:295
+msgid ""
+"Certain parameters require your vigilance: some may have been modified; "
+"others are new."
+msgstr ""
+
+#: 4.2/applet.js:299 4.6/applet.js:296
+msgid ""
+"Please check your settings using the menu of the SpicesUpdate applet or the "
+"button below."
+msgstr ""
+
+#: 4.2/applet.js:301 4.6/applet.js:298
+msgid "Spices Update Settings"
+msgstr ""
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update It Now!"
+msgstr ""
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update Them All Now!"
+msgstr ""
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget It"
+msgstr ""
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget Them All"
+msgstr ""
+
+#: 4.6/applet.js:2028
+msgid "The Cinnamon Server seems to be DOWN!"
+msgstr ""
+
+#: 4.6/applet.js:2028
+msgid "Middle-Click to Retry"
+msgstr ""
+
+#. 4.6->settings-schema.json->section_general4->title
+msgid "Display"
+msgstr ""
+
+#. 4.2->settings-schema.json->section_general3->title
+#. 4.6->settings-schema.json->section_general3->title
+msgid "Notification contents"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons as icons"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_type_notif->tooltip
+#. 4.6->settings-schema.json->general_type_notif->tooltip
+msgid ""
+"Minimal:\n"
+"\tDisplays simple and short notifications.\n"
+"With action buttons:\n"
+"\tNotifications also contain some buttons which have these roles:\n"
+"\t\tThe leftmost button opens the Download tab in System Settings for the "
+"concerned Spices, which are sorted by date (most recent first). So you can "
+"update the Spices you want.\n"
+"\t\tThe rightmost button refreshes the cache and notifications, if "
+"necessary.\n"
+"\t\tOptionally, a central button allows you to forget new spices or update "
+"the installed ones, depending on the case."
+msgstr ""
+
+#. 4.2->settings-schema.json->general_show_updateall_button->description
+#. 4.6->settings-schema.json->general_show_updateall_button->description
+msgid "Show the 'Update Now' button in notifications"
+msgstr ""
+
+#. 4.2->settings-schema.json->general_show_updateall_button->tooltip
+#. 4.6->settings-schema.json->general_show_updateall_button->tooltip
+msgid ""
+"By checking this box, a button 'Update All' appears in notifications.\n"
+"By pressing this button:\n"
+" 1. The Download tab of the System Settings concerning this type of Spices "
+"appears.\n"
+" 2. The cache is updated.\n"
+" 3. Your Spices are updated.\n"
+" 4. When all updates are made, just close the window."
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->units
+msgid "% of screen width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->description
+msgid "Tooltip: Maximum width"
+msgstr ""
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->tooltip
+msgid ""
+"What is the maximum percentage of your screen width that the tooltip can "
+"occupy?"
+msgstr ""

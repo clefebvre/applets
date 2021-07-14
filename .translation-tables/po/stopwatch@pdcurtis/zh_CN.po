@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 16:14+0100\n"
+"PO-Revision-Date: 2017-03-16 13:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:133
+msgid "Start"
+msgstr "开始"
+
+#: applet.js:141
+msgid "Pause"
+msgstr "暂停"
+
+#: applet.js:149
+msgid "Reset counter"
+msgstr "重置计数器"
+
+#: applet.js:156
+msgid "If paused, continue counting from now"
+msgstr "如果暂停，从现在继续计数"
+
+#: applet.js:167
+msgid "If paused, continue counting from original start time"
+msgstr "如果暂停，从原来的开始时间继续计数"
+
+#: applet.js:179
+msgid "Housekeeping and System Sub Menu"
+msgstr "内务处理和系统子菜单"
+
+#: applet.js:182
+msgid "View the Changelog"
+msgstr "查看变更日志"
+
+#: applet.js:188
+msgid "Open the Help file"
+msgstr "打开帮助文件"
+
+#: applet.js:195
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "打开stylesheet.css（高级功能）"
+
+#: applet.js:201
+msgid "Open the gnome system monitor (Advanced testing function)"
+msgstr "打开gnome系统监视器（高级测试功能）"
+
+#: applet.js:210
+msgid "Configure..."
+msgstr "配置..."
+
+#: applet.js:255
+msgid "days"
+msgstr "天"
+
+#: applet.js:258
+msgid "hours"
+msgstr "小时"
+
+#: applet.js:313
+msgid "Running for"
+msgstr "已运行"
+
+#: applet.js:313
+msgid "Click to Pause"
+msgstr "点击暂停"
+
+#: applet.js:323 applet.js:325
+msgid "Paused at"
+msgstr "暂停在"
+
+#: applet.js:323
+msgid "Click to Continue Counting"
+msgstr "点击继续计数"
+
+#: applet.js:325
+msgid "Click to Reset"
+msgstr "点击重置"
+
+#: applet.js:335
+msgid "Ready - Click to Start"
+msgstr "准备 - 点击开始"
+
+#. stopwatch@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the Stopwatch Applet"
+msgstr "秒表小程序常规设置"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterStatus->description
+msgid "Should not be changed"
+msgstr "不应更改"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->description
+msgid "Check box to continue counting on clicking applet when paused"
+msgstr "选中此项当暂停时点击小程序继续计数"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->tooltip
+msgid ""
+"Normal sequence on clicking is 'start -> pause -> reset' this changes to "
+"'start -> pause -> continue -> pause -> continue etc'. In this mode one has "
+"to use the Right Click (Context) Menu to reset the counter"
+msgstr ""
+"点击时的正常顺序是‘开始 -> 暂停 -> 重置’ ，此选项将其改为‘开始 -> 暂停 -> 继"
+"续 -> 暂停 -> 继续等’。在这种模式下必须使用右键点击 (右键) 菜单来重置计数器"
+
+#. stopwatch@pdcurtis->settings-schema.json->pausedAt->description
+#. stopwatch@pdcurtis->settings-schema.json->startTime->description
+msgid "Must not be changed"
+msgstr "不能更改"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->description
+msgid "Provide a meaningful title to the counter"
+msgstr "为计数器提供一个有意义的标题"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->tooltip
+msgid ""
+"This forms the first part of the tooltip and is useful for identification if "
+"you have multiple instances of counters - default is Stopwatch"
+msgstr ""
+"此项构成提示的第一部分，如果您有计数器的多个实例这有助于识别 - 默认是"
+"Stopwatch"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "刷新显示间隔："
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have multiple active counters and/or a slow machine"
+msgstr ""
+"增大或减小这个微调值用以更改刷新间隔 - 如果您有多个活动的计数器/一台较慢的机"
+"器请使用慢速刷新"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "秒"
+
+#. stopwatch@pdcurtis->metadata.json->description
+msgid ""
+"Allows one to time activities such as the time online with multiple "
+"instances possible"
+msgstr "允许用户进行诸如多个时间实例在线之类的计时活动"
+
+#. stopwatch@pdcurtis->metadata.json->name
+msgid "Stopwatch for Cinnamon 1.8+"
+msgstr "Cinnamon 1.8+ 秒表"

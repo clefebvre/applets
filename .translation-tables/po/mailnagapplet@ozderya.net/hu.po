@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-21 19:27+0800\n"
+"PO-Revision-Date: 2021-03-30 21:37+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:165
+msgid "just now"
+msgstr "éppen most"
+
+#: applet.js:169
+msgid "1 minute ago"
+msgstr "1 perce"
+
+#: applet.js:173
+msgid " minutes ago"
+msgstr " percekkel ezelőtt"
+
+#: applet.js:177
+msgid "1 hour ago"
+msgstr "1 órája"
+
+#: applet.js:181
+msgid " hours ago"
+msgstr " órákkal ezelőtt"
+
+#: applet.js:188
+msgid "yesterday"
+msgstr "tegnap"
+
+#: applet.js:192
+msgid " days ago"
+msgstr " napokkal ezelőtt"
+
+#: applet.js:196
+msgid " weeks ago"
+msgstr " hetekkel ezelőtt"
+
+#: applet.js:281
+msgid "Configure Mailnag"
+msgstr "Mailnag beállítása"
+
+#: applet.js:360
+msgid "Mailnag daemon stopped working!"
+msgstr "Mailnag kiszolgáló leállt!"
+
+#: applet.js:364
+msgid "Mailnag daemon isn't running! Do you have it installed?"
+msgstr "Mailnag kiszolgáló nem fut! Telepítette már?"
+
+#: applet.js:593
+#, c-format
+msgid "You have %d new mails!"
+msgstr "Önnek %d új levele van!"
+
+#: applet.js:594 applet.js:639
+msgid "Mark All Read"
+msgstr "Az összes megjelölése olvasottként"
+
+#: applet.js:602
+msgid "You have new mail!"
+msgstr "Új levele érkezett!"
+
+#: applet.js:604
+msgid "Mark Read"
+msgstr "Megjelölés olvasottként"
+
+#: applet.js:687 applet.js:749
+msgid "No unread mails."
+msgstr "Nincs olvasatlan levél."
+
+#: applet.js:725
+msgid "Mailnag daemon is not running!"
+msgstr "Mailnag kiszolgáló nem fut!"
+
+#: applet.js:738
+#, c-format
+msgid "You have a mail from %s!"
+msgstr "Levele érkezett a következő személytől: %s!"
+
+#: applet.js:744
+#, c-format
+msgid "You have %d unread mails!"
+msgstr "Önnek %d olvasatlan levele van!"
+
+#: applet.js:760
+msgid "Click to see error!"
+msgstr "Kattintson a hiba megtekintéséhez!"
+
+#: applet.js:761
+msgid "Error: "
+msgstr "Hiba: "
+
+#. mailnagapplet@ozderya.net->metadata.json->name
+msgid "Mailnag"
+msgstr "Mailnag"
+
+#. mailnagapplet@ozderya.net->metadata.json->description
+msgid "Mailnag mail notifier applet"
+msgstr "Mailnag e-mail értesítő kisalkalmazás"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->description
+msgid "Show notifications"
+msgstr "Értesítések megjelenítése"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->tooltip
+msgid ""
+"Enables display of mail arrived notifications by applet. Make sure you "
+"disable mailnag notification plugin, otherwise you will have duplicates."
+msgstr ""
+"Lehetővé teszi a kisalkalmazáson keresztül értesítések megjelenítését a "
+"beérkező e-mailekről. Győződjön meg róla, hogy letiltotta a mailnag "
+"értesítési bővítményt, különben duplán fog értesítéseket kapni."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->description
+msgid "Mail client to launch (or webpage)"
+msgstr "Indítandó levelező kliens (vagy weboldal)"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->tooltip
+msgid ""
+"Enter the command to launch your mail client here. You can also enter a web "
+"address that starts with 'http'."
+msgstr ""
+"Írja be a parancsot a levelező kliens indításához. Megadhat egy „http” "
+"kezdetű webcímet is."
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->description
+msgid "Launch mail client on click"
+msgstr "Indítsa el a levelező klienst kattintással"
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->tooltip
+msgid "Mail client is launched when clicked on a menu item."
+msgstr "A levelező kliens akkor indul el, amikor rákattint egy menüpontra."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->description
+msgid "On middle click:"
+msgstr "Középső kattintással:"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->tooltip
+msgid "What to do when middle clicked on applet icon"
+msgstr "Mit tegyen, ha középső gombbal kattint a kisalkalmazás ikonra"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Mark all read"
+msgstr "Az összes megjelölése olvasottként"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Launch mail client"
+msgstr "Levelező kliens indítása"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Do nothing"
+msgstr "Ne tegyen semmit"

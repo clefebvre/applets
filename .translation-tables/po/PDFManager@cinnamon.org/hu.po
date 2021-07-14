@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: 2021-04-05 08:15+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: applet.js\n"
+"X-Poedit-SearchPath-1: pdf-manager.py\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr "PDF fájljaim kezelése"
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "PDF összeolvasztása"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "PDF kiszedése"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "PDF fájlméretének csökkentése"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "PDF balra forgatása"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "PDF jobbra forgatása"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "PDF vertikális tükrözése"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "Dokumentum-megjelenítő megnyitása"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr "Evince megnyitása"
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "PDF Üzemmód megnyitása"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "PDF szerkesztő megnyitása"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr "A PDF eszköztár telepítése szükséges"
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+"Szeretné telepíteni a PDF eszköztárat? A módosítások a telepítés után "
+"lesznek végrehajtva."
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+"Telepítés sikertelen. Szeretné újra próbálni? A módosítások a telepítés után "
+"lesznek végrehajtva."
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "PDF kiválasztása…"
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "PDF fájlok"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr "PDF méretcsökkentése"
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr "A PDF fájl mérete csökken… Ne módosítsa a kiválasztott fájlokat!"
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "Mentés másként…"
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr "A következő oldalak kiszedése (példa: 1-10 15-17):"
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr "Páros oldalak kiszedése"
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr "Páratlan oldalak kiszedése"
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr ""
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "PDFManager eszököz telepítése"

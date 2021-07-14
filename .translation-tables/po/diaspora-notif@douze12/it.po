@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 13:59+0800\n"
+"PO-Revision-Date: 2019-10-24 20:07+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. diaspora-notif@douze12->metadata.json->description
+#. diaspora-notif@douze12->metadata.json->name
+#: applet.js:69 applet.js:148
+msgid "Diaspora* notifications"
+msgstr "Notifiche Diaspora*"
+
+#: applet.js:143
+#, c-format
+msgid "You have %d new notifications"
+msgstr "Hai %d nuove notifiche"
+
+#: applet.js:211
+msgid "No Notification"
+msgstr "Nessuna Notifica"
+
+#: applet.js:220
+msgid "Technical error"
+msgstr "Errore tecnico"
+
+#. diaspora-notif@douze12->settings-schema.json->refreshDelay->description
+msgid "Update interval (minutes)"
+msgstr "Intervallo di aggiornamento (minuti)"
+
+#. diaspora-notif@douze12->settings-schema.json->login->description
+msgid "Login"
+msgstr "Accedi"
+
+#. diaspora-notif@douze12->settings-schema.json->login->tooltip
+msgid "Enter your diaspora*'s login"
+msgstr "Inserisci il tuo nome utente Diaspora*"
+
+#. diaspora-notif@douze12->settings-schema.json->password->description
+msgid "Password"
+msgstr "Password"
+
+#. diaspora-notif@douze12->settings-schema.json->password->tooltip
+msgid "Enter your diaspora*'s password"
+msgstr "Inserisci la tua password Diaspora*"
+
+#. diaspora-notif@douze12->settings-schema.json->podUrl->description
+msgid "Diaspora* Pod URL"
+msgstr "URL Pod Diaspora*"
+
+#. diaspora-notif@douze12->settings-schema.json->podUrl->tooltip
+msgid "Enter your diaspora*'s Pod Url"
+msgstr "Inserisci l'URL Pod di Diaspora*"

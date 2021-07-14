@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:26+0100\n"
+"PO-Revision-Date: 2020-12-21 17:23+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:394
+msgid "Pomodoro started"
+msgstr "Pomodoro er startet"
+
+#: applet.js:437 applet.js:737
+msgid "Waiting to start"
+msgstr "Venter på at starte"
+
+#: applet.js:455
+#, javascript-format
+msgid "Pomodori %d, set %d running"
+msgstr "Pomodori %d, sæt %d kører"
+
+#: applet.js:462
+msgid "Let's go to work!"
+msgstr "Lad os komme i gang!"
+
+#: applet.js:477
+msgid "Take a short break"
+msgstr "Tag en kort pause"
+
+#: applet.js:478
+msgid "Short break running"
+msgstr "Den korte pause er i gang"
+
+#: applet.js:497
+msgid "Take a long break"
+msgstr "Tag en lang pause"
+
+#: applet.js:499
+msgid "Long break running"
+msgstr "Den lange pause er i gang"
+
+#: applet.js:533
+msgid "Pomodoro ended"
+msgstr "Pomodoro sluttede"
+
+#: applet.js:665
+msgid "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+msgstr "http://en.wikipedia.org/wiki/Pomodoro_Technique"
+
+#. metadata.json->name
+#: applet.js:837
+msgid "Pomodoro Timer"
+msgstr "Pomodoro-timer"
+
+#: applet.js:848
+msgid "Completed"
+msgstr "Færdig"
+
+#: applet.js:861
+msgid "Reset Timer"
+msgstr "Nulstil timer"
+
+#: applet.js:873
+msgid "Reset Counts and Timer"
+msgstr "Nulstil tællere og timer"
+
+#: applet.js:886
+msgid "What is this?"
+msgstr "Hvad er dette?"
+
+#: applet.js:943
+msgid "None"
+msgstr "Ingen"
+
+#: applet.js:973
+msgid "Switch Off Pomodoro"
+msgstr "Sluk Pomodoro"
+
+#: applet.js:979
+msgid "Start a new Pomodoro"
+msgstr "Begynd en ny Pomodoro"
+
+#: applet.js:985
+msgid "Hide"
+msgstr "Skjul"
+
+#: applet.js:997
+msgid "Pomodoro set finished, you deserve a break!"
+msgstr "Pomodoro-sættett er færdig - du fortjener en pause!"
+
+#: applet.js:1005
+msgid "Your break is over, start another pomodoro!"
+msgstr "Din pause er slut. Start en ny Pomodoro!"
+
+#: applet.js:1010
+#, javascript-format
+msgid "A new pomodoro begins in %s."
+msgstr "En ny Pomodoro begynder om %s."
+
+#: applet.js:1021
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minut"
+msgstr[1] "%d minutter"
+
+#: applet.js:1022
+#, javascript-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekund"
+msgstr[1] "%d sekunder"
+
+#: applet.js:1024
+#, javascript-format
+msgid "%s and %s"
+msgstr "%s og %s"
+
+#: applet.js:1048
+msgid "Continue Current Pomodoro"
+msgstr "Fortsæt den nuværende Pomodoro"
+
+#: applet.js:1054
+msgid "Pause Pomodoro"
+msgstr "Sæt Pomodoro på pause"
+
+#: applet.js:1065
+msgid "Short break finished, ready to continue?"
+msgstr "Den korte pause er slut. Er du klar til at fortsætte?"
+
+#. settings-schema.json->head_durations->description
+msgid "Durations (minutes)"
+msgstr "Varigheder (minutter)"
+
+#. settings-schema.json->pomodoro_duration->description
+msgid "Pomodoro Duration:"
+msgstr "Varighed af Pomodoro:"
+
+#. settings-schema.json->short_break_duration->description
+msgid "Short Break Duration:"
+msgstr "Varighed af kort pause:"
+
+#. settings-schema.json->long_break_duration->description
+msgid "Long Break Duration:"
+msgstr "Varighed af lang pause:"
+
+#. settings-schema.json->pomodori_number->description
+msgid "Number of pomodori before long break:"
+msgstr "Antal Pomodori før en lang pause:"
+
+#. settings-schema.json->head_options->description
+msgid "Options"
+msgstr "Valgmuligheder"
+
+#. settings-schema.json->show_dialog_messages->description
+msgid "Show Dialog Messages"
+msgstr "Vis dialogmeddelelser"
+
+#. settings-schema.json->auto_start_after_short_break_ends->description
+msgid "Auto start after a short break ends"
+msgstr "Start automatisk efter afslutning af en kort pause"
+
+#. settings-schema.json->auto_start_after_break_ends->description
+msgid "Auto start a new pomodoro after a break ends"
+msgstr "Start automatisk en ny Pomodoro efter afslutning af en pause"
+
+#. settings-schema.json->display_icon->description
+msgid "Display the pomodoro icon in the applet panel"
+msgstr "Vis Pomodoro-ikonet i statusfeltet"
+
+#. settings-schema.json->use_symbolic_icon->description
+msgid "Use a symbolic icon in the applet panel"
+msgstr "Anvend et symbolsk ikon i statusfeltet"
+
+#. settings-schema.json->show_timer->description
+msgid "Show the pomodoro timer in the applet panel"
+msgstr "Vis Pomodoro-timeren i statusfeltet"
+
+#. settings-schema.json->head_sounds->description
+msgid "Sounds"
+msgstr "Lyde"
+
+#. settings-schema.json->sox-info->description
+msgid "Please install 'sox' and restart Cinnamon to use the sound feature!"
+msgstr "Installér “sox” og genstart Cinnamon for at kunne anvende lyde!"
+
+#. settings-schema.json->timer_sound->description
+msgid "Play Timer Sound"
+msgstr "Afspil timerlyd"
+
+#. settings-schema.json->timer_sound_file->description
+msgid "Timer Sound File"
+msgstr "Timerlydfil"
+
+#. settings-schema.json->timer_sound_volume->description
+#. settings-schema.json->break_sound_volume->description
+#. settings-schema.json->warn_sound_volume->description
+#. settings-schema.json->start_sound_volume->description
+msgid "Sound volume:"
+msgstr "Lydstyrke:"
+
+#. settings-schema.json->break_sound->description
+msgid "Play Break Sound"
+msgstr "Afspil pauselyd"
+
+#. settings-schema.json->break_sound_file->description
+msgid "Break Sound File"
+msgstr "Pauselydfil"
+
+#. settings-schema.json->warn_sound->description
+msgid "Play Warn Sound"
+msgstr "Afspil advarselslydfil"
+
+#. settings-schema.json->warn_sound_delay->description
+msgid "Warn Delay (in secs):"
+msgstr "Advarselsforsinkelse (i sekunder):"
+
+#. settings-schema.json->warn_sound_file->description
+msgid "Warn Sound File"
+msgstr "Advarselslydfil"
+
+#. settings-schema.json->start_sound->description
+msgid "Play Start Sound"
+msgstr "Afspil startlyd"
+
+#. settings-schema.json->start_sound_file->description
+msgid "Start Sound File"
+msgstr "Startlydfil"
+
+#. metadata.json->description
+msgid "Great tool for boosted productivity!"
+msgstr "Fantastisk værktøj til at booste din produktivitet!"
+
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
+
+#~ msgid "%d minutes and %d seconds"
+#~ msgstr "%d minutter og %d sekunder"

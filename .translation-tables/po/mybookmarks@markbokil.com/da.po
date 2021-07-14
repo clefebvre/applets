@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 11:14+0800\n"
+"PO-Revision-Date: 2017-08-22 19:05+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. mybookmarks@markbokil.com->metadata.json->name
+#: applet.js:60
+msgid "My Bookmarks"
+msgstr "Mine bogmærker"
+
+#: applet.js:142
+msgid "Edit bookmarks menu"
+msgstr "Redigér bogmærkemenuen"
+
+#: applet.js:149 mybookmarks.properties:44
+msgid "Help"
+msgstr "Hjælp"
+
+#: applet.js:153
+msgid "About"
+msgstr "Om"
+
+#: mybookmarks.properties:6
+msgid "Blogger"
+msgstr "Blogger"
+
+#: mybookmarks.properties:7
+msgid "Talk"
+msgstr "Google Talk"
+
+#: mybookmarks.properties:8
+msgid "Voice"
+msgstr "Google Voice"
+
+#: mybookmarks.properties:9
+msgid "Translate"
+msgstr "Google Translate"
+
+#: mybookmarks.properties:10
+msgid "Play"
+msgstr "Google Play"
+
+#: mybookmarks.properties:11
+msgid "Books"
+msgstr "Google Books"
+
+#: mybookmarks.properties:12
+msgid "Reader"
+msgstr "Google Reader"
+
+#: mybookmarks.properties:13
+msgid "Maps"
+msgstr "Google Maps"
+
+#: mybookmarks.properties:14
+msgid "Youtube"
+msgstr "Youtube"
+
+#: mybookmarks.properties:15
+msgid "iGoogle"
+msgstr "iGoogle"
+
+#: mybookmarks.properties:17
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#: mybookmarks.properties:18
+msgid "Google Search"
+msgstr "Google"
+
+#: mybookmarks.properties:19
+msgid "Advanced Search"
+msgstr "Avanceret søgning"
+
+#: mybookmarks.properties:22
+msgid "Computer"
+msgstr "Computer"
+
+#: mybookmarks.properties:23
+msgid "Trash"
+msgstr "Papirkurv"
+
+#: mybookmarks.properties:24
+msgid "Home"
+msgstr "Hjem"
+
+#: mybookmarks.properties:25
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: mybookmarks.properties:26
+msgid "Documents"
+msgstr "Dokumenter"
+
+#: mybookmarks.properties:27
+msgid "Music"
+msgstr "Musik"
+
+#: mybookmarks.properties:28
+msgid "Videos"
+msgstr "Videoer"
+
+#: mybookmarks.properties:29
+msgid "Pictures"
+msgstr "Billeder"
+
+#: mybookmarks.properties:30
+msgid "Applets"
+msgstr "Panelprogrammer"
+
+#: mybookmarks.properties:31
+msgid "Themes"
+msgstr "Temaer"
+
+#: mybookmarks.properties:33
+msgid "Cinnamon Applets"
+msgstr "Cinnamon panelprogrammer"
+
+#: mybookmarks.properties:34
+msgid "Cinnamon Forum"
+msgstr "Cinnamon Forum"
+
+#: mybookmarks.properties:36
+msgid "News"
+msgstr "Nyheder"
+
+#: mybookmarks.properties:37
+msgid "Google+"
+msgstr "Google+"
+
+#: mybookmarks.properties:38
+msgid "Cloud Storage"
+msgstr "Lagring i skyen"
+
+#: mybookmarks.properties:39
+msgid "Calendar"
+msgstr "Kalender"
+
+#: mybookmarks.properties:40
+msgid "Mail"
+msgstr "Gmail"
+
+#: mybookmarks.properties:41
+msgid "Yahoo Mail"
+msgstr "Yahoo Mail"
+
+#: mybookmarks.properties:42
+msgid "Hotmail"
+msgstr "Hotmail"
+
+#. mybookmarks@markbokil.com->metadata.json->description
+msgid "Web apps launcher"
+msgstr "Genveje til internet- og lokale ressourcer."

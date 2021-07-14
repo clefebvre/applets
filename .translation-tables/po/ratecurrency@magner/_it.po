@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-04 21:15+0300\n"
+"PO-Revision-Date: 2019-10-24 22:50+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. settings-schema.json->currency->options
+msgid "Australian dollar (AUD)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Brazilian real (BRL)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Bulgarian lev (BGN)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Canadian dollar (CAD)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Chinese yuan renminbi (CNY)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Czech koruna (CZK)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Danish krone (DKK)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Euro (EUR)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Hong Kong dollar (HKD)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Hungarian forint (HUF)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Indian rupee (INR)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Japanese yen (JPY)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Norwegian krone (NOK)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Polish zloty (PLN)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Pound sterling (GBP)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Romanian leu (RON)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Russian rouble (RUB)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Singapore dollar (SGD)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "South African rand (ZAR)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "South Korean won (KRW)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Swedish krona (SEK)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Swiss franc (CHF)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "Turkish lira (TRY)"
+msgstr ""
+
+#. settings-schema.json->currency->options
+msgid "US dollar (USD)"
+msgstr ""
+
+#. modules/stringsForTranslation.js:17
+msgid "Australian dollar"
+msgstr ""
+
+#. modules/stringsForTranslation.js:18
+msgid "Brazilian real"
+msgstr ""
+
+#. modules/stringsForTranslation.js:19
+msgid "Bulgarian lev"
+msgstr ""
+
+#. modules/stringsForTranslation.js:20
+msgid "Canadian dollar"
+msgstr ""
+
+#. modules/stringsForTranslation.js:21
+msgid "Chinese yuan renminbi"
+msgstr ""
+
+#. modules/stringsForTranslation.js:22
+msgid "Czech koruna"
+msgstr ""
+
+#. modules/stringsForTranslation.js:23
+msgid "Danish krone"
+msgstr ""
+
+#. modules/stringsForTranslation.js:24
+msgid "Euro"
+msgstr ""
+
+#. modules/stringsForTranslation.js:25
+msgid "Hong Kong dollar"
+msgstr ""
+
+#. modules/stringsForTranslation.js:26
+msgid "Hungarian forint"
+msgstr ""
+
+#. modules/stringsForTranslation.js:27
+msgid "Indian rupee"
+msgstr ""
+
+#. modules/stringsForTranslation.js:28
+msgid "Japanese yen"
+msgstr ""
+
+#. modules/stringsForTranslation.js:29
+msgid "Norwegian krone"
+msgstr ""
+
+#. modules/stringsForTranslation.js:30
+msgid "Polish zloty"
+msgstr ""
+
+#. modules/stringsForTranslation.js:31
+msgid "Pound sterling"
+msgstr ""
+
+#. modules/stringsForTranslation.js:32
+msgid "Romanian leu"
+msgstr ""
+
+#. modules/stringsForTranslation.js:33
+msgid "Russian rouble"
+msgstr ""
+
+#. modules/stringsForTranslation.js:34
+msgid "Singapore dollar"
+msgstr ""
+
+#. modules/stringsForTranslation.js:35
+msgid "South African rand"
+msgstr ""
+
+#. modules/stringsForTranslation.js:36
+msgid "South Korean won"
+msgstr ""
+
+#. modules/stringsForTranslation.js:37
+msgid "Swedish krona"
+msgstr ""
+
+#. modules/stringsForTranslation.js:38
+msgid "Swiss franc"
+msgstr ""
+
+#. modules/stringsForTranslation.js:39
+msgid "Turkish lira"
+msgstr ""
+
+#. modules/stringsForTranslation.js:40
+msgid "US dollar"
+msgstr ""
+
+#. modules/stringsForTranslation.js:47
+msgid "Rank: #"
+msgstr ""
+
+#. modules/stringsForTranslation.js:48
+msgid "1H:"
+msgstr ""
+
+#. modules/stringsForTranslation.js:49
+msgid "24H:"
+msgstr ""
+
+#. modules/stringsForTranslation.js:50
+msgid "7D:"
+msgstr ""
+
+#. modules/stringsForTranslation.js:51
+msgid "Max.: "
+msgstr ""
+
+#. modules/stringsForTranslation.js:52
+msgid "Min.: "
+msgstr ""

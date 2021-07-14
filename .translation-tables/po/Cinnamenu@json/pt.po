@@ -1,0 +1,602 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Caldas Lopes <joao.caldas.lopes@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2021-03-24 21:19+0000\n"
+"Last-Translator: Caldas Lopes <joao.caldas.lopes@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Type to search..."
+msgstr "Digite para pesquisar..."
+
+msgid "Initializing"
+msgstr "A inicializar"
+
+msgid "No description available"
+msgstr "Nenhuma descrição disponível"
+
+#, fuzzy
+msgid "All applications"
+msgstr "Todos as aplicações"
+
+msgid "Places"
+msgstr "Locais"
+
+#, fuzzy
+msgid "Recent files"
+msgstr "Ficheiros recentes"
+
+msgid "Bookmarks"
+msgstr "Marcadores"
+
+#, fuzzy
+msgid "Favorite apps"
+msgstr "Aplicações favoritas"
+
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr ""
+"Pacote gir1.2-gda-5.0 necessário para os marcadores do Firefox e Midori."
+
+msgid "Clear List"
+msgstr "Limpar lista"
+
+msgid "No recent files"
+msgstr "Alterna ficheiros recentes"
+
+msgid "Account details"
+msgstr "Detalhes da conta"
+
+msgid "Grid View"
+msgstr "Vista de ícones"
+
+msgid "List View"
+msgstr "Vista de lista"
+
+msgid "Switch to grid view"
+msgstr "Mudar para vista de ícones"
+
+msgid "Switch to list view"
+msgstr "Mudar para vista de lista"
+
+#, fuzzy
+msgid "Lock screen"
+msgstr "Bloquear ecrã"
+
+msgid "Lock the screen"
+msgstr "Bloquear o ecrã"
+
+msgid "Logout"
+msgstr "Terminar sessão"
+
+msgid "Leave the session"
+msgstr "Abandonar a sessão"
+
+msgid "Quit"
+msgstr "Sair"
+
+msgid "Shutdown the computer"
+msgstr "Desligar o computador"
+
+msgid "Run with NVIDIA GPU"
+msgstr "Executar com GPU NVIDIA"
+
+msgid "Add to panel"
+msgstr "Adicionar ao painel"
+
+msgid "Add to desktop"
+msgstr "Adicionar ao ambiente de trabalho"
+
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "Remover dos favoritos"
+
+msgid "Add to favorites"
+msgstr "Adicionar aos favoritos"
+
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "Computer"
+msgstr "Computador"
+
+msgid "Browse network"
+msgstr "Navegar na rede"
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+#, fuzzy
+msgid "No recent Items"
+msgstr "Alterna ficheiros recentes"
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+#, fuzzy
+msgid "Favorites"
+msgstr "Aplicações favoritas"
+
+#, fuzzy
+msgid "Recent"
+msgstr "Ficheiros recentes"
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "Reset category order"
+msgstr ""
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+#, fuzzy
+msgid "Other application..."
+msgstr "Mostrar ícones de aplicações"
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+#, fuzzy
+msgid "Search hidden"
+msgstr "Fornecedores de pesquisa"
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+#, fuzzy
+msgid "Search Stopped"
+msgstr "Fornecedores de pesquisa"
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid "Cinnamenu"
+msgstr "Cinnamenu"
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid "Behavior"
+msgstr "Comportamento"
+
+msgid "Appearance"
+msgstr "Aparência"
+
+msgid "Layout and Content"
+msgstr "Disposição e conteúdo"
+
+msgid "Search Providers"
+msgstr "Fornecedores de pesquisa"
+
+msgid "No search provider extensions found"
+msgstr "Não foram encontradas extensões de fornecedores de pesquisa"
+
+msgid "Panel"
+msgstr "Painel"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Layout"
+msgstr "Disposição"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Recent files settings"
+msgstr "Ficheiros recentes"
+
+msgid "Open the menu editor"
+msgstr "Abrir o editor de menu"
+
+msgid "Use a custom icon"
+msgstr "Usar o ícone personalizado"
+
+msgid "Use a custom icon in the panel"
+msgstr "Usar o ícone personalizado"
+
+msgid "Panel icon"
+msgstr "Ícone do painel"
+
+msgid "Panel text"
+msgstr "Texto do painel"
+
+msgid "Text to show beside the panel icon"
+msgstr "Texto a ser exibido ao lado do ícone do painel"
+
+msgid "pixels"
+msgstr "pixeis"
+
+msgid "Category icon size"
+msgstr "Tamanho do ícone de categorias"
+
+msgid "Applications list icon size"
+msgstr "Tamanho do ícone na vista de lista"
+
+msgid "Applications grid icon size"
+msgstr "Tamanho do ícone na vista de ícones"
+
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Atalho de teclado para abrir e fechar o menu"
+
+msgid "Open menu on hover"
+msgstr "Abrir menu ao passar o mouse"
+
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr "Abrir o menu quando o rato se move sobre ele"
+
+msgid "milliseconds"
+msgstr "milisegundos"
+
+msgid "Menu hover delay"
+msgstr "Atraso do menu"
+
+msgid "Use menu animations"
+msgstr "Usar animações do menu"
+
+msgid "Animate the menu on open and close"
+msgstr "Permite animações do menu ao abrir e fechar"
+
+msgid "Activate categories on click"
+msgstr "Ativar categorias ao clicar"
+
+msgid "Activate categories on click instead of on hover"
+msgstr "Ativar categorias ao clicar"
+
+msgid "Enable autoscrolling"
+msgstr "Ativar deslocamento automático na lista de aplicações"
+
+msgid "Enable autoscrolling in application list"
+msgstr "Ativar deslocamento automático na lista de aplicações"
+
+msgid "Show web bookmarks"
+msgstr "Mostrar os marcadores web"
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Enable searching of open windows"
+msgstr "Permitir pesquisa de janelas abertas"
+
+msgid "Enable search providers"
+msgstr "Ativar fornecedores de pesquisa"
+
+msgid "Include search provider results in searches"
+msgstr ""
+"Escolher se os resultados dos fornecedores de pesquisa são ou não indexados "
+"à pesquisa"
+
+msgid "Example Search Providers"
+msgstr "Exemplo de fornecedores de pesquisa"
+
+#, fuzzy
+msgid "Open menu on category:"
+msgstr "Abrir menu ao passar o mouse"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Grid"
+msgstr "Ícones"
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "columns"
+msgstr "colunas"
+
+msgid "Number of columns in apps grid"
+msgstr "Número de colunas na vista de ícones"
+
+msgid "Show bookmarks and places"
+msgstr "Mostrar marcadores e locais"
+
+msgid "Show bookmarks and places category in the menu"
+msgstr "Mostrar marcadores e locais"
+
+msgid "Show application icons"
+msgstr "Mostrar ícones de aplicações"
+
+msgid "Show category icons"
+msgstr "Mostrar ícones de categorias"
+
+msgid "Show application descriptions under titles"
+msgstr "Mostrar descrição das aplicações sob os títulos"
+
+msgid "Show tooltips"
+msgstr "Mostrar tooltips"
+
+msgid "Tooltip delay"
+msgstr "Atraso da tooltip"
+
+msgid "Use a custom menu height"
+msgstr "Escolher uma altura de menu personalizada"
+
+msgid "Custom menu height"
+msgstr "Altura de menu personalizada"
+
+msgid "Applications view mode"
+msgstr "Modo de visualização de aplicativos"
+
+msgid "View applications as list or grid"
+msgstr "Exibir aplicativos como lista ou grade"
+
+msgid "Application description placement"
+msgstr "Posicionamento da descrição do aplicativo"
+
+msgid "Tooltips"
+msgstr "Dicas de ferramentas"
+
+msgid "Under titles"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Choose where to show application descriptions"
+msgstr "Escolha onde mostrar descrições de aplicativos"
+
+#, fuzzy
+msgid "Sidebar location"
+msgstr "Localização dos botões de sessão"
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+#, fuzzy
+msgid "Choose where to show the sidebar"
+msgstr "Escolha onde mostrar descrições de aplicativos"
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr ""
+"Mostre seus ícones de aplicativos favoritos ao lado dos botões da sessão"
+
+#, fuzzy
+msgid "Show recent items"
+msgstr "Alterna ficheiros recentes"
+
+#, fuzzy
+msgid "Show recent items category in the menu"
+msgstr "Mostrar marcadores e locais"
+
+msgid "Show favorite apps category"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "Mostrar marcadores e locais"
+
+msgid "Show home folder"
+msgstr ""
+
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "Mostrar marcadores e locais"
+
+msgid "Last used category"
+msgstr ""
+
+#, fuzzy
+msgid "Autoscroll the application list on mouse hover"
+msgstr "Ativar deslocamento automático na lista de aplicações"
+
+#, fuzzy
+msgid "Show hidden files"
+msgstr "Alterna ficheiros recentes"
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+#, fuzzy
+msgid "Search home folder"
+msgstr "Fornecedores de pesquisa"
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+#, fuzzy
+msgid "Web bookmarks search"
+msgstr "Mostrar os marcadores web"
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "Usar o ícone personalizado"
+
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "Usar o ícone personalizado"
+
+#, fuzzy
+msgid "Panel icon size"
+msgstr "Ícone do painel"
+
+#, fuzzy
+msgid "Choose a custom size for the panel icon"
+msgstr "Usar o ícone personalizado"
+
+#, fuzzy
+msgid "Sidebar icon size"
+msgstr "Tamanho do ícone de categorias"
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""
+
+#~ msgid ""
+#~ "A flexible menu providing formatting options, web bookmarks, search "
+#~ "provider support and fuzzy searching."
+#~ msgstr ""
+#~ "Um menu flexível que oferece opções de formatação, favoritos da web, "
+#~ "suporte ao provedor de pesquisa e pesquisa difusa."
+
+#~ msgid "Startup applications view mode"
+#~ msgstr "Modo de vista das aplicações de arranque"
+
+#~ msgid "px"
+#~ msgstr "px"
+
+#~ msgid "Add favorites to session buttons"
+#~ msgstr "Adicione favoritos aos botões da sessão"

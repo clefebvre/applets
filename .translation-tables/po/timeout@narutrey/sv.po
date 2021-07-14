@@ -1,0 +1,121 @@
+# Swedish translation for timeout@narutrey
+# Copyright (C) 2016 Naru Trey
+# This file is distributed under the same license as the timeout@narutrey package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>\, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: timeout@narutrey\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 17:16+0400\n"
+"PO-Revision-Date: 2017-05-30 09:31+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:210
+msgid "Time left:"
+msgstr "Tid kvar:"
+
+#: applet.js:256
+msgid "Resume"
+msgstr "Återuppta"
+
+#: applet.js:262
+msgid "The break is over"
+msgstr "Rasten är slut"
+
+#: applet.js:272
+msgid "Break!"
+msgstr "Rast!"
+
+#: applet.js:282
+msgid "Postpone"
+msgstr "Fördröj"
+
+#: applet.js:310
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: applet.js:319
+msgid "Reset timer"
+msgstr "Återställ tiduret"
+
+#: applet.js:324
+msgid "Take a break"
+msgstr "Ta en rast"
+
+#. timeout@narutrey->metadata.json->description
+msgid "Automatically controlled time outs and breaks"
+msgstr "Automatiskt kontrollerade tidsgränser och raster"
+
+#. timeout@narutrey->metadata.json->name
+msgid "Time Out"
+msgstr "Tidsgräns"
+
+#. timeout@narutrey->settings-schema.json->enable->description
+msgid "Enable"
+msgstr "Aktivera"
+
+#. timeout@narutrey->settings-schema.json->display_seconds->description
+msgid "Display seconds"
+msgstr "Visa sekunder"
+
+#. timeout@narutrey->settings-schema.json->appearance->description
+msgid "Appearance"
+msgstr "Utseende"
+
+#. timeout@narutrey->settings-schema.json->time_postpone->description
+msgid "Postpone length"
+msgstr "Fördröjningstid"
+
+#. timeout@narutrey->settings-schema.json->time_postpone->units
+#. timeout@narutrey->settings-schema.json->time_work->units
+#. timeout@narutrey->settings-schema.json->time_break->units
+msgid "minutes"
+msgstr "minuter"
+
+#. timeout@narutrey->settings-schema.json->allow_postpone->description
+msgid "Allow postpone"
+msgstr "Tillåt fördröjning"
+
+#. timeout@narutrey->settings-schema.json->behaviour->description
+msgid "Behaviour"
+msgstr "Beteende"
+
+#. timeout@narutrey->settings-schema.json->time_work->description
+msgid "Time between breaks"
+msgstr "Tid mellan rasterna"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Only Icon"
+msgstr "Endast ikon"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Icon and Label"
+msgstr "Ikon och tidur"
+
+#. timeout@narutrey->settings-schema.json->display_mode->options
+msgid "Only Label"
+msgstr "Endast tidur"
+
+#. timeout@narutrey->settings-schema.json->display_mode->description
+msgid "Display panel"
+msgstr "Panelvisning"
+
+#. timeout@narutrey->settings-schema.json->time_break->description
+msgid "Break length"
+msgstr "Rastlängd"
+
+#. timeout@narutrey->settings-schema.json->resume_auto->description
+msgid "Resume automatically"
+msgstr "Återuppta automatiskt"
+
+#. timeout@narutrey->settings-schema.json->Time_settings_header->description
+msgid "Time settings"
+msgstr "Tidsinställningar"

@@ -1,0 +1,673 @@
+# vpnLookOut@claudiux Applet POT File.
+# Copyright (C) 2017-2018 Claudiux <claude.clerc@gmail.com>
+# This file is distributed under the same license as the Cinnamon package.
+# First author of Turkish translation is Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vpnLookOut@claudiux v3.3.1~20181122\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-08 00:13+0100\n"
+"PO-Revision-Date: 2018-11-25 23:14+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 4.2/applet.js:370 4.2/applet.js:1072
+#, fuzzy
+msgid "Deactivate vpnLookOut"
+msgstr "vpnLookOut tarafından başlatıldı: "
+
+#: 4.2/applet.js:386 3.8/applet.js:355
+msgid "TRUE"
+msgstr "DOĞRU"
+
+#: 4.2/applet.js:387 3.8/applet.js:356
+msgid "FALSE"
+msgstr "YANLIŞ"
+
+#: 4.2/applet.js:417 3.8/applet.js:395 2.8/applet.js:214
+msgid ""
+"You appear to be missing some of the programs required for this applet to "
+"have all its features including notifications and audible alerts."
+msgstr ""
+"Bu uygulamacık için gerekli bildirimler ve sesli uyarılar dahil tüm "
+"özelliklerin etkin olması için bazı bağımlılıkların eksik olduğu görünüyor."
+
+#: 4.2/applet.js:417 3.8/applet.js:395 2.8/applet.js:214
+msgid "Please execute, in the just opened terminal, the commands:"
+msgstr "Lütfen yeni açılan uçbirimde, komutları yürütün:"
+
+#: 4.2/applet.js:418 3.8/applet.js:396 2.8/applet.js:215
+msgid "Some dependencies are not installed!"
+msgstr "Bazı bağımlılıklar kurulu değil!"
+
+#: 4.2/applet.js:445 4.2/applet.js:1075 4.2/applet.js:1084
+msgid "vpnLookOut deactivated"
+msgstr ""
+
+#: 4.2/applet.js:445 4.2/applet.js:1084
+#, fuzzy
+msgid "or Middle-Click to activate"
+msgstr "ya da bağlanmak için orta fare tuşuna tıklayın"
+
+#: 4.2/applet.js:447 3.8/applet.js:422 2.8/applet.js:241
+msgid "Waiting"
+msgstr "Bekliyor"
+
+#: 4.2/applet.js:822 3.8/applet.js:773
+msgid "Switching to: "
+msgstr "Şuna geç: "
+
+#. metadata.json->name
+#: 4.2/applet.js:867 4.2/applet.js:942 3.8/applet.js:818 3.8/applet.js:893
+#: 2.8/applet.js:588 2.8/applet.js:655
+msgid "VPN Look-Out Applet"
+msgstr "VPN Gözcü Uygulamacığı"
+
+#: 4.2/applet.js:873 4.2/applet.js:950 3.8/applet.js:824 3.8/applet.js:899
+#: 2.8/applet.js:594 2.8/applet.js:661
+msgid "Waiting for VPN interface information"
+msgstr "VPN arayüz bilgisi bekleniyor"
+
+#: 4.2/applet.js:883 4.2/applet.js:962 3.8/applet.js:834 3.8/applet.js:909
+#: 2.8/applet.js:624 2.8/applet.js:703
+msgid "Connection ON/OFF"
+msgstr "Bağlantı AÇIK/KAPALI"
+
+#. 4.2->settings-schema.json->connectAtStartup->description
+#. 3.8->settings-schema.json->connectAtStartup->description
+#. 2.8->settings-schema.json->connectAtStartup->description
+#: 4.2/applet.js:896 4.2/applet.js:1000 3.8/applet.js:847 3.8/applet.js:947
+#: 2.8/applet.js:603 2.8/applet.js:682
+msgid "Connect to VPN as this applet starts."
+msgstr "Bu uygulamacık başladığında VPN'ye bağlan."
+
+#. 4.2->settings-schema.json->reconnect->description
+#. 3.8->settings-schema.json->reconnect->description
+#. 2.8->settings-schema.json->reconnect->description
+#: 4.2/applet.js:901 4.2/applet.js:1005 3.8/applet.js:852 3.8/applet.js:952
+#: 2.8/applet.js:608 2.8/applet.js:687
+msgid "Try to reconnect to VPN when it shuts down incidentally."
+msgstr "Bir hata sonucunda kapatıldığında VPN'ye yeniden bağlanmayı dene."
+
+#: 4.2/applet.js:921 3.8/applet.js:872 2.8/applet.js:637
+msgid "Help..."
+msgstr "Yardım..."
+
+#: 4.2/applet.js:950
+msgid "vpnLookOut is deactivated"
+msgstr ""
+
+#: 4.2/applet.js:973 3.8/applet.js:920 2.8/applet.js:715
+msgid "Connections"
+msgstr "Bağlantılar"
+
+#. 4.2->settings-schema.json->Torrentpolicy->title
+#. 3.8->settings-schema.json->Torrentpolicy->title
+#: 4.2/applet.js:1026 3.8/applet.js:972
+msgid "VPN-related Apps Manager"
+msgstr "VPN İlişkili Uygulama Yöneticisi"
+
+#: 4.2/applet.js:1033 3.8/applet.js:979
+msgid "View Activity Logs"
+msgstr "Etkinlik Günlüğünü Göster"
+
+#: 4.2/applet.js:1057 3.8/applet.js:993 2.8/applet.js:669
+msgid "Network Settings"
+msgstr "Ağ Ayarları"
+
+#: 4.2/applet.js:1061 3.8/applet.js:997 2.8/applet.js:673
+msgid "Network Connections"
+msgstr "Ağ Bağlantıları"
+
+#: 4.2/applet.js:1072
+#, fuzzy
+msgid "Activate vpnLookOut"
+msgstr "vpnLookOut tarafından başlatıldı: "
+
+#: 4.2/applet.js:1086
+msgid "vpnLookOut reactivated"
+msgstr ""
+
+#: 4.2/applet.js:1149 3.8/applet.js:1060
+msgid "or Middle-Click to disconnect"
+msgstr "ya da bağlantıyı kesmek için orta fare tuşuna tıklayın"
+
+#: 4.2/applet.js:1163 3.8/applet.js:1074 2.8/applet.js:793
+msgid "Connected"
+msgstr "Bağlı"
+
+#: 4.2/applet.js:1182 3.8/applet.js:1091
+msgid "Started by vpnLookOut: "
+msgstr "vpnLookOut tarafından başlatıldı: "
+
+#: 4.2/applet.js:1194 3.8/applet.js:1099 2.8/applet.js:800
+msgid "Disconnected"
+msgstr "Bağlı değil"
+
+#: 4.2/applet.js:1212 3.8/applet.js:1117
+msgid "Blocked by vpnLookOut: "
+msgstr "vpnLookOut tarafından engellendi: "
+
+#: 4.2/applet.js:1230 4.2/applet.js:1236 3.8/applet.js:1135 3.8/applet.js:1141
+msgid "or Middle-Click to connect"
+msgstr "ya da bağlanmak için orta fare tuşuna tıklayın"
+
+#: 4.2/applet.js:1262 3.8/applet.js:1167
+msgid "Stopped by vpnLookOut: "
+msgstr "vpnLookOut tarafından durduruldu: "
+
+#: 4.2/applet.js:1280 4.2/applet.js:1282 4.2/applet.js:1285 4.2/applet.js:1286
+#: 3.8/applet.js:1181 3.8/applet.js:1183 3.8/applet.js:1186 3.8/applet.js:1187
+#: 2.8/applet.js:832 2.8/applet.js:836 2.8/applet.js:837
+msgid "VPN:"
+msgstr "VPN:"
+
+#: 4.2/applet.js:1317 3.8/applet.js:1214 2.8/applet.js:860
+msgid "is fully functional."
+msgstr "tam fonksiyonel."
+
+#: 4.2/applet.js:1318 3.8/applet.js:1215 2.8/applet.js:861
+msgid "All dependencies are installed"
+msgstr "Tüm bağımlılıklar kurulu"
+
+#. 2.8->settings-schema.json->stopTransmission->description
+#: 2.8/applet.js:613 2.8/applet.js:692
+msgid "Shut down properly Transmission as soon as VPN falls."
+msgstr "VPN kopar kopmaz aktarımı tamamen kapat."
+
+#. 2.8->settings-schema.json->restartTransmission->description
+#: 2.8/applet.js:617 2.8/applet.js:696
+msgid "Try to restart Transmission as soon as VPN restarts."
+msgstr "VPN yeniden başlatıldığında aktarımı da yeniden başlatmayı dene."
+
+#: 2.8/applet.js:771 2.8/applet.js:773
+msgid "Click to disconnect from VPN"
+msgstr "VPN bağlantısını kesmek için tıklayın"
+
+#: 2.8/applet.js:802 2.8/applet.js:804
+msgid "Click to connect to VPN"
+msgstr "VPN bağlantısı için tıklayın"
+
+#. metadata.json->description
+msgid ""
+"A Cinnamon applet that watches over the VPN link, displays its status, "
+"allows to connect at start-up to the last VPN used, allows to reconnect the "
+"VPN link if it incidentally drops, and can stop or restart VPN-related apps "
+"according to the state of the VPN."
+msgstr ""
+"VPN bağlantısını izleyen bir Cinnamon uygulaması, durumu gösterir, "
+"başlangıçta kullanılan son VPN'ye bağlanmaya izin verir, bağlantı hata "
+"sonucu düşerse VPN bağlantısının yeniden bağlanmasına izin verir ve VPN ile "
+"ilişkili uygulamanın durumuna göre VPN iletimini durdurabilir veya yeniden "
+"başlatabilir."
+
+#. 4.2->settings-schema.json->Alerts->title
+#. 3.8->settings-schema.json->Alerts->title
+#. 2.8->settings-schema.json->Alerts->title
+msgid "Notifications"
+msgstr "Uyarılar"
+
+#. 4.2->settings-schema.json->VPNpolicy->title
+#. 4.2->settings-schema.json->sectionV1->title
+#. 3.8->settings-schema.json->VPNpolicy->title
+#. 3.8->settings-schema.json->section1->title
+#. 2.8->settings-schema.json->VPNpolicy->title
+#. 2.8->settings-schema.json->section1->title
+msgid "VPN"
+msgstr "VPN"
+
+#. 4.2->settings-schema.json->Shortcut->title
+#. 3.8->settings-schema.json->Shortcut->title
+#. 2.8->settings-schema.json->Shortcut->title
+msgid "Keyboard shortcuts"
+msgstr "Klavye kısayolları"
+
+#. 4.2->settings-schema.json->sectionA1->title
+#. 3.8->settings-schema.json->section2->title
+#. 2.8->settings-schema.json->section2->title
+msgid "Display"
+msgstr "Görünüm"
+
+#. 4.2->settings-schema.json->sectionA2->title
+#. 3.8->settings-schema.json->section3->title
+#. 2.8->settings-schema.json->section3->title
+msgid "Sound Alert"
+msgstr "Ses Alarmı"
+
+#. 4.2->settings-schema.json->sectionS1->title
+#. 3.8->settings-schema.json->section5->title
+#. 2.8->settings-schema.json->section5->title
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#. 4.2->settings-schema.json->sectionT1->title
+#. 3.8->settings-schema.json->section6->title
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. 4.2->settings-schema.json->sectionT2->title
+#. 3.8->settings-schema.json->section7->title
+msgid "Managed Apps"
+msgstr "Yönetilen Uygulamalar"
+
+#. 4.2->settings-schema.json->sectionV2->title
+#. 3.8->settings-schema.json->section8->title
+msgid "Activity Logs"
+msgstr "Etkinlik Günlüğü"
+
+#. 4.2->settings-schema.json->vpnInterface->description
+#. 3.8->settings-schema.json->vpnInterface->description
+#. 2.8->settings-schema.json->vpnInterface->description
+msgid "VPN Network Interface"
+msgstr "VPN Ağ Arayüzü"
+
+#. 4.2->settings-schema.json->vpnInterface->tooltip
+#. 3.8->settings-schema.json->vpnInterface->tooltip
+#. 2.8->settings-schema.json->vpnInterface->tooltip
+msgid ""
+"You should be able to leave this field empty. This applet will try to detect "
+"this."
+msgstr ""
+"Bu alanı boş bırakıyor olmalısınız. Bu uygulamacık bunu tespit etmeye "
+"çalışacaktır."
+
+#. 4.2->settings-schema.json->vpnName->description
+#. 3.8->settings-schema.json->vpnName->description
+#. 2.8->settings-schema.json->vpnName->description
+msgid "VPN Name"
+msgstr "VPN Adı"
+
+#. 4.2->settings-schema.json->vpnName->tooltip
+#. 3.8->settings-schema.json->vpnName->tooltip
+#. 2.8->settings-schema.json->vpnName->tooltip
+msgid ""
+"This information is automatically changed when connecting to a VPN.\n"
+"It therefore contains the name of the last VPN to which you connected."
+msgstr ""
+"Bu bilgi, bir VPN'ye bağlanırken otomatik olarak değiştirilir.\n"
+"Bu nedenle, bağlandığınız son VPN'nin adını içerir."
+
+#. 4.2->settings-schema.json->connectAtStartup->tooltip
+#. 3.8->settings-schema.json->connectAtStartup->tooltip
+#. 2.8->settings-schema.json->connectAtStartup->tooltip
+msgid ""
+"Checking this allows this applet to try to connect to the last VPN at start-"
+"up."
+msgstr ""
+"Bunu etkinleştirmek, bu uygulamacığın başlangıçta son VPN'ye bağlanmaya "
+"çalışmasına izin verir."
+
+#. 4.2->settings-schema.json->deactivateAtStartup->description
+#, fuzzy
+msgid "Deactivate this applet at startup"
+msgstr "Bu uygulamacık başladığında VPN'ye bağlan."
+
+#. 4.2->settings-schema.json->deactivateAtStartup->tooltip
+msgid ""
+"When this option is checked, this applet starts in 'deactivated' state, "
+"saving resources but not monitoring anything. You can activate it from its "
+"menu."
+msgstr ""
+
+#. 4.2->settings-schema.json->reconnect->tooltip
+#. 3.8->settings-schema.json->reconnect->tooltip
+#. 2.8->settings-schema.json->reconnect->tooltip
+msgid ""
+"Checking this allows this applet to try to reconnect to VPN when it shuts "
+"down incidentally."
+msgstr ""
+"Bunu etkinleştirmek, bu uygulama bir hata sonucu kapatılınca VPN'ye yeniden "
+"bağlanmaya çalışmasına izin verir."
+
+#. 4.2->settings-schema.json->respectUserRequest->description
+#. 3.8->settings-schema.json->respectUserRequest->description
+msgid ""
+"Do not try to reconnect automatically if the VPN has been disconnected by "
+"the user."
+msgstr "VPN kullanıcı tarafından kesilmişse otomatik yeniden bağla çalışma."
+
+#. 4.2->settings-schema.json->respectUserRequest->tooltip
+#. 3.8->settings-schema.json->respectUserRequest->tooltip
+msgid ""
+"If, by this applet only, the user disconnects the VPN, then no automatic "
+"reconnection will be tried."
+msgstr ""
+"Eğer kullanıcı VPN bağlantısını, sadece bu uygulama ile keserse, otomatik "
+"yeniden bağlanma denenmeyecektir."
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->units
+#. 3.8->settings-schema.json->refreshInterval-spinner->units
+#. 2.8->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "saniye"
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->description
+#. 3.8->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh interval:"
+msgstr "Yenileme aralığı:"
+
+#. 4.2->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.8->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Time interval, in seconds, between two verifications of VPN link status. A "
+"low value increases security but causes more activity. Choose a value that "
+"is greater as your computer is slow."
+msgstr ""
+"VPN bağlantı durumunun iki doğrulaması arasında saniye cinsinden zaman "
+"aralığı. Düşük bir değer güvenliği artırır, ancak daha fazla aktiviteye "
+"neden olur. Bilgisayarınız yavaşsa daha büyük bir değer seçin."
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Classic - Icon and Text"
+msgstr "Klasik - Simge ve Metin"
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Compact - Icon Only"
+msgstr "Sıkışık - Sadece Simge"
+
+#. 4.2->settings-schema.json->displayType->description
+#. 3.8->settings-schema.json->displayType->description
+#. 2.8->settings-schema.json->displayType->description
+msgid "Type of Display"
+msgstr "Görünüm Tipi"
+
+#. 4.2->settings-schema.json->displayType->tooltip
+#. 3.8->settings-schema.json->displayType->tooltip
+#. 2.8->settings-schema.json->displayType->tooltip
+msgid ""
+"This feature offers the Classic (default) display with icon and text, and "
+"compact display (Icon Only)."
+msgstr ""
+"Bu özellik varsayılan olarak simge ve metin ile (varsayılan) klasik görünüm "
+"ve (sadece simge ile) sıkışık bir görüm sunar."
+
+#. 4.2->settings-schema.json->use_symbolic_icons->description
+msgid "Use Symbolic Icons"
+msgstr ""
+
+#. 4.2->settings-schema.json->use_symbolic_icons->tooltip
+msgid ""
+"Select this option if you prefer Symbolic icons instead of Full Color icons."
+msgstr ""
+
+#. 4.2->settings-schema.json->useSoundAlert->description
+#. 3.8->settings-schema.json->useSoundAlert->description
+msgid "Emit an audible alert when VPN shuts down."
+msgstr "VPN kapatıldığında sesli bir uyarı ver."
+
+#. 4.2->settings-schema.json->useSoundAlert->tooltip
+#. 3.8->settings-schema.json->useSoundAlert->tooltip
+msgid ""
+"Checking this allows this applet to emit an audible alert when VPN shuts "
+"down."
+msgstr ""
+"Bunu etkinleştirmek, VPN kapatıldığında bu uygulamacığın sesli uyarı "
+"vermesini sağlar."
+
+#. 4.2->settings-schema.json->useSoundAlertAtBeginning->description
+#. 3.8->settings-schema.json->useSoundAlertAtBeginning->description
+msgid "Emit this audible alert when this Applet starts, if VPN is down."
+msgstr ""
+"VPN kapalıysa, bu uygulamacık başlatıldığında bu ses uyarısını çıkarır."
+
+#. 4.2->settings-schema.json->useSoundAlertAtBeginning->tooltip
+#. 3.8->settings-schema.json->useSoundAlertAtBeginning->tooltip
+msgid ""
+"Check this if you want to emit this audible alert when this Applet starts, "
+"if VPN is down."
+msgstr ""
+"Bunu etkinleştirdiğinizde, bu uygulamacık başlatıldığında eğer VPN kapalıysa "
+"bu sesli uyarının çıkartılmasını sağlar."
+
+#. 4.2->settings-schema.json->keybinding->description
+#. 3.8->settings-schema.json->keybinding->description
+#. 2.8->settings-schema.json->keybinding->description
+msgid "Set the keybinding here to activate/deactivate the last used VPN."
+msgstr ""
+"Son kullanılan VPN'yi etkinleştirip/devre dışı bırakmak için buradan kısayol "
+"tuşunu ayarlayın."
+
+#. 4.2->settings-schema.json->manageClients->description
+#. 3.8->settings-schema.json->manageClients->description
+msgid "Manage VPN-related Apps"
+msgstr "VPN İlişkili Uygulamaları Yönetin"
+
+#. 4.2->settings-schema.json->manageClients->tooltip
+#. 3.8->settings-schema.json->manageClients->tooltip
+msgid ""
+"This option allows this applet to manage the VPN-related applications you "
+"listed above."
+msgstr ""
+"Bu seçenek, bu uygulamanın yukarıda listelenen VPN ile ilgili uygulamaları "
+"yönetmesine izin verir."
+
+#. 4.2->settings-schema.json->clientsList->description
+#. 3.8->settings-schema.json->clientsList->description
+msgid "Managed applications"
+msgstr "Yönetilen uygulamalar"
+
+#. 4.2->settings-schema.json->clientsList->tooltip
+#. 3.8->settings-schema.json->clientsList->tooltip
+msgid ""
+"Name: What you want.\n"
+"Command: The command to run the application, without its path.\n"
+"Restart: Set to TRUE if you want to restart this application as soon as the "
+"VPN link becomes active again.\n"
+"Shutdown: Set to TRUE if you want to close the application as soon as the "
+"VPN link is stopped.\n"
+"VPN only: Set to TRUE if you want to quickly stop this application if it is "
+"started while the VPN is idle."
+msgstr ""
+"İsim: İstediğiniz bir tane seçebilirsiniz.\n"
+"Komut: Uygulamayı yolu olmadan çalıştırmak için komut.\n"
+"Yeniden başlat: Eğer VPN bağlantısı tekrar aktif hale gelir gelmez bu "
+"uygulamayı yeniden başlatmak isterseniz, TRUE olarak yarlayın.\n"
+"Kapatma: Eğer VPN bağlantısı durduğunda uygulamayı kapatmak isterseniz, TRUE "
+"olarak ayarlayın.\n"
+"Sadece VPN: Uygulama VPN boştayken başlatıldığında bu uygulamayı hızlıca "
+"durdurmak isterseniz, TRUE olarak ayarlayın."
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Name"
+msgstr "İsim"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Command"
+msgstr "Komut"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "Shut down"
+msgstr "Kapat"
+
+#. 4.2->settings-schema.json->clientsList->columns->title
+#. 3.8->settings-schema.json->clientsList->columns->title
+msgid "VPN only"
+msgstr "Sadece VPN"
+
+#. 4.2->settings-schema.json->doLogActivity->description
+#. 3.8->settings-schema.json->doLogActivity->description
+msgid "Log the VPN status changes and the VPN-related Apps status changes"
+msgstr ""
+"VPN durum değişikliklerini ve VPN ile ilgili uygulamaların durumundaki "
+"değişiklikleri günlükle"
+
+#. 4.2->settings-schema.json->doLogActivity->tooltip
+#. 3.8->settings-schema.json->doLogActivity->tooltip
+msgid ""
+"This option allows this applet to log the VPN status changes and the VPN-"
+"related applications status changes.\n"
+"You will can display the log file to make diagnostics."
+msgstr ""
+"Bu seçenek, bu uygulamanın VPN durum değişikliklerini ve VPN ile ilgili "
+"uygulamaların durum değişikliklerini günlüklemesine izin verir.\n"
+"Tanılama yapmak için günlük dosyasını görüntüleyebilirsiniz."
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "1"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "2"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "3"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "4"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "5"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "6"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "7"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "8"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "9"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "10"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "15"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "20"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "30"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "45"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "60"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->options
+#. 3.8->settings-schema.json->logLifetime->options
+msgid "90"
+msgstr ""
+
+#. 4.2->settings-schema.json->logLifetime->description
+#. 3.8->settings-schema.json->logLifetime->description
+msgid "Lifetime (days)"
+msgstr "Kalış süresi (gün)"
+
+#. 4.2->settings-schema.json->logLifetime->tooltip
+#. 3.8->settings-schema.json->logLifetime->tooltip
+msgid "Lifetime of a record in the log file, in days."
+msgstr "Bir kaydın günlük dosyasında kalış süresi, gün cinsinden."
+
+#. 2.8->settings-schema.json->section4->title
+msgid "Transmission"
+msgstr "Aktarma"
+
+#. 2.8->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Görüntüleme için Yenileme Aralığı:"
+
+#. 2.8->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh (ie high value) if you have a slow machine."
+msgstr ""
+"Yenileme aralığını değiştirmek için bu değeri artırın veya azaltın - yavaş "
+"makineniz varsa (yüksek değer belirleyerek) yavaş bir yenileme "
+"kullanabilirsiniz."
+
+#. 2.8->settings-schema.json->useSoundAlert->description
+msgid "Emit a sound alert when VPN shuts down."
+msgstr "VPN kapandığında sesli uyarı ver."
+
+#. 2.8->settings-schema.json->useSoundAlert->tooltip
+msgid ""
+"Checking this allows this applet to emit a sound alert when VPN shuts down."
+msgstr ""
+"Bunu etkinleştirmek, VPN kapatıldığında bu uygulamanın bir ses uyarısı "
+"vermesini sağlar."
+
+#. 2.8->settings-schema.json->useSoundAlertAtBeginning->description
+msgid "Emit this sound alert when this Applet starts, if VPN is down."
+msgstr ""
+"Eğer VPN kapalıysa, bu uygulamacık başlatıldığında bu sesli uyarı çıkartır."
+
+#. 2.8->settings-schema.json->useSoundAlertAtBeginning->tooltip
+msgid ""
+"Check this if you want to emit this sound alert when this Applet starts, if "
+"VPN is down."
+msgstr ""
+"Eğer VPN kapalıysa, bu uygulamacık başlatıldığında sesli uyarı çıkmasını "
+"istiyorsanız bunu etkinleştirin."
+
+#. 2.8->settings-schema.json->stopTransmission->tooltip
+msgid ""
+"Checking this allows this applet to shut down Transmission (if it's running) "
+"as soon as VPN falls."
+msgstr ""
+"Bunu etkinleştirmek, (eğer çalışıyorsa) VPN kopar kopmaz aktarmanın "
+"kapatılmasını sağlar."
+
+#. 2.8->settings-schema.json->restartTransmission->tooltip
+msgid ""
+"Checking this allows this applet to restart Transmission (if it was stopped "
+"by this applet) as soon as VPN restarts."
+msgstr ""
+"Bunu etkinleştirmek, (eğer bu uygulamacık tarafından durdurulduysa) VPN "
+"yeniden başlatıldığında bu uygulamacığın aktarımı da yeniden başlatmasını "
+"sağlar."
+
+#~ msgid "Connection Info"
+#~ msgstr "Bağlantı Bilgisi"

@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR: Marcin Golesz <marcingolesz@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-21 19:27+0800\n"
+"PO-Revision-Date: 2018-10-07 02:58+0300\n"
+"Last-Translator: Marcin Golesz <marcingolesz@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:165
+msgid "just now"
+msgstr "teraz"
+
+#: applet.js:169
+msgid "1 minute ago"
+msgstr "minutę temu"
+
+#: applet.js:173
+msgid " minutes ago"
+msgstr " minut temu"
+
+#: applet.js:177
+msgid "1 hour ago"
+msgstr "godzinę temu"
+
+#: applet.js:181
+msgid " hours ago"
+msgstr " godzin temu"
+
+#: applet.js:188
+msgid "yesterday"
+msgstr "wczoraj"
+
+#: applet.js:192
+msgid " days ago"
+msgstr " dni temu"
+
+#: applet.js:196
+msgid " weeks ago"
+msgstr " tygodni temu"
+
+#: applet.js:281
+msgid "Configure Mailnag"
+msgstr "Konfiguruj Mailnag"
+
+#: applet.js:360
+msgid "Mailnag daemon stopped working!"
+msgstr "Daemon Mailnag został zatrzymany!"
+
+#: applet.js:364
+msgid "Mailnag daemon isn't running! Do you have it installed?"
+msgstr "Daemon Mailnag nie jest uruchomiony! Czy jest zainstalowany?"
+
+#: applet.js:593
+#, c-format
+msgid "You have %d new mails!"
+msgstr "Masz %d nowych maili!"
+
+#: applet.js:594 applet.js:639
+msgid "Mark All Read"
+msgstr "Oznacz wszystkie jako przeczytane"
+
+#: applet.js:602
+msgid "You have new mail!"
+msgstr "Masz nową wiadomość!"
+
+#: applet.js:604
+msgid "Mark Read"
+msgstr "Oznacz jako przeczytane"
+
+#: applet.js:687 applet.js:749
+msgid "No unread mails."
+msgstr "Brak nowych wiadomości."
+
+#: applet.js:725
+msgid "Mailnag daemon is not running!"
+msgstr "Daemon Mailnag nie jest uruchomiony!"
+
+#: applet.js:738
+#, c-format
+msgid "You have a mail from %s!"
+msgstr "Dostałeś maila od %s!"
+
+#: applet.js:744
+#, c-format
+msgid "You have %d unread mails!"
+msgstr "Masz %d nieprzeczytanych wiadomości!"
+
+#: applet.js:760
+msgid "Click to see error!"
+msgstr "Kliknij, aby zobaczyć błąd!"
+
+#: applet.js:761
+msgid "Error: "
+msgstr "Błąd:"
+
+#. mailnagapplet@ozderya.net->metadata.json->name
+msgid "Mailnag"
+msgstr "Mailnag"
+
+#. mailnagapplet@ozderya.net->metadata.json->description
+msgid "Mailnag mail notifier applet"
+msgstr "Aplet powiadomień Mailnag"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->description
+msgid "Show notifications"
+msgstr "Pokaż powiadomienia"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->notifications->tooltip
+msgid ""
+"Enables display of mail arrived notifications by applet. Make sure you "
+"disable mailnag notification plugin, otherwise you will have duplicates."
+msgstr ""
+"Włącza powiadomienia apletu o nadchodzących mailach. Upewnij się że "
+"wyłączyłeś plugin powiadomień Mailnag, w przeciwnym razie będą występować "
+"duplikaty."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->description
+msgid "Mail client to launch (or webpage)"
+msgstr "Klient pocztowy do uruchomienia (lub strona internetowa)"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->client->tooltip
+msgid ""
+"Enter the command to launch your mail client here. You can also enter a web "
+"address that starts with 'http'."
+msgstr ""
+"Wprowadź komendę wywołującą twojego kienta pocztowego. Możesz również "
+"wprowadzić adres strony internetowej, który musi się zaczynać od 'http'"
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->description
+msgid "Launch mail client on click"
+msgstr "Po kliknięciu, uruchom klienta pocztowego"
+
+#. mailnagapplet@ozderya.net->settings-
+#. schema.json->launch_client_on_click->tooltip
+msgid "Mail client is launched when clicked on a menu item."
+msgstr ""
+"Po kliknięciu na dowolną opcję w menu, zostanie uruchomiony klient pocztowy."
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->description
+msgid "On middle click:"
+msgstr "Po kliknięciu środkowym przyciskiem myszy:"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->tooltip
+msgid "What to do when middle clicked on applet icon"
+msgstr "Co zrobić po kliknięciu środkowym przyciskiem myszy na aplecie"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Mark all read"
+msgstr "Oznacz wszystkie jako przeczytane"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Launch mail client"
+msgstr "Uruchom klienta pocztowego"
+
+#. mailnagapplet@ozderya.net->settings-schema.json->middle_click->options
+msgid "Do nothing"
+msgstr "Nic nie rób"

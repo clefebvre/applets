@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 19:44+0100\n"
+"PO-Revision-Date: 2019-10-16 22:05+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:102
+msgid "desktop"
+msgstr "desktop"
+
+#: applet.js:320
+msgid "No open windows"
+msgstr "Nessuna finestra aperta"
+
+#: applet.js:330
+msgid "Expo"
+msgstr "Esposizione"
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifyskiptaskbar->description
+msgid "Opacify the icons on the desktop"
+msgstr "Opacizza le icone sul desktop"
+
+#. SW++@mohammad-sn->settings-schema.json->head->description
+msgid "Appearance"
+msgstr "Aspetto"
+
+#. SW++@mohammad-sn->settings-schema.json->closeallbuttons->description
+msgid "Show close all windows buttons for workspaces"
+msgstr "Mostra tasti di chiusura per tutte le finestre negli spazi di lavoro"
+
+#. SW++@mohammad-sn->settings-schema.json->head2->description
+msgid "Peek at desktop"
+msgstr "Sbircia sul desktop"
+
+#. SW++@mohammad-sn->settings-schema.json->head1->description
+msgid "Menu options"
+msgstr "Opzioni menù"
+
+#. SW++@mohammad-sn->settings-schema.json->color->description
+msgid "The background color for the applet hover:"
+msgstr "Il colore di sfondo per il passaggio del mouse dell'applet:"
+
+#. SW++@mohammad-sn->settings-schema.json->color->tooltip
+msgid "Click the button to select a new background color for applet"
+msgstr ""
+"Fare clic sul pulsante per selezionare un nuovo colore di sfondo per l'applet"
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel:"
+msgstr "L'icona da usare nel pannello:"
+
+#. SW++@mohammad-sn->settings-schema.json->icon-name->tooltip
+msgid ""
+"Select an icon file, or you can type an icon name into the entry box, for "
+"example: desktop"
+msgstr ""
+"Seleziona un file icona, oppure puoi digitare un nome icona nella casella di "
+"inserimento, ad esempio desktop"
+
+#. SW++@mohammad-sn->settings-schema.json->peekopacity->description
+msgid "Opacity on hover:"
+msgstr "Opacità al passaggio del mouse:"
+
+#. SW++@mohammad-sn->settings-schema.json->SHOW-MENU-ON-CLOSE->description
+msgid "Keep menu open while closing windows"
+msgstr "Mantieni il menu aperto durante la chiusura di finestre"
+
+#. SW++@mohammad-sn->settings-schema.json->width->description
+msgid "Applet width in the panel:"
+msgstr "Larghezza dell'applet nel pannello:"
+
+#. SW++@mohammad-sn->settings-schema.json->width->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the applet wider or narrower "
+"in the panel"
+msgstr ""
+"Aumenta o diminuisci questo valore di spinner per allargare o restringere "
+"l'applet nel pannello"
+
+#. SW++@mohammad-sn->settings-schema.json->width->units
+msgid "pixels"
+msgstr "pixel"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->description
+msgid "Opacify windows on hover"
+msgstr "Opacizza le finestre al passaggio del mouse"
+
+#. SW++@mohammad-sn->settings-schema.json->peekatdesktop->tooltip
+msgid "Take a glance at your desktop and desklets."
+msgstr "Dai un'occhiata al tuo desktop e ai tuoi desklet."
+
+#. SW++@mohammad-sn->settings-schema.json->alsoopacifydesklets->description
+msgid "Opacify desklets"
+msgstr "Opacizza desklet"
+
+#. SW++@mohammad-sn->settings-schema.json->blur->description
+msgid "Blur windows on hover"
+msgstr "Sfocatura finestre al passaggio del mouse"
+
+#. SW++@mohammad-sn->settings-schema.json->highlight->description
+msgid "Highlight applet next time it is added to the panel"
+msgstr "Evidenzia l'applet la prossima volta che viene aggiunto al pannello"
+
+#. SW++@mohammad-sn->settings-schema.json->closebuttons->description
+msgid "Show close buttons"
+msgstr "Mostra i pulsanti di chiusura"
+
+#. SW++@mohammad-sn->metadata.json->description
+msgid ""
+"click to show/hide desktop, scroll to switch workspace and windows quick "
+"list by right click"
+msgstr ""
+"fare clic per mostrare/nascondere il desktop, scorrere per passare all'area "
+"di lavoro e all'elenco rapido di finestre con il tasto destro"
+
+#. SW++@mohammad-sn->metadata.json->name
+msgid "Show desktop ++"
+msgstr "Mostra desktop ++"

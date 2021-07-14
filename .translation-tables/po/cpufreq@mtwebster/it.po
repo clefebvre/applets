@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:31+0800\n"
+"PO-Revision-Date: 2019-10-22 20:30+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:280
+msgid "CPU frequency scaling unavailable"
+msgstr "Ridimensionamento della frequenza della CPU non disponibile"
+
+#: applet.js:281
+msgid ""
+"Your system does not appear to support CPU frequency scaling.  Unfortunately "
+"this applet is of no use to you."
+msgstr ""
+"Il sistema non sembra supportare il ridimensionamento della frequenza della "
+"CPU. Sfortunatamente questa applet non ti serve."
+
+#: applet.js:421
+msgid "Configure Applet"
+msgstr "Configura Applet"
+
+#: applet.js:433
+msgid "CPU frequency switcher program not installed"
+msgstr "Programma di commutazione della frequenza della CPU non installato"
+
+#: applet.js:434
+msgid ""
+"You appear to be missing the required program, 'cpufreq-selector.'  This "
+"program is needed to perform scaling or governor switching.\n"
+"\n"
+msgstr ""
+"Sembra che manchi il programma richiesto, \"cpufreq-selector\". Questo "
+"programma è necessario per eseguire il ridimensionamento o la commutazione "
+"del regolatore.\n"
+"\n"
+
+#: applet.js:435
+msgid ""
+"This program is ordinarily provided by the package: gnome-applets\n"
+"\n"
+msgstr ""
+"Questo programma è normalmente fornito dal pacchetto: gnome-applets\n"
+"\n"
+
+#: applet.js:436
+msgid ""
+"If you're on Linux Mint or Ubuntu, you can install this using the following "
+"command:\n"
+"\n"
+msgstr ""
+"Se sei su Linux Mint o Ubuntu, puoi installarlo usando il seguente comando:\n"
+"\n"
+
+#: applet.js:437
+msgid "apt install --no-install-recommends gnome-applets"
+msgstr "apt install --no-install-recommends gnome-applets"
+
+#. cpufreq@mtwebster->metadata.json->description
+msgid "Display and control cpu frequency"
+msgstr "Visualizza e controlla la frequenza della CPU"
+
+#. cpufreq@mtwebster->metadata.json->name
+msgid "CPU Frequency Applet"
+msgstr "Applet di Frequenza CPU"
+
+#. cpufreq@mtwebster->settings-schema.json->head->description
+msgid "General"
+msgstr "Generale"
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->description
+msgid "The medium level color for each graph bar:"
+msgstr "Il colore del livello medio per ogni barra del grafico:"
+
+#. cpufreq@mtwebster->settings-schema.json->med-color->tooltip
+msgid "Click the button to select a new medium level status color"
+msgstr ""
+"Fare clic sul pulsante per selezionare un nuovo colore di stato del livello "
+"medio"
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->description
+msgid "The low level color for each graph bar:"
+msgstr "Il colore del livello basso per ogni barra del grafico:"
+
+#. cpufreq@mtwebster->settings-schema.json->low-color->tooltip
+msgid "Click the button to select a new low level status color"
+msgstr ""
+"Fare clic sul pulsante per selezionare un nuovo colore di stato del livello "
+"basso"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->description
+msgid "Show clock speed or percentage:"
+msgstr "Mostra velocità di clock o in percentuale:"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->tooltip
+msgid "Display the clock speed or a percentage of the maximum clock speed."
+msgstr ""
+"Visualizza la velocità di clock o una percentuale della velocità di clock "
+"massima."
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Percentage"
+msgstr "Percentuale"
+
+#. cpufreq@mtwebster->settings-schema.json->digit-type->options
+msgid "Clock speed"
+msgstr "Velocità di clock"
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->description
+msgid "The high level color for each graph bar:"
+msgstr "Il colore del livello alto per ogni barra del grafico:"
+
+#. cpufreq@mtwebster->settings-schema.json->high-color->tooltip
+msgid "Click the button to select a new high level status color"
+msgstr ""
+"Fare clic sul pulsante per selezionare un nuovo colore di stato del livello "
+"alto"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->description
+msgid "The text color for the applet:"
+msgstr "Il colore del testo per l'applet:"
+
+#. cpufreq@mtwebster->settings-schema.json->text-color->tooltip
+msgid "Click the button to select a text color"
+msgstr "Fare clic sul pulsante per selezionare un colore per il testo"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->description
+msgid "Display style:"
+msgstr "Stile di Visualizzazione:"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->tooltip
+msgid "Select to show graphs only, values only, or both."
+msgstr "Selezionare per mostrare solo grafici, solo valori o entrambi."
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Graph"
+msgstr "Grafico"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Digit"
+msgstr "Valore"
+
+#. cpufreq@mtwebster->settings-schema.json->display-style->options
+msgid "Both"
+msgstr "Entrambi"
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->description
+msgid "Width of individual bars:"
+msgstr "Larghezza delle singole barre:"
+
+#. cpufreq@mtwebster->settings-schema.json->graph-width->tooltip
+msgid "Move the slider to adjust the width of individual CPU graph bars"
+msgstr ""
+"Spostare il cursore per regolare la larghezza delle barre del grafico "
+"individuale della CPU"
+
+#. cpufreq@mtwebster->settings-schema.json->background->description
+msgid "The background color for each graph bar:"
+msgstr "Il colore di sfondo per ogni barra del grafico:"
+
+#. cpufreq@mtwebster->settings-schema.json->background->tooltip
+msgid "Click the button to select a new bar background color"
+msgstr ""
+"Fare clic sul pulsante per selezionare un nuovo colore di sfondo per la barra"
+
+#. cpufreq@mtwebster->settings-schema.json->colors-head->description
+msgid "Colors"
+msgstr "Colori"
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->description
+msgid "Refresh rate:"
+msgstr "Frequenza di aggiornamento:"
+
+#. cpufreq@mtwebster->settings-schema.json->refresh-rate->tooltip
+msgid ""
+"Move the slider to adjust how often the applet updates.  Note: this can have "
+"a large impact on system performance if you set it too low"
+msgstr ""
+"Spostare lo slider per regolare la frequenza con cui l'applet si aggiorna.  "
+"Nota: questo può avere un grande impatto sulle prestazioni del sistema se lo "
+"si imposta su un valore troppo basso"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->description
+msgid "CPUs to display:"
+msgstr "CPU da mostrare:"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->tooltip
+msgid ""
+"Select to show individual CPUs and a summary, only individuals, or only a "
+"summary"
+msgstr ""
+"Selezionare per mostrare singole CPU e un riepilogo, solo individuali o solo "
+"un riepilogo"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary and individual"
+msgstr "Riepilogo e individuale"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Summary only"
+msgstr "Solo riepilogo"
+
+#. cpufreq@mtwebster->settings-schema.json->cpus-to-monitor->options
+msgid "Individual only"
+msgstr "Solo individuale"

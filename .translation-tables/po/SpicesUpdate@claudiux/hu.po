@@ -1,0 +1,1011 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 16:29+0200\n"
+"PO-Revision-Date: 2021-04-04 13:02+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: 4.2/applet.js:141
+msgid "You are advised to restart Cinnamon"
+msgstr "Ajánlatos újraindítani a Cinnamon környezetet"
+
+#: 4.2/applet.js:142
+msgid "To be sure to use the right code, you are advised to restart Cinnamon."
+msgstr ""
+"A megfelelő kód használatához javasoljuk, hogy indítsa újra a Cinnamon-t."
+
+#: 4.2/applet.js:148
+msgid "Restart Cinnamon"
+msgstr "Cinnamon környezet újraindítása"
+
+#. metadata.json->name
+#: 4.2/applet.js:162 4.2/applet.js:580 4.2/applet.js:599 4.2/applet.js:725
+#: 4.2/applet.js:1080 3.8/applet.js:212 3.8/applet.js:242 3.8/applet.js:664
+#: 3.8/applet.js:743 3.8/applet.js:1174 3.8/applet.js:1739 2.8/applet.js:171
+#: 2.8/applet.js:192 2.8/applet.js:555 2.8/applet.js:1004 2.8/applet.js:1582
+#: 4.6/applet.js:145 4.6/applet.js:647 4.6/applet.js:666 4.6/applet.js:1159
+msgid "Spices Update"
+msgstr "Spices frissítések"
+
+#: 4.2/applet.js:163 4.2/applet.js:1900 4.2/applet.js:1906 3.8/applet.js:243
+#: 3.8/applet.js:1913 3.8/applet.js:1919 2.8/applet.js:1709 2.8/applet.js:1715
+#: 4.6/applet.js:146 4.6/applet.js:2023 4.6/applet.js:2031
+msgid "Middle-Click to Refresh"
+msgstr "Középső kattintással frissít"
+
+#: 4.2/applet.js:297 4.6/applet.js:294
+msgid "Spices Update has just been installed or upgraded"
+msgstr "A Spices Frissítések éppen most lett telepítve vagy frissítve"
+
+#: 4.2/applet.js:298 4.6/applet.js:295
+msgid ""
+"Certain parameters require your vigilance: some may have been modified; "
+"others are new."
+msgstr ""
+"Bizonyos paraméterek odafigyelést igényelnek: egyeseket módosulhattak; mások "
+"pedig újak."
+
+#: 4.2/applet.js:299 4.6/applet.js:296
+msgid ""
+"Please check your settings using the menu of the SpicesUpdate applet or the "
+"button below."
+msgstr ""
+"Kérjük, ellenőrizze beállításait a Spices Frissítések kisalkalmazás "
+"menüjében vagy az alábbi gombra kattintva."
+
+#: 4.2/applet.js:301 4.6/applet.js:298
+msgid "Spices Update Settings"
+msgstr "Spices Frissítések beállításai"
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update It Now!"
+msgstr "Azonnali frissítés!"
+
+#: 4.2/applet.js:625 4.6/applet.js:692
+msgid "Update Them All Now!"
+msgstr "Az összes azonnali frissítése!"
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget It"
+msgstr "Elfelejtés"
+
+#: 4.2/applet.js:631 4.6/applet.js:698
+msgid "Forget Them All"
+msgstr "Összes elfelejtése"
+
+#. 4.2->settings-schema.json->btn_refresh_applets->description
+#. 4.2->settings-schema.json->btn_refresh_desklets->description
+#. 4.2->settings-schema.json->btn_refresh_extensions->description
+#. 4.2->settings-schema.json->btn_refresh_themes->description
+#. 3.8->settings-schema.json->btn_refresh_applets->description
+#. 3.8->settings-schema.json->btn_refresh_desklets->description
+#. 3.8->settings-schema.json->btn_refresh_extensions->description
+#. 3.8->settings-schema.json->btn_refresh_themes->description
+#. 4.6->settings-schema.json->btn_refresh_applets->description
+#. 4.6->settings-schema.json->btn_refresh_desklets->description
+#. 4.6->settings-schema.json->btn_refresh_extensions->description
+#. 4.6->settings-schema.json->btn_refresh_themes->description
+#: 4.2/applet.js:635 4.2/applet.js:1682 3.8/applet.js:682 3.8/applet.js:1747
+#: 2.8/applet.js:574 2.8/applet.js:1590 4.6/applet.js:702 4.6/applet.js:1762
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: 4.2/applet.js:807 3.8/applet.js:847 2.8/applet.js:729 4.6/applet.js:874
+msgid "With details here, when available."
+msgstr "Részletek itt, ha rendelkezésre állnak."
+
+#: 4.2/applet.js:808 4.2/constants.js:133 3.8/applet.js:146 3.8/applet.js:848
+#: 2.8/applet.js:105 2.8/applet.js:730 4.6/applet.js:875 4.6/constants.js:136
+msgid "One applet needs update:"
+msgstr "Egy kisalkalmazást frissíteni kell:"
+
+#: 4.2/applet.js:809 3.8/applet.js:848 2.8/applet.js:730 4.6/applet.js:876
+msgid "Do not matter. This is a FAKE notification, just for the test."
+msgstr "Nem számít. Ez egy HAMIS értesítés, csak teszt."
+
+#: 4.2/applet.js:1080 3.8/applet.js:1174 2.8/applet.js:1004 4.6/applet.js:1159
+msgid "is fully functional."
+msgstr "teljesen működőképes."
+
+#: 4.2/applet.js:1081 3.8/applet.js:1175 2.8/applet.js:1005 4.6/applet.js:1160
+msgid "All dependencies are installed"
+msgstr "Minden szükséges függőség telepítve"
+
+#: 4.2/applet.js:1104 3.8/applet.js:1199 2.8/applet.js:1029 4.6/applet.js:1183
+msgid ""
+"You appear to be missing some of the programs required for this applet to "
+"have all its features."
+msgstr ""
+"Úgy tűnik, hogy hiányzik néhány program, amely szükséges ahhoz, hogy a "
+"kisalkalmazás minden funkcióval rendelkezzen."
+
+#: 4.2/applet.js:1105 3.8/applet.js:1200 2.8/applet.js:1030 4.6/applet.js:1184
+msgid "Please execute, in the just opened terminal, the commands:"
+msgstr ""
+"Kérjük, a most megnyitott terminálban hajtsa végre a következő parancsokat:"
+
+#: 4.2/applet.js:1106 3.8/applet.js:1201 2.8/applet.js:1031 4.6/applet.js:1185
+msgid "Some dependencies are not installed!"
+msgstr "Néhány függőség nincs telepítve!"
+
+#: 4.2/applet.js:1504 3.8/applet.js:1582 2.8/applet.js:1423 4.6/applet.js:1583
+msgid "(Description unavailable)"
+msgstr "(Leírás nem elérhető)"
+
+#: 4.2/applet.js:1706 3.8/applet.js:1770 2.8/applet.js:1614 4.6/applet.js:1786
+msgid "Forget new Spices"
+msgstr "Felejtse el az új Spices-t"
+
+#: 4.2/applet.js:1712 3.8/applet.js:1776 2.8/applet.js:1620 4.6/applet.js:1792
+msgid "Open useful Cinnamon Settings"
+msgstr "Hasznos Cinnamon beállítások megnyitása"
+
+#: 4.2/applet.js:1719 3.8/applet.js:1783 2.8/applet.js:1627 4.6/applet.js:1799
+msgid "Configure"
+msgstr "Beállítás"
+
+#. 4.2->settings-schema.json->General->title
+#. 3.8->settings-schema.json->General->title
+#. 2.8->settings-schema.json->head5->description
+#. 4.6->settings-schema.json->General->title
+#: 4.2/applet.js:1722 4.6/applet.js:1802
+msgid "General"
+msgstr "Általános"
+
+#. 4.2->settings-schema.json->Applets->title
+#. 3.8->settings-schema.json->Applets->title
+#. 2.8->settings-schema.json->head1->description
+#. 4.6->settings-schema.json->Applets->title
+#: 4.2/applet.js:1722 4.2/constants.js:128 3.8/applet.js:141 2.8/applet.js:100
+#: 4.6/applet.js:1802 4.6/constants.js:131
+msgid "Applets"
+msgstr "Kisalkalmazások"
+
+#. 4.2->settings-schema.json->Desklets->title
+#. 3.8->settings-schema.json->Desklets->title
+#. 2.8->settings-schema.json->head2->description
+#. 4.6->settings-schema.json->Desklets->title
+#: 4.2/applet.js:1722 4.2/constants.js:129 3.8/applet.js:142 2.8/applet.js:101
+#: 4.6/applet.js:1802 4.6/constants.js:132
+msgid "Desklets"
+msgstr "Asztalkalmazások"
+
+#. 4.2->settings-schema.json->Extensions->title
+#. 3.8->settings-schema.json->Extensions->title
+#. 2.8->settings-schema.json->head3->description
+#. 4.6->settings-schema.json->Extensions->title
+#: 4.2/applet.js:1722 4.2/constants.js:130 3.8/applet.js:143 2.8/applet.js:102
+#: 4.6/applet.js:1802 4.6/constants.js:133
+msgid "Extensions"
+msgstr "Bővítmények"
+
+#. 4.2->settings-schema.json->Themes->title
+#. 3.8->settings-schema.json->Themes->title
+#. 2.8->settings-schema.json->head4->description
+#. 4.6->settings-schema.json->Themes->title
+#: 4.2/applet.js:1722 4.2/constants.js:131 3.8/applet.js:144 2.8/applet.js:103
+#: 4.6/applet.js:1802 4.6/constants.js:134
+msgid "Themes"
+msgstr "Témák"
+
+#: 4.2/applet.js:1748 3.8/applet.js:1798 2.8/applet.js:1642 4.6/applet.js:1828
+msgid "Help"
+msgstr "Súgó"
+
+#: 4.2/applet.js:1891 3.8/applet.js:1904 2.8/applet.js:1700 4.6/applet.js:2014
+msgid "Middle-Click to open useful Cinnamon Settings"
+msgstr "Hasznos Cinnamon beállítások megnyitása középső gombbal"
+
+#: 4.2/constants.js:124 3.8/applet.js:137 2.8/applet.js:96 4.6/constants.js:127
+msgid "Applet"
+msgstr "Kisalkalmazás"
+
+#: 4.2/constants.js:125 3.8/applet.js:138 2.8/applet.js:97 4.6/constants.js:128
+msgid "Desklet"
+msgstr "Asztalkalmazás"
+
+#: 4.2/constants.js:126 3.8/applet.js:139 2.8/applet.js:98 4.6/constants.js:129
+msgid "Extension"
+msgstr "Kiterjesztés"
+
+#: 4.2/constants.js:127 3.8/applet.js:140 2.8/applet.js:99 4.6/constants.js:130
+msgid "Theme"
+msgstr "Téma"
+
+#: 4.2/constants.js:132 3.8/applet.js:145 2.8/applet.js:104
+#: 4.6/constants.js:135
+msgid "One desklet needs update:"
+msgstr "Egy asztalkalmazás frissítése szükséges:"
+
+#: 4.2/constants.js:134 3.8/applet.js:147 2.8/applet.js:106
+#: 4.6/constants.js:137
+msgid "One extension needs update:"
+msgstr "Egy kisalkalmazás frissítése szükséges:"
+
+#: 4.2/constants.js:135 3.8/applet.js:148 2.8/applet.js:107
+#: 4.6/constants.js:138
+msgid "One theme needs update:"
+msgstr "Egy téma frissítése szükséges:"
+
+#: 4.2/constants.js:136 3.8/applet.js:149 2.8/applet.js:108
+#: 4.6/constants.js:139
+msgid "Some desklets need update:"
+msgstr "Néhány asztalkalmazás frissítése szükséges:"
+
+#: 4.2/constants.js:137 3.8/applet.js:150 2.8/applet.js:109
+#: 4.6/constants.js:140
+msgid "Some applets need update:"
+msgstr "Néhány kisalkalmazás frissítése szükséges:"
+
+#: 4.2/constants.js:138 3.8/applet.js:151 2.8/applet.js:110
+#: 4.6/constants.js:141
+msgid "Some extensions need update:"
+msgstr "Néhány bővítmény frissítése szükséges:"
+
+#: 4.2/constants.js:139 3.8/applet.js:152 2.8/applet.js:111
+#: 4.6/constants.js:142
+msgid "Some themes need update:"
+msgstr "Néhány téma frissítése szükséges:"
+
+#: 4.2/constants.js:140 3.8/applet.js:153 2.8/applet.js:112
+#: 4.6/constants.js:143
+msgid "New desklet available:"
+msgstr "Új asztalkalmazás érhető el:"
+
+#: 4.2/constants.js:141 3.8/applet.js:154 2.8/applet.js:113
+#: 4.6/constants.js:144
+msgid "New applet available:"
+msgstr "Új kisalkalmazás érhető el:"
+
+#: 4.2/constants.js:142 3.8/applet.js:155 2.8/applet.js:114
+#: 4.6/constants.js:145
+msgid "New extension available:"
+msgstr "Új bővítmény érhető el:"
+
+#: 4.2/constants.js:143 3.8/applet.js:156 2.8/applet.js:115
+#: 4.6/constants.js:146
+msgid "New theme available:"
+msgstr "Új téma érhető el:"
+
+#: 4.2/constants.js:144 3.8/applet.js:157 2.8/applet.js:116
+#: 4.6/constants.js:147
+msgid "New desklets available:"
+msgstr "Új asztalkalmazások érhetőek el:"
+
+#: 4.2/constants.js:145 3.8/applet.js:158 2.8/applet.js:117
+#: 4.6/constants.js:148
+msgid "New applets available:"
+msgstr "Új kisalkalmazások érhetőek el:"
+
+#: 4.2/constants.js:146 3.8/applet.js:159 2.8/applet.js:118
+#: 4.6/constants.js:149
+msgid "New extensions available:"
+msgstr "Új bővítmények érhetőek el:"
+
+#: 4.2/constants.js:147 3.8/applet.js:160 2.8/applet.js:119
+#: 4.6/constants.js:150
+msgid "New themes available:"
+msgstr "Új témák érhetőek el:"
+
+#: 4.2/constants.js:151 4.6/constants.js:154
+msgid "If you do not want an applet to be checked, uncheck its first box."
+msgstr ""
+"Ha nem szeretné, hogy egy kisalkalmazás ellenőrizve legyen, törölje az első "
+"négyzetének jelölését."
+
+#: 4.2/constants.js:152 4.6/constants.js:155
+msgid "If you do not want a desklet to be checked, uncheck its first box."
+msgstr ""
+"Ha nem szeretné, hogy egy asztalalkalmazás ellenőrizve legyen, akkor ne "
+"jelölje be az első négyzetet."
+
+#: 4.2/constants.js:153 4.6/constants.js:156
+msgid "If you do not want an extension to be checked, uncheck its first box."
+msgstr ""
+"Ha nem szeretné, hogy egy bővítmény ellenőrizve legyen, akkor ne jelölje be "
+"az első négyzetet."
+
+#: 4.2/constants.js:154 4.6/constants.js:157
+msgid "If you do not want a theme to be checked, uncheck its first box."
+msgstr ""
+"Ha nem szeretné, hogy egy téma ellenőrizve legyen, akkor ne jelölje be az "
+"első négyzetet."
+
+#: 4.2/constants.js:158 4.6/constants.js:161
+msgid ""
+"If you want to get the latest version of an applet now, check both boxes."
+msgstr ""
+"Ha most szeretné letölteni a kisalkalmazás legújabb verzióját, jelölje be "
+"mindkét négyzetet."
+
+#: 4.2/constants.js:159 4.6/constants.js:162
+msgid ""
+"If you want to get the latest version of a desklet now, check both boxes."
+msgstr ""
+"Ha most szeretné letölteni a asztalalkalmazás legújabb verzióját, jelölje be "
+"mindkét négyzetet."
+
+#: 4.2/constants.js:160 4.6/constants.js:163
+msgid ""
+"If you want to get the latest version of an extension now, check both boxes."
+msgstr ""
+"Ha most szeretné letölteni egy bővítmény legújabb verzióját, jelölje be "
+"mindkét négyzetet."
+
+#: 4.2/constants.js:161 4.6/constants.js:164
+msgid "If you want to get the latest version of a theme now, check both boxes."
+msgstr ""
+"Ha most szeretné letölteni egy téma legújabb verzióját, jelölje be mindkét "
+"négyzetet."
+
+#: 4.2/constants.js:164 3.8/applet.js:93 4.6/constants.js:167
+msgid "When all your choices are made, click the Refresh button."
+msgstr "Ha minden változtatást végrehajtott, kattintson a Frissítés gombra."
+
+#: 3.8/applet.js:80
+msgid ""
+"If you do not want an applet to be checked, set its first switch to FALSE."
+msgstr ""
+"Ha nem szeretné, hogy egy kisalkalmazás ellenőrizve, állítsa az első "
+"kapcsolóját FALSE állásba."
+
+#: 3.8/applet.js:81
+msgid ""
+"If you do not want a desklet to be checked, set its first switch to FALSE."
+msgstr ""
+"Ha nem szeretné, hogy egy kisalkalmazás ellenőrizve legyen, állítsa az első "
+"kapcsolóját FALSE állásba."
+
+#: 3.8/applet.js:82
+msgid ""
+"If you do not want an extension to be checked, set its first switch to FALSE."
+msgstr ""
+"Ha nem szeretné, hogy egy bővítmény ellenőrizve legyen, állítsa az első "
+"kapcsolóját FALSE állásba."
+
+#: 3.8/applet.js:83
+msgid ""
+"If you do not want a theme to be checked, set its first switch to FALSE."
+msgstr ""
+"Ha nem szeretné, hogy egy téma ellenőrizve legyen, állítsa az első "
+"kapcsolóját FALSE állásba."
+
+#: 3.8/applet.js:87
+msgid ""
+"If you want to get the latest version of an applet now, set its two switches "
+"to TRUE."
+msgstr ""
+"Ha most szeretné letölteni a kisalkalmazás legújabb verzióját, állítsa "
+"mindkét kapcsolóját TRUE állásba."
+
+#: 3.8/applet.js:88
+msgid ""
+"If you want to get the latest version of a desklet now, set its two switches "
+"to TRUE."
+msgstr ""
+"Ha most szeretné letölteni az asztalalkalmazás legújabb verzióját, állítsa "
+"mindkét kapcsolóját TRUE állásba."
+
+#: 3.8/applet.js:89
+msgid ""
+"If you want to get the latest version of an extension now, set its two "
+"switches to TRUE."
+msgstr ""
+"Ha most szeretné letölteni a bővítmény legújabb verzióját, állítsa mindkét "
+"kapcsolóját TRUE állásba."
+
+#: 3.8/applet.js:90
+msgid ""
+"If you want to get the latest version of a theme now, set its two switches "
+"to TRUE."
+msgstr ""
+"Ha most szeretné letölteni a téma legújabb verzióját, állítsa mindkét "
+"kapcsolóját TRUE állásba."
+
+#: 4.6/applet.js:2028
+msgid "The Cinnamon Server seems to be DOWN!"
+msgstr "Úgy tűnik, hogy a Cinnamon szerver NEM MŰKÖDIK!"
+
+#: 4.6/applet.js:2028
+msgid "Middle-Click to Retry"
+msgstr "Középső kattintással újrapróbálkozik"
+
+#. 4.6->settings-schema.json->section_general4->title
+msgid "Display"
+msgstr "Megjelenítés"
+
+#. metadata.json->description
+msgid ""
+"Warns you when installed Spices (applets, desklets, extensions, themes) "
+"require an update or new Spices are available."
+msgstr ""
+"Értesít ha a telepített Spice-ok (kisalkalmazások, asztalalkalmazások, "
+"bővítmények, témák) frissítésre szorulnak, vagy ha új Spice-ok érhetőek el."
+
+#. 4.2->settings-schema.json->section_applets1->title
+#. 4.2->settings-schema.json->section_desklets1->title
+#. 4.2->settings-schema.json->section_extensions1->title
+#. 4.2->settings-schema.json->section_themes1->title
+#. 3.8->settings-schema.json->section_applets1->title
+#. 3.8->settings-schema.json->section_desklets1->title
+#. 3.8->settings-schema.json->section_extensions1->title
+#. 3.8->settings-schema.json->section_themes1->title
+#. 4.6->settings-schema.json->section_applets1->title
+#. 4.6->settings-schema.json->section_desklets1->title
+#. 4.6->settings-schema.json->section_extensions1->title
+#. 4.6->settings-schema.json->section_themes1->title
+msgid "Checking"
+msgstr "Ellenőrzés"
+
+#. 4.2->settings-schema.json->section_applets2->title
+#. 4.2->settings-schema.json->section_desklets2->title
+#. 4.2->settings-schema.json->section_extensions2->title
+#. 4.2->settings-schema.json->section_themes2->title
+#. 3.8->settings-schema.json->section_applets2->title
+#. 3.8->settings-schema.json->section_desklets2->title
+#. 3.8->settings-schema.json->section_extensions2->title
+#. 3.8->settings-schema.json->section_themes2->title
+#. 4.6->settings-schema.json->section_applets2->title
+#. 4.6->settings-schema.json->section_desklets2->title
+#. 4.6->settings-schema.json->section_extensions2->title
+#. 4.6->settings-schema.json->section_themes2->title
+msgid "Monitoring"
+msgstr "Megfigyelés"
+
+#. 4.2->settings-schema.json->section_general1->title
+#. 3.8->settings-schema.json->section_general1->title
+#. 4.6->settings-schema.json->section_general1->title
+msgid "Frequency"
+msgstr "Gyakoriság"
+
+#. 4.2->settings-schema.json->section_general2->title
+#. 3.8->settings-schema.json->section_general2->title
+#. 4.6->settings-schema.json->section_general2->title
+msgid "Notifications"
+msgstr "Értesítések"
+
+#. 4.2->settings-schema.json->section_general3->title
+#. 4.6->settings-schema.json->section_general3->title
+msgid "Notification contents"
+msgstr "Értesítések tartalma"
+
+#. 4.2->settings-schema.json->section_general4->title
+#. 3.8->settings-schema.json->section_general3->title
+msgid "Display type"
+msgstr "Típus megjelenítése"
+
+#. 4.2->settings-schema.json->check_applets->description
+#. 3.8->settings-schema.json->check_applets->description
+#. 2.8->settings-schema.json->check_applets->description
+#. 4.6->settings-schema.json->check_applets->description
+msgid "Check regularly whether your applets are up to date"
+msgstr "Rendszeresen ellenőrizze, hogy a kisalkalmazások naprakészek-e"
+
+#. 4.2->settings-schema.json->check_applets->tooltip
+#. 3.8->settings-schema.json->check_applets->tooltip
+#. 2.8->settings-schema.json->check_applets->tooltip
+#. 4.6->settings-schema.json->check_applets->tooltip
+msgid "If applets updates do not concern you, uncheck this box."
+msgstr ""
+"Ha a kisalkalmazások frissítései nem érdeklik önt, ne jelölje be ezt a "
+"négyzetet."
+
+#. 4.2->settings-schema.json->check_new_applets->description
+#. 3.8->settings-schema.json->check_new_applets->description
+#. 2.8->settings-schema.json->check_new_applets->description
+#. 4.6->settings-schema.json->check_new_applets->description
+msgid "Check regularly whether new applets are available"
+msgstr "Új kisalkalmazások rendszeres keresése"
+
+#. 4.2->settings-schema.json->check_new_applets->tooltip
+#. 3.8->settings-schema.json->check_new_applets->tooltip
+#. 2.8->settings-schema.json->check_new_applets->tooltip
+#. 4.6->settings-schema.json->check_new_applets->tooltip
+msgid "If new applets do not concern you, uncheck this box."
+msgstr ""
+"Ha az új kisalkalmazások nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->unprotected_applets->description
+#. 3.8->settings-schema.json->unprotected_applets->description
+#. 4.6->settings-schema.json->unprotected_applets->description
+msgid "Update these applets:"
+msgstr "Frissítse ezeket kisalkalmazásokat:"
+
+#. 4.2->settings-schema.json->unprotected_applets->columns->title
+#. 3.8->settings-schema.json->unprotected_applets->columns->title
+#. 4.6->settings-schema.json->unprotected_applets->columns->title
+msgid "Your Applets"
+msgstr "Telepített kisalkalmazások"
+
+#. 4.2->settings-schema.json->unprotected_applets->columns->title
+#. 4.2->settings-schema.json->unprotected_desklets->columns->title
+#. 4.2->settings-schema.json->unprotected_extensions->columns->title
+#. 4.2->settings-schema.json->unprotected_themes->columns->title
+#. 3.8->settings-schema.json->unprotected_applets->columns->title
+#. 3.8->settings-schema.json->unprotected_desklets->columns->title
+#. 3.8->settings-schema.json->unprotected_extensions->columns->title
+#. 3.8->settings-schema.json->unprotected_themes->columns->title
+#. 4.6->settings-schema.json->unprotected_applets->columns->title
+#. 4.6->settings-schema.json->unprotected_desklets->columns->title
+#. 4.6->settings-schema.json->unprotected_extensions->columns->title
+#. 4.6->settings-schema.json->unprotected_themes->columns->title
+msgid "Check for updates?"
+msgstr "Keressen rá vannak-e frissítések?"
+
+#. 4.2->settings-schema.json->unprotected_applets->columns->title
+#. 4.2->settings-schema.json->unprotected_desklets->columns->title
+#. 4.2->settings-schema.json->unprotected_extensions->columns->title
+#. 4.2->settings-schema.json->unprotected_themes->columns->title
+#. 3.8->settings-schema.json->unprotected_applets->columns->title
+#. 3.8->settings-schema.json->unprotected_desklets->columns->title
+#. 3.8->settings-schema.json->unprotected_extensions->columns->title
+#. 3.8->settings-schema.json->unprotected_themes->columns->title
+#. 4.6->settings-schema.json->unprotected_applets->columns->title
+#. 4.6->settings-schema.json->unprotected_desklets->columns->title
+#. 4.6->settings-schema.json->unprotected_extensions->columns->title
+#. 4.6->settings-schema.json->unprotected_themes->columns->title
+msgid "Get the latest version now"
+msgstr "Legújabb verzió beszerzése"
+
+#. 4.2->settings-schema.json->btn_cs_applets->description
+#. 3.8->settings-schema.json->btn_cs_applets->description
+#. 2.8->settings-schema.json->btn_cs_applets->description
+#. 4.6->settings-schema.json->btn_cs_applets->description
+msgid "Open Cinnamon Settings to manage all the Applets"
+msgstr "Cinnamon beállítások megnyitása az kisalkalmazások kezeléséhez"
+
+#. 4.2->settings-schema.json->check_desklets->description
+#. 3.8->settings-schema.json->check_desklets->description
+#. 2.8->settings-schema.json->check_desklets->description
+#. 4.6->settings-schema.json->check_desklets->description
+msgid "Check regularly whether your desklets are up to date"
+msgstr "Az asztalkalmazások frissítéseinek rendszeres ellenőrzése"
+
+#. 4.2->settings-schema.json->check_desklets->tooltip
+#. 3.8->settings-schema.json->check_desklets->tooltip
+#. 2.8->settings-schema.json->check_desklets->tooltip
+#. 4.6->settings-schema.json->check_desklets->tooltip
+msgid "If desklets updates do not concern you, uncheck this box."
+msgstr ""
+"Ha az asztalalkalmazások frissítései nem érdeklik önt, ne jelölje be ezt a "
+"négyzetet."
+
+#. 4.2->settings-schema.json->check_new_desklets->description
+#. 3.8->settings-schema.json->check_new_desklets->description
+#. 2.8->settings-schema.json->check_new_desklets->description
+#. 4.6->settings-schema.json->check_new_desklets->description
+msgid "Check regularly whether new desklets are available"
+msgstr "Új asztalkalmazások rendszeres keresése"
+
+#. 4.2->settings-schema.json->check_new_desklets->tooltip
+#. 3.8->settings-schema.json->check_new_desklets->tooltip
+#. 2.8->settings-schema.json->check_new_desklets->tooltip
+#. 4.6->settings-schema.json->check_new_desklets->tooltip
+msgid "If new desklets do not concern you, uncheck this box."
+msgstr ""
+"Ha az új asztalalkalmazások nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->unprotected_desklets->description
+#. 3.8->settings-schema.json->unprotected_desklets->description
+#. 4.6->settings-schema.json->unprotected_desklets->description
+msgid "Update these desklets:"
+msgstr "Következő asztalkalmazások frissítése:"
+
+#. 4.2->settings-schema.json->unprotected_desklets->columns->title
+#. 3.8->settings-schema.json->unprotected_desklets->columns->title
+#. 4.6->settings-schema.json->unprotected_desklets->columns->title
+msgid "Your Desklets"
+msgstr "Telepített asztalkalmazások"
+
+#. 4.2->settings-schema.json->btn_cs_desklets->description
+#. 3.8->settings-schema.json->btn_cs_desklets->description
+#. 2.8->settings-schema.json->btn_cs_desklets->description
+#. 4.6->settings-schema.json->btn_cs_desklets->description
+msgid "Open Cinnamon Settings to manage all the Desklets"
+msgstr "Cinnamon beállítások megnyitása az asztalkalmazások kezeléséhez"
+
+#. 4.2->settings-schema.json->check_extensions->description
+#. 3.8->settings-schema.json->check_extensions->description
+#. 2.8->settings-schema.json->check_extensions->description
+#. 4.6->settings-schema.json->check_extensions->description
+msgid "Check regularly whether your extensions are up to date"
+msgstr "A bővítmények frissítéseinek rendszeres ellenőrzése"
+
+#. 4.2->settings-schema.json->check_extensions->tooltip
+#. 3.8->settings-schema.json->check_extensions->tooltip
+#. 2.8->settings-schema.json->check_extensions->tooltip
+#. 4.6->settings-schema.json->check_extensions->tooltip
+msgid "If extensions updates do not concern you, uncheck this box."
+msgstr ""
+"Ha a bővítmények frissítései nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->check_new_extensions->description
+#. 3.8->settings-schema.json->check_new_extensions->description
+#. 2.8->settings-schema.json->check_new_extensions->description
+#. 4.6->settings-schema.json->check_new_extensions->description
+msgid "Check regularly whether new extensions are available"
+msgstr "Új bővítmények rendszeres keresése"
+
+#. 4.2->settings-schema.json->check_new_extensions->tooltip
+#. 3.8->settings-schema.json->check_new_extensions->tooltip
+#. 2.8->settings-schema.json->check_new_extensions->tooltip
+#. 4.6->settings-schema.json->check_new_extensions->tooltip
+msgid "If new extensions do not concern you, uncheck this box."
+msgstr "Ha az új bővítmények nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->unprotected_extensions->description
+#. 3.8->settings-schema.json->unprotected_extensions->description
+#. 4.6->settings-schema.json->unprotected_extensions->description
+msgid "Update these extensions:"
+msgstr "Következő bővítmények frissítése:"
+
+#. 4.2->settings-schema.json->unprotected_extensions->columns->title
+#. 3.8->settings-schema.json->unprotected_extensions->columns->title
+#. 4.6->settings-schema.json->unprotected_extensions->columns->title
+msgid "Your Extensions"
+msgstr "Telepített bővítmények"
+
+#. 4.2->settings-schema.json->btn_cs_extensions->description
+#. 3.8->settings-schema.json->btn_cs_extensions->description
+#. 2.8->settings-schema.json->btn_cs_extensions->description
+#. 4.6->settings-schema.json->btn_cs_extensions->description
+msgid "Open Cinnamon Settings to manage all the Extensions"
+msgstr "Cinnamon beállítások megnyitása a bővítmények kezeléséhez"
+
+#. 4.2->settings-schema.json->check_themes->description
+#. 3.8->settings-schema.json->check_themes->description
+#. 2.8->settings-schema.json->check_themes->description
+#. 4.6->settings-schema.json->check_themes->description
+msgid "Check regularly whether your themes are up to date"
+msgstr "A témák frissítéseinek rendszeres ellenőrzése"
+
+#. 4.2->settings-schema.json->check_themes->tooltip
+#. 3.8->settings-schema.json->check_themes->tooltip
+#. 2.8->settings-schema.json->check_themes->tooltip
+#. 4.6->settings-schema.json->check_themes->tooltip
+msgid "If themes updates do not concern you, uncheck this box."
+msgstr ""
+"Ha a témák frissítései nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->check_new_themes->description
+#. 3.8->settings-schema.json->check_new_themes->description
+#. 2.8->settings-schema.json->check_new_themes->description
+#. 4.6->settings-schema.json->check_new_themes->description
+msgid "Check regularly whether new themes are available"
+msgstr "Új témák rendszeres keresése"
+
+#. 4.2->settings-schema.json->check_new_themes->tooltip
+#. 3.8->settings-schema.json->check_new_themes->tooltip
+#. 2.8->settings-schema.json->check_new_themes->tooltip
+#. 4.6->settings-schema.json->check_new_themes->tooltip
+msgid "If new themes do not concern you, uncheck this box."
+msgstr "Ha az új témák nem érdeklik önt, ne jelölje be ezt a négyzetet."
+
+#. 4.2->settings-schema.json->unprotected_themes->description
+#. 3.8->settings-schema.json->unprotected_themes->description
+#. 4.6->settings-schema.json->unprotected_themes->description
+msgid "Update these themes:"
+msgstr "Következő témák frissítése:"
+
+#. 4.2->settings-schema.json->unprotected_themes->columns->title
+#. 3.8->settings-schema.json->unprotected_themes->columns->title
+#. 4.6->settings-schema.json->unprotected_themes->columns->title
+msgid "Your Themes"
+msgstr "Telepített témák"
+
+#. 4.2->settings-schema.json->btn_cs_themes->description
+#. 3.8->settings-schema.json->btn_cs_themes->description
+#. 2.8->settings-schema.json->btn_cs_themes->description
+#. 4.6->settings-schema.json->btn_cs_themes->description
+msgid "Open Cinnamon Settings to manage all the Themes"
+msgstr "Cinnamon beállítások megnyitása az témák kezeléséhez"
+
+#. 4.2->settings-schema.json->general_frequency->units
+#. 4.6->settings-schema.json->general_frequency->units
+msgid "hours"
+msgstr "óra"
+
+#. 4.2->settings-schema.json->general_frequency->description
+#. 4.6->settings-schema.json->general_frequency->description
+msgid "Time interval between two checks"
+msgstr "Frissítések ellenőrzésének időköze"
+
+#. 4.2->settings-schema.json->general_frequency->tooltip
+#. 4.6->settings-schema.json->general_frequency->tooltip
+msgid "Min value: 1 hour. Max value: 720 hours (30 days)."
+msgstr "Min. érték: 1 óra. Max. érték: 720 óra (30 nap)."
+
+#. 4.2->settings-schema.json->general_first_check->description
+#. 4.6->settings-schema.json->general_first_check->description
+msgid "Make a first check one minute after starting"
+msgstr "Első ellenőrzés az indulás után egy perccel"
+
+#. 4.2->settings-schema.json->general_first_check->tooltip
+#. 4.6->settings-schema.json->general_first_check->tooltip
+msgid ""
+"By checking this box, the first check will take place one minute after "
+"starting this applet."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével az első ellenőrzés egy perccel a "
+"kisalkalmazás indítása után történik."
+
+#. 4.2->settings-schema.json->general_warning->description
+#. 3.8->settings-schema.json->general_warning->description
+#. 2.8->settings-schema.json->general_warning->description
+#. 4.6->settings-schema.json->general_warning->description
+msgid "Notify me by changing the icon when Spices need an update"
+msgstr "Értesítsen az ikon megváltoztatásával, ha a Spices frissítésre szorul"
+
+#. 4.2->settings-schema.json->general_warning->tooltip
+#. 3.8->settings-schema.json->general_warning->tooltip
+#. 2.8->settings-schema.json->general_warning->tooltip
+#. 4.6->settings-schema.json->general_warning->tooltip
+msgid ""
+"By checking this box, you allow this applet to modify its icon to warn you "
+"when at least one of the Spices requires an update."
+msgstr ""
+"A négyzet bejelölésével engedélyezi a kisalkalmazásnak, hogy módosítsa az "
+"ikonját így figyelmeztetve önt, ha a Spice-ok legalább egyikének "
+"frissítésére van szükség."
+
+#. 4.2->settings-schema.json->events_color->description
+#. 3.8->settings-schema.json->events_color->description
+#. 2.8->settings-schema.json->events_color->description
+#. 4.6->settings-schema.json->events_color->description
+msgid "The icon color when Spices need an update"
+msgstr "Az ikon színe, ha a Spices frissítést igényel"
+
+#. 4.2->settings-schema.json->events_color->tooltip
+#. 3.8->settings-schema.json->events_color->tooltip
+#. 2.8->settings-schema.json->events_color->tooltip
+#. 4.6->settings-schema.json->events_color->tooltip
+msgid "Click the button to select another color."
+msgstr "Kattintson a gombra egy másik szín kiválasztásához."
+
+#. 4.2->settings-schema.json->general_notifications->description
+#. 3.8->settings-schema.json->general_notifications->description
+#. 2.8->settings-schema.json->general_notifications->description
+#. 4.6->settings-schema.json->general_notifications->description
+msgid "Show notification messages about Spices updates"
+msgstr "Értesítő üzenetek megjelenítése a Spices frissítéseiről"
+
+#. 4.2->settings-schema.json->general_notifications->tooltip
+#. 3.8->settings-schema.json->general_notifications->tooltip
+#. 2.8->settings-schema.json->general_notifications->tooltip
+#. 4.6->settings-schema.json->general_notifications->tooltip
+msgid ""
+"By checking this box, you allow this applet to display messages about Spices "
+"updates in notifications viewer."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével engedélyezi a kisalkalmazásnak, hogy "
+"üzeneteket jelenítsen meg a Spices frissítéseiről az értesítésekben."
+
+#. 4.2->settings-schema.json->general_details_requested->description
+#. 3.8->settings-schema.json->general_details_requested->description
+#. 2.8->settings-schema.json->general_details_requested->description
+#. 4.6->settings-schema.json->general_details_requested->description
+msgid "Display the description of each update or new Spice"
+msgstr "Jelenítse meg az egyes frissítések vagy új Spice leírását"
+
+#. 4.2->settings-schema.json->general_details_requested->tooltip
+#. 3.8->settings-schema.json->general_details_requested->tooltip
+#. 2.8->settings-schema.json->general_details_requested->tooltip
+#. 4.6->settings-schema.json->general_details_requested->tooltip
+msgid ""
+"By checking this box, you'll know why an update is available, and get a "
+"description of any new Spice.\n"
+"This information will be displayed in English."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével megtudhatja, miért érhető el új "
+"frissítés, és megkapja az új Spice-ok leírását is.\n"
+"Ez az információ angolul jelenik meg."
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 3.8->settings-schema.json->general_type_notif->options
+#. 2.8->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "Minimal (text only)"
+msgstr "Minimális (csak szöveg)"
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons"
+msgstr "Műveleti gombokkal"
+
+#. 4.2->settings-schema.json->general_type_notif->options
+#. 4.6->settings-schema.json->general_type_notif->options
+msgid "With action buttons as icons"
+msgstr "Ikonként megjelenő műveleti gombokkal"
+
+#. 4.2->settings-schema.json->general_type_notif->description
+#. 3.8->settings-schema.json->general_type_notif->description
+#. 2.8->settings-schema.json->general_type_notif->description
+#. 4.6->settings-schema.json->general_type_notif->description
+msgid "Notification style"
+msgstr "Értesítés stílusa"
+
+#. 4.2->settings-schema.json->general_type_notif->tooltip
+#. 4.6->settings-schema.json->general_type_notif->tooltip
+msgid ""
+"Minimal:\n"
+"\tDisplays simple and short notifications.\n"
+"With action buttons:\n"
+"\tNotifications also contain some buttons which have these roles:\n"
+"\t\tThe leftmost button opens the Download tab in System Settings for the "
+"concerned Spices, which are sorted by date (most recent first). So you can "
+"update the Spices you want.\n"
+"\t\tThe rightmost button refreshes the cache and notifications, if "
+"necessary.\n"
+"\t\tOptionally, a central button allows you to forget new spices or update "
+"the installed ones, depending on the case."
+msgstr ""
+"Minimális:\n"
+"\tEgyszerű és rövid értesítéseket jelenít meg.\n"
+"Műveleti gombokkal:\n"
+"\tAz értesítések tartalmaznak néhány gombot, amelyeknek ezek a szerepeik "
+"vannak:\n"
+"\t\tA bal szélső gomb megnyitja a Letöltés fület a Rendszerbeállításokban az "
+"érintett Spice-ok számára, amelyek dátum szerint vannak rendezve (a "
+"legfrissebb elöl). Így frissítheti a kívánt Spice-okat.\n"
+"\t\tA jobb szélső gomb szükség szerint frissíti a gyorsítótárat és az "
+"értesítéseket.\n"
+"\t\tOpcionálisan, a helyzettől függően egy középső gombbal figyelmen kívül "
+"hagyhatja az új Spice-okat, vagy frissítheti a telepítetteket."
+
+#. 4.2->settings-schema.json->general_show_updateall_button->description
+#. 4.6->settings-schema.json->general_show_updateall_button->description
+msgid "Show the 'Update Now' button in notifications"
+msgstr "'Frissítés Most' gomb megjelenítése az értesítésekben"
+
+#. 4.2->settings-schema.json->general_show_updateall_button->tooltip
+#. 4.6->settings-schema.json->general_show_updateall_button->tooltip
+msgid ""
+"By checking this box, a button 'Update All' appears in notifications.\n"
+"By pressing this button:\n"
+" 1. The Download tab of the System Settings concerning this type of Spices "
+"appears.\n"
+" 2. The cache is updated.\n"
+" 3. Your Spices are updated.\n"
+" 4. When all updates are made, just close the window."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével megjelenik az „Összes frissítése” gomb az "
+"értesítésekben.\n"
+"A gomb megnyomásával:\n"
+" 1. Megjeleníti a Letöltés fület a Rendszerbeállításokban az érintett Spice-"
+"ok számára.\n"
+" 2. A gyorsítótár frissül.\n"
+" 3. Az ön Spice-jai frissülnek.\n"
+" 4. Ha minden frissítés megtörtént, zárja be az ablakot."
+
+#. 4.2->settings-schema.json->general_test_notif->description
+#. 3.8->settings-schema.json->general_test_notif->description
+#. 2.8->settings-schema.json->general_test_notif->description
+#. 4.6->settings-schema.json->general_test_notif->description
+msgid "Send a fake notification to test the style"
+msgstr "Küldjön próbaértesítést a stílus tesztelésére"
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Classic - Icon and Text"
+msgstr "Klasszikus - ikon és szöveg"
+
+#. 4.2->settings-schema.json->displayType->options
+#. 3.8->settings-schema.json->displayType->options
+#. 2.8->settings-schema.json->displayType->options
+msgid "Compact - Icon Only"
+msgstr "Kompakt - csak ikon"
+
+#. 4.2->settings-schema.json->displayType->description
+#. 3.8->settings-schema.json->displayType->description
+#. 2.8->settings-schema.json->displayType->description
+msgid "Type of Display"
+msgstr "Megjelenítés típusa"
+
+#. 4.2->settings-schema.json->displayType->tooltip
+#. 3.8->settings-schema.json->displayType->tooltip
+#. 2.8->settings-schema.json->displayType->tooltip
+msgid ""
+"This feature offers the Classic (default) display with icon and text, and "
+"compact display (Icon Only)."
+msgstr ""
+"Ez a funkció a klasszikus (alapértelmezett) megjelenítést kínálja ikonnal és "
+"szöveggel, illetve a kompakt megjelenítést (csak az ikon)."
+
+#. 4.2->settings-schema.json->general_hide->description
+#. 3.8->settings-schema.json->general_hide->description
+#. 2.8->settings-schema.json->general_hide->description
+#. 4.6->settings-schema.json->general_hide->description
+msgid "Hide the icon as long as nothing is to report"
+msgstr "Elrejti az ikont, ha nincs új frissítés"
+
+#. 4.2->settings-schema.json->general_hide->tooltip
+#. 3.8->settings-schema.json->general_hide->tooltip
+#. 2.8->settings-schema.json->general_hide->tooltip
+#. 4.6->settings-schema.json->general_hide->tooltip
+msgid ""
+"By checking this box, as long as nothing is to report the icon of Spices "
+"Update does not appear on the panel."
+msgstr ""
+"Ha bejelöli a négyzetet a Spices Frissítések ikonja mindaddig nem jelenik "
+"meg a panelen, amíg nincs új frissítés."
+
+#. 3.8->settings-schema.json->general_frequency->description
+#. 2.8->settings-schema.json->general_frequency->description
+msgid "Time interval between two checks (hours)"
+msgstr "Két ellenőrzés közötti időtartam (óra)"
+
+#. 3.8->settings-schema.json->general_frequency->tooltip
+#. 2.8->settings-schema.json->general_frequency->tooltip
+msgid ""
+"Please note that the first check will take place one minute after starting "
+"this applet."
+msgstr ""
+"Kérjük, vegye figyelembe, hogy az első ellenőrzés egy perccel a "
+"kisalkalmazás indítása után történik."
+
+#. 3.8->settings-schema.json->general_force_notifications->description
+#. 2.8->settings-schema.json->general_force_notifications->description
+msgid "Show notification messages even if they are unchanged"
+msgstr "Az értesítési üzenetek megjelenítése akkor is, ha azok változatlanok"
+
+#. 3.8->settings-schema.json->general_force_notifications->tooltip
+#. 2.8->settings-schema.json->general_force_notifications->tooltip
+msgid ""
+"By checking this box, all notification messages will be displayed, even if "
+"they are identical to the previous ones."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével minden értesítési üzenet megjelenik, még "
+"akkor is, ha azok megegyeznek az előzőekkel."
+
+#. 3.8->settings-schema.json->general_type_notif->options
+#. 2.8->settings-schema.json->general_type_notif->options
+msgid "With button opening the System Settings"
+msgstr "Ezzel a gombbal megnyílnak a rendszerbeállítások"
+
+#. 3.8->settings-schema.json->general_type_notif->tooltip
+#. 2.8->settings-schema.json->general_type_notif->tooltip
+msgid ""
+"Minimal:\n"
+"\tDisplays simple and short notifications.\n"
+"With button opening the System Settings:\n"
+"\tNotifications also contain a button which has the same role of the menu "
+"one:\n"
+"\tOpen the Download tab in System Settings for the concerned type of Spices, "
+"with the Spices sorted by date."
+msgstr ""
+"Minimális:\n"
+"\tEgyszerű és rövid értesítéseket jelenít meg.\n"
+"Ezzel a gombbal megnyílnak a rendszerbeállítások:\n"
+"\tAz értesítések tartalmaznak egy gombot is, amelynek ugyanaz a szerepe, "
+"mint a menü gombnak:\n"
+"\tNyissa meg a Letöltés fület a Rendszerbeállításokban az érintett Spice-ok "
+"számára, a Spice-okat dátum szerint rendezve."
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->units
+msgid "% of screen width"
+msgstr "A képernyő szélesség %-a"
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->description
+msgid "Tooltip: Maximum width"
+msgstr "Eszköztipp: maximális szélesség"
+
+#. 4.6->settings-schema.json->tooltip_max_width_screen_percentage->tooltip
+msgid ""
+"What is the maximum percentage of your screen width that the tooltip can "
+"occupy?"
+msgstr ""
+"A képernyő szélességének mekkora százalékát foglalhatja el az eszköztippek?"

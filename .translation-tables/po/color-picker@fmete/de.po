@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-15 14:50+0100\n"
+"PO-Revision-Date: 2017-11-15 14:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:80
+msgid "Click here to pick a color"
+msgstr "Hier klicken, um eine Farbe auszuwählen"
+
+#: applet.js:136
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr "Bitte das Paket »%s« installieren."
+
+#: applet.js:158
+#, javascript-format
+msgid "Color code '%s' copied to clipboard."
+msgstr "Farbcode »%s« in Zwischenablage kopiert."
+
+#. color-picker@fmete->settings-schema.json->pick-notification->description
+msgid "Show picked color code in a popup notification"
+msgstr "Ausgewählten Farbcode in einer Popup-Benachrichtigung anzeigen"
+
+#. color-picker@fmete->settings-schema.json->pick-notification->tooltip
+msgid ""
+"Show the picked color code, which has been copied to the clipboard, in a "
+"popup notification."
+msgstr ""
+"Den ausgewählten Farbcode, welcher in die Zwischenablage kopiert wurde, in "
+"einer Popup-Benachrichtigung anzeigen."
+
+#. color-picker@fmete->settings-schema.json->head->description
+msgid "Color Pick Settings"
+msgstr "Farbwahl-Einstellungen"
+
+#. color-picker@fmete->settings-schema.json->head1->description
+msgid "Applet Settings"
+msgstr "Applet-Einstellungen"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->description
+msgid "Color code format"
+msgstr "Format des Farbcodes"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->tooltip
+msgid ""
+"Select the format of the color code, which will be copied to the clipboard "
+"by the color picker."
+msgstr ""
+"Das Format des Farbcodes auswählen, welcher von der Farbpipette in die "
+"Zwischenablage kopiert wird."
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #XXXXXX"
+msgstr "HEX-Farbcode: #XXXXXX"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: 250,250,250"
+msgstr "RGB-Farbcode: 250,250,250"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #xxxxxx"
+msgstr "HEX-Farbcode: #xxxxxx"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: (250,250,250)"
+msgstr "RGB-Farbcode: (250,250,250)"
+
+#. color-picker@fmete->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel"
+msgstr "Das Symbol, welches in der Leiste angezeigt werden soll"
+
+#. color-picker@fmete->settings-schema.json->icon-name->tooltip
+msgid "Select an icon file, or you can type an icon name into the entry box"
+msgstr ""
+"Symboldatei auswählen oder einen Symbolnamen in das Eingabefeld schreiben"
+
+#. color-picker@fmete->settings-schema.json->keybinding-test->description
+msgid "Keybinding, which activates the color picker"
+msgstr "Tastenkürzel, welches die Farbpipette aktiviert"
+
+#. color-picker@fmete->metadata.json->description
+msgid ""
+"Use the color picker to select a color on the screen. The color value (HEX "
+"or RGB) will be copied to the clipboard."
+msgstr ""
+"Die Farbpipette verwenden, um eine Farbe auf dem Bildschirm auszuwählen. Der "
+"HEX- oder RGB-Wert der Farbe wird in die Zwischenablage kopiert."
+
+#. color-picker@fmete->metadata.json->name
+msgid "Color Picker"
+msgstr "Farbpipette"
+
+#~ msgid "Color code %s copied to clipboard."
+#~ msgstr "Farbcode %s in Zwischenablage kopiert."
+
+#~ msgid "Please install the package xsel."
+#~ msgstr "Bitte das Paket »xsel« installieren."
+
+#~ msgid "Please Select Color Pick Option:"
+#~ msgstr "Bitte eine Farbwahloption auswählen"
+
+#~ msgid ""
+#~ "A combo selection can select between int, boolean, float, and string "
+#~ "values"
+#~ msgstr ""
+#~ "Mit der Auswahl eines Auswahlfeldes kann zwischen Integer (int), "
+#~ "Boolescher Wert (boolean), Gleitkommazahl (float) und Zeichenketten "
+#~ "(strings) gewählt werden"
+
+#~ msgid "00,00,00"
+#~ msgstr "00,00,00"
+
+#~ msgid "#XXXXXX"
+#~ msgstr "#XXXXXX"
+
+#~ msgid "(00,00,00)"
+#~ msgstr "(00,00,00)"
+
+#~ msgid "#xxxxxx"
+#~ msgstr "#xxxxxx"
+
+#~ msgid "The icon to use in the panel:"
+#~ msgstr "Das Symbol, welches in der Leiste benutzt werden soll:"
+
+#~ msgid "Set the keybinding here to activate an action: "
+#~ msgstr "Tastenkürzel zum Starten einer Aktion:"
+
+#~ msgid "Click on applet to pick color"
+#~ msgstr "Auf Applet klicken, um eine Farbe auszuwählen"
+
+#~ msgid "Color code copied to clipboard:"
+#~ msgstr "Farbcode in Zwischenablage kopiert:"
+
+#~ msgid "click here to pick a color"
+#~ msgstr "Hier klicken, um eine Farbe auszuwählen"

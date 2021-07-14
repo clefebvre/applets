@@ -1,0 +1,40 @@
+# Swedish translation for CustomApplicationsMenu@LLOBERA.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CustomApplicationsMenu@LLOBERA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27 10:53+0800\n"
+"PO-Revision-Date: 2017-05-18 14:06+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. CustomApplicationsMenu@LLOBERA->metadata.json->name
+#: applet.js:48
+msgid "Custom Applications Menu"
+msgstr "Anpassad programmeny"
+
+#: applet.js:186
+msgid "Edit"
+msgstr "Redigera"
+
+#: applet.js:191
+msgid "Help"
+msgstr "Hjälp"
+
+#: applet.js:196
+msgid "About"
+msgstr "Om"
+
+#. CustomApplicationsMenu@LLOBERA->metadata.json->description
+msgid "An applications drop-down list easily customisable"
+msgstr "En enkelt anpassad programlista"

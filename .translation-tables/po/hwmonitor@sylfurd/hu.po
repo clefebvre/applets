@@ -1,0 +1,805 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 14:53+0300\n"
+"PO-Revision-Date: 2021-04-07 21:47+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid "Dependency missing"
+msgstr "Függőség hiányzik"
+
+#: 3.2/providers.js:19 3.8/providers.js:21
+#, javascript-format
+msgid "to use the applet %s"
+msgstr ""
+
+#: 3.2/providers.js:15 3.8/providers.js:17
+msgid ""
+"Please install the GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+msgstr ""
+"Kérem telepítse a következőket a használathoz: GTop package\n"
+"\tUbuntu / Mint: gir1.2-gtop-2.0\n"
+"\tFedora: libgtop2-devel\n"
+"\tArch: libgtop\n"
+
+#. 3.2->settings-schema.json->CPU->title
+#. 3.8->settings-schema.json->CPU->title
+#: 3.2/providers.js:36 3.8/providers.js:34
+msgid "CPU"
+msgstr "CPU"
+
+#. 3.2->settings-schema.json->MEM->title
+#. 3.8->settings-schema.json->MEM->title
+#: 3.2/providers.js:82 3.8/providers.js:76
+msgid "MEM"
+msgstr "MEM"
+
+#. 3.2->settings-schema.json->NET_IN->title
+#. 3.8->settings-schema.json->NET_IN->title
+#: 3.2/providers.js:113 3.8/providers.js:102
+msgid "NET (in)"
+msgstr "NET (be)"
+
+#. 3.2->settings-schema.json->NET_OUT->title
+#. 3.8->settings-schema.json->NET_OUT->title
+#: 3.2/providers.js:117 3.8/providers.js:106
+msgid "NET (out)"
+msgstr "NET (ki)"
+
+#. 3.2->settings-schema.json->DISK_READ->title
+#. 3.8->settings-schema.json->DISK_READ->title
+#: 3.2/providers.js:232 3.8/providers.js:214
+msgid "DISK (read)"
+msgstr "LEMEZ (olvasás)"
+
+#. 3.2->settings-schema.json->DISK_WRITE->title
+#. 3.8->settings-schema.json->DISK_WRITE->title
+#: 3.2/providers.js:235 3.8/providers.js:217
+msgid "DISK (write)"
+msgstr "LEMEZ (írás)"
+
+#: 3.2/providers.js:318 3.8/providers.js:290
+msgid "BAT"
+msgstr "AKK"
+
+#: 3.2/applet.js:87 3.8/applet.js:87
+msgid "Open System Monitor"
+msgstr "Rendszerfigyelő megnyitása"
+
+#: 3.2/applet.js:91 3.8/applet.js:91
+msgid "Restart 'Graphical hardware monitor'"
+msgstr "'Grafikus Hardver Figyelő' újraindítása"
+
+#. metadata.json->description
+msgid ""
+"Displaying realtime system information (CPU, memory, network and disk load)."
+msgstr ""
+"Valós idejű rendszerinformációk megjelenítése (CPU, memória, hálózati és "
+"lemezterhelés)."
+
+#. metadata.json->name
+msgid "Graphical hardware monitor"
+msgstr "Grafikus Hardver Figyelő"
+
+#. 3.2->settings-schema.json->General->title
+#. 3.8->settings-schema.json->General->title
+msgid "General"
+msgstr "Általános"
+
+#. 3.2->settings-schema.json->BAT->title
+#. 3.8->settings-schema.json->BAT->title
+msgid "BAT (battery)"
+msgstr "AKK (akkumulátor)"
+
+#. 3.2->settings-schema.json->general_settings->title
+#. 3.8->settings-schema.json->general_settings->title
+msgid "General settings"
+msgstr "Általános beállítások"
+
+#. 3.2->settings-schema.json->theme_settings->title
+#. 3.2->settings-schema.json->theme->description
+#. 3.8->settings-schema.json->theme_settings->title
+#. 3.8->settings-schema.json->theme->description
+msgid "Theme (graph)"
+msgstr "Téma (grafikon)"
+
+#. 3.2->settings-schema.json->theme_data_settings->title
+#. 3.2->settings-schema.json->theme_data->description
+#. 3.8->settings-schema.json->theme_data_settings->title
+#. 3.8->settings-schema.json->theme_data->description
+msgid "Theme (graph data)"
+msgstr "Téma (grafikon adat)"
+
+#. 3.2->settings-schema.json->CPU_settings->title
+#. 3.8->settings-schema.json->CPU_settings->title
+msgid "CPU settings"
+msgstr "CPU beállítások"
+
+#. 3.2->settings-schema.json->MEM_settings->title
+#. 3.8->settings-schema.json->MEM_settings->title
+msgid "MEM settings"
+msgstr "MEM beállítások"
+
+#. 3.2->settings-schema.json->NET_IN_settings->title
+#. 3.8->settings-schema.json->NET_IN_settings->title
+msgid "NET (in) settings"
+msgstr "NET (be) beállítások"
+
+#. 3.2->settings-schema.json->NET_OUT_settings->title
+#. 3.8->settings-schema.json->NET_OUT_settings->title
+msgid "NET (out) settings"
+msgstr "NET (ki) beállítások"
+
+#. 3.2->settings-schema.json->DISK_READ_settings->title
+#. 3.8->settings-schema.json->DISK_READ_settings->title
+msgid "DISK (read) settings"
+msgstr "LEMEZ (olvasás) beállítások"
+
+#. 3.2->settings-schema.json->DISK_WRITE_settings->title
+#. 3.8->settings-schema.json->DISK_WRITE_settings->title
+msgid "DISK (write) settings"
+msgstr "LEMEZ (írás) beállítások"
+
+#. 3.2->settings-schema.json->BAT_settings->title
+#. 3.8->settings-schema.json->BAT_settings->title
+msgid "BAT (battery) settings"
+msgstr "AKK (akkumulátor) beállítások"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "0.5"
+msgstr "0,5"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "1.0"
+msgstr "1,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "2.0"
+msgstr "2,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "3.0"
+msgstr "3,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "4.0"
+msgstr "4,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "5.0"
+msgstr "5,0"
+
+#. 3.2->settings-schema.json->frequency->options
+#. 3.8->settings-schema.json->frequency->options
+msgid "10.0"
+msgstr "10,0"
+
+#. 3.2->settings-schema.json->frequency->description
+#. 3.8->settings-schema.json->frequency->description
+msgid "Update frequency (seconds)"
+msgstr "Frissítési gyakoriság (másodperc)"
+
+#. 3.2->settings-schema.json->frequency->tooltip
+#. 3.8->settings-schema.json->frequency->tooltip
+msgid "The amount of time (in seconds) between the graph updates."
+msgstr "A grafikon frissítések közötti idő (másodpercben)."
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Don't draw grid lines"
+msgstr "Ne rajzoljon négyzetrácsot"
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw graph over grid lines"
+msgstr "Grafikon rajzolása négyzetrácsra"
+
+#. 3.2->settings-schema.json->graph_line_mode->options
+#. 3.8->settings-schema.json->graph_line_mode->options
+msgid "Draw grid lines over graph"
+msgstr "Négyzetrács a grafikon felett legyen"
+
+#. 3.2->settings-schema.json->graph_line_mode->description
+#. 3.8->settings-schema.json->graph_line_mode->description
+msgid "Grid lines"
+msgstr "Négyzetrács"
+
+#. 3.2->settings-schema.json->graph_line_mode->tooltip
+#. 3.8->settings-schema.json->graph_line_mode->tooltip
+msgid "How to draw the graph grid lines."
+msgstr "Miként legyen megrajzolva a grafikon négyzetrácsa."
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "dark theme"
+msgstr "sötét téma"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "gray theme"
+msgstr "szürke téma"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme->options
+msgid "light theme"
+msgstr "világos téma"
+
+#. 3.2->settings-schema.json->theme->options
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "custom theme"
+msgstr "egyedi téma"
+
+#. 3.2->settings-schema.json->theme->tooltip
+#. 3.2->settings-schema.json->theme_data->tooltip
+#. 3.8->settings-schema.json->theme->tooltip
+#. 3.8->settings-schema.json->theme_data->tooltip
+msgid ""
+"Use 'custom theme' to select colors that matches your current desktop theme."
+msgstr ""
+"Az 'egyéni téma' segítségével választhat az aktuális asztali témához illő "
+"színeket."
+
+#. 3.2->settings-schema.json->border_color->description
+#. 3.8->settings-schema.json->border_color->description
+msgid "Border color"
+msgstr "Szegélyszín"
+
+#. 3.2->settings-schema.json->border_color->tooltip
+#. 3.8->settings-schema.json->border_color->tooltip
+msgid "Click the button to select a border color for the graphs"
+msgstr "Kattintson a gombra a grafikon szegély színének kiválasztásához"
+
+#. 3.2->settings-schema.json->background_color1->description
+#. 3.8->settings-schema.json->background_color1->description
+msgid "Background color 1"
+msgstr "Háttérszín 1"
+
+#. 3.2->settings-schema.json->background_color1->tooltip
+#. 3.8->settings-schema.json->background_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Kattintson a gombra a kezdő szín kiválasztásához a grafikon hátterének "
+"lineáris gradienséhez"
+
+#. 3.2->settings-schema.json->background_color2->description
+#. 3.8->settings-schema.json->background_color2->description
+msgid "Background color 2"
+msgstr "Háttérszín 2"
+
+#. 3.2->settings-schema.json->background_color2->tooltip
+#. 3.8->settings-schema.json->background_color2->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph background"
+msgstr ""
+"Kattintson a gombra a végső szín kiválasztásához a grafikon hátterének "
+"lineáris gradienséhez"
+
+#. 3.2->settings-schema.json->label_color->description
+#. 3.8->settings-schema.json->label_color->description
+msgid "Label color"
+msgstr "Címke színe"
+
+#. 3.2->settings-schema.json->label_color->tooltip
+#. 3.8->settings-schema.json->label_color->tooltip
+msgid "Click the button to select a label color"
+msgstr "Kattintson a gombra a címke színének kiválasztásához"
+
+#. 3.2->settings-schema.json->label_size->description
+#. 3.8->settings-schema.json->label_size->description
+msgid "Label font size"
+msgstr "Címke betűmérete"
+
+#. 3.2->settings-schema.json->label_size->tooltip
+#. 3.8->settings-schema.json->label_size->tooltip
+msgid "Set the font size for the main label."
+msgstr "Állítsa be a főcímke betűméretét."
+
+#. 3.2->settings-schema.json->detail_label_color->description
+#. 3.8->settings-schema.json->detail_label_color->description
+msgid "Detail label color"
+msgstr "Részletes címkeszín"
+
+#. 3.2->settings-schema.json->detail_label_color->tooltip
+#. 3.8->settings-schema.json->detail_label_color->tooltip
+msgid "Click the button to select a detail label color"
+msgstr "Kattintson a gombra a részletes címkeszín kiválasztásához"
+
+#. 3.2->settings-schema.json->detail_label_size->description
+#. 3.8->settings-schema.json->detail_label_size->description
+msgid "Detail label font size"
+msgstr "Részletes címkeszín betűmérete"
+
+#. 3.2->settings-schema.json->detail_label_size->tooltip
+#. 3.8->settings-schema.json->detail_label_size->tooltip
+msgid "Set the font size for the detail label."
+msgstr "Állítsa be a részletes címke betűméretét."
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "default theme"
+msgstr "alapértelmezett téma"
+
+#. 3.2->settings-schema.json->theme_data->options
+#. 3.8->settings-schema.json->theme_data->options
+msgid "blue theme"
+msgstr "kék téma"
+
+#. 3.2->settings-schema.json->graph_color1->description
+#. 3.8->settings-schema.json->graph_color1->description
+msgid "Graph color 1"
+msgstr "Grafikon szín 1"
+
+#. 3.2->settings-schema.json->graph_color1->tooltip
+#. 3.8->settings-schema.json->graph_color1->tooltip
+msgid ""
+"Click the button to select a starting color for the linear gradient of the "
+"graph colors. Offset for the first color is always 0."
+msgstr ""
+"Kattintson a gombra a kezdő szín kiválasztásához a grafikon színeinek "
+"lineáris gradienséhez. Az első szín eltolása mindig 0."
+
+#. 3.2->settings-schema.json->graph_color2->description
+#. 3.8->settings-schema.json->graph_color2->description
+msgid "Graph color 2"
+msgstr "Grafikon szín 2"
+
+#. 3.2->settings-schema.json->graph_color2->tooltip
+#. 3.8->settings-schema.json->graph_color2->tooltip
+msgid ""
+"Click the button to select a first middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Kattintson a gombra az első középszín kiválasztásához a grafikon színeinek "
+"lineáris gradienséhez."
+
+#. 3.2->settings-schema.json->graph_offset2->description
+#. 3.8->settings-schema.json->graph_offset2->description
+msgid "Offset for graph color 2"
+msgstr "Grafikon 2 színének eltolása"
+
+#. 3.2->settings-schema.json->graph_offset2->tooltip
+#. 3.8->settings-schema.json->graph_offset2->tooltip
+msgid "Offset for first middle color of the linear gradient"
+msgstr "A lineáris gradiens első középszínének eltolása"
+
+#. 3.2->settings-schema.json->graph_color3->description
+#. 3.8->settings-schema.json->graph_color3->description
+msgid "Graph color 3"
+msgstr "Grafikon szín 3"
+
+#. 3.2->settings-schema.json->graph_color3->tooltip
+#. 3.8->settings-schema.json->graph_color3->tooltip
+msgid ""
+"Click the button to select a second middle color for the linear gradient of "
+"the graph colors."
+msgstr ""
+"Kattintson a gombra második középszínt kiválasztásához a grafikon színeinek "
+"lineáris gradienséhez."
+
+#. 3.2->settings-schema.json->graph_offset3->description
+#. 3.8->settings-schema.json->graph_offset3->description
+msgid "Offset for graph color 3"
+msgstr "Grafikon 3 színének eltolása"
+
+#. 3.2->settings-schema.json->graph_offset3->tooltip
+#. 3.8->settings-schema.json->graph_offset3->tooltip
+msgid "Offset for second middle color of the linear gradient"
+msgstr "A lineáris gradiens második középszínének eltolása"
+
+#. 3.2->settings-schema.json->graph_color4->description
+#. 3.8->settings-schema.json->graph_color4->description
+msgid "Graph color 4"
+msgstr "Grafikon szín 4"
+
+#. 3.2->settings-schema.json->graph_color4->tooltip
+#. 3.8->settings-schema.json->graph_color4->tooltip
+msgid ""
+"Click the button to select a ending color for the linear gradient of the "
+"graph colors. Offset for the last color is always 1."
+msgstr ""
+"Kattintson a gombra egy végső szín kiválasztásához a grafikon színeinek "
+"lineáris gradienséhez. Az utolsó szín eltolása mindig 1."
+
+#. 3.2->settings-schema.json->cpu_enable_graph->description
+#. 3.8->settings-schema.json->cpu_enable_graph->description
+msgid "Show CPU graph"
+msgstr "CPU grafikon megjelenítése"
+
+#. 3.2->settings-schema.json->cpu_enable_graph->tooltip
+#. 3.8->settings-schema.json->cpu_enable_graph->tooltip
+msgid "Show or hide the CPU graph"
+msgstr "CPU grafikon megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->cpu_size->description
+#. 3.8->settings-schema.json->cpu_size->description
+msgid "Horizontal panel width or vertical panel height"
+msgstr "Vízszintes panel szélessége vagy függőleges panel magassága"
+
+#. 3.2->settings-schema.json->cpu_size->tooltip
+#. 3.2->settings-schema.json->mem_size->tooltip
+#. 3.2->settings-schema.json->netin_size->tooltip
+#. 3.2->settings-schema.json->netout_size->tooltip
+#. 3.2->settings-schema.json->diskread_size->tooltip
+#. 3.2->settings-schema.json->diskwrite_size->tooltip
+#. 3.2->settings-schema.json->bat_size->tooltip
+#. 3.8->settings-schema.json->cpu_size->tooltip
+#. 3.8->settings-schema.json->mem_size->tooltip
+#. 3.8->settings-schema.json->netin_size->tooltip
+#. 3.8->settings-schema.json->netout_size->tooltip
+#. 3.8->settings-schema.json->diskread_size->tooltip
+#. 3.8->settings-schema.json->diskwrite_size->tooltip
+#. 3.8->settings-schema.json->bat_size->tooltip
+msgid ""
+"Set the width of the graph for horizontal panels, or the height of the graph "
+"for vertical panels."
+msgstr ""
+"Állítsa be a grafikon szélességét vízszintes panelhez, vagy annak magasságát "
+"függőleges panelhez."
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->description
+#. 3.2->settings-schema.json->mem_use_custom_label->description
+#. 3.2->settings-schema.json->netin_use_custom_label->description
+#. 3.2->settings-schema.json->netout_use_custom_label->description
+#. 3.8->settings-schema.json->cpu_use_custom_label->description
+#. 3.8->settings-schema.json->mem_use_custom_label->description
+#. 3.8->settings-schema.json->netin_use_custom_label->description
+#. 3.8->settings-schema.json->netout_use_custom_label->description
+msgid "Use custom graph label"
+msgstr "Egyéni grafikon címke használata"
+
+#. 3.2->settings-schema.json->cpu_use_custom_label->tooltip
+#. 3.8->settings-schema.json->cpu_use_custom_label->tooltip
+msgid "Choose your own label for the CPU graph"
+msgstr "Válassza ki a saját címkét a CPU grafikonhoz"
+
+#. 3.2->settings-schema.json->cpu_custom_label->description
+#. 3.8->settings-schema.json->cpu_custom_label->description
+msgid "Set the custom label for the CPU graph"
+msgstr "Állítsa be a CPU grafikon egyedi címkéjét"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->description
+#. 3.2->settings-schema.json->mem_show_detail_label->description
+#. 3.2->settings-schema.json->netin_show_detail_label->description
+#. 3.2->settings-schema.json->netout_show_detail_label->description
+#. 3.8->settings-schema.json->cpu_show_detail_label->description
+#. 3.8->settings-schema.json->mem_show_detail_label->description
+#. 3.8->settings-schema.json->netin_show_detail_label->description
+#. 3.8->settings-schema.json->netout_show_detail_label->description
+msgid "Show details"
+msgstr "Részletek megjelenítése"
+
+#. 3.2->settings-schema.json->cpu_show_detail_label->tooltip
+#. 3.8->settings-schema.json->cpu_show_detail_label->tooltip
+msgid "Show or hide the CPU usage label"
+msgstr "A CPU használati címke megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->mem_enable_graph->description
+#. 3.8->settings-schema.json->mem_enable_graph->description
+msgid "Show the memory graph"
+msgstr "Memória grafikon megjelenítése"
+
+#. 3.2->settings-schema.json->mem_enable_graph->tooltip
+#. 3.8->settings-schema.json->mem_enable_graph->tooltip
+msgid "Show or hide the memory graph"
+msgstr "A memória grafikonjának megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->mem_size->description
+#. 3.2->settings-schema.json->netin_size->description
+#. 3.2->settings-schema.json->netout_size->description
+#. 3.2->settings-schema.json->diskread_size->description
+#. 3.2->settings-schema.json->diskwrite_size->description
+#. 3.2->settings-schema.json->bat_size->description
+#. 3.8->settings-schema.json->mem_size->description
+#. 3.8->settings-schema.json->netin_size->description
+#. 3.8->settings-schema.json->netout_size->description
+#. 3.8->settings-schema.json->diskread_size->description
+#. 3.8->settings-schema.json->diskwrite_size->description
+#. 3.8->settings-schema.json->bat_size->description
+msgid "Horizontal panel width or vertical panel height."
+msgstr "Vízszintes panel szélessége vagy függőleges panel magassága."
+
+#. 3.2->settings-schema.json->mem_use_custom_label->tooltip
+#. 3.8->settings-schema.json->mem_use_custom_label->tooltip
+msgid "Choose your own label for the memory graph"
+msgstr "Válassza ki a saját címkét a memória grafikonhoz"
+
+#. 3.2->settings-schema.json->mem_custom_label->description
+#. 3.8->settings-schema.json->mem_custom_label->description
+msgid "Set the custom label for the memory graph"
+msgstr "Állítsa be a memória grafikon egyedi címkéjét"
+
+#. 3.2->settings-schema.json->mem_show_detail_label->tooltip
+#. 3.8->settings-schema.json->mem_show_detail_label->tooltip
+msgid "Show or hide the memory usage label"
+msgstr "A memóriahasználati címke megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->netin_enable_graph->description
+#. 3.8->settings-schema.json->netin_enable_graph->description
+msgid "Show NET (in) graph"
+msgstr "NET (be) grafikon megjelenítése"
+
+#. 3.2->settings-schema.json->netin_enable_graph->tooltip
+#. 3.8->settings-schema.json->netin_enable_graph->tooltip
+msgid "Show or hide the NET (in) graph"
+msgstr "NET (be) grafikon megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->netin_speed->units
+#. 3.2->settings-schema.json->netout_speed->units
+#. 3.8->settings-schema.json->netin_speed->units
+#. 3.8->settings-schema.json->netout_speed->units
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#. 3.2->settings-schema.json->netin_speed->description
+#. 3.8->settings-schema.json->netin_speed->description
+msgid "Internet speed (in)."
+msgstr "Internet sebessége (be)."
+
+#. 3.2->settings-schema.json->netin_speed->tooltip
+#. 3.8->settings-schema.json->netin_speed->tooltip
+msgid ""
+"Set your internet speed (in) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"Állítsa be az internet sebességét (be) Mbit/s-ban. Ne feledje, hogy az "
+"internetszolgáltatója által nyújtott kapcsolat ingadozhat. Előfordulhat, "
+"hogy fentebb vagy lentebb kell állítania ezt az értéket, hogy megfelelő "
+"legyen."
+
+#. 3.2->settings-schema.json->netin_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netin_use_custom_label->tooltip
+msgid "Choose your own label for the NET (in) graph"
+msgstr "Válassza ki a saját címkét a NET (be) grafikonhoz"
+
+#. 3.2->settings-schema.json->netin_custom_label->description
+#. 3.8->settings-schema.json->netin_custom_label->description
+msgid "Set the custom label for the NET (in) graph"
+msgstr "Állítson be a saját címkét a NET (be) grafikonhoz"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "logarithmic"
+msgstr "logaritmikus"
+
+#. 3.2->settings-schema.json->netin_linlog->options
+#. 3.2->settings-schema.json->netout_linlog->options
+#. 3.8->settings-schema.json->netin_linlog->options
+#. 3.8->settings-schema.json->netout_linlog->options
+msgid "linear"
+msgstr "lineáris"
+
+#. 3.2->settings-schema.json->netin_linlog->description
+#. 3.2->settings-schema.json->netout_linlog->description
+#. 3.8->settings-schema.json->netin_linlog->description
+#. 3.8->settings-schema.json->netout_linlog->description
+msgid "Scale"
+msgstr "Méretezés"
+
+#. 3.2->settings-schema.json->netin_linlog->tooltip
+#. 3.2->settings-schema.json->netout_linlog->tooltip
+#. 3.8->settings-schema.json->netin_linlog->tooltip
+#. 3.8->settings-schema.json->netout_linlog->tooltip
+msgid "Use linear or logarithmic scale."
+msgstr "Használjon lineáris vagy logaritmikus méretezést."
+
+#. 3.2->settings-schema.json->netin_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netin_show_detail_label->tooltip
+msgid "Show or hide the NET (in) usage label"
+msgstr "A NET (be) használati címke megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->netout_enable_graph->description
+#. 3.8->settings-schema.json->netout_enable_graph->description
+msgid "Show NET (out) graph"
+msgstr "NET (ki) grafikon megjelenítése"
+
+#. 3.2->settings-schema.json->netout_enable_graph->tooltip
+#. 3.8->settings-schema.json->netout_enable_graph->tooltip
+msgid "Show or hide the NET (out) graph"
+msgstr "NET (ki) grafikon megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->netout_speed->description
+#. 3.8->settings-schema.json->netout_speed->description
+msgid "Internet speed (out)."
+msgstr "Internet sebesség (ki)"
+
+#. 3.2->settings-schema.json->netout_speed->tooltip
+#. 3.8->settings-schema.json->netout_speed->tooltip
+msgid ""
+"Set your internet speed (out) in Mbit/s. Note that sometimes ISP:s delivers "
+"better or worse speed than what you have paid for. You might need to adjust "
+"this value up or down, to make it look right to you."
+msgstr ""
+"Állítsa be az internet sebességét (ki) Mbit/s-ban. Ne feledje, hogy az "
+"internetszolgáltatója által nyújtott kapcsolat ingadozhat. Előfordulhat, "
+"hogy fentebb vagy lentebb kell állítania ezt az értéket, hogy megfelelő "
+"legyen."
+
+#. 3.2->settings-schema.json->netout_use_custom_label->tooltip
+#. 3.8->settings-schema.json->netout_use_custom_label->tooltip
+msgid "Choose your own label for the NET (out) graph"
+msgstr "Válassza ki a saját címkét a NET (ki) grafikonhoz"
+
+#. 3.2->settings-schema.json->netout_custom_label->description
+#. 3.8->settings-schema.json->netout_custom_label->description
+msgid "Set the custom label for the NET (out) graph"
+msgstr "Állítson be a saját címkét a NET (ki) grafikonhoz"
+
+#. 3.2->settings-schema.json->netout_show_detail_label->tooltip
+#. 3.8->settings-schema.json->netout_show_detail_label->tooltip
+msgid "Show or hide the NET (out) usage label"
+msgstr "A NET (ki) használati címke megjelenítése vagy elrejtése"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->description
+#. 3.8->settings-schema.json->diskread_enable_graph->description
+msgid "Show DISK (read) graph"
+msgstr "LEMEZ (olvasás) grafikon megjelenítése"
+
+#. 3.2->settings-schema.json->diskread_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskread_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (read) graph. Shows usage of the drive specified below."
+msgstr ""
+"A LEMEZ (olvasás) grafikon megjelenítése vagy elrejtése. Az alábbiakban "
+"megadott meghajtó használatát mutatja."
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sda"
+msgstr "sda"
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdb"
+msgstr "sdb"
+
+#. 3.2->settings-schema.json->diskread_device_name->options
+#. 3.2->settings-schema.json->diskwrite_device_name->options
+msgid "sdc"
+msgstr "sdc"
+
+#. 3.2->settings-schema.json->diskread_device_name->description
+#. 3.2->settings-schema.json->diskread_device_name->tooltip
+msgid "Set the device name to monitor for the DISK (read) graph."
+msgstr "Állítsa be a megfigyelt eszköz nevét a LEMEZ (olvasás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->description
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.2->settings-schema.json->bat_use_custom_label->description
+#. 3.8->settings-schema.json->diskread_use_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->description
+#. 3.8->settings-schema.json->bat_use_custom_label->description
+msgid "Use custom graph label."
+msgstr "Egyéni grafikon címke használata."
+
+#. 3.2->settings-schema.json->diskread_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskread_use_custom_label->tooltip
+msgid "Choose your own label for the DISK (read) graph."
+msgstr "Válassza ki a saját címkét a LEMEZ (olvasás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskread_custom_label->description
+#. 3.8->settings-schema.json->diskread_custom_label->description
+msgid "Set the custom label for the DISK (read) graph."
+msgstr "Állítsa be a saját címkét a LEMEZ (olvasás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->description
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.2->settings-schema.json->bat_show_detail_label->description
+#. 3.8->settings-schema.json->diskread_show_detail_label->description
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->description
+#. 3.8->settings-schema.json->bat_show_detail_label->description
+msgid "Show details."
+msgstr "Részletek megjelenítése."
+
+#. 3.2->settings-schema.json->diskread_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskread_show_detail_label->tooltip
+msgid "Show or hide the DISK (read) usage label."
+msgstr "A LEMEZ (olvasás) használati címke megjelenítése vagy elrejtése."
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->description
+#. 3.8->settings-schema.json->diskwrite_enable_graph->description
+msgid "Show DISK (write) graph."
+msgstr "LEMEZ (írás) grafikon megjelenítése."
+
+#. 3.2->settings-schema.json->diskwrite_enable_graph->tooltip
+#. 3.8->settings-schema.json->diskwrite_enable_graph->tooltip
+msgid ""
+"Show or hide the DISK (write) graph. Shows usage of the drive specified "
+"below."
+msgstr ""
+"A LEMEZ (írás) grafikon megjelenítése vagy elrejtése. Az alábbiakban "
+"megadott meghajtó használatát mutatja."
+
+#. 3.2->settings-schema.json->diskwrite_device_name->description
+#. 3.2->settings-schema.json->diskwrite_device_name->tooltip
+msgid "Set the device name to monitor for the DISK (write) graph."
+msgstr "Állítsa be a megfigyelt eszköz nevét a LEMEZ (írás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskwrite_use_custom_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_use_custom_label->tooltip
+msgid "Choose your own label for the DISK (write) graph."
+msgstr "Válassza ki a saját címkét a LEMEZ (írás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskwrite_custom_label->description
+#. 3.8->settings-schema.json->diskwrite_custom_label->description
+msgid "Set the custom label for the DISK (write) graph."
+msgstr "Állítsa be a saját címkét a LEMEZ (írás) grafikonhoz."
+
+#. 3.2->settings-schema.json->diskwrite_show_detail_label->tooltip
+#. 3.8->settings-schema.json->diskwrite_show_detail_label->tooltip
+msgid "Show or hide the DISK (write) usage label."
+msgstr "A LEMEZ (írás) használati címke megjelenítése vagy elrejtése."
+
+#. 3.2->settings-schema.json->bat_enable_graph->description
+#. 3.8->settings-schema.json->bat_enable_graph->description
+msgid "Show BAT (battery) graph."
+msgstr "AKK (akkumulátor) grafikon megjelenítése."
+
+#. 3.2->settings-schema.json->bat_enable_graph->tooltip
+#. 3.8->settings-schema.json->bat_enable_graph->tooltip
+msgid "Show or hide the BAT (battery) graph. Shows battery level."
+msgstr ""
+"Az AKK (akkumulátor) grafikon megjelenítése vagy elrejtése. Akkumulátor "
+"szintjének megjelenítése."
+
+#. 3.2->settings-schema.json->bat_use_custom_label->tooltip
+#. 3.8->settings-schema.json->bat_use_custom_label->tooltip
+msgid "Choose your own label for the BAT (battery) graph."
+msgstr "Válassza ki a saját címkét az AKK (akkumulátor) grafikonhoz."
+
+#. 3.2->settings-schema.json->bat_custom_label->description
+#. 3.8->settings-schema.json->bat_custom_label->description
+msgid "Set the custom label for the BAT (battery) graph."
+msgstr "Állítson be a saját címkét az AKK (akkumulátor) grafikonhoz."
+
+#. 3.2->settings-schema.json->bat_show_detail_label->tooltip
+#. 3.8->settings-schema.json->bat_show_detail_label->tooltip
+msgid "Show or hide the BAT (battery) detail label."
+msgstr "Az AKK (akkumulátor) részletek címke megjelenítése vagy elrejtése."
+
+#. 3.8->settings-schema.json->diskread_device_name->options
+#. 3.8->settings-schema.json->diskwrite_device_name->options
+msgid "Select a device"
+msgstr "Válasszon eszközt"
+
+#. 3.8->settings-schema.json->diskread_device_name->description
+#. 3.8->settings-schema.json->diskread_device_name->tooltip
+msgid "Set the device to monitor for the DISK (read) graph."
+msgstr ""
+"Állítson be egy megfigyelni kívánt eszközt a LEMEZ (olvasás) grafikonhoz."
+
+#. 3.8->settings-schema.json->diskwrite_device_name->description
+#. 3.8->settings-schema.json->diskwrite_device_name->tooltip
+msgid "Set the device to monitor for the DISK (write) graph."
+msgstr "Állítson be egy megfigyelni kívánt eszközt a LEMEZ (írás) grafikonhoz."

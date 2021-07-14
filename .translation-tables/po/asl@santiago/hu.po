@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 23:19+0100\n"
+"PO-Revision-Date: 2021-03-23 08:23+0100\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:33
+msgid "American Sign Language"
+msgstr "Amerikai jelnyelv szótár"
+
+#: applet.js:56
+msgid "Alphabet"
+msgstr "Ábécé"
+
+#: applet.js:59 applet.js:65 applet.js:71 applet.js:77 applet.js:83
+#: applet.js:89 applet.js:95 applet.js:101 applet.js:107 applet.js:113
+#: applet.js:119 applet.js:125 applet.js:131 applet.js:137 applet.js:143
+#: applet.js:149 applet.js:155 applet.js:161 applet.js:167 applet.js:173
+#: applet.js:179 applet.js:185 applet.js:191 applet.js:197 applet.js:203
+#: applet.js:209
+msgid "Letter"
+msgstr "Betű"
+
+#: applet.js:60 applet.js:66 applet.js:72 applet.js:78 applet.js:84
+#: applet.js:90 applet.js:96 applet.js:102 applet.js:108 applet.js:114
+#: applet.js:120 applet.js:126 applet.js:132 applet.js:138 applet.js:144
+#: applet.js:150 applet.js:156 applet.js:162 applet.js:168 applet.js:174
+#: applet.js:180 applet.js:186 applet.js:192 applet.js:198 applet.js:204
+#: applet.js:210
+msgid "ASL"
+msgstr "ASL"
+
+#: applet.js:320
+msgid "Check more vocabulary"
+msgstr "További szótár"
+
+#. metadata.json->name
+msgid "American Sign Language vocabulary"
+msgstr "Amerikai jelnyelv szótár"
+
+#. metadata.json->description
+msgid "Information to American Sign Language vocabulary"
+msgstr "Információ az amerikai jelnyelvi szótárról"

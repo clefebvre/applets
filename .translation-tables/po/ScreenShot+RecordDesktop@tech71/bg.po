@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 18:50+0200\n"
+"PO-Revision-Date: 2017-11-20 21:07+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:28
+msgid "ScreenShot"
+msgstr "Снимка"
+
+#: applet.js:33
+msgid "Current Window"
+msgstr "Активния прозорец"
+
+#: applet.js:38
+msgid "Selected Area"
+msgstr "Избрана област"
+
+#: applet.js:44
+msgid "Whole Screen"
+msgstr "Целия екран"
+
+#: applet.js:46
+msgid "1 Second Delay"
+msgstr "1 секунда закъснение"
+
+#: applet.js:50
+msgid "3 Second Delay"
+msgstr "3 секунди закъснение"
+
+#: applet.js:54
+msgid "5 Second Delay"
+msgstr "5 секунди закъснение"
+
+#: applet.js:61
+msgid "Record Screencast"
+msgstr "Запис на екрана"
+
+#: applet.js:65
+msgid "Record Desktop With Audio"
+msgstr "Запис на работния плот със звук"
+
+#: applet.js:68 applet.js:74 applet.js:81 applet.js:87
+#, fuzzy
+msgid "Recording"
+msgstr "Спри записа"
+
+#: applet.js:68 applet.js:81
+msgid "With-Audio"
+msgstr "Със звук"
+
+#: applet.js:71
+msgid "Record Desktop Without Audio"
+msgstr "Запис на работния плот без звук"
+
+#: applet.js:74 applet.js:87
+msgid "No-Audio"
+msgstr "Без звук"
+
+#: applet.js:78
+msgid "Record Current Window With Audio"
+msgstr "Запис на активния прозорец със звук"
+
+#: applet.js:84
+msgid "Record Current Window Without Audio"
+msgstr "Запис на активния прозорец без звук"
+
+#: applet.js:91
+msgid "Stop Recording"
+msgstr "Спри записа"
+
+#: applet.js:96
+msgid "Recording-Stopped"
+msgstr "Записването е спряно"
+
+#: applet.js:97
+msgid "Recording-Finished"
+msgstr "Записването е завършено"
+
+#: applet.js:107
+msgid "Take A Snapshot or Record Your Desktop"
+msgstr "Направете снимка или запишете работния плот"
+
+#: applet.js:124
+msgid "Pictures Folder"
+msgstr "Папка със снимки"
+
+#: applet.js:130
+msgid "Videos Folder"
+msgstr "Папка с видео"
+
+#. metadata.json->description
+#, fuzzy
+msgid ""
+"Take A Snapshot Or Record Your Desktop (recording requires the packages "
+"ffmpeg, xdotool & x11-utils to be installed)"
+msgstr ""
+"Снимка или запис на работния плот (изисква ffmpeg, xwininfo, xdotool, "
+"xdpyinfo)"
+
+#. metadata.json->name
+msgid "ScreenShot+Record Desktop"
+msgstr "Снимка+Запис на работния плот"
+
+#~ msgid "Start No Audio"
+#~ msgstr "Стартирай без звук"
+
+#~ msgid "Recording Current Window With Audio"
+#~ msgstr "Запис на активния прозорец със звук"
+
+#~ msgid "Recording Current Window Without Audio"
+#~ msgstr "Запис на активния прозорец без звук"
+
+#~ msgid "Recording Current Window with Audio"
+#~ msgstr "Запис на активния прозорец със звук"
+
+#~ msgid "Recording Current Window without Audio"
+#~ msgstr "Запис на активния прозорец без звук"
+
+#~ msgid "Stop"
+#~ msgstr "Спри"
+
+#~ msgid "Take A Snapshot Or Record Your Desktop"
+#~ msgstr "Снимайте или запишете работния плот"

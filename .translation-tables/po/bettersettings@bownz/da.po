@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-19 11:04+0800\n"
+"PO-Revision-Date: 2017-07-09 14:02+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:32
+msgid ""
+"Are you sure you want to restore all settings to default?\n"
+"\n"
+msgstr ""
+"Er du sikker på, du vil gendanne alle standardindstillinger?\n"
+"\n"
+
+#: applet.js:37
+msgid "Yes"
+msgstr "Ja"
+
+#: applet.js:44
+msgid "No"
+msgstr "Nej"
+
+#: applet.js:65
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: applet.js:74
+msgid "Troubleshoot"
+msgstr "Fejlfind"
+
+#: applet.js:75
+msgid "Restart Cinnamon"
+msgstr "Genstart Cinnamon"
+
+#: applet.js:80
+msgid "Reload Theme"
+msgstr "Genindlæs tema"
+
+#: applet.js:85
+msgid "Looking Glass"
+msgstr "Lup"
+
+#: applet.js:89
+msgid "Restore all settings to Default"
+msgstr "Gendan alle standardindstillinger"
+
+#: applet.js:94
+msgid "Force Quit Application"
+msgstr "Gennemtving lukning af program"
+
+#: applet.js:101
+msgid "Screenshot"
+msgstr "Skærmbillede"
+
+#: applet.js:105
+msgid "Terminal"
+msgstr "Terminal"
+
+#: applet.js:113
+msgid "Panel Edit Mode"
+msgstr "Panelredigeringstilstand"
+
+#: applet.js:122
+msgid "Add/Remove Applets"
+msgstr "Tilføj/fjern panelprogrammer"
+
+#: applet.js:126
+msgid "Start up Applications"
+msgstr "Opstartsprogrammer"
+
+#: applet.js:130
+msgid "Cinnamon Settings"
+msgstr "Indstillinger for Cinnamon"
+
+#: applet.js:134
+msgid "System Settings"
+msgstr "Systemindstillinger"
+
+#. bettersettings@bownz->metadata.json->description
+msgid "A Better Cinnamon Settings"
+msgstr "Bedre indstillinger af Cinnamon"
+
+#. bettersettings@bownz->metadata.json->name
+msgid "Better Cinnamon Settings"
+msgstr "Bedre Cinnamon-indstillinger"

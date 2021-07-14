@@ -1,0 +1,846 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 12:29+0100\n"
+"PO-Revision-Date: 2021-02-16 12:32+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid "Some Dependencies not Installed"
+msgstr "Nogle afhængigheder er ikke installeret"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid ""
+"You appear to be missing some of the programs or libraries required for this "
+"applet to run.\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+"Det ser ud til, du mangler nogle af de programmer eller biblioteker, som er "
+"nødvendige for at køre dette panelprogram.\n"
+"Læs venligst i hjælpfilen, hvordan du installerer dem."
+
+#: applet.js:83
+msgid "Ok"
+msgstr "OK"
+
+#: applet.js:346 4.0/applet.js:348 3.2/applet.js:346
+msgid "No Interface being Monitored - right click to select"
+msgstr "Ingen grænseflade overvåges - højreklik for at vælge"
+
+#: applet.js:476 4.0/applet.js:494 3.2/applet.js:492
+msgid ""
+"NOTE: The last time the network traffic statistics were updated by vnStat is "
+"at the top right"
+msgstr ""
+"BEMÆRK: Sidste gang netværkstrafikstatistikken blev opdateret af vnStat "
+"vises øverst til højre"
+
+#: applet.js:481 4.0/applet.js:499 3.2/applet.js:497
+msgid ""
+"If no Interface is Active, the last available information has been displayed"
+msgstr ""
+"Hvis ingen grænseflade er aktiv, vises den senest tilgængelige information"
+
+#: applet.js:488 4.0/applet.js:506 3.2/applet.js:504
+msgid ""
+"ERROR: Please make sure vnstat and vnstati are installed and that the vnstat "
+"daemon is running!"
+msgstr ""
+"FEJL: Sørg for, at vnstat og vnstati er installerede, og at vnstat-dæmonen "
+"kører!"
+
+#: applet.js:501 4.0/applet.js:519 3.2/applet.js:517
+msgid "Cumulative Data Usage Information:"
+msgstr "Information om samlet dataforbrug:"
+
+#: applet.js:528 4.0/applet.js:546 3.2/applet.js:544
+msgid "Current Connection and Interface Information"
+msgstr "Information om nuværende forbindelse og grænseflade"
+
+#: applet.js:540 4.0/applet.js:558 3.2/applet.js:556
+msgid "No network monitored. Please select one right-clicking the applet."
+msgstr ""
+"Ingen netværk overvåges. Vælg et ved at højreklikke på panelprogrammet."
+
+#: applet.js:547 4.0/applet.js:565 3.2/applet.js:563
+msgid "Note: Alerts not enabled in Settings"
+msgstr "Bemærk: Advarsler ikke aktiverede i indstillinger"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+msgid "Alert level (Orange):"
+msgstr "Advarselsniveau (Orange):"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+#, no-javascript-format
+msgid "% of Data Limit of"
+msgstr "% af datagrænsen for"
+
+#: applet.js:569 applet.js:571 applet.js:577 applet.js:579 applet.js:585
+#: 4.0/applet.js:587 4.0/applet.js:589 4.0/applet.js:595 4.0/applet.js:597
+#: 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:587 3.2/applet.js:593
+#: 3.2/applet.js:595 3.2/applet.js:601
+msgid "Cumulative Data Use"
+msgstr "Samlet dataforbrug"
+
+#: applet.js:569 applet.js:577 applet.js:585 4.0/applet.js:587
+#: 4.0/applet.js:595 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:593
+#: 3.2/applet.js:601
+msgid "with offset of"
+msgstr "med forskydning på"
+
+#: applet.js:608 4.0/applet.js:626 3.2/applet.js:624
+msgid "Select a network manager interface to be monitored:"
+msgstr "Vælg en netværksgrænseflade som skal overvåges:"
+
+#: applet.js:621 4.0/applet.js:639 3.2/applet.js:637
+msgid "(Active)"
+msgstr "(Aktiv)"
+
+#: applet.js:634 4.0/applet.js:652 3.2/applet.js:650
+msgid "or Select an independent interface to be monitored:"
+msgstr "eller vælg en uafhængig grænseflade der skal overvåges:"
+
+#: applet.js:638 4.0/applet.js:656 3.2/applet.js:654
+msgid "for most USB Mobile Internet Modems)"
+msgstr "til de fleste USB-mobilinternetmodemmer"
+
+#: applet.js:650 4.0/applet.js:668 3.2/applet.js:666
+msgid "for Android Bluetooth PAN Connections)"
+msgstr "til Android Bluetooth PAN-forbindelser"
+
+#: applet.js:660 4.0/applet.js:678 3.2/applet.js:676
+msgid "Check for Changes in Devices and Display Options"
+msgstr "Undersøg for ændringer i enheder og visningsmuligheder"
+
+#: applet.js:668 4.0/applet.js:686 3.2/applet.js:684
+msgid "Toggle Display from ↓ and ↑ to ⇵"
+msgstr "Skift visning fra ↓ og ↑ til ⇵"
+
+#: applet.js:682 applet.js:692 applet.js:702 4.0/applet.js:700
+#: 4.0/applet.js:710 4.0/applet.js:720 3.2/applet.js:698 3.2/applet.js:708
+#: 3.2/applet.js:718
+msgid "Reset Cumulative Data Usage"
+msgstr "Nulstil samlet dataforbrug"
+
+#: applet.js:715 4.0/applet.js:733 3.2/applet.js:731
+msgid "Housekeeping and System Sub Menu"
+msgstr "Vedligehold og systemundermenu"
+
+#: applet.js:718 4.0/applet.js:736 3.2/applet.js:734
+msgid "Open System Monitor"
+msgstr "Åbn systemovervågning"
+
+#: applet.js:724 4.0/applet.js:742 3.2/applet.js:740
+msgid "View the Changelog"
+msgstr "Vis ændringsloggen"
+
+#: applet.js:730 4.0/applet.js:748 3.2/applet.js:746
+msgid "View the Help File"
+msgstr "Vis hjælpfilen"
+
+#: applet.js:739 4.0/applet.js:757 3.2/applet.js:755
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Åbn stylesheet.css  (Avanceret funktion)"
+
+#: applet.js:745 4.0/applet.js:763 3.2/applet.js:761
+msgid "Open alertScript  (Advanced Function)"
+msgstr "Åbn alertScript  (Avanceret funktion)"
+
+#: applet.js:751 4.0/applet.js:769 3.2/applet.js:767
+msgid "Open suspendScript  (Advanced Function)"
+msgstr "Åbn suspendScript  (Avanceret funktion)"
+
+#: applet.js:759 4.0/applet.js:777 3.2/applet.js:775
+msgid "Test alertScript  (Advanced Test Function)"
+msgstr "Test alertScript  (Avanceret testfunktion)"
+
+#: applet.js:765 4.0/applet.js:783 3.2/applet.js:781
+msgid "Test suspendScript  (Advanced Test Function)"
+msgstr "Test suspendScript  (Avanceret testfunktion)"
+
+#: applet.js:771 4.0/applet.js:789 3.2/applet.js:787
+msgid "Test Crisis Management Function (Advanced Test Function)"
+msgstr "Test krisehåndteringsfunktionen  (Avanceret testfunktion)"
+
+#: applet.js:841
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using right click -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet"
+msgstr ""
+"DATAFORBRUGSGRÆNSEN ER OVERSKREDET\n"
+"\n"
+" Angiv en ny grænse med højreklik -> Indstillinger \n"
+"\n"
+"eller afbryd forbindelsen med netværkshåndtering"
+
+#: applet.js:914 4.0/applet.js:930 3.2/applet.js:928
+msgid "Interface:"
+msgstr "Grænseflade:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Downloaded:"
+msgstr "Downloadet:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Uploaded:"
+msgstr "Uploadet:"
+
+#: 4.0/applet.js:256
+msgid "Network Usage Monitor with Alerts - Stylesheet persistence active"
+msgstr ""
+
+#: 4.0/applet.js:842 3.2/applet.js:840
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+"All Network connections managed by the Network Manager have been Disabled\n"
+"\n"
+"You will need to use the Network Manager Applet to Re-enable them\n"
+"when the data usage problem has been resolved\n"
+"\n"
+" Some connections using ppp0 may not have been disabled or may need to be "
+"restarted manually"
+msgstr ""
+
+#: 4.0/applet.js:859 3.2/applet.js:857
+#, fuzzy
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using \n"
+"\n"
+"a right click on The Network Data Management Applet -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet\n"
+"\n"
+msgstr ""
+"DATAFORBRUGSGRÆNSEN ER OVERSKREDET\n"
+"\n"
+" Angiv en ny grænse med højreklik -> Indstillinger \n"
+"\n"
+"eller afbryd forbindelsen med netværkshåndtering"
+
+#. metadata.json->name
+msgid "Network Data Usage Monitor"
+msgstr "Overvågning af netværksdataforbrug"
+
+#. metadata.json->description
+msgid ""
+"A Comprehensive Data Usage Monitor with alerts and cumulative data functions"
+msgstr ""
+"Omfattende overvågning af dataforbruget med advarsler og samlet "
+"datafunktioner"
+
+#. settings-schema.json->head->description
+#. 4.0->settings-schema.json->section0->title
+#. 3.2->settings-schema.json->section0->title
+msgid "General Settings for the Network Usage Monitor Applet"
+msgstr "Generelle indstillinger for Overvågning af netværksdataforbrug"
+
+#. settings-schema.json->refreshInterval-spinner->units
+#. 4.0->settings-schema.json->refreshInterval-spinner->units
+#. 3.2->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. settings-schema.json->refreshInterval-spinner->description
+#. 4.0->settings-schema.json->refreshInterval-spinner->description
+#. 3.2->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Opdateringsinterval for visning:"
+
+#. settings-schema.json->refreshInterval-spinner->tooltip
+#. 4.0->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.2->settings-schema.json->refreshInterval-spinner->tooltip
+msgid "Increase or decrease this spinner value to change the Refresh Interval"
+msgstr "Forøg eller formindsk denne værdi for at ændre opdateringsintervallet"
+
+#. settings-schema.json->decimalsToShow-spinner->units
+#. 4.0->settings-schema.json->decimalsToShow-spinner->units
+#. 3.2->settings-schema.json->decimalsToShow-spinner->units
+msgid "decimal places"
+msgstr "decimaler"
+
+#. settings-schema.json->decimalsToShow-spinner->description
+#. 4.0->settings-schema.json->decimalsToShow-spinner->description
+#. 3.2->settings-schema.json->decimalsToShow-spinner->description
+msgid "Display Resolution:"
+msgstr "Nøjagtighed:"
+
+#. settings-schema.json->decimalsToShow-spinner->tooltip
+#. 4.0->settings-schema.json->decimalsToShow-spinner->tooltip
+#. 3.2->settings-schema.json->decimalsToShow-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the change the number of "
+"decimal places displayed"
+msgstr ""
+"Forøg eller formindsk denne værdi for at ændre antallet af decimaler, der "
+"vises"
+
+#. settings-schema.json->monitored-interface->description
+#. 4.0->settings-schema.json->monitored-interface->description
+#. 3.2->settings-schema.json->monitored-interface->description
+msgid "Last Interface Monitored - no need to change as set by Applet:"
+msgstr ""
+"Sidste overvågede grænseflade - ingen grund til at ændre da den angives af "
+"panelprogrammet:"
+
+#. settings-schema.json->monitored-interface->tooltip
+#. 4.0->settings-schema.json->monitored-interface->tooltip
+#. 3.2->settings-schema.json->monitored-interface->tooltip
+msgid ""
+"This is normally set by the Applet and should not be changed here except for "
+"experimental or diagnostic use"
+msgstr ""
+"Angives normalt af panelprogrammet og bør kun ændres her af hensyn til "
+"eksperimentel eller diagnostisk brug"
+
+#. settings-schema.json->useDefaultInterface->description
+#. 4.0->settings-schema.json->useDefaultInterface->description
+#. 3.2->settings-schema.json->useDefaultInterface->description
+msgid ""
+"Use the following Interface as default to monitor when no other Interface is "
+"Active at start up :"
+msgstr ""
+"Overvåg som standard følgende grænseflade, når ingen anden grænseflade er "
+"aktiv ved opstart:"
+
+#. settings-schema.json->useDefaultInterface->tooltip
+#. 4.0->settings-schema.json->useDefaultInterface->tooltip
+#. 3.2->settings-schema.json->useDefaultInterface->tooltip
+msgid ""
+"Checking this box allows you to set up to use an interface for connections "
+"which is not always active at start up such as Wifi or Mobile Broadband - "
+"usually wlan0 or ppp0. If not checked the first active interface know to the "
+"Network Monitor will be used or PPP0 if that was the last connection."
+msgstr ""
+"Aktivering af denne lader dig angive en grænseflade til forbindelser som "
+"ikke altid er aktive ved opstart som f.eks. mobilt bredbånd eller wi-fi - "
+"sædvanligvis sat til ppp0 eller wlan0. Hvis den ikke er aktiveret, vil den "
+"første aktive grænseflade, som opdages af Netværksovervågning, blive anvendt "
+"eller PPP0, hvis det var den sidste forbindelse."
+
+#. settings-schema.json->defaultInterface->description
+#. 4.0->settings-schema.json->defaultInterface->description
+#. 3.2->settings-schema.json->defaultInterface->description
+msgid "Default Interface (usually ppp0 or wlan0):"
+msgstr "Standardgrænseflade (sædvanligvis ppp0 eller wlan0):"
+
+#. settings-schema.json->defaultInterface->tooltip
+#. 4.0->settings-schema.json->defaultInterface->tooltip
+#. 3.2->settings-schema.json->defaultInterface->tooltip
+msgid ""
+"The Default  interface to use for connections which are not always active at "
+"start up such as Mobile Broadband or Wifi - usually set to ppp0 or wlan0"
+msgstr ""
+"Standardgrænsefladen anvendt til forbindelser, som ikke altid er aktive ved "
+"opstart som f.eks. mobilt bredbånd eller wi-fi - sædvanligvis sat til ppp0 "
+"eller wlan0"
+
+#. settings-schema.json->compactDisplay->description
+#. 4.0->settings-schema.json->compactDisplay->description
+#. 3.2->settings-schema.json->compactDisplay->description
+msgid "Use a Compact Display with total traffic only"
+msgstr "Anvend kompakt visning kun med total trafik"
+
+#. settings-schema.json->compactDisplay->tooltip
+#. 4.0->settings-schema.json->compactDisplay->tooltip
+#. 3.2->settings-schema.json->compactDisplay->tooltip
+msgid "This just displays the total of upload and download rate in the applet"
+msgstr "Viser kun den totale up- og download i panelprogrammet"
+
+#. settings-schema.json->appletWidthSetting->units
+#. 4.0->settings-schema.json->appletWidthSetting->units
+#. 3.2->settings-schema.json->appletWidthSetting->units
+msgid "pixels"
+msgstr "pixler"
+
+#. settings-schema.json->appletWidthSetting->description
+#. 4.0->settings-schema.json->appletWidthSetting->description
+#. 3.2->settings-schema.json->appletWidthSetting->description
+msgid ""
+"Applet Width Adjustment (Only for fine tuning - normally leave alone at 180:"
+msgstr ""
+"Justering af panelprogrammets bredde (kun til finjustering - lad den "
+"sædvanligvis være 180):"
+
+#. settings-schema.json->appletWidthSetting->tooltip
+#. 4.0->settings-schema.json->appletWidthSetting->tooltip
+#. 3.2->settings-schema.json->appletWidthSetting->tooltip
+msgid ""
+"Fine tuning of applet width for changes in theme and decimal places "
+"displayed - needs to be used in conjuction with changes in stylesheet.css. "
+"Value is halved when Compact Display selected"
+msgstr ""
+"Finjustering af panelprogrammets bredde i forhold til tema og antal viste "
+"decimaler - skal bruges i sammenhæng med ændringer i stylesheet.css. Værdien "
+"halveres, når kompakt visning er valgt"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Mbytes"
+msgstr "MB"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Gbytes"
+msgstr "GB"
+
+#. settings-schema.json->dataUnit->description
+#. 4.0->settings-schema.json->dataUnit->description
+#. 3.2->settings-schema.json->dataUnit->description
+msgid "Data Unit used to set Alert Levels and Cumulative Offsets"
+msgstr ""
+"Dataenhed som anvendes til indstilling af advarselsgrænse og samlede "
+"forskydninger."
+
+#. settings-schema.json->dataUnit->tooltip
+#. 4.0->settings-schema.json->dataUnit->tooltip
+#. 3.2->settings-schema.json->dataUnit->tooltip
+msgid ""
+"These are the units which will be used for setting the alert limit and "
+"cumulative offsets."
+msgstr ""
+"Enhederne som anvendes til indstilling af advarselsgrænsen og samlede "
+"forskydninger."
+
+#. settings-schema.json->head1->description
+#. 4.0->settings-schema.json->section1->title
+#. 3.2->settings-schema.json->section1->title
+msgid ""
+"Settings specific to Data Usage and Alert functions for Current Connection"
+msgstr ""
+"Indstillinger specifikke for dataforbrug og advarselsfunktioner for den "
+"aktuelle forbindelse"
+
+#. settings-schema.json->useTotalLimit->description
+#. 4.0->settings-schema.json->useTotalLimit->description
+#. 3.2->settings-schema.json->useTotalLimit->description
+msgid "Check this box to use the Alert function"
+msgstr "Aktivér for at bruge advarselsfunktionen"
+
+#. settings-schema.json->useTotalLimit->tooltip
+#. 4.0->settings-schema.json->useTotalLimit->tooltip
+#. 3.2->settings-schema.json->useTotalLimit->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link"
+msgstr ""
+"Nyttigt til mobilt bredbånd eller hvis du betaler for data på en wi-fi-"
+"forbindelse"
+
+#. settings-schema.json->totalLimit->units
+#. settings-schema.json->cumulativeOffset1->units
+#. settings-schema.json->cumulativeOffset2->units
+#. settings-schema.json->cumulativeOffset3->units
+#. 4.0->settings-schema.json->totalLimit->units
+#. 4.0->settings-schema.json->cumulativeOffset1->units
+#. 4.0->settings-schema.json->cumulativeOffset2->units
+#. 4.0->settings-schema.json->cumulativeOffset3->units
+#. 3.2->settings-schema.json->totalLimit->units
+#. 3.2->settings-schema.json->cumulativeOffset1->units
+#. 3.2->settings-schema.json->cumulativeOffset2->units
+#. 3.2->settings-schema.json->cumulativeOffset3->units
+msgid "Mbytes or Gbytes as set above"
+msgstr "MB eller GB som angivet ovenfor"
+
+#. settings-schema.json->totalLimit->description
+#. 4.0->settings-schema.json->totalLimit->description
+#. 3.2->settings-schema.json->totalLimit->description
+msgid "Data Limit before a Red Warning background is displayed in the Applet"
+msgstr "Datagrænse før en rød advarselsbaggrund vises i panelpogrammet"
+
+#. settings-schema.json->totalLimit->tooltip
+#. 4.0->settings-schema.json->totalLimit->tooltip
+#. 3.2->settings-schema.json->totalLimit->tooltip
+msgid ""
+"This is the Total Data which can be uploaded and downloaded before the "
+"background of the applet goes red - by default it goes orange at 80% of this "
+"- reset by disconnection, reboot and/or suspend depending on system"
+msgstr ""
+"Total data som kan up- og downloades, før panelprogrammets baggrund bliver "
+"rød. Som standard bliver den orange ved 80% af dette. Nulstilles ved "
+"afbrydelse af forbindelse, genstart og/eller midlertidig afbrydelse afhængig "
+"af systemet"
+
+#. settings-schema.json->alertPercentage->description
+#. 4.0->settings-schema.json->alertPercentage->description
+#. 3.2->settings-schema.json->alertPercentage->description
+msgid "Percentage of Data Limit at which Orange Warning Displayed"
+msgstr "Procent for visning af orange advarsel"
+
+#. settings-schema.json->alertPercentage->tooltip
+#. 4.0->settings-schema.json->alertPercentage->tooltip
+#. 3.2->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Data Limit at which Orange Warning Background is displayed - "
+"It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"Procent af datagrænsen ved hvilken en orange baggrund vises. Det vises også "
+"og kan ændres i panelprogrammets venstreklikmenu"
+
+#. settings-schema.json->head2->description
+#. 4.0->settings-schema.json->section2->title
+#. 3.2->settings-schema.json->section2->title
+msgid "Settings specific to Cumulative Data Usage functions"
+msgstr "Indstillinger specifikke for samlet dataforbrugsfunktioner"
+
+#. settings-schema.json->cumulativeInterface1->description
+#. 4.0->settings-schema.json->cumulativeInterface1->description
+#. 3.2->settings-schema.json->cumulativeInterface1->description
+msgid ""
+"Interface 1 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Grænseflade 1 til overvågning af samlet dataforbrug - null vil forhindre "
+"visning"
+
+#. settings-schema.json->cumulativeInterface1->tooltip
+#. settings-schema.json->cumulativeInterface2->tooltip
+#. settings-schema.json->cumulativeInterface3->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface1->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface2->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface3->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface1->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface2->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface3->tooltip
+msgid ""
+"This is normally set to ppp0 or wlan0 to allow monitoring data usage during "
+"a period by mobile internet or Wifi charged by the Mbyte"
+msgstr ""
+"Normalt indstillet til ppp0 eller wlan0 for at tillade overvågning af "
+"dataforbrug på mobilt internet eller wi-fi som afregnes pr. MB"
+
+#. settings-schema.json->cumulativeOffset1->description
+#. 4.0->settings-schema.json->cumulativeOffset1->description
+#. 3.2->settings-schema.json->cumulativeOffset1->description
+msgid "Offset applied to Cumulative Data Usage 1"
+msgstr "Forskydning anvendt på samlet dataforbrug 1"
+
+#. settings-schema.json->cumulativeOffset1->tooltip
+#. settings-schema.json->cumulativeOffset2->tooltip
+#. settings-schema.json->cumulativeOffset3->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset1->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset2->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset3->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset1->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset2->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset3->tooltip
+msgid ""
+"This can be used to offset the data usage to take into account usage on "
+"other machines or correct for other causes"
+msgstr ""
+"Anvendes for at tage højde for forbruget på andre maskiner eller for at "
+"korrigere af andre årsager"
+
+#. settings-schema.json->cumulativeInterface2->description
+#. 4.0->settings-schema.json->cumulativeInterface2->description
+#. 3.2->settings-schema.json->cumulativeInterface2->description
+msgid ""
+"Interface 2 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Grænseflade 2 til overvågning af samlet dataforbrug - null vil forhindre "
+"visning"
+
+#. settings-schema.json->cumulativeOffset2->description
+#. 4.0->settings-schema.json->cumulativeOffset2->description
+#. 3.2->settings-schema.json->cumulativeOffset2->description
+msgid "Offset applied to Cumulative Data Usage 2"
+msgstr "Forskydning anvendt på samlet dataforbrug 2"
+
+#. settings-schema.json->cumulativeInterface3->description
+#. 4.0->settings-schema.json->cumulativeInterface3->description
+#. 3.2->settings-schema.json->cumulativeInterface3->description
+msgid ""
+"Interface 3 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Grænseflade 3 til overvågning af samlet dataforbrug - null vil forhindre "
+"visning"
+
+#. settings-schema.json->cumulativeOffset3->description
+#. 4.0->settings-schema.json->cumulativeOffset3->description
+#. 3.2->settings-schema.json->cumulativeOffset3->description
+msgid "Offset applied to Cumulative Data Usage 3"
+msgstr "Forskydning anvendt på samlet dataforbrug 3"
+
+#. settings-schema.json->head3->description
+#. 4.0->settings-schema.json->section3->title
+#. 3.2->settings-schema.json->section3->title
+msgid "Settings specific to Long Term Traffic Statistics"
+msgstr "Indstillinger specifikt for langtidstrafikstatistik"
+
+#. settings-schema.json->useVnstat->description
+#. 4.0->settings-schema.json->useVnstat->description
+#. 3.2->settings-schema.json->useVnstat->description
+msgid ""
+"Display long term traffic statistics (vnstat and vnstati Must be installed). "
+msgstr ""
+"Vis langtidstrafikstatistik (vnstat og vnstati skal være installerede). "
+
+#. settings-schema.json->useVnstat->tooltip
+#. 4.0->settings-schema.json->useVnstat->tooltip
+#. 3.2->settings-schema.json->useVnstat->tooltip
+msgid ""
+"This requires vnstat and vnstati to be installed prior to being enabled."
+msgstr "Kræver at vnstat og vnstati er installerede, før den kan aktiveres."
+
+#. settings-schema.json->head4->description
+msgid "Settings for response to exceeding the current data usage limits"
+msgstr ""
+"Indstillinger for reaktion på overskridelse af de aktuelle "
+"dataforbrugsgrænser"
+
+#. settings-schema.json->useCrisisManagement->description
+#. 4.0->settings-schema.json->useCrisisManagement->description
+#. 3.2->settings-schema.json->useCrisisManagement->description
+msgid "Take action when the current data usage limit is exceed"
+msgstr "Reagér når den aktuelle dataforbrugsgrænse nås"
+
+#. settings-schema.json->useCrisisManagement->tooltip
+#. 4.0->settings-schema.json->useCrisisManagement->tooltip
+#. 3.2->settings-schema.json->useCrisisManagement->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link as it can, for example, suspend the machine after the limit has "
+"been exceeded"
+msgstr ""
+"Nyttigt til mobilt bredbånd eller hvis du betaler for data på en wi-fi-"
+"forbindelse. da det f.eks. kan afbryde maskinen, når grænsen nås"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a notification"
+msgstr "Vis en meddelelse"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a high priority notification"
+msgstr "Vis en meddelelse af høj prioritet"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Put up a full screen 'modal dialog' warning"
+msgstr "Vis en fuldskærmsadvarsel"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Run a user configurable Script (alertScript)"
+msgstr "Kør et brugerdefineret skript (alertScript)"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Disable All Networking managed by NMClient after opportunity to abort"
+msgstr ""
+"Deaktivér alle netværk håndteret af NMClient efter mulighed for at annullere"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Suspend Machine after a brief opportunity to abort (via suspendScript)"
+msgstr ""
+"Afbryd maskinen efter en kort mulighed for at annullere (via suspendScript)"
+
+#. settings-schema.json->crisisManagement->description
+#. 4.0->settings-schema.json->crisisManagement->description
+#. 3.2->settings-schema.json->crisisManagement->description
+msgid "Action to take when Data Usage Limit exceeded:"
+msgstr "Handling når dataforbrugsgrænsen nås:"
+
+#. settings-schema.json->crisisManagement->tooltip
+#. 4.0->settings-schema.json->crisisManagement->tooltip
+#. 3.2->settings-schema.json->crisisManagement->tooltip
+msgid ""
+"These are a mixture of preset options and scripts which can be changed by "
+"the user (Note: changes in scripts may not survive an update and should be "
+"backed up)"
+msgstr ""
+"Dette er en blanding af forudindstillede valgmuligheder og skripter, som kan "
+"ændres af brugeren (Bemærk: Ændringer i skripter overlever måske ikke en "
+"opdatering og bør sikkerhedskopieres)"
+
+#. settings-schema.json->disconnectDelay->units
+#. 4.0->settings-schema.json->disconnectDelay->units
+#. 3.2->settings-schema.json->disconnectDelay->units
+msgid "Seconds"
+msgstr "Sekunder"
+
+#. settings-schema.json->disconnectDelay->description
+#. 4.0->settings-schema.json->disconnectDelay->description
+#. 3.2->settings-schema.json->disconnectDelay->description
+msgid "Delay before Disabling Networking managed by NMClient"
+msgstr "Forsinkelse før netværk håndteret af NMClient deaktiveres"
+
+#. settings-schema.json->disconnectDelay->tooltip
+#. 4.0->settings-schema.json->disconnectDelay->tooltip
+#. 3.2->settings-schema.json->disconnectDelay->tooltip
+msgid ""
+"This is the delay during which you can click the Applet to abort automatic "
+"disconnection of the machine when the Data Usage Limit is exceeded."
+msgstr ""
+"Forsinkelsen lader dig klikke på panelprogrammet for at forhindre automatisk "
+"afbrydelse af forbindelsen, når dataforbrugsgrænsen er nået."
+
+#. settings-schema.json->useAlertSound->description
+#. 4.0->settings-schema.json->useAlertSound->description
+#. 3.2->settings-schema.json->useAlertSound->description
+msgid "Sound an audible alert when Data Usage Limit Exceeded"
+msgstr "Giv lydadvarsel, når dataforbrugsgrænsen nås"
+
+#. settings-schema.json->useAlertSound->tooltip
+#. 4.0->settings-schema.json->useAlertSound->tooltip
+#. 3.2->settings-schema.json->useAlertSound->tooltip
+msgid ""
+"Only for built in alerts - hard code into scripts. Must have Sox installed"
+msgstr "Kun til indbyggede advarsler. Sox skal være installeret"
+
+#. settings-schema.json->alertSound->description
+msgid "Full path and filename of alert sound file"
+msgstr "Fuld sti og filnavn til advarselslydfilen"
+
+#. settings-schema.json->alertSound->tooltip
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr "Sox skal være installeret. De fleste lydfiltyper understøttes"
+
+#. settings-schema.json->displayExtraHousekeeping->description
+#. 4.0->settings-schema.json->displayExtraHousekeeping->description
+#. 3.2->settings-schema.json->displayExtraHousekeeping->description
+msgid "Add development and test functions to Context Menu"
+msgstr "Tilføj udviklings- og testfunktioner til genvejsmenuen"
+
+#. settings-schema.json->displayExtraHousekeeping->tooltip
+#. 4.0->settings-schema.json->displayExtraHousekeeping->tooltip
+#. 3.2->settings-schema.json->displayExtraHousekeeping->tooltip
+msgid ""
+"Very useful for development of scripts and testing without actually "
+"exceeding a limit"
+msgstr ""
+"Meget nyttig til udvikling af skripter og til test uden at overskride "
+"datagrænsen"
+
+#. 4.0->settings-schema.json->page1->title
+#. 3.2->settings-schema.json->page1->title
+msgid "General"
+msgstr ""
+
+#. 4.0->settings-schema.json->page2->title
+#. 3.2->settings-schema.json->page2->title
+msgid "Data Use, Alerts and Responses"
+msgstr ""
+
+#. 4.0->settings-schema.json->page3->title
+#. 3.2->settings-schema.json->page3->title
+#, fuzzy
+msgid "Cumulative Data"
+msgstr "Samlet dataforbrug"
+
+#. 4.0->settings-schema.json->page4->title
+#. 3.2->settings-schema.json->page4->title
+msgid "Longer Term Statistics"
+msgstr ""
+
+#. 4.0->settings-schema.json->section4->title
+#. 3.2->settings-schema.json->section4->title
+#, fuzzy
+msgid "Response to exceeding the current data usage limit"
+msgstr ""
+"Indstillinger for reaktion på overskridelse af de aktuelle "
+"dataforbrugsgrænser"
+
+#. 4.0->settings-schema.json->useExtendedDisplay->description
+#. 3.2->settings-schema.json->useExtendedDisplay->description
+msgid "Enable Extended Display Options"
+msgstr ""
+
+#. 4.0->settings-schema.json->useExtendedDisplay->tooltip
+#. 3.2->settings-schema.json->useExtendedDisplay->tooltip
+msgid "This is new option version 1.0.2"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Classic - Summary of Data Usage for last Days and Months"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid ""
+"Classic Plus - Classic with addition of breakdown by hour for last 24 hours"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Custom Display - requires enabling below"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->description
+#. 3.2->settings-schema.json->extendedDisplay->description
+msgid "Type of Display - default 'classic'"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->tooltip
+#. 3.2->settings-schema.json->extendedDisplay->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional of adding "
+"an hourly breakdown over the last 24 hours and an experimental option of a "
+"user defined string for vnstati when enabled below"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->description
+#. 3.2->settings-schema.json->useVnstatiCommandString->description
+msgid "Enable Custom Display Option"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->useVnstatiCommandString->tooltip
+msgid "Check box"
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->description
+#. 3.2->settings-schema.json->vnstatiCommandString->description
+msgid "Custom options to pass to vnstati - default is '-vs' "
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->vnstatiCommandString->tooltip
+msgid ""
+"The default is the options used for the extended display. Note: this is not "
+"the whole vnstati option string - the interface and output file options are "
+"added to it automatically. Please read the vnstati manual for further "
+"information on options avaiilable"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->description
+#. 3.2->settings-schema.json->alertSound->description
+msgid "Choose alert sound file"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->tooltip
+#. 3.2->settings-schema.json->alertSound->tooltip
+#, fuzzy
+msgid "Must have Sox installed. Limited file types supported (.oga and .wav)"
+msgstr "Sox skal være installeret. De fleste lydfiltyper understøttes"

@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinnamenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2020-07-18 23:08+0100\n"
+"Last-Translator: BALLOON a.k.a. Fu-sen. <fu-sen@shigakeiichi.com>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Type to search..."
+msgstr "入力して検索..."
+
+msgid "Initializing"
+msgstr ""
+
+msgid "No description available"
+msgstr ""
+
+#, fuzzy
+msgid "All applications"
+msgstr "すべてのアプリケーション"
+
+msgid "Places"
+msgstr "場所"
+
+#, fuzzy
+msgid "Recent files"
+msgstr "最近"
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Favorite apps"
+msgstr ""
+
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr "FirefoxとMidoriのブックマークにはgir1.2-gda-5.0パッケージが必要です。"
+
+msgid "Clear List"
+msgstr ""
+
+#, fuzzy
+msgid "No recent files"
+msgstr "最近"
+
+msgid "Account details"
+msgstr ""
+
+msgid "Grid View"
+msgstr "グリット一覧"
+
+msgid "List View"
+msgstr "リスト一覧"
+
+msgid "Switch to grid view"
+msgstr ""
+
+msgid "Switch to list view"
+msgstr ""
+
+#, fuzzy
+msgid "Lock screen"
+msgstr "画面ロック"
+
+msgid "Lock the screen"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Leave the session"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Shutdown the computer"
+msgstr ""
+
+msgid "Run with NVIDIA GPU"
+msgstr ""
+
+msgid "Add to panel"
+msgstr ""
+
+msgid "Add to desktop"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+msgid "Uninstall"
+msgstr "アンインストール"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Computer"
+msgstr "コンピューター"
+
+msgid "Browse network"
+msgstr ""
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+#, fuzzy
+msgid "No recent Items"
+msgstr "最近"
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+#, fuzzy
+msgid "Recent"
+msgstr "最近"
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "Reset category order"
+msgstr ""
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+#, fuzzy
+msgid "Other application..."
+msgstr "アプリケーションアイコンを表示する"
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+msgid "Search hidden"
+msgstr ""
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Search Stopped"
+msgstr ""
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid "Cinnamenu"
+msgstr ""
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Layout and Content"
+msgstr ""
+
+msgid "Search Providers"
+msgstr ""
+
+msgid "No search provider extensions found"
+msgstr ""
+
+msgid "Panel"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Recent files settings"
+msgstr "最近のファイル設定"
+
+msgid "Open the menu editor"
+msgstr ""
+
+msgid "Use a custom icon"
+msgstr "カスタムアイコンを使用する"
+
+msgid "Use a custom icon in the panel"
+msgstr ""
+
+msgid "Panel icon"
+msgstr ""
+
+msgid "Panel text"
+msgstr ""
+
+msgid "Text to show beside the panel icon"
+msgstr ""
+
+msgid "pixels"
+msgstr ""
+
+msgid "Category icon size"
+msgstr ""
+
+msgid "Applications list icon size"
+msgstr ""
+
+msgid "Applications grid icon size"
+msgstr ""
+
+msgid "Keyboard shortcut to open and close the menu"
+msgstr ""
+
+msgid "Open menu on hover"
+msgstr ""
+
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr ""
+
+msgid "milliseconds"
+msgstr ""
+
+msgid "Menu hover delay"
+msgstr ""
+
+msgid "Use menu animations"
+msgstr "メニューアニメーションを使用する"
+
+msgid "Animate the menu on open and close"
+msgstr ""
+
+msgid "Activate categories on click"
+msgstr ""
+
+msgid "Activate categories on click instead of on hover"
+msgstr ""
+
+msgid "Enable autoscrolling"
+msgstr ""
+
+msgid "Enable autoscrolling in application list"
+msgstr ""
+
+msgid "Show web bookmarks"
+msgstr "Webブックマークを表示"
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Enable searching of open windows"
+msgstr ""
+
+msgid "Enable search providers"
+msgstr ""
+
+msgid "Include search provider results in searches"
+msgstr "検索プロバイダーの結果を検索に含める"
+
+msgid "Example Search Providers"
+msgstr ""
+
+msgid "Open menu on category:"
+msgstr ""
+
+msgid "List"
+msgstr "リスト"
+
+msgid "Grid"
+msgstr "グリッド"
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "columns"
+msgstr ""
+
+msgid "Number of columns in apps grid"
+msgstr ""
+
+msgid "Show bookmarks and places"
+msgstr "ブックマークと場所を表示する"
+
+msgid "Show bookmarks and places category in the menu"
+msgstr "メニューにブックマークと場所のカテゴリを表示する"
+
+msgid "Show application icons"
+msgstr "アプリケーションアイコンを表示する"
+
+msgid "Show category icons"
+msgstr "カテゴリアイコンを表示する"
+
+msgid "Show application descriptions under titles"
+msgstr "タイトルの下にアプリケーションの説明を表示する"
+
+msgid "Show tooltips"
+msgstr ""
+
+msgid "Tooltip delay"
+msgstr ""
+
+msgid "Use a custom menu height"
+msgstr "カスタムメニューの高さを使用する"
+
+msgid "Custom menu height"
+msgstr ""
+
+msgid "Applications view mode"
+msgstr "アプリケーション表示モード"
+
+msgid "View applications as list or grid"
+msgstr ""
+
+msgid "Application description placement"
+msgstr "アプリケーション記述の配置"
+
+msgid "Tooltips"
+msgstr ""
+
+msgid "Under titles"
+msgstr "タイトルの下"
+
+msgid "None"
+msgstr ""
+
+msgid "Choose where to show application descriptions"
+msgstr "アプリケーションの説明を表示する場所を選択してください"
+
+msgid "Sidebar location"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+#, fuzzy
+msgid "Choose where to show the sidebar"
+msgstr "アプリケーションの説明を表示する場所を選択してください"
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr ""
+
+#, fuzzy
+msgid "Show recent items"
+msgstr "最近"
+
+#, fuzzy
+msgid "Show recent items category in the menu"
+msgstr "メニューにブックマークと場所のカテゴリを表示する"
+
+msgid "Show favorite apps category"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "メニューにブックマークと場所のカテゴリを表示する"
+
+msgid "Show home folder"
+msgstr ""
+
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "メニューにブックマークと場所のカテゴリを表示する"
+
+msgid "Last used category"
+msgstr ""
+
+msgid "Autoscroll the application list on mouse hover"
+msgstr ""
+
+msgid "Show hidden files"
+msgstr ""
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+msgid "Search home folder"
+msgstr ""
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+#, fuzzy
+msgid "Web bookmarks search"
+msgstr "Webブックマークを表示"
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "カスタムアイコンを使用する"
+
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "カスタムアイコンを使用する"
+
+msgid "Panel icon size"
+msgstr ""
+
+msgid "Choose a custom size for the panel icon"
+msgstr ""
+
+msgid "Sidebar icon size"
+msgstr ""
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""
+
+#~ msgid ""
+#~ "A flexible menu providing formatting options, web bookmarks, search "
+#~ "provider support and fuzzy searching."
+#~ msgstr ""
+#~ "書式設定オプション、Webブックマーク、検索プロバイダーサポート、あいまい検"
+#~ "索を提供する柔軟なメニュー。"
+
+#, fuzzy
+#~ msgid "Choose whether or not bookmarks are indexed in the menu."
+#~ msgstr "メニューにブックマークと場所を表示するかどうかを選択します。"
+
+#, fuzzy
+#~ msgid "Choose whether or not open windows are indexed in menu searches."
+#~ msgstr "メニューにブックマークと場所を表示するかどうかを選択します。"
+
+#~ msgid "Choose whether or not to show bookmarks and places in the menu."
+#~ msgstr "メニューにブックマークと場所を表示するかどうかを選択します。"
+
+#~ msgid "Choose whether or not to show icons on applications."
+#~ msgstr "アプリケーションにアイコンを表示するかどうかを選択します。"
+
+#~ msgid "Choose whether or not to show icons on categories."
+#~ msgstr "カテゴリにアイコンを表示するかどうかを選択します。"
+
+#~ msgid ""
+#~ "Choose whether or not to show the application description on the "
+#~ "application buttons."
+#~ msgstr ""
+#~ "アプリケーションボタンにアプリケーションの説明を表示するかどうかを選択しま"
+#~ "す。"
+
+#~ msgid "Enable filesystem path entry in search box"
+#~ msgstr "検索ボックスでファイルシステムのパスエントリを有効にする"
+
+#~ msgid "Allows path entry in the menu search box."
+#~ msgstr "メニュー検索ボックスのパス入力を許可します。"

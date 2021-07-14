@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 21:34+0200\n"
+"PO-Revision-Date: 2017-09-24 13:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:97
+msgid "Num Lock"
+msgstr "Num Lock"
+
+#: applet.js:103
+msgid "Caps Lock"
+msgstr "Caps Lock"
+
+#: applet.js:142
+msgid "Lock Keys"
+msgstr "Lock клавиши"
+
+#: applet.js:190
+msgid "Num lock on"
+msgstr "Num lock включён"
+
+#: applet.js:193
+msgid "Num lock off"
+msgstr "Num lock выключен"
+
+#: applet.js:201
+msgid "Caps lock on"
+msgstr "Caps lock включён"
+
+#: applet.js:204
+msgid "Caps lock off"
+msgstr "Caps lock выключен"
+
+#. betterlock->settings-schema.json->show-notifications->description
+msgid "Show notifications"
+msgstr "Показать уведомления"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock only"
+msgstr "Только Num Lock"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Caps Lock only"
+msgstr "Только Caps Lock"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock and Caps Lock"
+msgstr "Num Lock и Caps Lock"
+
+#. betterlock->settings-schema.json->indicator-type->description
+msgid "Choose which indicator to show"
+msgstr "Выберите индикатор для отображения"
+
+#. betterlock->metadata.json->description
+msgid ""
+"Shows whether caps lock/num lock is on, and displays a notification when "
+"these change."
+msgstr ""
+"Апплет показывает включёны ли caps lock или num lock, и отображает "
+"уведомление в трее при их переключении."
+
+#. betterlock->metadata.json->name
+msgid "Num Lock/Caps Lock indicator with notifications"
+msgstr "Индикатор Num Lock/Caps Lock с уведомлениями в трее"

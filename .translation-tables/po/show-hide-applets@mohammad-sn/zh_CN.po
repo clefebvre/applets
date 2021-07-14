@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-11 13:33+0800\n"
+"PO-Revision-Date: 2017-04-11 13:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:51
+msgid "Panel Edit mode"
+msgstr "面板编辑模式"
+
+#: applet.js:57
+msgid "Add applets to the panel"
+msgstr "添加小程序到面板"
+
+#. show-hide-applets@mohammad-sn->metadata.json->description
+msgid ""
+"hide a few applet to have a neater panel, and make them show up again by a "
+"click"
+msgstr "隐藏一些小程序以拥有更整洁的面板，并通过点击使它们重新显示"
+
+#. show-hide-applets@mohammad-sn->metadata.json->name
+msgid "Drawer (show/hide applets)"
+msgstr "抽屉（显示/隐藏小程序）"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->description
+msgid "Hide on hovering again"
+msgstr "悬停时重新隐藏"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivateshide->tooltip
+msgid "toggle visibility of applets on mouse hover"
+msgstr "鼠标悬停时切换小程序的可见性"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiderstime->description
+msgid "Reshowers' autohide delay: "
+msgstr "自动隐藏重新显示的小程序的延迟："
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohiderstime->units
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->units
+msgid "seconds"
+msgstr "秒"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->description
+msgid "Disable start time autohide"
+msgstr "禁用启动时自动隐藏"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->disablestarttimeautohide->tooltip
+msgid "if not in autohide mode"
+msgstr "如果不是在自动隐藏模式"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->head->description
+msgid "Settings for show-hide-applets@mohammad-sn"
+msgstr "show-hide-applets@mohammad-sn的设置"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->description
+msgid "Autohide"
+msgstr "自动隐藏"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->autohide->tooltip
+msgid ""
+"check if you want to hide applets automatically, unless you should click on "
+"applet to do so"
+msgstr "如果您想自动隐藏小程序请选中，否则您应该点击小程序来执行此操作"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->autohiders->description
+msgid "Autohide reshowing applets"
+msgstr "自动隐藏重新显示的小程序"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->description
+msgid "Hover activates/hides after "
+msgstr "悬停激活/隐藏的时间"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hovertime->units
+msgid "miliseconds"
+msgstr "毫秒后"
+
+#. show-hide-applets@mohammad-sn->settings-schema.json->hidetime->description
+msgid "Autohide after "
+msgstr "自动隐藏"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->description
+msgid "Activate on hover"
+msgstr "悬停时激活"
+
+#. show-hide-applets@mohammad-sn->settings-
+#. schema.json->hoveractivates->tooltip
+msgid "show applets on mouse hover"
+msgstr "鼠标悬停时显示小程序"

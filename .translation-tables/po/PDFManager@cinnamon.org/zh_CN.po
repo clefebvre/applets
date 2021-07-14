@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mickael Albertus <mickael.albertus@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr ""
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr "合并PDF"
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr "提取PDF"
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr "减小PDF的大小"
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr "向左旋转PDF"
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr "向右旋转PDF"
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr "垂直翻转PDF"
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr "打开文档查看器"
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr ""
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr "打开PDF模组"
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr "打开PDF编辑器"
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr ""
+
+#: pdf-manager.py:35
+msgid ""
+"Do you want to install PDF toolkit? Your operations will be performed after "
+"the installation."
+msgstr ""
+
+#: pdf-manager.py:37
+msgid ""
+"Installation failed. Do you want to try again? Your operations will be "
+"performed after the installation."
+msgstr ""
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr "选择您的PDF..."
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr "PDF文件"
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr ""
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr ""
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr "另存为..."
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr ""
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr ""
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr ""
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr "PDF管理器"
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "安装PDF管理器的工具"
+
+#~ msgid "Click here to manage your PDF"
+#~ msgstr "点击此处管理您的PDF"
+
+#~ msgid "Manager of PDF"
+#~ msgstr "PDF管理器"
+
+#~ msgid "Pages to extract"
+#~ msgstr "要提取的页面"
+
+#~ msgid "Input pages to extract (e.g. : 1-5 7-9 or 3-end or even or odd) :"
+#~ msgstr "输入要提取的页面（例如：1-5 7-9或3结尾或偶数或奇数）"

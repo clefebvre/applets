@@ -1,0 +1,488 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-04 21:15+0300\n"
+"PO-Revision-Date: 2021-02-06 21:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#. metadata.json->name
+msgid "Fiat and cryptocurrency quote rates"
+msgstr "Курсы котировок фиатных и криптовалют"
+
+#. metadata.json->description
+msgid ""
+"Displays the current price and trends of cryptocurrencies (TOP 150 coins "
+"with CoinMarketCap) and popular fiat currencies (Dollar, Euro, Ruble etc.). "
+"Monitoring daily percentage changes."
+msgstr ""
+"Отображает текущую цену и тренды криптовалют (ТОП 150 монет с CoinMarketCap) "
+"и популярные фиатные валюты (доллар, евро, рубль и т. д.). Мониторинг "
+"ежедневных процентных изменений."
+
+#. settings-schema.json->layout->general->title
+msgid "General"
+msgstr "Общее"
+
+#. settings-schema.json->country->description
+msgid "Choosing a server for fiat currency"
+msgstr "Выбор сервера для фиатной валюты"
+
+#. settings-schema.json->country->tooltip
+msgid "Affects the load data fiat currency quotes"
+msgstr "Влияет на загрузку данных котировок фиатной валюты"
+
+#. settings-schema.json->country->options
+msgid "European Union"
+msgstr "Европа"
+
+#. settings-schema.json->country->options
+msgid "Russian Federation"
+msgstr "Россия"
+
+#. settings-schema.json->select-coin->description
+msgid "Display cryptocurrency quotes instead of fiat currency"
+msgstr "Отображать котировки криптовалюты вместо фиатной валюты"
+
+#. settings-schema.json->layout->cfgCoin->title
+msgid "Cryptocurrency options"
+msgstr "Параметры криптовалюты"
+
+#. settings-schema.json->apiKey->description
+msgid "Your CoinMarketCap API Key"
+msgstr "Ваш ключ API с CoinMarketCap"
+
+#. settings-schema.json->apiKey->tooltip
+msgid ""
+"If you don`t have one you can get it for free at https://pro.coinmarketcap."
+"com"
+msgstr "Его можно получить бесплатно на https://pro.coinmarketcap.com"
+
+#. settings-schema.json->website->description
+msgid "Go to CoinMarketCap website"
+msgstr "Перейти на сайт CoinMarketCap"
+
+#. settings-schema.json->website->tooltip
+msgid "Click this button to visit the website"
+msgstr "Нажмите эту кнопку, чтобы посетить веб-сайт"
+
+#. settings-schema.json->coin->description
+msgid "Select base currency (coin)"
+msgstr "Выберите базовую валюту (монета)"
+
+#. settings-schema.json->coin->tooltip
+msgid "For which coin to display a quote?"
+msgstr "Для какой монеты показывать котировку?"
+
+#. settings-schema.json->ApiInterval->description
+msgid "Select update interval (using API credits)"
+msgstr "Выберите интервал обновления (используются кредиты API)"
+
+#. settings-schema.json->ApiInterval->tooltip
+msgid ""
+"Determines how often to receive new data. Each update is one credit. For a "
+"free basic plan, an interval of 30+ minutes is recommended"
+msgstr ""
+"Определяет как часто получать новые данные. Каждое обновление - один кредит. "
+"Для бесплатного базового плана рекомендуется интервал от 30 минут"
+
+#. settings-schema.json->ApiInterval->options
+msgid "5 minutes"
+msgstr "5 минут"
+
+#. settings-schema.json->ApiInterval->options
+msgid "15 minutes"
+msgstr "15 минут"
+
+#. settings-schema.json->ApiInterval->options
+msgid "30 minutes"
+msgstr "30 минут"
+
+#. settings-schema.json->ApiInterval->options
+msgid "45 minutes"
+msgstr "45 минут"
+
+#. settings-schema.json->ApiInterval->options
+msgid "1 hour"
+msgstr "1 час"
+
+#. settings-schema.json->ApiInterval->options
+msgid "2 hours"
+msgstr "2 часа"
+
+#. settings-schema.json->ApiInterval->options
+msgid "4 hours"
+msgstr "4 часа"
+
+#. settings-schema.json->layout->cfgDisplay->title
+msgid "Display options"
+msgstr "Параметры отображения"
+
+#. settings-schema.json->currency->description
+msgid "Select quote currency"
+msgstr "Выберите валюту котировки"
+
+#. settings-schema.json->currency->tooltip
+msgid "In which currency to show quote information"
+msgstr "В какой валюте показывать информацию о ценах"
+
+#. settings-schema.json->currency->options
+msgid "Australian dollar (AUD)"
+msgstr "Австралийский доллар (AUD)"
+
+#. settings-schema.json->currency->options
+msgid "Brazilian real (BRL)"
+msgstr "Бразильский реал (BRL)"
+
+#. settings-schema.json->currency->options
+msgid "Bulgarian lev (BGN)"
+msgstr "Болгарский лев (BGN)"
+
+#. settings-schema.json->currency->options
+msgid "Canadian dollar (CAD)"
+msgstr "Канадский доллар (CAD)"
+
+#. settings-schema.json->currency->options
+msgid "Chinese yuan renminbi (CNY)"
+msgstr "Китайский юань (CNY)"
+
+#. settings-schema.json->currency->options
+msgid "Czech koruna (CZK)"
+msgstr "Чешская крона (CZK)"
+
+#. settings-schema.json->currency->options
+msgid "Danish krone (DKK)"
+msgstr "Датская крона (DKK)"
+
+#. settings-schema.json->currency->options
+msgid "Euro (EUR)"
+msgstr "Евро (EUR)"
+
+#. settings-schema.json->currency->options
+msgid "Hong Kong dollar (HKD)"
+msgstr "Гонконгский доллар (HKD)"
+
+#. settings-schema.json->currency->options
+msgid "Hungarian forint (HUF)"
+msgstr "Венгерский форинт (HUF)"
+
+#. settings-schema.json->currency->options
+msgid "Indian rupee (INR)"
+msgstr "Индийских рупий (INR)"
+
+#. settings-schema.json->currency->options
+msgid "Japanese yen (JPY)"
+msgstr "Японский йен (JPY)"
+
+#. settings-schema.json->currency->options
+msgid "Norwegian krone (NOK)"
+msgstr "Норвежская крона (NOK)"
+
+#. settings-schema.json->currency->options
+msgid "Polish zloty (PLN)"
+msgstr "Польский злотый (PLN)"
+
+#. settings-schema.json->currency->options
+msgid "Pound sterling (GBP)"
+msgstr "Фунт стерлингов (GBP)"
+
+#. settings-schema.json->currency->options
+msgid "Romanian leu (RON)"
+msgstr "Румынский лей (RON)"
+
+#. settings-schema.json->currency->options
+msgid "Russian rouble (RUB)"
+msgstr "Российский рубль (RUB)"
+
+#. settings-schema.json->currency->options
+msgid "Singapore dollar (SGD)"
+msgstr "Сингапурский доллар (SGD)"
+
+#. settings-schema.json->currency->options
+msgid "South African rand (ZAR)"
+msgstr "Южноафриканский рэнд (ZAR)"
+
+#. settings-schema.json->currency->options
+msgid "South Korean won (KRW)"
+msgstr "Вон Республики Корея (KRW)"
+
+#. settings-schema.json->currency->options
+msgid "Swedish krona (SEK)"
+msgstr "Шведская крона (SEK)"
+
+#. settings-schema.json->currency->options
+msgid "Swiss franc (CHF)"
+msgstr "Швейцарский франк (CHF)"
+
+#. settings-schema.json->currency->options
+msgid "Turkish lira (TRY)"
+msgstr "Турецкая лира (TRY)"
+
+#. settings-schema.json->currency->options
+msgid "US dollar (USD)"
+msgstr "Доллар США (USD)"
+
+#. settings-schema.json->display->description
+msgid "Display type quotes"
+msgstr "Вид отображения котировки"
+
+#. settings-schema.json->display->options
+msgid "Money (e.g. 8,261.20 $)"
+msgstr "Деньги (напр. 8 261,20 ₽)"
+
+#. settings-schema.json->display->options
+msgid "Delta (e.g. -0.426 $)"
+msgstr "Дельта (напр. -0,426 ₽)"
+
+#. settings-schema.json->display->options
+msgid "Percent (e.g. 0.26%)"
+msgstr "Процент (напр. 0,26%)"
+
+#. settings-schema.json->show-icon->description
+msgid "Show icon"
+msgstr "Показать иконку"
+
+#. settings-schema.json->show-name->description
+msgid "Show currency name"
+msgstr "Показать имя валюты"
+
+#. settings-schema.json->layout->graph->title
+msgid "Graph"
+msgstr "График"
+
+#. settings-schema.json->graph-On->description
+msgid "Show currency history on graph"
+msgstr "Показать историю валюты на графике"
+
+#. settings-schema.json->layout->graphOption->title
+msgid "Graph options"
+msgstr "Параметры графика"
+
+#. settings-schema.json->graphDuration->description
+msgid "Duration history (in days)"
+msgstr "Продолжительность истории (в днях)"
+
+#. settings-schema.json->graphColor->description
+msgid "Color"
+msgstr "Цвет"
+
+#. settings-schema.json->layout->alert->title
+msgid "Alerts"
+msgstr "Оповещения"
+
+#. settings-schema.json->alert-On->description
+msgid "Enable alerts"
+msgstr "Включить оповещения"
+
+#. settings-schema.json->layout->alertOption->title
+msgid "Alerts options"
+msgstr "Параметры оповещений"
+
+#. settings-schema.json->alertAbove->description
+msgid "Maximum value"
+msgstr "Максимальное значение"
+
+#. settings-schema.json->alertAbove->tooltip
+msgid "Alert is triggered when the current value is higher than this value"
+msgstr "Оповещение срабатывает, когда текущее значение выше этого значения"
+
+#. settings-schema.json->alertBelow->description
+msgid "Minimum value"
+msgstr "Минимальное значение"
+
+#. settings-schema.json->alertBelow->tooltip
+msgid "Alert is triggered when the current value is lower than this value"
+msgstr "Оповещение срабатывает, когда текущее значение ниже этого значения"
+
+#. settings-schema.json->alertType->description
+msgid "Unit"
+msgstr "Единица измерения"
+
+#. settings-schema.json->alertType->options
+msgid "Percentages"
+msgstr "Проценты"
+
+#. settings-schema.json->alertType->options
+msgid "Money"
+msgstr "Деньги"
+
+#. modules/stringsForTranslation.js:17
+msgid "Australian dollar"
+msgstr "Австралийский доллар"
+
+#. modules/stringsForTranslation.js:18
+msgid "Brazilian real"
+msgstr "Бразильский реал"
+
+#. modules/stringsForTranslation.js:19
+msgid "Bulgarian lev"
+msgstr "Болгарский лев"
+
+#. modules/stringsForTranslation.js:20
+msgid "Canadian dollar"
+msgstr "Канадский доллар"
+
+#. modules/stringsForTranslation.js:21
+msgid "Chinese yuan renminbi"
+msgstr "Китайский юань"
+
+#. modules/stringsForTranslation.js:22
+msgid "Czech koruna"
+msgstr "Чешская крона"
+
+#. modules/stringsForTranslation.js:23
+msgid "Danish krone"
+msgstr "Датская крона"
+
+#. modules/stringsForTranslation.js:24
+msgid "Euro"
+msgstr "Евро"
+
+#. modules/stringsForTranslation.js:25
+msgid "Hong Kong dollar"
+msgstr "Гонконгский доллар"
+
+#. modules/stringsForTranslation.js:26
+msgid "Hungarian forint"
+msgstr "Венгерский форинт"
+
+#. modules/stringsForTranslation.js:27
+msgid "Indian rupee"
+msgstr "Индийских рупий"
+
+#. modules/stringsForTranslation.js:28
+msgid "Japanese yen"
+msgstr "Японский йен"
+
+#. modules/stringsForTranslation.js:29
+msgid "Norwegian krone"
+msgstr "Норвежская крона"
+
+#. modules/stringsForTranslation.js:30
+msgid "Polish zloty"
+msgstr "Польский злотый"
+
+#. modules/stringsForTranslation.js:31
+msgid "Pound sterling"
+msgstr "Фунт стерлингов"
+
+#. modules/stringsForTranslation.js:32
+msgid "Romanian leu"
+msgstr "Румынский лей"
+
+#. modules/stringsForTranslation.js:33
+msgid "Russian rouble"
+msgstr "Российский рубль"
+
+#. modules/stringsForTranslation.js:34
+msgid "Singapore dollar"
+msgstr "Сингапурский доллар"
+
+#. modules/stringsForTranslation.js:35
+msgid "South African rand"
+msgstr "Южноафриканский рэнд"
+
+#. modules/stringsForTranslation.js:36
+msgid "South Korean won"
+msgstr "Вон Республики Корея"
+
+#. modules/stringsForTranslation.js:37
+msgid "Swedish krona"
+msgstr "Шведская крона"
+
+#. modules/stringsForTranslation.js:38
+msgid "Swiss franc"
+msgstr "Швейцарский франк"
+
+#. modules/stringsForTranslation.js:39
+msgid "Turkish lira"
+msgstr "Турецкая лира"
+
+#. modules/stringsForTranslation.js:40
+msgid "US dollar"
+msgstr "Доллар США"
+
+#. modules/stringsForTranslation.js:43
+msgid "Set API key..."
+msgstr "Нет ключа API."
+
+#. modules/stringsForTranslation.js:44
+msgid "Error"
+msgstr "Ошибка"
+
+#. modules/stringsForTranslation.js:45
+msgid "Reconnect"
+msgstr "Соединение"
+
+#. modules/stringsForTranslation.js:46
+msgid "Update: "
+msgstr "Обновлено: "
+
+#. modules/stringsForTranslation.js:47
+msgid "Rank: #"
+msgstr "Ранг: #"
+
+#. modules/stringsForTranslation.js:48
+msgid "1H:"
+msgstr "1ч:"
+
+#. modules/stringsForTranslation.js:49
+msgid "24H:"
+msgstr "24ч:"
+
+#. modules/stringsForTranslation.js:50
+msgid "7D:"
+msgstr "7дн:"
+
+#. modules/stringsForTranslation.js:51
+msgid "Max.: "
+msgstr "Макс.: "
+
+#. modules/stringsForTranslation.js:52
+msgid "Min.: "
+msgstr "Мин.: "
+
+#. modules/stringsForTranslation.js:53
+msgid "For the Russian server, try again in 15 seconds."
+msgstr "Если сервер России, подождите 15 секунд."
+
+#. modules/stringsForTranslation.js:54
+msgid "History for "
+msgstr "История за "
+
+#. modules/stringsForTranslation.js:55
+msgid " day"
+msgstr " день"
+
+#. modules/stringsForTranslation.js:56
+msgid " days"
+msgstr " дня"
+
+#. modules/stringsForTranslation.js:57
+msgid " _days"
+msgstr " дней"
+
+#. modules/stringsForTranslation.js:58
+msgid "Average:"
+msgstr "Среднее:"
+
+#. modules/stringsForTranslation.js:59
+msgid "Click to open graph"
+msgstr "Нажмите для открытия графика"
+
+#. modules/stringsForTranslation.js:60
+msgid "Update quote"
+msgstr "Обновить котировку"

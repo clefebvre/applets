@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-14 07:13+0100\n"
+"PO-Revision-Date: 2021-04-05 10:54+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr "Várakozás az nvidia-ra"
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr "Energiastatisztika megnyitása"
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr "Rendszerfigyelő megnyitása"
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr "Karbantartás és rendszer almenü"
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr "Változásnaplót megtekitése"
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr "Sugó megnyitása"
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr "NVidia GPU kikapcsolva"
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia GPU bekapcsolva és a maghőmérséklete"
+
+#: applet.js:289
+msgid "Err"
+msgstr "Err"
+
+#: applet.js:290
+msgid ""
+"Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-"
+"prime  installed?"
+msgstr ""
+"Az Nvidia Prime nincs megfelelően beállítva - telepítve vannak az nvidia "
+"illesztőprogramok és az nvidia-prime?"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "A GPU hőmérséklete és az ikon megjelenítése"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Elérhető a vízszintes és függőleges paneleken. Megjelenítés Celsius fokban."
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid ""
+"Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+"Hozzáférés a továbbfejlesztett funkcionalitáshoz a helyi menü segítségével - "
+"újra kell indítani a Cinnamon-t"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid ""
+"Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be "
+"installed"
+msgstr ""
+"Jelenleg  hozzáadja a glxspheres64 grafikus processzor tesztjét - telepíteni "
+"kell a VirtualGL-t"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr "Általános beállítások az nVidia Prime Figyelő Kisalkalmazáshoz"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "A megjelenítés frissítési gyakorisága:"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Növelje vagy csökkentse ezt a tárcsaértéket a frissítési intervallum "
+"megváltoztatásához - használjon lassú frissítési értéket, ha lassú "
+"számítógépe van"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr "További funkcionalitás"
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid ""
+"Displays which Graphics processor is active and nVidia GPU Temperature when "
+"active and in a horizontal panel"
+msgstr ""
+"Megjeleníti, hogy melyik grafikus processzor aktív, továbbá az nVidia GPU "
+"hőmérsékletét, ha az aktív és vízszintes panelen van"
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr "nVidia Prime GPU Megjelenítése"

@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-22 01:28+0800\n"
+"PO-Revision-Date: 2017-04-22 01:30+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:46
+msgid "Y"
+msgstr "年"
+
+#: applet.js:48 applet.js:52
+msgid "D"
+msgstr "天"
+
+#: applet.js:52
+msgid "h"
+msgstr "时"
+
+#. uptime@vatanuki.kun->metadata.json->description
+msgid "A simple applet that displays uptime."
+msgstr "一个显示运行时间的简单的小程序。"
+
+#. uptime@vatanuki.kun->metadata.json->name
+msgid "Up Time"
+msgstr "运行时间"

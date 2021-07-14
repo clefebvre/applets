@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 14:29+0100\n"
+"PO-Revision-Date: 2017-03-12 11:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:77
+msgid "Checking status"
+msgstr "检查状态"
+
+#: applet.js:108
+msgid "Container does not exist"
+msgstr "容器不存在"
+
+#: applet.js:111
+msgid "Containername is in use"
+msgstr "容器名已在使用中"
+
+#: applet.js:114
+msgid "Container is running"
+msgstr "容器正在运行"
+
+#: applet.js:117
+msgid "Container is paused"
+msgstr "容器已暂停"
+
+#: applet.js:120
+msgid "Container has an error"
+msgstr "容器有错误"
+
+#: applet.js:123
+msgid "Container is not running"
+msgstr "容器未运行"
+
+#: applet.js:129
+msgid "Error, trying to set unknown status!"
+msgstr "错误，尝试设置未知状态"
+
+#: applet.js:158
+msgid "Error, don't know what to do on unknown status!"
+msgstr "出错，未知状态时不知如何处理！"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->image->description
+msgid "docker image"
+msgstr "docker镜像"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->container->description
+msgid "container name"
+msgstr "容器名称"
+
+#. docker-ctrl@hoffis-eck.de->settings-schema.json->parameter->description
+msgid "parameter for the container"
+msgstr "容器参数"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->description
+msgid "Activates/Deactivates Docker Container"
+msgstr "激活/停用Docker容器"
+
+#. docker-ctrl@hoffis-eck.de->metadata.json->name
+msgid "Docker Control"
+msgstr "Docker控制"

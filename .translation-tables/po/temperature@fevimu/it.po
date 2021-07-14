@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 23:44+0200\n"
+"PO-Revision-Date: 2019-10-25 21:02+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:80 applet.js:159
+msgid "Temperature"
+msgstr "Temperatura"
+
+#: applet.js:148
+msgid "Error"
+msgstr "Errore"
+
+#: applet.js:149
+msgid ""
+"Run sensors-detect as root. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Esegui sensors-detect come root. Se ciò non aiuta, clicca qui per segnalare "
+"con l'output dei tuoi sensori!"
+
+#: applet.js:151
+msgid "Warning"
+msgstr "Attenzione"
+
+#: applet.js:152
+msgid ""
+"Please install lm_sensors. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Installa lm_sensors. Se ciò non aiuta, clicca qui per segnalare l'output dei "
+"tuoi sensori!"
+
+#: applet.js:224
+msgid "Thresholds Info"
+msgstr "Info Soglie"
+
+#: applet.js:225
+msgid "High Temp"
+msgstr "Temp Elevata"
+
+#: applet.js:226
+msgid "Crit. Temp"
+msgstr "Temp Crit."
+
+#: applet.js:237
+msgid "Critical"
+msgstr "Critica"
+
+#: applet.js:240
+msgid "High"
+msgstr "Elevata"
+
+#: applet.js:253
+msgid "Current Temperature"
+msgstr "Temperatura Attuale"
+
+#: applet.js:255
+msgid "Critical Temperature"
+msgstr "Temperatura Critica"
+
+#. metadata.json->name
+msgid "CPU Temperature Indicator"
+msgstr "Indicatore Temperatura CPU"
+
+#. metadata.json->description
+msgid "Shows CPU Temperature"
+msgstr "Mostra Temperatura CPU"
+
+#. settings-schema.json->use-fahrenheit->description
+msgid "Show temperature in Fahrenheit"
+msgstr "Mostra temperatura in Fahrenheit"
+
+#. settings-schema.json->only-integer-part->description
+msgid "Use integer values for temperature"
+msgstr "Usa valori interi per la temperatura"
+
+#. settings-schema.json->show-unit->description
+msgid "Show unit"
+msgstr "Mostra unità"
+
+#. settings-schema.json->show-unit->tooltip
+msgid "Whether or not show the unit after the temperature value."
+msgstr ""
+"Indica se visualizzare o meno l'unità dopo il valore della temperatura."
+
+#. settings-schema.json->show-unit-letter->description
+msgid "Show unit letter"
+msgstr "Mostra lettera unità"
+
+#. settings-schema.json->show-unit-letter->tooltip
+msgid "Whether or not show the unit letter (C or F)."
+msgstr "Se visualizzare o meno la lettera di unità (C o F)."
+
+#. settings-schema.json->show-label-prefix->description
+msgid "Show label prefix"
+msgstr ""
+
+#. settings-schema.json->show-label-prefix->tooltip
+#, fuzzy
+msgid "Whether or not to add a label before the temperature value."
+msgstr ""
+"Indica se visualizzare o meno l'unità dopo il valore della temperatura."
+
+#. settings-schema.json->label-prefix->description
+msgid "Label prefix"
+msgstr ""
+
+#. settings-schema.json->label-prefix->tooltip
+#, fuzzy
+msgid "The label to be shown before the temperature value."
+msgstr ""
+"Indica se visualizzare o meno l'unità dopo il valore della temperatura."
+
+#. settings-schema.json->interval->units
+msgid "ms"
+msgstr "ms"
+
+#. settings-schema.json->interval->description
+msgid "Update interval"
+msgstr "Intervallo di aggiornamento"
+
+#. settings-schema.json->change-color->description
+msgid "Change color when the temperature becomes High or Critical"
+msgstr "Cambia colore quando la temperatura diventa Elevata o Critica"
+
+#. settings-schema.json->change-color->tooltip
+msgid ""
+"Selecting this option, this applet becomes\n"
+" orange when the High Temperature Threshold is reached,\n"
+" red when the Critical Temperature Threshold is reached."
+msgstr ""
+"Selezionando questa opzione, questo applet diventa\n"
+" arancione quando la Soglia Temperatura Elevata viene\n"
+" raggiunta o rosso nel caso della Soglia Temperatura Critica."
+
+#. settings-schema.json->only-colors->description
+msgid "Only use colors to alert me"
+msgstr "Utilizza solo i colori per allertarmi"
+
+#. settings-schema.json->only-colors->tooltip
+msgid ""
+"Select this option to not display text alerts in horizontal panels.\n"
+"(No text alert is ever displayed on vertical panels.)"
+msgstr ""
+"Seleziona questa opzione per non mostrare avvertimenti testuali nei\n"
+"pannelli orizzontali.\n"
+"(Nessun avvertimento testuale sarà mostrato su pannelli verticali)"

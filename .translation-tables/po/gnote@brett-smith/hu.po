@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-26 18:09+0000\n"
+"PO-Revision-Date: 2021-03-30 11:21+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:209
+msgid "Type to search..."
+msgstr "Gépeljen a kereséshez…"
+
+#: applet.js:302
+msgid "Gnote stopped working!"
+msgstr "Gnote leállt!"
+
+#: applet.js:305
+msgid "Gnote isn't running! Do you have it installed?"
+msgstr "Gnote nem fut! Installálta már?"
+
+#. metadata.json->name
+#: applet.js:338
+msgid "Gnote"
+msgstr "Gnote"
+
+#: applet.js:359
+msgid "New Note"
+msgstr "Új jegyzet"
+
+#: applet.js:423
+msgid "GNote DBus service not found. Is GNote installed?"
+msgstr "GNote DBus szolgáltatás nem található. A GNote installálva van?"
+
+#: applet.js:425
+msgid "Click to see error!"
+msgstr "Kattintson a hiba megtekintéséhez!"
+
+#: applet.js:427
+msgid "Error: "
+msgstr "Hiba: "
+
+#: applet.js:428
+msgid "Retry"
+msgstr "Újra"
+
+#. metadata.json->description
+msgid "Lists notes, view, create notes and search notes."
+msgstr "Jegyzetek felsorolása, megtekintése, létrehozása, keresése."

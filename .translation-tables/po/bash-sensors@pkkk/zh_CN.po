@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2017-04-21 19:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:79
+msgid "Error: Still waiting for command to finish!"
+msgstr ""
+
+#. metadata.json->name
+msgid "Bash Sensors"
+msgstr "Bash传感器"
+
+#. metadata.json->description
+msgid ""
+"Write your Bash commands to specify applet output (temperature sensors and "
+"not only!)"
+msgstr "编写您的Bash命令以指定小程序输出（不仅限于温度传感器！）"
+
+#. settings-schema.json->head->description
+msgid "Settings - Bash Sensors (write commands in Bash!)"
+msgstr "设置 - Bash传感器（在Bash中编写命令！）"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr ""
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr ""
+
+#. settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "秒"
+
+#. settings-schema.json->refreshInterval->description
+#, fuzzy
+msgid "Refresh interval [0 for no refresh]"
+msgstr "刷新间隔"
+
+#. settings-schema.json->shell->description
+msgid "Shell"
+msgstr ""
+
+#. settings-schema.json->shell->tooltip
+msgid "Shell to be used ('-c' will be used to call commands)"
+msgstr ""
+
+#. settings-schema.json->head1->description
+#, fuzzy
+msgid "Commands"
+msgstr "命令1"
+
+#. settings-schema.json->script1->description
+msgid "Command 1"
+msgstr "命令1"
+
+#. settings-schema.json->script1->tooltip
+#, fuzzy
+msgid "first line of output (use \\f for more lines)"
+msgstr "第一行输出"
+
+#. settings-schema.json->enableScript2->description
+msgid "Two-line mode (command 2 enabled)"
+msgstr "双行模式（命令2启用）"
+
+#. settings-schema.json->script2->description
+msgid "Command 2"
+msgstr "命令2"
+
+#. settings-schema.json->script2->tooltip
+msgid "second line of output (optional)"
+msgstr "第二行输出（可选）"
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr ""
+
+#. settings-schema.json->dynamicIcon->description
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr ""
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr ""
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr ""
+
+#. settings-schema.json->head3->description
+msgid "Tooltip"
+msgstr ""
+
+#. settings-schema.json->dynamicTooltip->description
+msgid "Dynamic tooltip (use output of tooltip command as tooltip)"
+msgstr ""
+
+#. settings-schema.json->tooltipScript->description
+msgid "Tooltip command or static tooltip text"
+msgstr ""
+
+#. settings-schema.json->tooltipScript->tooltip
+msgid "tooltip (static or dynamic)"
+msgstr ""
+
+#. settings-schema.json->head4->description
+#, fuzzy
+msgid "Command on applet click"
+msgstr "菜单命令（左键点击小程序）"
+
+#. settings-schema.json->menuScript->description
+msgid "Menu command (on applet left-click)"
+msgstr "菜单命令（左键点击小程序）"
+
+#. settings-schema.json->menuScript->tooltip
+msgid "allows to display lots of information in popup menu"
+msgstr "允许在弹出的菜单中显示详细信息"
+
+#. settings-schema.json->menuScriptDisplay->description
+msgid "Display output of menu command"
+msgstr ""
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr ""
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr ""
+
+#~ msgid "Bash Sensors!"
+#~ msgstr "Bash传感器！"
+
+#~ msgid "script error"
+#~ msgstr "脚本错误"

@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-19 17:20+0100\n"
+"PO-Revision-Date: 2017-04-20 22:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. metadata.json->name
+#: applet.js:40 applet.js:56 applet.js:99 applet.js:206 applet.js:223
+msgid "SSH Launcher"
+msgstr "SSH启动器"
+
+#: applet.js:99
+msgid "No suitable icon found, falling back to custom icon"
+msgstr ""
+
+#: applet.js:105
+msgid "Force Update from SSH config"
+msgstr "强制从SSH配置更新"
+
+#: applet.js:143
+msgid "Background (-fN)"
+msgstr "后台(-fN)"
+
+#: applet.js:146
+msgid "Forward X11 (-X)"
+msgstr "转发 X11 (-X)"
+
+#: applet.js:187
+msgid "ERROR. "
+msgstr "错误"
+
+#: applet.js:190
+msgid "Edit SSH config"
+msgstr "编辑SSH配置"
+
+#: applet.js:206
+msgid ""
+"Error: I can't open the terminal.\n"
+"You need to set a default terminal first in Preferred Applications!\n"
+"\n"
+"(More help in Right Click->About->More Info)"
+msgstr ""
+
+#: applet.js:223
+msgid "Connection opened to "
+msgstr "打开连接到"
+
+#: applet.js:223
+msgid " using "
+msgstr ""
+
+#. settings-schema.json->headAppearance->description
+msgid "Appearance"
+msgstr ""
+
+#. settings-schema.json->themeIcon->description
+msgid "Use icon from your icon theme"
+msgstr ""
+
+#. settings-schema.json->symbolicIcon->description
+msgid "Use symbolic icon"
+msgstr ""
+
+#. settings-schema.json->headFunc->description
+msgid "Functionality"
+msgstr ""
+
+#. settings-schema.json->customCommand->description
+msgid "Use custom command for opening terminal"
+msgstr ""
+
+#. settings-schema.json->customCommand->tooltip
+msgid ""
+"Usually it should end with -e so it will execute the supplied ssh command, "
+"check your chosen terminal's manual."
+msgstr ""
+
+#. metadata.json->description
+msgid "An applet to connect to SSH hosts configured in ~/.ssh/config"
+msgstr "连接到~/.ssh/config中配置的SSH主机的小程序"

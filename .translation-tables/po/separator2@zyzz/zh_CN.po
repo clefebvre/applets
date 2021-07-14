@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-06 10:05+0800\n"
+"PO-Revision-Date: 2017-05-06 10:07+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:25
+msgid "Click here to move the applet where you want it."
+msgstr "点击这里移动小程序到您想要的地方。"
+
+#. separator2@zyzz->metadata.json->description
+msgid "Use this applet to create a separator between your applets"
+msgstr "使用此小程序在您的小程序之间创建一个分隔符"
+
+#. separator2@zyzz->metadata.json->name
+msgid "Separator2"
+msgstr "分隔符2"

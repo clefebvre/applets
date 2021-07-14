@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-18 13:04+0800\n"
+"PO-Revision-Date: 2021-04-03 10:44+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:21
+msgid "Currently preventing screensaver"
+msgstr "Jelenleg megakadályozza a képernyővédőt"
+
+#: applet.js:22
+msgid "Currently allowing screensaver"
+msgstr "Jelenleg engedélyezi a képernyővédőt"
+
+#: applet.js:115
+msgid "Screensaver settings"
+msgstr "Képernyővédő beállításai"
+
+#. screen-inhibit@mtwebster->metadata.json->description
+msgid "Click to inhibit the screensaver, click again to remove inhibition"
+msgstr ""
+"Kattintson a képernyővédő gátlásához, kattintson ismét a gátlás "
+"eltávolításához"
+
+#. screen-inhibit@mtwebster->metadata.json->name
+msgid "Screensaver Inhibitor"
+msgstr "Képernyővédő gátló"
+
+#. screen-inhibit@mtwebster->settings-schema.json->on-icon->description
+msgid "Power management prevented icon:"
+msgstr "Az energiagazdálkodás megakadályozta az ikont:"
+
+#. screen-inhibit@mtwebster->settings-schema.json->on-icon->tooltip
+#. screen-inhibit@mtwebster->settings-schema.json->off-icon->tooltip
+msgid "Select an icon file, or you can type an icon name into the entry box"
+msgstr "Válasszon egy ikonfájlt, vagy beírhat egy ikonnevet a beviteli mezőbe"
+
+#. screen-inhibit@mtwebster->settings-schema.json->head->description
+msgid "Icons"
+msgstr "Ikonok"
+
+#. screen-inhibit@mtwebster->settings-schema.json->off-icon->description
+msgid "Power management allowed icon:"
+msgstr "Az energiagazdálkodás engedélyezte az ikont:"
+
+#. screen-inhibit@mtwebster->settings-schema.json->keybinding->description
+msgid "Set the keybinding for screensaver inhibit"
+msgstr "Állítsa be a billentyűparancsot a képernyővédő gátlásához"
+
+#. screen-inhibit@mtwebster->settings-schema.json->head1->description
+msgid "Keybinding"
+msgstr "Billentyűparancsot"

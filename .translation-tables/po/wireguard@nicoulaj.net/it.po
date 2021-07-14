@@ -1,0 +1,77 @@
+# cinnamon-applet-wireguard - https://github.com/nicoulaj/cinnamon-applet-wireguard
+# copyright (c) 2019 cinnamon-applet-wireguard contributors
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# ----------------------------------------------------------------------
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-03 19:54+0200\n"
+"PO-Revision-Date: 2019-10-24 22:21+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. metadata.json->name
+#: applet.js:54 applet.js:212
+msgid "WireGuard"
+msgstr "WireGuard"
+
+#: applet.js:67
+msgid ""
+"WireGuard configs directory /etc/wireguard does not exist, please make sure "
+"WireGuard is installed"
+msgstr ""
+"La directory di configurazione di WireGuard /etc/wireguard non esiste, "
+"assicurarsi che WireGuard sia installato"
+
+#: applet.js:135
+msgid "Failed toggling WireGuard interface"
+msgstr "Impossibile attivare l'interfaccia WireGuard"
+
+#: applet.js:139
+msgid ""
+"Failed calling wg-quick, please make sure it is installed and accessible"
+msgstr ""
+"Chiamata non riuscita a wg-quick, assicurati che sia installato e accessibile"
+
+#: applet.js:174
+msgid "Failed reading network interfaces"
+msgstr "Lettura delle interfacce di rete non riuscita"
+
+#: applet.js:186
+msgid ""
+"Failed accessing WireGuard configs directory, please make sure it is "
+"accessible\n"
+"sudo chmod o+r /etc/wireguard or sudo setfacl -m u:$username:rx /etc/"
+"wireguard"
+msgstr ""
+"Impossibile accedere alla directory di configurazione di WireGuard, "
+"assicurarsi che sia accessibile\n"
+"sudo chmod o+r /etc/wireguard or sudo setfacl -m u:$username:rx /etc/"
+"wireguard"
+
+#: applet.js:219
+msgid "Error details"
+msgstr "Dettagli sull'errore"
+
+#. metadata.json->description
+msgid "Enable/disable WireGuard connections."
+msgstr "Abilita/disabilita connessioni WireGuard."

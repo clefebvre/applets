@@ -1,0 +1,888 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 12:29+0100\n"
+"PO-Revision-Date: 2021-04-01 20:22+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid "Some Dependencies not Installed"
+msgstr "Néhány függőség nincs telepítve"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid ""
+"You appear to be missing some of the programs or libraries required for this "
+"applet to run.\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+"Úgy tűnik, hogy hiányzik néhány program vagy könyvtár, amely az "
+"kisalkalmazás futtatásához szükséges.\n"
+"\n"
+"Kérjük, olvassa el a súgófájlt a telepítésükről."
+
+#: applet.js:83
+msgid "Ok"
+msgstr "Ok"
+
+#: applet.js:346 4.0/applet.js:348 3.2/applet.js:346
+msgid "No Interface being Monitored - right click to select"
+msgstr "Nincs felügyelt interfész - kattintson jobb gombbal a kiválasztáshoz"
+
+#: applet.js:476 4.0/applet.js:494 3.2/applet.js:492
+msgid ""
+"NOTE: The last time the network traffic statistics were updated by vnStat is "
+"at the top right"
+msgstr ""
+"MEGJEGYZÉS: A hálózati forgalmi statisztikákat utoljára a vnStat frissítette "
+"a jobb felső sarokban"
+
+#: applet.js:481 4.0/applet.js:499 3.2/applet.js:497
+msgid ""
+"If no Interface is Active, the last available information has been displayed"
+msgstr ""
+"Ha egyetlen interfész sem aktív, akkor az utolsó elérhető információ jelenik "
+"meg"
+
+#: applet.js:488 4.0/applet.js:506 3.2/applet.js:504
+msgid ""
+"ERROR: Please make sure vnstat and vnstati are installed and that the vnstat "
+"daemon is running!"
+msgstr ""
+"HIBA: Győződjön meg arról, hogy a vnstat és a vnstati telepítve van, és hogy "
+"a vnstat kiszolgáló fut!"
+
+#: applet.js:501 4.0/applet.js:519 3.2/applet.js:517
+msgid "Cumulative Data Usage Information:"
+msgstr "Halmozott adatfelhasználási információk:"
+
+#: applet.js:528 4.0/applet.js:546 3.2/applet.js:544
+msgid "Current Connection and Interface Information"
+msgstr "Jelenlegi kapcsolat és interfész információk"
+
+#: applet.js:540 4.0/applet.js:558 3.2/applet.js:556
+msgid "No network monitored. Please select one right-clicking the applet."
+msgstr ""
+"Nincs megfigyelt hálózat. Válasszon egyet az jobb gombbal kattintva a "
+"kisalkalmazásra."
+
+#: applet.js:547 4.0/applet.js:565 3.2/applet.js:563
+msgid "Note: Alerts not enabled in Settings"
+msgstr "Megjegyzés: A riasztások nincsenek engedélyezve a beállításokban"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+msgid "Alert level (Orange):"
+msgstr "Riasztási szint (Narancs):"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+#, no-javascript-format
+msgid "% of Data Limit of"
+msgstr "%-a az adatkorlátnak a"
+
+#: applet.js:569 applet.js:571 applet.js:577 applet.js:579 applet.js:585
+#: 4.0/applet.js:587 4.0/applet.js:589 4.0/applet.js:595 4.0/applet.js:597
+#: 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:587 3.2/applet.js:593
+#: 3.2/applet.js:595 3.2/applet.js:601
+msgid "Cumulative Data Use"
+msgstr "Halmozott adatfelhasználat"
+
+#: applet.js:569 applet.js:577 applet.js:585 4.0/applet.js:587
+#: 4.0/applet.js:595 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:593
+#: 3.2/applet.js:601
+msgid "with offset of"
+msgstr "eltolásával"
+
+#: applet.js:608 4.0/applet.js:626 3.2/applet.js:624
+msgid "Select a network manager interface to be monitored:"
+msgstr "Válassza ki a megfigyelni kívánt hálózatkezelő felületet:"
+
+#: applet.js:621 4.0/applet.js:639 3.2/applet.js:637
+msgid "(Active)"
+msgstr "(Aktív)"
+
+#: applet.js:634 4.0/applet.js:652 3.2/applet.js:650
+msgid "or Select an independent interface to be monitored:"
+msgstr "vagy válasszon egy figyelni kívánt független interfészt:"
+
+#: applet.js:638 4.0/applet.js:656 3.2/applet.js:654
+msgid "for most USB Mobile Internet Modems)"
+msgstr "a legtöbb mobil USB internet modemhez)"
+
+#: applet.js:650 4.0/applet.js:668 3.2/applet.js:666
+msgid "for Android Bluetooth PAN Connections)"
+msgstr "Android Bluetooth PAN kapcsolatokhoz)"
+
+#: applet.js:660 4.0/applet.js:678 3.2/applet.js:676
+msgid "Check for Changes in Devices and Display Options"
+msgstr "Ellenőrizze az eszközök és a megjelenítési beállítások változásait"
+
+#: applet.js:668 4.0/applet.js:686 3.2/applet.js:684
+msgid "Toggle Display from ↓ and ↑ to ⇵"
+msgstr "Megjelenítés váltása erről ↓ és erről ↑, erre: ⇵"
+
+#: applet.js:682 applet.js:692 applet.js:702 4.0/applet.js:700
+#: 4.0/applet.js:710 4.0/applet.js:720 3.2/applet.js:698 3.2/applet.js:708
+#: 3.2/applet.js:718
+msgid "Reset Cumulative Data Usage"
+msgstr "A kumulatív adatfelhasználás visszaállítása"
+
+#: applet.js:715 4.0/applet.js:733 3.2/applet.js:731
+msgid "Housekeeping and System Sub Menu"
+msgstr "Karbantartás és rendszer almenü"
+
+#: applet.js:718 4.0/applet.js:736 3.2/applet.js:734
+msgid "Open System Monitor"
+msgstr "Rendszerfigyelő megnyitása"
+
+#: applet.js:724 4.0/applet.js:742 3.2/applet.js:740
+msgid "View the Changelog"
+msgstr "Változásnaplót megtekitése"
+
+#: applet.js:730 4.0/applet.js:748 3.2/applet.js:746
+msgid "View the Help File"
+msgstr "Súgó fájl megtekintése"
+
+#: applet.js:739 4.0/applet.js:757 3.2/applet.js:755
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Stylesheet.css megnyitása  (Speciális funkció)"
+
+#: applet.js:745 4.0/applet.js:763 3.2/applet.js:761
+msgid "Open alertScript  (Advanced Function)"
+msgstr "AlertScript megnyitása  (Speciális funkció)"
+
+#: applet.js:751 4.0/applet.js:769 3.2/applet.js:767
+msgid "Open suspendScript  (Advanced Function)"
+msgstr "SuspendScript megnyitása  (Speciális funkció)"
+
+#: applet.js:759 4.0/applet.js:777 3.2/applet.js:775
+msgid "Test alertScript  (Advanced Test Function)"
+msgstr "AlertScript tesztelése  (Speciális teszt funkció)"
+
+#: applet.js:765 4.0/applet.js:783 3.2/applet.js:781
+msgid "Test suspendScript  (Advanced Test Function)"
+msgstr "SuspendScript tesztelése  (Speciális teszt funkció)"
+
+#: applet.js:771 4.0/applet.js:789 3.2/applet.js:787
+msgid "Test Crisis Management Function (Advanced Test Function)"
+msgstr "Válságkezelési funkció tesztelése  (Speciális teszt funkció)"
+
+#: applet.js:841
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using right click -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet"
+msgstr ""
+"AZ ADATFELHASZNÁLÁSI KERET TÚLLÉPVE\n"
+"\n"
+"  Vagy kattintson a jobb gombbal új korlát megadásához ide -> Beállítások\n"
+"\n"
+"vagy bontsa a kapcsolatot a Hálózatkezelő Kisalkalmazással"
+
+#: applet.js:914 4.0/applet.js:930 3.2/applet.js:928
+msgid "Interface:"
+msgstr "Interfész:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Downloaded:"
+msgstr "Letöltött:"
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Uploaded:"
+msgstr "Feltöltött:"
+
+#: 4.0/applet.js:256
+msgid "Network Usage Monitor with Alerts - Stylesheet persistence active"
+msgstr ""
+"Hálózati felhasználás figyelő riasztásokkal - A stíluslap tartóssága aktív"
+
+#: 4.0/applet.js:842 3.2/applet.js:840
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+"All Network connections managed by the Network Manager have been Disabled\n"
+"\n"
+"You will need to use the Network Manager Applet to Re-enable them\n"
+"when the data usage problem has been resolved\n"
+"\n"
+" Some connections using ppp0 may not have been disabled or may need to be "
+"restarted manually"
+msgstr ""
+"AZ ADATFELHASZNÁLÁSI KERET TÚLLÉPVE\n"
+"\n"
+"A Hálózatkezelő által kezelt összes hálózati kapcsolat le lett tiltva\n"
+"\n"
+"Az újbóli engedélyezéshez a Hálózatkezelő kisalkalmazást kell használnia\n"
+"amikor az adathasználati probléma megoldódott\n"
+"\n"
+"  Előfordulhat, hogy egyes, a ppp0 protokollt használó kapcsolatok nem "
+"lettek letiltva, vagy manuálisan kell újraindítani"
+
+#: 4.0/applet.js:859 3.2/applet.js:857
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using \n"
+"\n"
+"a right click on The Network Data Management Applet -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet\n"
+"\n"
+msgstr ""
+"AZ ADATFELHASZNÁLÁSI KERET TÚLLÉPVE\n"
+"\n"
+"  Vagy állítson be új korlátot\n"
+"\n"
+"kattintson jobb gombbal a Hálózati Adatkezelő Kisalkalmazás -> Beállítások "
+"menüpontjára\n"
+"\n"
+"vagy bontsa a kapcsolatot a Hálózatkezelő Kisalkalmazással\n"
+"\n"
+
+#. metadata.json->name
+msgid "Network Data Usage Monitor"
+msgstr "Hálózati Adatfelhasználás Figyelő"
+
+#. metadata.json->description
+msgid ""
+"A Comprehensive Data Usage Monitor with alerts and cumulative data functions"
+msgstr ""
+"Átfogó adatfelhasználás figyelő riasztásokkal és összesített adatfunkciókkal"
+
+#. settings-schema.json->head->description
+#. 4.0->settings-schema.json->section0->title
+#. 3.2->settings-schema.json->section0->title
+msgid "General Settings for the Network Usage Monitor Applet"
+msgstr "A Hálózati Használatfigyelő Kisalkalmazás általános beállításai"
+
+#. settings-schema.json->refreshInterval-spinner->units
+#. 4.0->settings-schema.json->refreshInterval-spinner->units
+#. 3.2->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. settings-schema.json->refreshInterval-spinner->description
+#. 4.0->settings-schema.json->refreshInterval-spinner->description
+#. 3.2->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "A megjelenítés frissítési gyakorisága:"
+
+#. settings-schema.json->refreshInterval-spinner->tooltip
+#. 4.0->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.2->settings-schema.json->refreshInterval-spinner->tooltip
+msgid "Increase or decrease this spinner value to change the Refresh Interval"
+msgstr ""
+"Növelje vagy csökkentse ezt a tárcsaértéket a frissítési gyakoriság "
+"módosításához"
+
+#. settings-schema.json->decimalsToShow-spinner->units
+#. 4.0->settings-schema.json->decimalsToShow-spinner->units
+#. 3.2->settings-schema.json->decimalsToShow-spinner->units
+msgid "decimal places"
+msgstr "tizedes jel"
+
+#. settings-schema.json->decimalsToShow-spinner->description
+#. 4.0->settings-schema.json->decimalsToShow-spinner->description
+#. 3.2->settings-schema.json->decimalsToShow-spinner->description
+msgid "Display Resolution:"
+msgstr "Megjelenítő felbontása:"
+
+#. settings-schema.json->decimalsToShow-spinner->tooltip
+#. 4.0->settings-schema.json->decimalsToShow-spinner->tooltip
+#. 3.2->settings-schema.json->decimalsToShow-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the change the number of "
+"decimal places displayed"
+msgstr ""
+"Növelje vagy csökkentse ezt a tárcsaértéket, hogy megváltoztassa a "
+"megjelenített tizedesjegyek számát"
+
+#. settings-schema.json->monitored-interface->description
+#. 4.0->settings-schema.json->monitored-interface->description
+#. 3.2->settings-schema.json->monitored-interface->description
+msgid "Last Interface Monitored - no need to change as set by Applet:"
+msgstr ""
+"Utolsó felügyelt interfész - nincs szükség a kisalkalmazás által beállított "
+"változtatásokra:"
+
+#. settings-schema.json->monitored-interface->tooltip
+#. 4.0->settings-schema.json->monitored-interface->tooltip
+#. 3.2->settings-schema.json->monitored-interface->tooltip
+msgid ""
+"This is normally set by the Applet and should not be changed here except for "
+"experimental or diagnostic use"
+msgstr ""
+"Ezt normál esetben a kisalkalmazás állítja be és itt nem kellene "
+"megváltoztatni, kivéve a kísérleti vagy diagnosztikai felhasználást"
+
+#. settings-schema.json->useDefaultInterface->description
+#. 4.0->settings-schema.json->useDefaultInterface->description
+#. 3.2->settings-schema.json->useDefaultInterface->description
+msgid ""
+"Use the following Interface as default to monitor when no other Interface is "
+"Active at start up :"
+msgstr ""
+"Használja alapértelmezettként a következő interfészt a megfigyeléshez, ha az "
+"indításkor nincs más aktív interfész:"
+
+#. settings-schema.json->useDefaultInterface->tooltip
+#. 4.0->settings-schema.json->useDefaultInterface->tooltip
+#. 3.2->settings-schema.json->useDefaultInterface->tooltip
+msgid ""
+"Checking this box allows you to set up to use an interface for connections "
+"which is not always active at start up such as Wifi or Mobile Broadband - "
+"usually wlan0 or ppp0. If not checked the first active interface know to the "
+"Network Monitor will be used or PPP0 if that was the last connection."
+msgstr ""
+"Ennek a négyzetnek a bejelölésével beállíthatja, hogy olyan interfészt "
+"használjon a kapcsolatokhoz, amely az indításkor nem mindig aktív, például "
+"Wifi vagy Mobil szélessáv - általában wlan0 vagy ppp0.  Ha nincs bejelölve, "
+"akkor a Hálózatfigyelő által ismert első aktív interfész kerül "
+"felhasználásra, vagy a PPP0, ha ez volt az utolsó kapcsolat."
+
+#. settings-schema.json->defaultInterface->description
+#. 4.0->settings-schema.json->defaultInterface->description
+#. 3.2->settings-schema.json->defaultInterface->description
+msgid "Default Interface (usually ppp0 or wlan0):"
+msgstr "Alapértelmezett interfész (általában ppp0 vagy wlan0):"
+
+#. settings-schema.json->defaultInterface->tooltip
+#. 4.0->settings-schema.json->defaultInterface->tooltip
+#. 3.2->settings-schema.json->defaultInterface->tooltip
+msgid ""
+"The Default  interface to use for connections which are not always active at "
+"start up such as Mobile Broadband or Wifi - usually set to ppp0 or wlan0"
+msgstr ""
+"Az alapértelmezett interfész olyan kapcsolatokhoz, amelyek nem mindig "
+"aktívak az indításkor, például mobil szélessávú vagy Wifi - általában ppp0 "
+"vagy wlan0 értékre van állítva"
+
+#. settings-schema.json->compactDisplay->description
+#. 4.0->settings-schema.json->compactDisplay->description
+#. 3.2->settings-schema.json->compactDisplay->description
+msgid "Use a Compact Display with total traffic only"
+msgstr "Kompakt kijelző használata csak a összesített forgalommal"
+
+#. settings-schema.json->compactDisplay->tooltip
+#. 4.0->settings-schema.json->compactDisplay->tooltip
+#. 3.2->settings-schema.json->compactDisplay->tooltip
+msgid "This just displays the total of upload and download rate in the applet"
+msgstr ""
+"Ez csak az összesített fel- és letöltési arányát jeleníti meg a "
+"kisalkalmazásban"
+
+#. settings-schema.json->appletWidthSetting->units
+#. 4.0->settings-schema.json->appletWidthSetting->units
+#. 3.2->settings-schema.json->appletWidthSetting->units
+msgid "pixels"
+msgstr "képpont"
+
+#. settings-schema.json->appletWidthSetting->description
+#. 4.0->settings-schema.json->appletWidthSetting->description
+#. 3.2->settings-schema.json->appletWidthSetting->description
+msgid ""
+"Applet Width Adjustment (Only for fine tuning - normally leave alone at 180:"
+msgstr ""
+"Kisalkalmazás szélességének beállítása (Csak finomhangoláshoz - alapesetben "
+"hagyja 180-on:"
+
+#. settings-schema.json->appletWidthSetting->tooltip
+#. 4.0->settings-schema.json->appletWidthSetting->tooltip
+#. 3.2->settings-schema.json->appletWidthSetting->tooltip
+msgid ""
+"Fine tuning of applet width for changes in theme and decimal places "
+"displayed - needs to be used in conjuction with changes in stylesheet.css. "
+"Value is halved when Compact Display selected"
+msgstr ""
+"Az kisalkalmazás szélességének finomhangolása a téma és a tizedesjegyek "
+"változásaihoz - ezt a stylesheet.css-ben lévő változásokkal együtt kell "
+"használni. Az érték a felére csökken, ha a Kompakt kijelzőt választja"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Mbytes"
+msgstr "Mbájt"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Gbytes"
+msgstr "Gbájt"
+
+#. settings-schema.json->dataUnit->description
+#. 4.0->settings-schema.json->dataUnit->description
+#. 3.2->settings-schema.json->dataUnit->description
+msgid "Data Unit used to set Alert Levels and Cumulative Offsets"
+msgstr ""
+"A riasztási szintek és a halmozott eltolások beállításához használt "
+"adategység"
+
+#. settings-schema.json->dataUnit->tooltip
+#. 4.0->settings-schema.json->dataUnit->tooltip
+#. 3.2->settings-schema.json->dataUnit->tooltip
+msgid ""
+"These are the units which will be used for setting the alert limit and "
+"cumulative offsets."
+msgstr ""
+"Ezeket az egységeket használjuk a riasztási határ és az összesített "
+"eltolások beállításához."
+
+#. settings-schema.json->head1->description
+#. 4.0->settings-schema.json->section1->title
+#. 3.2->settings-schema.json->section1->title
+msgid ""
+"Settings specific to Data Usage and Alert functions for Current Connection"
+msgstr ""
+"Az Adathasználat és a Figyelmeztetés funkciók specifikus beállításai az "
+"aktuális kapcsolathoz"
+
+#. settings-schema.json->useTotalLimit->description
+#. 4.0->settings-schema.json->useTotalLimit->description
+#. 3.2->settings-schema.json->useTotalLimit->description
+msgid "Check this box to use the Alert function"
+msgstr "Jelölje be ezt a négyzetet az Riasztás funkció használatához"
+
+#. settings-schema.json->useTotalLimit->tooltip
+#. 4.0->settings-schema.json->useTotalLimit->tooltip
+#. 3.2->settings-schema.json->useTotalLimit->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link"
+msgstr "Ez hasznos a mobil szélessáv esetén vagy Wifi-link fizetős hálózaton"
+
+#. settings-schema.json->totalLimit->units
+#. settings-schema.json->cumulativeOffset1->units
+#. settings-schema.json->cumulativeOffset2->units
+#. settings-schema.json->cumulativeOffset3->units
+#. 4.0->settings-schema.json->totalLimit->units
+#. 4.0->settings-schema.json->cumulativeOffset1->units
+#. 4.0->settings-schema.json->cumulativeOffset2->units
+#. 4.0->settings-schema.json->cumulativeOffset3->units
+#. 3.2->settings-schema.json->totalLimit->units
+#. 3.2->settings-schema.json->cumulativeOffset1->units
+#. 3.2->settings-schema.json->cumulativeOffset2->units
+#. 3.2->settings-schema.json->cumulativeOffset3->units
+msgid "Mbytes or Gbytes as set above"
+msgstr "Mbájt vagy Gbájt a fentiek szerint"
+
+#. settings-schema.json->totalLimit->description
+#. 4.0->settings-schema.json->totalLimit->description
+#. 3.2->settings-schema.json->totalLimit->description
+msgid "Data Limit before a Red Warning background is displayed in the Applet"
+msgstr ""
+"Adatkorlát, mielőtt egy piros figyelmeztető háttér megjelenik a "
+"kisalkalmazásban"
+
+#. settings-schema.json->totalLimit->tooltip
+#. 4.0->settings-schema.json->totalLimit->tooltip
+#. 3.2->settings-schema.json->totalLimit->tooltip
+msgid ""
+"This is the Total Data which can be uploaded and downloaded before the "
+"background of the applet goes red - by default it goes orange at 80% of this "
+"- reset by disconnection, reboot and/or suspend depending on system"
+msgstr ""
+"Ez az összes adatmennyiség, amelyet fel- és letölthetünk, mielőtt a "
+"kisalkalmazás háttere vörösre vált - alapértelmezetten ezen érték 80%-ánál "
+"narancssárgára vált - visszaállítás a kapcsolat bontásakor, újraindítás és / "
+"vagy felfüggesztés a rendszertől függően"
+
+#. settings-schema.json->alertPercentage->description
+#. 4.0->settings-schema.json->alertPercentage->description
+#. 3.2->settings-schema.json->alertPercentage->description
+msgid "Percentage of Data Limit at which Orange Warning Displayed"
+msgstr ""
+"Az adatkorlát százalékos aránya, amelynél a narancssárga figyelmeztetés "
+"megjelenik"
+
+#. settings-schema.json->alertPercentage->tooltip
+#. 4.0->settings-schema.json->alertPercentage->tooltip
+#. 3.2->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Data Limit at which Orange Warning Background is displayed - "
+"It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"Az adatkorlát százalékos aránya, amelynél a narancssárga figyelmeztető "
+"háttér jelenik meg - Megjelenik és beállítható a kisalkalmazás "
+"balkattintásos menüjében is"
+
+#. settings-schema.json->head2->description
+#. 4.0->settings-schema.json->section2->title
+#. 3.2->settings-schema.json->section2->title
+msgid "Settings specific to Cumulative Data Usage functions"
+msgstr "A halmozott adatfelhasználási funkciókra vonatkozó beállítások"
+
+#. settings-schema.json->cumulativeInterface1->description
+#. 4.0->settings-schema.json->cumulativeInterface1->description
+#. 3.2->settings-schema.json->cumulativeInterface1->description
+msgid ""
+"Interface 1 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfész 1 a kumulatív adatfelhasználás figyeléséhez - a nullás érték "
+"kikapcsolja a megjelenítést"
+
+#. settings-schema.json->cumulativeInterface1->tooltip
+#. settings-schema.json->cumulativeInterface2->tooltip
+#. settings-schema.json->cumulativeInterface3->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface1->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface2->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface3->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface1->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface2->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface3->tooltip
+msgid ""
+"This is normally set to ppp0 or wlan0 to allow monitoring data usage during "
+"a period by mobile internet or Wifi charged by the Mbyte"
+msgstr ""
+"Ez általában a ppp0 vagy a wlan0 értékre van állítva, hogy lehetővé tegye az "
+"adatfelhasználás megfigyelését olyan mobil internet vagy Wifi hálózaton, "
+"amelyen Mbájt alapon történik elszámolás"
+
+#. settings-schema.json->cumulativeOffset1->description
+#. 4.0->settings-schema.json->cumulativeOffset1->description
+#. 3.2->settings-schema.json->cumulativeOffset1->description
+msgid "Offset applied to Cumulative Data Usage 1"
+msgstr "1 halmozott adatfelhasználásra alkalmazott eltolás"
+
+#. settings-schema.json->cumulativeOffset1->tooltip
+#. settings-schema.json->cumulativeOffset2->tooltip
+#. settings-schema.json->cumulativeOffset3->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset1->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset2->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset3->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset1->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset2->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset3->tooltip
+msgid ""
+"This can be used to offset the data usage to take into account usage on "
+"other machines or correct for other causes"
+msgstr ""
+"Ez felhasználható az adatfelhasználás ellensúlyozására más gépek "
+"hálózathasználatának figyelembevétele érdekében vagy egyéb okokból kifolyólag"
+
+#. settings-schema.json->cumulativeInterface2->description
+#. 4.0->settings-schema.json->cumulativeInterface2->description
+#. 3.2->settings-schema.json->cumulativeInterface2->description
+msgid ""
+"Interface 2 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfész 2 a kumulatív adatfelhasználás figyeléséhez - a nullás érték "
+"kikapcsolja a megjelenítést"
+
+#. settings-schema.json->cumulativeOffset2->description
+#. 4.0->settings-schema.json->cumulativeOffset2->description
+#. 3.2->settings-schema.json->cumulativeOffset2->description
+msgid "Offset applied to Cumulative Data Usage 2"
+msgstr "2 halmozott adatfelhasználásra alkalmazott eltolás"
+
+#. settings-schema.json->cumulativeInterface3->description
+#. 4.0->settings-schema.json->cumulativeInterface3->description
+#. 3.2->settings-schema.json->cumulativeInterface3->description
+msgid ""
+"Interface 3 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr ""
+"Interfész 3 a kumulatív adatfelhasználás figyeléséhez - a nullás érték "
+"kikapcsolja a megjelenítést"
+
+#. settings-schema.json->cumulativeOffset3->description
+#. 4.0->settings-schema.json->cumulativeOffset3->description
+#. 3.2->settings-schema.json->cumulativeOffset3->description
+msgid "Offset applied to Cumulative Data Usage 3"
+msgstr "3 halmozott adatfelhasználásra alkalmazott eltolás"
+
+#. settings-schema.json->head3->description
+#. 4.0->settings-schema.json->section3->title
+#. 3.2->settings-schema.json->section3->title
+msgid "Settings specific to Long Term Traffic Statistics"
+msgstr "A hosszú távú forgalmi statisztikákra vonatkozó beállítások"
+
+#. settings-schema.json->useVnstat->description
+#. 4.0->settings-schema.json->useVnstat->description
+#. 3.2->settings-schema.json->useVnstat->description
+msgid ""
+"Display long term traffic statistics (vnstat and vnstati Must be installed). "
+msgstr ""
+"Hosszú távú forgalmi statisztikák megjelenítése (vnstat és vnstati "
+"telepítése szükséges). "
+
+#. settings-schema.json->useVnstat->tooltip
+#. 4.0->settings-schema.json->useVnstat->tooltip
+#. 3.2->settings-schema.json->useVnstat->tooltip
+msgid ""
+"This requires vnstat and vnstati to be installed prior to being enabled."
+msgstr ""
+"Ehhez a vnstat és a vnstati telepítése szükséges az engedélyezés előtt."
+
+#. settings-schema.json->head4->description
+msgid "Settings for response to exceeding the current data usage limits"
+msgstr ""
+"A jelenlegi adatfelhasználási korlátok túllépésére adott válasz beállításai"
+
+#. settings-schema.json->useCrisisManagement->description
+#. 4.0->settings-schema.json->useCrisisManagement->description
+#. 3.2->settings-schema.json->useCrisisManagement->description
+msgid "Take action when the current data usage limit is exceed"
+msgstr "Tegye ezt, ha a jelenlegi adatfelhasználási korlátot túllépi"
+
+#. settings-schema.json->useCrisisManagement->tooltip
+#. 4.0->settings-schema.json->useCrisisManagement->tooltip
+#. 3.2->settings-schema.json->useCrisisManagement->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link as it can, for example, suspend the machine after the limit has "
+"been exceeded"
+msgstr ""
+"Ez hasznos a mobil szélessáv esetén, vagy ahol fizethet az adatokért egy "
+"Wifi linken, mert például felfüggesztheti a gépet az adatkorlát túllépése "
+"után"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a notification"
+msgstr "Értesítés megjelenítése"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a high priority notification"
+msgstr "Magas prioritású értesítés megjelenítése"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Put up a full screen 'modal dialog' warning"
+msgstr ""
+"Tegyen fel egy teljes képernyős \"modális párbeszédpanel\" figyelmeztetést"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Run a user configurable Script (alertScript)"
+msgstr "Felhasználó által konfigurálható parancsfájl (alertScript) futtatása"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Disable All Networking managed by NMClient after opportunity to abort"
+msgstr ""
+"Tiltsa le az NMClient által kezelt összes hálózatot, miután lehetősége van a "
+"megszakításra"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Suspend Machine after a brief opportunity to abort (via suspendScript)"
+msgstr ""
+"A gép felfüggesztése amint alkalom adódik a megszakításra (a suspendScript-"
+"tel)"
+
+#. settings-schema.json->crisisManagement->description
+#. 4.0->settings-schema.json->crisisManagement->description
+#. 3.2->settings-schema.json->crisisManagement->description
+msgid "Action to take when Data Usage Limit exceeded:"
+msgstr "Teendő az adatfelhasználási korlát túllépésekor:"
+
+#. settings-schema.json->crisisManagement->tooltip
+#. 4.0->settings-schema.json->crisisManagement->tooltip
+#. 3.2->settings-schema.json->crisisManagement->tooltip
+msgid ""
+"These are a mixture of preset options and scripts which can be changed by "
+"the user (Note: changes in scripts may not survive an update and should be "
+"backed up)"
+msgstr ""
+"Ezek előre beállított opciók és szkriptek keveréke, amelyet a felhasználó "
+"megváltoztathat (Megjegyzés: a szkriptek változásai nem biztos, hogy "
+"megmaradnak egy frissítést követően ezért biztonsági másolatot kellene "
+"készíteni róluk)"
+
+#. settings-schema.json->disconnectDelay->units
+#. 4.0->settings-schema.json->disconnectDelay->units
+#. 3.2->settings-schema.json->disconnectDelay->units
+msgid "Seconds"
+msgstr "Másodperc"
+
+#. settings-schema.json->disconnectDelay->description
+#. 4.0->settings-schema.json->disconnectDelay->description
+#. 3.2->settings-schema.json->disconnectDelay->description
+msgid "Delay before Disabling Networking managed by NMClient"
+msgstr ""
+"Késleltetés az NMClient által kezelt hálózati kapcsolatok letiltása előtt"
+
+#. settings-schema.json->disconnectDelay->tooltip
+#. 4.0->settings-schema.json->disconnectDelay->tooltip
+#. 3.2->settings-schema.json->disconnectDelay->tooltip
+msgid ""
+"This is the delay during which you can click the Applet to abort automatic "
+"disconnection of the machine when the Data Usage Limit is exceeded."
+msgstr ""
+"Ezen késleltetés során a kisalkalmazásra kattintva megszakíthatja a gép "
+"hálózati kapcsolatának automatikus bontását, amikor az adatfelhasználási "
+"korlát túllépésre került."
+
+#. settings-schema.json->useAlertSound->description
+#. 4.0->settings-schema.json->useAlertSound->description
+#. 3.2->settings-schema.json->useAlertSound->description
+msgid "Sound an audible alert when Data Usage Limit Exceeded"
+msgstr "Adjon hangjelzést, ha az adatfelhasználási korlát túllépésre került"
+
+#. settings-schema.json->useAlertSound->tooltip
+#. 4.0->settings-schema.json->useAlertSound->tooltip
+#. 3.2->settings-schema.json->useAlertSound->tooltip
+msgid ""
+"Only for built in alerts - hard code into scripts. Must have Sox installed"
+msgstr ""
+"Csak beépített riasztásokhoz - kemény kód szkriptekbe. Telepíteni kell a Sox-"
+"ot"
+
+#. settings-schema.json->alertSound->description
+msgid "Full path and filename of alert sound file"
+msgstr "A riasztási hangfájl teljes elérési útja és fájlneve"
+
+#. settings-schema.json->alertSound->tooltip
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr "Telepíteni kell a Sox-ot. A legtöbb hangfájltípus támogatott"
+
+#. settings-schema.json->displayExtraHousekeeping->description
+#. 4.0->settings-schema.json->displayExtraHousekeeping->description
+#. 3.2->settings-schema.json->displayExtraHousekeeping->description
+msgid "Add development and test functions to Context Menu"
+msgstr "Fejlesztési és tesztfunkciók hozzáadása a helyi menühöz"
+
+#. settings-schema.json->displayExtraHousekeeping->tooltip
+#. 4.0->settings-schema.json->displayExtraHousekeeping->tooltip
+#. 3.2->settings-schema.json->displayExtraHousekeeping->tooltip
+msgid ""
+"Very useful for development of scripts and testing without actually "
+"exceeding a limit"
+msgstr ""
+"Nagyon hasznos a szkriptek fejlesztéséhez és teszteléshez anélkül, hogy egy "
+"adatkorlátot túllépne"
+
+#. 4.0->settings-schema.json->page1->title
+#. 3.2->settings-schema.json->page1->title
+msgid "General"
+msgstr "Általános"
+
+#. 4.0->settings-schema.json->page2->title
+#. 3.2->settings-schema.json->page2->title
+msgid "Data Use, Alerts and Responses"
+msgstr "Adathasználat, riasztások és válaszok"
+
+#. 4.0->settings-schema.json->page3->title
+#. 3.2->settings-schema.json->page3->title
+msgid "Cumulative Data"
+msgstr "Halmozott adat"
+
+#. 4.0->settings-schema.json->page4->title
+#. 3.2->settings-schema.json->page4->title
+msgid "Longer Term Statistics"
+msgstr "Hosszútávú statisztikák"
+
+#. 4.0->settings-schema.json->section4->title
+#. 3.2->settings-schema.json->section4->title
+msgid "Response to exceeding the current data usage limit"
+msgstr "Válasz a jelenlegi adatfelhasználási korlát túllépésére"
+
+#. 4.0->settings-schema.json->useExtendedDisplay->description
+#. 3.2->settings-schema.json->useExtendedDisplay->description
+msgid "Enable Extended Display Options"
+msgstr "Engedélyezze a Kiterjesztett megjelenítési beállításokat"
+
+#. 4.0->settings-schema.json->useExtendedDisplay->tooltip
+#. 3.2->settings-schema.json->useExtendedDisplay->tooltip
+msgid "This is new option version 1.0.2"
+msgstr "Ez az új opció 1.0.2 verzió"
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Classic - Summary of Data Usage for last Days and Months"
+msgstr ""
+"Klasszikus - Az elmúlt napok és hónapok adatfelhasználásának összefoglalása"
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid ""
+"Classic Plus - Classic with addition of breakdown by hour for last 24 hours"
+msgstr ""
+"Klasszikus Plusz - Klasszikus az óránkénti bontás hozzáadásával az elmúlt 24 "
+"órában"
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Custom Display - requires enabling below"
+msgstr "Egyéni megjelenítés - az alábbiak engedélyezését igényli"
+
+#. 4.0->settings-schema.json->extendedDisplay->description
+#. 3.2->settings-schema.json->extendedDisplay->description
+msgid "Type of Display - default 'classic'"
+msgstr "A kijelző típusa - alapértelmezett „klasszikus”"
+
+#. 4.0->settings-schema.json->extendedDisplay->tooltip
+#. 3.2->settings-schema.json->extendedDisplay->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional of adding "
+"an hourly breakdown over the last 24 hours and an experimental option of a "
+"user defined string for vnstati when enabled below"
+msgstr ""
+"Ez a funkció a klasszikus (eredeti) megjelenítést kínálja egy opcionális "
+"óránkénti bontással az elmúlt 24 óráról, továbbá egy kísérleti opciót a "
+"felhasználó által definiált karakterlánccal a vnstati számára, amennyiben "
+"mindez alul engedélyezve van"
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->description
+#. 3.2->settings-schema.json->useVnstatiCommandString->description
+msgid "Enable Custom Display Option"
+msgstr "Egyéni megjelenítés opció engedélyezése"
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->useVnstatiCommandString->tooltip
+msgid "Check box"
+msgstr "Jelölő négyzet"
+
+#. 4.0->settings-schema.json->vnstatiCommandString->description
+#. 3.2->settings-schema.json->vnstatiCommandString->description
+msgid "Custom options to pass to vnstati - default is '-vs' "
+msgstr ""
+"Egyéni beállítások a vnstati-nak való átadásra - az alapértelmezett '-vs' "
+
+#. 4.0->settings-schema.json->vnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->vnstatiCommandString->tooltip
+msgid ""
+"The default is the options used for the extended display. Note: this is not "
+"the whole vnstati option string - the interface and output file options are "
+"added to it automatically. Please read the vnstati manual for further "
+"information on options avaiilable"
+msgstr ""
+"Az alapértelmezett a kiterjesztett megjelenítéshez használt opciók. "
+"Megjegyzés: ez nem a teljes vnstati beállítás karaktersorozat - az interfész "
+"és a kimeneti fájl opciói automatikusan adódnak hozzá. Kérjük, olvassa el a "
+"vnstati kézikönyvét a rendelkezésre álló opciókkal kapcsolatos további "
+"információkért"
+
+#. 4.0->settings-schema.json->alertSound->description
+#. 3.2->settings-schema.json->alertSound->description
+msgid "Choose alert sound file"
+msgstr "Válassza ki a riasztási hangfájlt"
+
+#. 4.0->settings-schema.json->alertSound->tooltip
+#. 3.2->settings-schema.json->alertSound->tooltip
+msgid "Must have Sox installed. Limited file types supported (.oga and .wav)"
+msgstr ""
+"Telepíteni kell a Sox-ot. Csak bizonyos fájltípusok támogatottak (.oga és ."
+"wav)"

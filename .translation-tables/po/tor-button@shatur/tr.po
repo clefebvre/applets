@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:47+0200\n"
+"PO-Revision-Date: 2017-11-05 00:37+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:46
+msgid "Tor network"
+msgstr "Tor ağı"
+
+#: applet.js:50
+msgid "Rebuild chain"
+msgstr "Zinciri yenile"
+
+#: applet.js:82 applet.js:143
+msgid "Tor disabled"
+msgstr "Tor pasif"
+
+#: applet.js:88 applet.js:107 applet.js:126 applet.js:154
+msgid "Error"
+msgstr ""
+
+#: applet.js:88
+msgid "Unable to parse "
+msgstr "Ayrıştırılamadı"
+
+#: applet.js:107
+msgid "Unable to open configuration file "
+msgstr ""
+
+#: applet.js:121
+msgid "Process launched."
+msgstr "Süreç başlatıldı."
+
+#: applet.js:122
+msgid "Tor enabled"
+msgstr "Tor etkin"
+
+#: applet.js:126
+#, fuzzy
+msgid "Unable to start Tor: "
+msgstr "Ayrıştırılamadı"
+
+#: applet.js:142
+msgid "Process closed."
+msgstr "Süreç kapatıldı."
+
+#: applet.js:154
+msgid "Tor is not running."
+msgstr ""
+
+#. tor-button@shatur->settings-schema.json->showNotifications->description
+msgid "Show notifications"
+msgstr "Bildirimleri göster"
+
+#. tor-button@shatur->settings-schema.json->showNotifications->tooltip
+msgid "Show notifications when the Tor network is turned on/off."
+msgstr "Tor ağı açılıp/kapandığında bildirim göster."
+
+#. tor-button@shatur->settings-schema.json->torPath->description
+msgid "Tor location path"
+msgstr "Tor konum yolu"
+
+#. tor-button@shatur->settings-schema.json->torPath->tooltip
+#, fuzzy
+msgid "Specify the command to launch Tor."
+msgstr "Tor başlatılması için komut girin."
+
+#. tor-button@shatur->settings-schema.json->torrc-page->title
+#, fuzzy
+msgid "Tor settings"
+msgstr "Tor Düğmesi"
+
+#. tor-button@shatur->settings-schema.json->applet-section->title
+msgid "Settings for applet"
+msgstr ""
+
+#. tor-button@shatur->settings-schema.json->applet-page->title
+msgid "Applet settings"
+msgstr ""
+
+#. tor-button@shatur->settings-schema.json->torrc-section->title
+msgid "Settings for Tor"
+msgstr ""
+
+#. tor-button@shatur->settings-schema.json->configPath->description
+#, fuzzy
+msgid "Tor config path"
+msgstr "Tor konum yolu"
+
+#. tor-button@shatur->settings-schema.json->configPath->tooltip
+msgid "Specify the path to torrc file."
+msgstr ""
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->description
+msgid "Launch Tor as tor user"
+msgstr "Tor'u kullanıcı olarak başlat"
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->tooltip
+msgid ""
+"Launch Tor with polkit as tor user. Needed if you don't have permissions to "
+"launch Tor as normal user."
+msgstr ""
+"Tor'u kullanıcı olarak polkit ile başlat. Tor'u normal kullanıcı olarak "
+"başlatma izniniz yoksa gerekir."
+
+#. tor-button@shatur->metadata.json->description
+msgid "Applet for Tor network management"
+msgstr "Tor ağ yönetimi için uygulamacık"
+
+#. tor-button@shatur->metadata.json->name
+msgid "Tor Button"
+msgstr "Tor Düğmesi"
+
+#~ msgid "Cant start Tor."
+#~ msgstr "Tor başlatılamaz."

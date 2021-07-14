@@ -1,0 +1,329 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2020-10-09 11:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr "(Jobb egérgomb a mappa megnyitásához)"
+
+#: applet.js:170
+msgid "Places"
+msgstr "Helyek"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Saját mappában keresés"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "RENDSZER"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Fájlrendszerben keresés"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "MOSTANÁBAN MEGNYITOTT DOKUMENTUMOK"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Törlés"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Számítógép"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Fájlrendszer"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Hálózat"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Kuka"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Megnyitás..."
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Tartalmazó mappa megnyitása..."
+
+#: search.py:85
+msgid "Search"
+msgstr "Keresés"
+
+#: search.py:106
+msgid "Start in"
+msgstr "Kezdés"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Mappa kiválasztása"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Linkek követése"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Rejtettben keresés"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Reguláris kifejezések használata"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Megállítás"
+
+#: search.py:140
+msgid "File"
+msgstr "Fájl"
+
+#: search.py:156
+msgid "Path"
+msgstr "Útvonal"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Keresés..."
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Keresés megállítva"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Keresés: "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Hiba: nem megfelelő engedélyek a mappa olvasásához "
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Keresés befejeződött"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Átugrás"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - mappában már keresett"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Helyek Center"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Könnyen olvasható elrendezést biztosít a helyek eléréséhez"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"A Helyek Center egy funkciókban gazdag, platformokon átívelő Cinnamon "
+"kisalkalmazás, amely könnyű hozzáférést biztosít az összes leggyakrabban "
+"használt helyéhez. Nyugodtan közreműködhetünk azzal, hogy beküldünk lekérési "
+"kérelmeket, hibajelentéseket és funkciókéréseket a github repómhoz."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Szerző"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr ""
+"kehugter - Konfigurálási lehetőségeket adott hozzá a görgő kattintáshoz"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Általános"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Felhasználó"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "Rendszer"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Mostanában megnyitott dokumentumok"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Panel beállítások"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Menü beállítások"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Felhasználó szekció"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Rendszer szekció"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panel ikon"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Ikon név vagy direkt útvonal (szimbolikus ikonok támogatottak)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Panel szöveg"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Menü gyorsgomb"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Menü ikon méret"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Görgő kattintásra megnyitás"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Hagyja üresen a letiltáshoz"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Asztal mutatása"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Egyedi helyek"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"A felvenni kívánt útvonalak / fájl elérési utak listája. A bejegyzéseket "
+"vesszővel (,) vagy új sorral lehet elválasztani. Beállíthatja a "
+"megjelenítendő nevet a következő hely hozzáadásával :customName a hely után. "
+"Hasonlóképpen beállíthat egy ikonnevet az :iconName hozzáadásával az egyedi "
+"név után."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Kuka mutatása"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Soha"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Mindig"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Amikor nem üres"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Számítógép mutatása"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Fájlrendszer mutatása"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Kötetek mutatása"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Csak csatlakoztatott meghajtók mutatása"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Hálózat mutatása"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Mostanában megnyitott dokumentumok mutatása"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr "5"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr "10"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr "15"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr "20"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr "25"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr "30"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr "Minden mostanában megnyitott dokumentum"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Megjelenítendő darabszám"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr "Titoktartás"

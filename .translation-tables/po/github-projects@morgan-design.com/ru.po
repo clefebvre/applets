@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 17:00+0200\n"
+"PO-Revision-Date: 2017-05-27 17:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:45 applet.js:46
+#, fuzzy
+msgid "GitHub Explorer"
+msgstr "Github Explorer"
+
+#: applet.js:45
+msgid "Attempting to Load your GitHub Repos"
+msgstr "Попытка загрузить репозитории GitHub"
+
+#: applet.js:46
+#, fuzzy, c-format
+msgid "Successfully Loaded GitHub Repos for user %s"
+msgstr "Успешно загруженны репозитории GitHub для пользователя"
+
+#: applet.js:47
+#, fuzzy
+msgid "ERROR:: GitHub Explorer ::ERROR"
+msgstr "Github Explorer"
+
+#: applet.js:47
+msgid "Failed to load GitHub Repositories! Check applet Configuration"
+msgstr ""
+"Не удалось загрузить репозитории GitHub! Проверьте конфигурацию апплета"
+
+#: applet.js:166
+msgid "Settings"
+msgstr "Параметры"
+
+#: applet.js:177 applet.js:270
+msgid "Check Applet Configuration"
+msgstr "Проверка конфигурации Апплета"
+
+#: applet.js:266
+msgid "API Rate Exceeded will try again once we are allowed"
+msgstr ""
+"Превышен лимит запросов через API. Попробуйте снова, как только мы позволим"
+
+#: applet.js:281
+msgid "Click here to open GitHub"
+msgstr "Нажмите здесь, чтобы открыть GitHub"
+
+#: applet.js:331
+msgid "Open Repo In Browser"
+msgstr "Открыт репозиторий в браузере"
+
+#: applet.js:339
+msgid "Project Home"
+msgstr "Главная страница проекта"
+
+#: applet.js:346
+msgid "Details"
+msgstr "Детали"
+
+#: applet.js:349
+msgid "Watchers"
+msgstr "Наблюдатели"
+
+#: applet.js:356
+msgid "Open Issues"
+msgstr "Открыть задачи"
+
+#: applet.js:363
+msgid "Forks"
+msgstr "Forks"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->description
+#: applet.js:393
+msgid "Open GitHub Home"
+msgstr "Открыть главную страницу GitHub"
+
+#: applet.js:401
+msgid "Create A Gist"
+msgstr "Создать Gist"
+
+#. github-projects@morgan-design.com->settings-
+#. schema.json->username->description
+msgid "GitHub username:"
+msgstr "Имя пользователя GitHub:"
+
+#. github-projects@morgan-design.com->settings-schema.json->username->tooltip
+msgid "Set a username which you want to display public repositories for"
+msgstr ""
+"Задайте имя пользователя, для которого вы хотите отображать публичные "
+"репозитории"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->description
+msgid "Applet Version:"
+msgstr "Версия апплета:"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->tooltip
+msgid "Current version installed"
+msgstr "Текущая установленная версия"
+
+#. github-projects@morgan-design.com->settings-schema.json->head->description
+msgid "User Settings"
+msgstr "Пользовательские настройки"
+
+#. github-projects@morgan-design.com->settings-schema.json->head2->description
+msgid "Version Details"
+msgstr "Сведения о версии"
+
+#. github-projects@morgan-design.com->settings-schema.json->head1->description
+msgid "Usage Settings"
+msgstr "Настройки использования"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->description
+msgid ""
+"Check this to enable notifications about changes to Watchers, Forks and "
+"Issues"
+msgstr ""
+"Установите этот флажок, чтобы включить уведомления об изменении Watchers, "
+"Forks и Issues"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->tooltip
+msgid "Checking this will enable more notification messages"
+msgstr "При этом будет появляться больше уведомлений."
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->description
+msgid "Open Developer Home"
+msgstr "Открыть главную страницу разработчика"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->tooltip
+msgid "Open morgan-design.com - my personal blog"
+msgstr "Открыть morgan-design.com - мой личный блог"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->description
+msgid "Refresh Interval:"
+msgstr "Интервал обновления:"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->tooltip
+msgid ""
+"Change the amount of time between checking GitHub for changes to your "
+"Repositories"
+msgstr ""
+"Измените время между проверкой GitHub на изменения в ваших репозиториях."
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->description
+msgid "Check this to enable automatic refreshing"
+msgstr "Установите этот флажок, чтобы включить автоматическое обновление"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->tooltip
+msgid ""
+"Checking this will mean the applet will update itself according to your "
+"refresh interval"
+msgstr ""
+"Эта проверка будет означать, что апплет будет обновлять себя в соответствии "
+"с вашим интервалом обновления"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->description
+msgid "Visit Cinnamon Applet Home"
+msgstr "Посетить домашнюю страницу Cinnamon Applet"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->tooltip
+msgid "Open cinnamon.com - rate the application"
+msgstr "Открыть cinnamon.com - оценить приложение"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->description
+msgid "Check this to enable lots of logging in Looking Glass"
+msgstr ""
+"Установите этот флажок, чтобы включить протоколирование в Looking Glass"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->tooltip
+msgid "Checking this will enable lots of logging"
+msgstr "Эта проверка позволит получить больше информации при протоколировании"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->description
+msgid "Check this show the number of open issues next to the repository"
+msgstr ""
+"Установите этот флажок, чтобы число открытых проблем было рядом с хранилищем"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->tooltip
+msgid "Checking this show the number of issues next to each repository"
+msgstr "Эта проверка показывает количество задач рядом с каждым хранилищем"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->tooltip
+msgid "Open github.com - fork the code or add features"
+msgstr "Открыть github.com - Скопировать код или добавить функции"
+
+#. github-projects@morgan-design.com->metadata.json->description
+msgid "Click on the applet to explore your Public Github repositories"
+msgstr "Нажмите на апплет, чтобы изучить свои публичные репозитории на Github."
+
+#. github-projects@morgan-design.com->metadata.json->name
+msgid "Github Explorer"
+msgstr "Github Explorer"
+
+#~ msgid "Check applet Configuration"
+#~ msgstr "Проверка конфигурации апплета"

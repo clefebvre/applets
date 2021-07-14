@@ -1,0 +1,433 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <serkanonder@outlook.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2020-06-16 14:18+0300\n"
+"Last-Translator: serkan önder <serkanonder@outlook.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:437
+msgid "Network interfaces"
+msgstr "Ağ arayüzleri"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "Toplam veri başlangıcı"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "Uygulamanın başlangıcı"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "Bugün"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "Dün"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "3 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "5 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "7 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "10 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "14 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "30 gün önce"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "Özel tarih"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "Arayüz"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "Sıkışık"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "Büyük"
+
+#: applet.js:825
+msgid "b"
+msgstr "b"
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "Toplam indirme:"
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "Toplam yükleme:"
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "Bir ağ arayüzünün kullanımını gösterir"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "İndirme ve yükleme hızı"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "Göster"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "Saniyede ortalama hız"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "Aktarılan veri miktarı"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "Panelde gösterilen değerler"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "Birim"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "Bayt"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "Bit"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "Panelde gösterilen temel veri birimi"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "saniye"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "Hesapla her"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "İndirme ve yükleme hızını hesaplama sıklığı"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr "Kullanılabilir arayüzleri güncelleyin"
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+"Kullanılabilir ağ arayüzleri listesinin güncellenme sıklığı. 0, "
+"kullanılabilir ağ arabirimlerinin listesinin periyodik olarak "
+"güncellenmediği anlamına gelir."
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "Tip"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "Uygulamacık Arayüzü"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr "Değer sırası"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Download first"
+msgstr "Önce indirme"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Upload first"
+msgstr "Önce yükleme"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+"Panelde ve fareyle üzerine gelindiğinde açılır pencerede gösterilen değer "
+"sırası"
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "Ondalık"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "Otomatik"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0 "
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1 "
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2 "
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3 "
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr "Panelde gösterilen ondalık indirme ve yükleme hızı"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "Metin CSS"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "Paneldeki metne uygulanan bir CSS stili"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "İndirme simgesi"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "Yükleme simgesi"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr ""
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "Açılır pencere metin CSS"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr ""
+"Fareyle üzerine gelindiğinde açılan pencerede açıklama metnine uygulanan bir "
+"CSS stili"
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "Açılır pencere numaraları CSS"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr ""
+"Fareyle üzerine gelme açılır penceresindeki sayılara uygulanan bir CSS stili"
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+msgid "bytes"
+msgstr "bayt"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr "Görüntülenen minimum indirme değeri"
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+msgid "A minimum download value to display in the panel"
+msgstr "Panelde görüntülenecek minimum indirme değeri"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr "Görüntülenen minimum yükleme değeri"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+msgid "A minimum upload value to display in the panel"
+msgstr "Panelde görüntülenecek minimum yükleme değeri"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "Toplam veri"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr "Toplam indirme ve yüklemeyi vurgulu göster"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr ""
+"Açılır pencerede toplam indirme ve yükleme veri miktarını vurgulu göster"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "Başlat"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr "İndirilen ve yüklenen toplam veri miktarını hesaplamaya başlama zamanı"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "Özel tarih "
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"Başlangıç zamanı olarak kullanılan YYYY-AA-GG biçiminde özel bir tarih. Bu "
+"seçenek, \"Başlat\" birleşik giriş kutusunda \"Özel tarih\" seçilmişse "
+"kullanılır."
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "Her birini kaydet"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr ""
+"İndirilen ve dosyaya yüklenen toplam veri miktarının ne sıklıkta "
+"kaydedileceği. 0, dosyaya kaydedilmemesi anlamına gelir."
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "Veri limitleri"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "MB"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "Veri limiti"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr ""
+"İndirilecek ve yüklenecek maksimum veri miktarı. 0 sınır olmadığı anlamına "
+"gelir."
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "Veri sınırı kullanımını göster"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "Hiçbiri"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "Daire"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "Metin"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr "Panelde kullanılan veri sınırının yüzdesini göster"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr "Veri sınırı aşıldığında komutu çağır"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr "İndirilen ve yüklenen veri miktarı sınırı aştığında bir komut çağırın"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "Komut"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "Çağırma komutu"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "Bağlantılar"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "Mevcut İnternet bağlantılarını sol fare tıklamasıyla listeleyin"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr ""
+"Farenin sol tıklamasında mevcut bağlantıların listesini içeren bir terminal "
+"açın. Bir sonraki tıklama terminali kapatır."
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "Komut "
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr "Geçerli İnternet bağlantılarını listelemek için kullanılan komut"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr "Panelde indirme hızının yanında görüntülenen bir simge"
+
+#~ msgid "An icon displayed next to upload speed in the panel"
+#~ msgstr "Panelde yükleme hızının yanında görüntülenen bir simge"

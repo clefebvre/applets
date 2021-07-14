@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 20:10+0800\n"
+"PO-Revision-Date: 2021-04-03 22:24+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:61
+msgid "Click here to create a OTP"
+msgstr "Kattintson ide egy OTP (egyszer használatos jelszó) létrehozásához"
+
+#: applet.js:63
+msgid "Configure your SoftYubikey"
+msgstr "SoftYubikey beállítása"
+
+#. softyubikey@yubiserver.include.gr->metadata.json->description
+msgid "Click on the applet to create a OTP"
+msgstr ""
+"Kattintson a kisalkalmazásra egy OTP (egyszer használatos jelszó) "
+"létrehozásához"
+
+#. softyubikey@yubiserver.include.gr->metadata.json->name
+msgid "SoftYubikey"
+msgstr "SoftYubikey"

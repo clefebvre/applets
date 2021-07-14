@@ -1,0 +1,274 @@
+# Swedish translation for cryptocoin@guantanamoe.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cryptocoin@guantanamoe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 12:09+0800\n"
+"PO-Revision-Date: 2019-08-12 18:14+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. cryptocoin@guantanamoe->metadata.json->description
+msgid "Monitor current price and trends of cryptocurrencies"
+msgstr "Övervaka aktuella priser och trender för kryptovalutor"
+
+#. cryptocoin@guantanamoe->metadata.json->name
+msgid "Cryptocoin"
+msgstr "Cryptocoin"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->general-page->title
+#. settings-schema.json->general-page->title
+msgid "General"
+msgstr "Allmänt"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->graph-page->title
+#. cryptocoin@guantanamoe->settings-schema.json->layout->graph-section->title
+#. settings-schema.json->graph-page->title
+#. settings-schema.json->graph-section->title
+msgid "Graph"
+msgstr "Diagram"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->alerts-page->title
+#. cryptocoin@guantanamoe->settings-schema.json->layout->alerts-section->title
+#. settings-schema.json->alerts-page->title
+#. settings-schema.json->alerts-section->title
+msgid "Alerts"
+msgstr "Avisering"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->currency-
+#. section->title
+#. cryptocoin@guantanamoe->settings-schema.json->currency->description
+#. settings-schema.json->currency-section->title
+#. settings-schema.json->advanced-currency-section->title
+msgid "Currency"
+msgstr "Valuta"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->alerts-config->title
+#. settings-schema.json->alerts-config->title
+msgid "Config"
+msgstr "Konfiguration"
+
+#. cryptocoin@guantanamoe->settings-schema.json->layout->alerts-delta-
+#. section->title
+#. settings-schema.json->alerts-delta-section->title
+msgid "Delta Alerts"
+msgstr "Variationsavisering"
+
+#. cryptocoin@guantanamoe->settings-schema.json->currency->tooltip
+msgid "Set the currency you want coin value to be set in"
+msgstr "Ange den valuta i vilken du vill se din kryptovalutas värde"
+
+#. cryptocoin@guantanamoe->settings-schema.json->ticker->description
+msgid "Ticker"
+msgstr "Kryptovaluta"
+
+#. cryptocoin@guantanamoe->settings-schema.json->ticker->tooltip
+msgid "Set the crypto currency ticker"
+msgstr "Ange kryptovaluta"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-ticker-icon->description
+msgid "Ticker Icon"
+msgstr "Panelikon"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-ticker-name->description
+msgid "Ticker Name"
+msgstr "Panelnamn"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-currency->description
+msgid "Show Currency"
+msgstr "Visa valuta som"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-currency->options->Name
+msgid "name"
+msgstr "Namn"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-
+#. currency->options->Symbol
+msgid "symbol"
+msgstr "Symbol"
+
+#. cryptocoin@guantanamoe->settings-schema.json->show-currency->options->None
+msgid "none"
+msgstr "Ingen"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-unit->description
+msgid "Unit for Graph History"
+msgstr "Enhet för diagramhistorik"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-unit->options
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-unit->options
+msgid "Minutes"
+msgstr "Minuter"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-unit->options
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-unit->options
+msgid "Hours"
+msgstr "Timmar"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-unit->options
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-unit->options
+msgid "Days"
+msgstr "Dagar"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-length->description
+msgid "Graph History Length"
+msgstr "Diagrammets historiklängd"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-width->description
+msgid "Graph Popup Width"
+msgstr "Diagrammets popup-bredd"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-height->description
+msgid "Graph Popup Height"
+msgstr "Diagrammets popup-höjd"
+
+#. cryptocoin@guantanamoe->settings-schema.json->graph-color->description
+msgid "The Graph Foreground Color"
+msgstr "Diagrammets förgrundsfärg"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-enable->description
+msgid "Enable alerts"
+msgstr "Aktivera avisering"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-any-change->description
+msgid "Any change"
+msgstr "Alla förändringar"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-label-
+#. color->description
+msgid "Label color"
+msgstr "Aviseringsfärg"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-above->description
+msgid "Absolute maximum (money)"
+msgstr "Absolut maximum (valuta)"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-above->tooltip
+msgid "Alert when current value is above this value"
+msgstr "Avisera när aktuellt värde är över detta värde"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-below->description
+msgid "Absolute minimum (money)"
+msgstr "Absolut minimum (valuta)"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-below->tooltip
+msgid "Alert when current value is below this value"
+msgstr "Avisera när aktuellt värde är under detta värde"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-delta-
+#. above->description
+msgid "Increase variation (%)"
+msgstr "Ökande variation (%)"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-delta-above->tooltip
+msgid "Alert when value increase this delta %"
+msgstr "Avisera när värdet stiger över denna variation %"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-delta-
+#. below->description
+msgid "Decrease variation (%)"
+msgstr "Minskande variation (%)"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-on-delta-below->tooltip
+msgid "Alert when value decrease this delta %"
+msgstr "Avisera när värdet sjunker under denna variation %"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-
+#. length->description
+msgid "Delta interval"
+msgstr "Variationsintervall"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-unit->description
+msgid "Unit of interval"
+msgstr "Intervallenhet"
+
+#. cryptocoin@guantanamoe->settings-schema.json->alert-delta-update-
+#. interval->description
+msgid "Update interval"
+msgstr "Uppdateringsintervall"
+
+#. settings-schema.json->advanced-page->title
+msgid "Advanced"
+msgstr ""
+
+#. settings-schema.json->amount->description
+msgid "Amount"
+msgstr ""
+
+#. settings-schema.json->amount->tooltip
+msgid "Set the balance to multiply the price"
+msgstr ""
+
+#. settings-schema.json->show-currency->options
+msgid "Name"
+msgstr ""
+
+#. settings-schema.json->show-currency->options
+#, fuzzy
+msgid "Symbol"
+msgstr "Symbol"
+
+#. settings-schema.json->show-currency->options
+msgid "None"
+msgstr ""
+
+#. settings-schema.json->rates-update-interval->description
+msgid "Rates update interval (in seconds)"
+msgstr ""
+
+#. settings-schema.json->rates-update-interval->tooltip
+msgid "Set the delay between each rates update."
+msgstr ""
+
+#. settings-schema.json->graph-type->description
+#, fuzzy
+msgid "Graph Type"
+msgstr "Diagram"
+
+#. settings-schema.json->graph-type->options
+msgid "Candlestick"
+msgstr ""
+
+#. settings-schema.json->graph-type->options
+msgid "Line"
+msgstr ""
+
+#. settings-schema.json->graph-color->description
+#, fuzzy
+msgid "Graph Foreground Color"
+msgstr "Diagrammets förgrundsfärg"
+
+#. settings-schema.json->alert-delta-update-interval->units
+msgid "seconds"
+msgstr ""
+
+#. settings-schema.json->currency-format-enable->description
+msgid "Custom format"
+msgstr ""
+
+#. settings-schema.json->currency-format-symbol->description
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Valuta"
+
+#. settings-schema.json->currency-format-name->description
+#, fuzzy
+msgid "Currency name"
+msgstr "Valuta"
+
+#. settings-schema.json->currency-format-precision->description
+msgid "Decimal places"
+msgstr ""
+
+#~ msgid "Cryptocoin Settings"
+#~ msgstr "Cryptocoin Inställningar"

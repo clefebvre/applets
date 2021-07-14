@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 23:34+0100\n"
+"PO-Revision-Date: 2021-02-27 23:36+0100\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. metadata.json->name
+#: applet.js:29
+msgid "Bulgarian Radio and TV Streams"
+msgstr "Български радиа и телевизии"
+
+#: applet.js:45
+msgid "Radio stations"
+msgstr "Радиа"
+
+#: applet.js:49
+msgid "Bg Radio"
+msgstr "Бг Радио"
+
+#: applet.js:53 applet.js:61 applet.js:69 applet.js:77 applet.js:85
+#: applet.js:93 applet.js:101 applet.js:109 applet.js:117 applet.js:125
+#: applet.js:133 applet.js:141 applet.js:149 applet.js:157 applet.js:165
+#: applet.js:173 applet.js:181 applet.js:189
+#, javascript-format
+msgid "Listening %s"
+msgstr "Слушате %s"
+
+#: applet.js:57
+msgid "bTV Radio"
+msgstr "bTV радио"
+
+#: applet.js:65
+msgid "City Radio"
+msgstr "Радио Сити"
+
+#: applet.js:73
+msgid "Classic FM"
+msgstr "Класик ФМ"
+
+#: applet.js:81
+msgid "Darik"
+msgstr "Дарик"
+
+#: applet.js:89
+msgid "Darik Nostalgie"
+msgstr "Дарик Носталжи"
+
+#: applet.js:97
+msgid "Energy"
+msgstr "Енерджи"
+
+#: applet.js:105
+msgid "FM+"
+msgstr "ФМ+"
+
+#: applet.js:113
+msgid "Fresh"
+msgstr "Фреш"
+
+#: applet.js:121
+msgid "Jazz FM"
+msgstr "Джаз ФМ"
+
+#: applet.js:129
+msgid "K2"
+msgstr "К2"
+
+#: applet.js:137
+msgid "Melody"
+msgstr "Мелъди"
+
+#: applet.js:145
+msgid "N-Joy"
+msgstr "Ен-джой"
+
+#: applet.js:153
+msgid "Nova Radio"
+msgstr "Нова радио"
+
+#: applet.js:161
+msgid "Radio 1"
+msgstr "Радио 1"
+
+#: applet.js:169
+msgid "Radio 1 Rock"
+msgstr "Радио 1 рок"
+
+#: applet.js:177
+msgid "The Voice Radio"
+msgstr "Радио The Voice"
+
+#: applet.js:185
+msgid "Z-Rock"
+msgstr "Зи-рок"
+
+#: applet.js:197
+msgid "TV stations"
+msgstr "Телевизии"
+
+#: applet.js:201
+msgid "BNT"
+msgstr "БНТ"
+
+#: applet.js:205 applet.js:213 applet.js:221 applet.js:229 applet.js:237
+#: applet.js:245 applet.js:253 applet.js:261 applet.js:269 applet.js:277
+#: applet.js:285 applet.js:293
+#, javascript-format
+msgid "Watching %s"
+msgstr "Гледате %s"
+
+#: applet.js:209
+msgid "BNT 2"
+msgstr "БНТ 2"
+
+#: applet.js:217
+msgid "BNT HD"
+msgstr "БНТ HD"
+
+#: applet.js:225
+msgid "BNT World"
+msgstr "БНТ свят"
+
+#: applet.js:233
+msgid "bTV"
+msgstr "bTV"
+
+#: applet.js:241
+msgid "BIT"
+msgstr "БИТ"
+
+#: applet.js:249
+msgid "City"
+msgstr "Сити"
+
+#: applet.js:257
+msgid "Kanal 3"
+msgstr "Канал 3"
+
+#: applet.js:265
+msgid "Nova"
+msgstr "Нова"
+
+#: applet.js:273
+msgid "On Air"
+msgstr "On Air"
+
+#: applet.js:281
+msgid "The Voice"
+msgstr "The Voice"
+
+#: applet.js:289
+msgid "Magic TV"
+msgstr "Magic TV"
+
+#: applet.js:300
+msgid "Stop"
+msgstr "Спри"
+
+#: applet.js:303
+msgid "All Stop"
+msgstr "Всичко е спряно"
+
+#. metadata.json->description
+msgid ""
+"The most famous bulgarian radio and TV streams. Some of the streams are "
+"available only from bulgaria. To watch a TVs, you'll need to install "
+"rtmpdump and mpv packages."
+msgstr ""
+"Най-известните български радиа и телевизии. Някои от тях са налични само от "
+"България. За да гледате телевизия, ще имате нужда от пакетите rtmpdump и mpv."
+
+#~ msgid "Radio"
+#~ msgstr "Радиа"
+
+#~ msgid "TV"
+#~ msgstr "Телевизии"
+
+#~ msgid "Listening Bg Radio"
+#~ msgstr "Слушате Бг радио"
+
+#~ msgid "Listening bTV Radio"
+#~ msgstr "Слушате bTV радио"
+
+#~ msgid "Listening City Radio"
+#~ msgstr "Слушате радио City"
+
+#~ msgid "Listening Clasic FM"
+#~ msgstr "Слушате Класик ФМ"
+
+#~ msgid "Listening Darik"
+#~ msgstr "Слушате Дарик"
+
+#~ msgid "Listening Darik Nostalgie"
+#~ msgstr "Слушате Дарик Носталжи"
+
+#~ msgid "Listening Energy"
+#~ msgstr "Слушате Енерджи"
+
+#~ msgid "Listening FM+"
+#~ msgstr "Слушате ФМ+"
+
+#~ msgid "Listening Fresh"
+#~ msgstr "Слушате Фреш"
+
+#~ msgid "Listening Jazz FM"
+#~ msgstr "Слушате Джаз ФМ"
+
+#~ msgid "Listening Melody"
+#~ msgstr "Слушате Мелъди"
+
+#~ msgid "Listening N-joy"
+#~ msgstr "Слушате Ен-джой"
+
+#~ msgid "Listening Nova Radio"
+#~ msgstr "Слушате радио Нова"
+
+#~ msgid "Listening Radio 1"
+#~ msgstr "Слушате Радио 1"
+
+#~ msgid "Listening Radio 1 Rock"
+#~ msgstr "Слушате Радио 1 рок"
+
+#~ msgid "Listening The Voice Radio"
+#~ msgstr "Слушате радио The Voice"
+
+#~ msgid "Listening Z-Rock"
+#~ msgstr "Слушате Зи-рок"
+
+#~ msgid "Watching BNT 2"
+#~ msgstr "Гледате БНТ 2"
+
+#~ msgid "Watching BNT HD"
+#~ msgstr "Гледате БНТ HD"
+
+#~ msgid "Watching BNT World"
+#~ msgstr "Гледате БНТ свят"
+
+#~ msgid "Watching bTV"
+#~ msgstr "Гледате bTV"
+
+#~ msgid "Watching BIT"
+#~ msgstr "Гледате БИТ"
+
+#~ msgid "Watching City"
+#~ msgstr "Гледате Сити"
+
+#~ msgid "Watching Nova"
+#~ msgstr "Гледате Нова"
+
+#~ msgid "Watching Kanal 3"
+#~ msgstr "Гледате Канал 3"
+
+#~ msgid "Watching On Air"
+#~ msgstr "Гледате On Air"
+
+#~ msgid "Watching The Voice"
+#~ msgstr "Гледате The Voice"
+
+#~ msgid "Watching Magic TV"
+#~ msgstr "Гледате Magic TV"

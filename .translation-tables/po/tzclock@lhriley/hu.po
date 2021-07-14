@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-26 15:34-0800\n"
+"PO-Revision-Date: 2021-04-05 11:08+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:26
+msgid "%l:%M %p %Z"
+msgstr "%l:%M %p %Z"
+
+#: tzclock_settings.py:66
+msgid "Timezone"
+msgstr "Időzóna"
+
+#: tzclock_settings.py:207
+msgid "Region"
+msgstr "Régió"
+
+#: tzclock_settings.py:210
+msgid "City"
+msgstr "Város"
+
+#. settings-schema.json->tzclock-settings-header->description
+msgid "Timezone Clock Settings"
+msgstr "Időzóna Óra beállításai"
+
+#. settings-schema.json->displayed-timezone->description
+msgid "Timezone to display"
+msgstr "Megjelenítendő időzóna"
+
+#. settings-schema.json->displayed-timezone->tooltip
+msgid "Enter a valid timezone name to display."
+msgstr "Adjon meg egy érvényes időzóna nevet a megjelenítéshez."
+
+#. settings-schema.json->tzclocks-settings-button->description
+msgid "Select timezone on map"
+msgstr "Válasszon időzónát a térképen"
+
+#. settings-schema.json->tzclocks-settings-button->tooltip
+msgid "Click this button to select timezone on map."
+msgstr "Kattintson erre a gombra az időzóna kiválasztásához a térképen."
+
+#. settings-schema.json->browse-timezones-button->description
+msgid "Browse valid timezone values by country"
+msgstr "Böngésszen az érvényes időzóna értékekből országok szerint"
+
+#. settings-schema.json->browse-timezones-button->tooltip
+msgid "Click this button to browse valid timezone values by country."
+msgstr ""
+"Kattintson erre a gombra az érvényes időzóna értékek ország szerinti "
+"böngészéséhez."
+
+#. settings-schema.json->clock-display->description
+msgid "Clock Display Format"
+msgstr "Óra megjelenítendő formátuma"
+
+#. settings-schema.json->clock-use-24h->description
+msgid "Display the time using a 24 hour clock"
+msgstr "Idő megjelenítése 24 órás formátumban"
+
+#. settings-schema.json->clock-use-24h->tooltip
+msgid ""
+"Check this to display the time using a 24 hour clock in the timezone clock "
+"applet."
+msgstr ""
+"Jelölje be ezt az idő 24 órás formátumú megjelenítéséhez az időzóna óra "
+"kisalkalmazásában."
+
+#. settings-schema.json->clock-show-seconds->description
+msgid "Display the time with seconds"
+msgstr "Jelenítse meg az időt másodpercekkel"
+
+#. settings-schema.json->clock-show-seconds->tooltip
+msgid ""
+"Check this to display the time with seconds in the timezone clock applet."
+msgstr ""
+"Jelölje be ezt, ha az időt másodpercekkel szeretné megjeleníteni az időzóna "
+"óra kisalkalmazásában."
+
+#. settings-schema.json->clock-show-date->description
+msgid "Display the date"
+msgstr "Dátum megjelenítése"
+
+#. settings-schema.json->clock-show-date->tooltip
+msgid "Check this to display the date in the timezone clock applet."
+msgstr ""
+"Jelölje be ezt a dátum megjelenítéséhez az időzóna óra kisalkalmazásában."
+
+#. settings-schema.json->use-custom-format->description
+msgid "Use a custom date format"
+msgstr "Egyéni dátumformátum használata"
+
+#. settings-schema.json->use-custom-format->tooltip
+msgid ""
+"Check this to define a custom format for the date in the timezone clock "
+"applet."
+msgstr ""
+"Jelölje be ezt a dátum egyéni formátumának megadásához az időzóna óra "
+"kisalkalmazásában."
+
+#. settings-schema.json->custom-format->description
+msgid "Date format:"
+msgstr "Dátumformátum:"
+
+#. settings-schema.json->custom-format->tooltip
+msgid "Set your custom format here."
+msgstr "Egyéni formátum megadása itt."
+
+#. settings-schema.json->format-button->description
+msgid "Show information on date format syntax"
+msgstr "Információk megjelenítése a dátumformátum szintaxisáról"
+
+#. settings-schema.json->format-button->tooltip
+msgid "Click this button to know more about the syntax for date formats."
+msgstr ""
+"A dátumformátumok szintaxisáról többet megtudhat, ha erre a gombra kattint."
+
+#. metadata.json->name
+msgid "Timezone Clock"
+msgstr "Időzóna Óra"
+
+#. metadata.json->description
+msgid "A simple clock for displaying the current time in a timezone"
+msgstr "Egyszerű óra az aktuális idő megjelenítésére egy időzónában"

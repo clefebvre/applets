@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 23:47+0100\n"
+"PO-Revision-Date: 2021-04-03 20:32+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:159
+msgid "Session"
+msgstr "Munkamenet"
+
+#: applet.js:226
+msgid "Lock Screen"
+msgstr "Zárolási képernyő"
+
+#: applet.js:230
+msgid "Switch User"
+msgstr "Felhasználóváltás"
+
+#: applet.js:235
+msgid "Guest Session"
+msgstr "Vendég munkamenet"
+
+#: applet.js:240
+msgid "Log Off"
+msgstr "Kijelentkezés"
+
+#: applet.js:246
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: applet.js:251
+msgid "Sleep"
+msgstr "Alvó mód"
+
+#: applet.js:256
+msgid "Hibernate"
+msgstr "Hibernálás"
+
+#: applet.js:262
+msgid "Restart"
+msgstr "Újraindítás"
+
+#: applet.js:266
+msgid "Shut Down"
+msgstr "Leállítás"
+
+#. sessionManager@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Panelikon"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->description
+msgid "Icon Size"
+msgstr "Ikonméret"
+
+#. sessionManager@scollins->settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. sessionManager@scollins->settings-
+#. schema.json->symbolicMenuIcons->description
+msgid "Symbolic icons in menu"
+msgstr "Szimbolikus ikonok a menüben"
+
+#. sessionManager@scollins->settings-schema.json->panelText->description
+msgid "Panel Text"
+msgstr "Panel szöveg"
+
+#. sessionManager@scollins->settings-schema.json->general->description
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#. sessionManager@scollins->metadata.json->description
+msgid "Provides easy access to shut down, restart, etc"
+msgstr "Könnyű elérést biztosít a leállításhoz, újraindításhoz, stb"
+
+#. sessionManager@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - szerző"
+
+#. sessionManager@scollins->metadata.json->comments
+msgid ""
+"Session Manager is an applet that provides easy access to session controls "
+"such as shut down, restart, log off, switch user, etc. It has been tested in "
+"Arch, Fedora and Linux Mint, and supports a wide variety of software "
+"configurations. If your particular configuration is not supported, please "
+"submit a feature request on github, and I will add it at my earliest "
+"convenience."
+msgstr ""
+"A Session Manager egy olyan kisalkalmazás, amely könnyű hozzáférést biztosít "
+"a munkamenet-vezérlőkhöz, például leállításhoz, újraindításhoz, "
+"kijelentkezéshez, felhasználóváltáshoz stb. Az Archban, a Fedoraban és a "
+"Linux Mintben tesztelték, és sokféle szoftverkonfigurációt támogat. Ha az Ön "
+"konfigurációja nem támogatott, kérjük, küldjön egy funkciókérést a github-"
+"on, és én azt a lehető leghamarabb hozzáadom."
+
+#. sessionManager@scollins->metadata.json->name
+msgid "Session Manager"
+msgstr "Munkamenet kezelő"

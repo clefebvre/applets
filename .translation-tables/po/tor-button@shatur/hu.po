@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-09 13:47+0200\n"
+"PO-Revision-Date: 2018-12-02 02:40+0100\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: applet.js:46
+msgid "Tor network"
+msgstr "Tor hálózat"
+
+#: applet.js:50
+msgid "Rebuild chain"
+msgstr "Új_ra-összeállítás"
+
+#: applet.js:82 applet.js:143
+msgid "Tor disabled"
+msgstr "A Tor hálózat nem érhető el"
+
+#: applet.js:88 applet.js:107 applet.js:126 applet.js:154
+msgid "Error"
+msgstr "Hiba"
+
+#: applet.js:88
+msgid "Unable to parse "
+msgstr "Nem dolgozható fel az elem "
+
+#: applet.js:107
+msgid "Unable to open configuration file "
+msgstr "A beállítás-fájl nem nyitható meg "
+
+#: applet.js:121
+msgid "Process launched."
+msgstr "Folyamat elindítva."
+
+#: applet.js:122
+msgid "Tor enabled"
+msgstr "A Tor hálózat elérhető"
+
+#: applet.js:126
+msgid "Unable to start Tor: "
+msgstr "Nem sikerült elindítani a Tor alkalmazást: "
+
+#: applet.js:142
+msgid "Process closed."
+msgstr "Folyamat leállítva."
+
+#: applet.js:154
+msgid "Tor is not running."
+msgstr "A Tor alkalmazás nem fut."
+
+#. tor-button@shatur->settings-schema.json->showNotifications->description
+msgid "Show notifications"
+msgstr "Értesítések megjelenítése"
+
+#. tor-button@shatur->settings-schema.json->showNotifications->tooltip
+msgid "Show notifications when the Tor network is turned on/off."
+msgstr "Értesítés megjelenítése, amikor a Tor hálózat elérhető/nem érhető el."
+
+#. tor-button@shatur->settings-schema.json->torPath->description
+msgid "Tor location path"
+msgstr "Tor alkalmazás elérési útvonala"
+
+#. tor-button@shatur->settings-schema.json->torPath->tooltip
+msgid "Specify the command to launch Tor."
+msgstr "A Tor elindításához használandó parancs."
+
+#. tor-button@shatur->settings-schema.json->torrc-page->title
+msgid "Tor settings"
+msgstr "Tor beállítások"
+
+#. tor-button@shatur->settings-schema.json->applet-section->title
+msgid "Settings for applet"
+msgstr "A kisalkalmazás beállításai"
+
+#. tor-button@shatur->settings-schema.json->applet-page->title
+msgid "Applet settings"
+msgstr "Kisalkalmazás beállítások"
+
+#. tor-button@shatur->settings-schema.json->torrc-section->title
+msgid "Settings for Tor"
+msgstr "Tor beállítások"
+
+#. tor-button@shatur->settings-schema.json->configPath->description
+msgid "Tor config path"
+msgstr "Tor beállítási útvonal"
+
+#. tor-button@shatur->settings-schema.json->configPath->tooltip
+msgid "Specify the path to torrc file."
+msgstr "Adja meg a torrc fájl elérési útját."
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->description
+msgid "Launch Tor as tor user"
+msgstr "Tor alkalmazás elindítása a „tor” felhasználó nevében"
+
+#. tor-button@shatur->settings-schema.json->runAsRoot->tooltip
+msgid ""
+"Launch Tor with polkit as tor user. Needed if you don't have permissions to "
+"launch Tor as normal user."
+msgstr ""
+"Tor alkalmazás elindítása a polkit segítségével a „tor” felhasználó nevében. "
+"Erre akkor van szükség, ha nincsen elegendő jogosultsága elindítani a Tor "
+"alkalmazást a saját felhasználói fiókjával."
+
+#. tor-button@shatur->metadata.json->description
+msgid "Applet for Tor network management"
+msgstr "Tor hálózatkezelő kisalkalmazás"
+
+#. tor-button@shatur->metadata.json->name
+msgid "Tor Button"
+msgstr "Tor gomb"

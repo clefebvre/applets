@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 14:01+0100\n"
+"PO-Revision-Date: 2021-03-25 18:22+0100\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. commandLauncher@scollins->metadata.json->name
+#: applet.js:106 applet.js:159
+msgid "Command Launcher"
+msgstr "Parancsindító"
+
+#: applet.js:106
+msgid "Process started"
+msgstr "Folyamat elkezdődött"
+
+#. commandLauncher@scollins->settings-schema.json->command->description
+#: applet.js:106 applet.js:159
+msgid "Command"
+msgstr "Parancs"
+
+#: applet.js:107 applet.js:160
+msgid "Process Id"
+msgstr "Folyamatazonosító"
+
+#: applet.js:110
+#, c-format
+msgid "Error while trying to run \"%s\""
+msgstr "Hiba történt a futtatás közben \"%s\""
+
+#: applet.js:159
+msgid "Process ended"
+msgstr "Folyamat elkezdődött"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Panelikon"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->tooltip
+msgid ""
+"Supports both icon name and icon path.\n"
+"To use a symbolic icon, include '-symbolic' (or '-symbolic.svg') at the end."
+msgstr ""
+"Támogatja az ikon nevét és az ikon elérési útját.\n"
+"Szimbolikus ikon használatához a végén vegye fel a „-symbolic” (vagy a „-"
+"symbolic.svg” szót)."
+
+#. commandLauncher@scollins->settings-schema.json->useRoot->description
+msgid "Run as root"
+msgstr "Futtatés root-ként"
+
+#. commandLauncher@scollins->settings-schema.json->apearance->description
+msgid "Appearance and behavior"
+msgstr "Megjelenés és viselkedés"
+
+#. commandLauncher@scollins->settings-schema.json->commandTitle->description
+msgid "Command settings"
+msgstr "Parancs beállítások"
+
+#. commandLauncher@scollins->settings-schema.json->useAltEnv->description
+msgid "Run in alternate directory"
+msgstr "Futtassa alternatív könyvtárban"
+
+#. commandLauncher@scollins->settings-
+#. schema.json->showNotifications->description
+msgid "Show notifications on completion"
+msgstr "Értesítés megjelenítése ha befejeződött"
+
+#. commandLauncher@scollins->settings-schema.json->keyLaunch->description
+msgid "Keyboard shortcut"
+msgstr "Gyorsbillentyű"
+
+#. commandLauncher@scollins->settings-schema.json->altEnv->description
+msgid "Environment path"
+msgstr "Útvonal"
+
+#. commandLauncher@scollins->settings-schema.json->tooltipText->description
+msgid "Tooltip"
+msgstr "Eszköztipp"
+
+#. commandLauncher@scollins->metadata.json->description
+msgid "Lets you to run command-line commands with the click of a button"
+msgstr "Lehetővé teszi a parancssori parancsok futtatását egy gombnyomással"
+
+#. commandLauncher@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Szerző"
+
+#. commandLauncher@scollins->metadata.json->comments
+msgid ""
+"This is a simple multi-instance applet for Cinnamon which allows the user to "
+"launch commands as though from a command prompt with the click of a button. "
+"Unlike a program launcher, which typically uses a .desktop to launch a "
+"program, Command Launcher uses a direct command-line command. This means you "
+"can use any command you could use from a terminal (eg run a script, launch "
+"program with complicated command-line arguments, etc)."
+msgstr ""
+"Ez egy egyszerű, többpéldányos Cinnamon kisalkalmazás, amely lehetővé teszi "
+"a felhasználó számára, hogy gombnyomásra parancsokat indítson, úgy mintha "
+"csak egy parancssorból tenné azt. Ellentétben a programindítóval, amely "
+"általában egy .desktop programot használ a program indításához, a "
+"Parancsindító közvetlen parancssori parancsot használ. Ez azt jelenti, hogy "
+"bármilyen parancsot használhat, amelyet egy terminálból indítana (pl. "
+"futtathat egy szkriptet, elindíthat egy programot bonyolult parancssori "
+"argumentumokkal stb.)."

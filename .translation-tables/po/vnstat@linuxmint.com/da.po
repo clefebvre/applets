@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 12:43+0100\n"
+"PO-Revision-Date: 2017-10-07 16:38+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:105
+msgid ""
+"Please make sure vnstat and vnstati are installed and that the vnstat daemon "
+"is running!"
+msgstr ""
+"Sørg for, at vnstat og vnstati er installerede, og at vnstat-dæmonen kører!"
+
+#. vnstat@linuxmint.com->metadata.json->description
+msgid "Network usage monitor using vnstat"
+msgstr "Overvågning af netværksforbrug ved hjælp af vnstat"
+
+#. vnstat@linuxmint.com->metadata.json->name
+msgid "Network usage monitor"
+msgstr "Overvågning af netværksforbrug"

@@ -1,0 +1,188 @@
+# Main translation file for text-to-speech-applet@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 22:48+0100\n"
+"PO-Revision-Date: 2019-10-17 21:42+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: applet.js:222
+msgid "The following packages were not found:"
+msgstr ""
+
+#: applet.js:223
+msgid "Please install the above packages to use the applet"
+msgstr ""
+
+#: applet.js:254
+msgid "The default text-to-speech engine"
+msgstr ""
+
+#: applet.js:254
+msgid "not found."
+msgstr ""
+
+#: applet.js:255
+msgid "To use the applet either install"
+msgstr ""
+
+#: applet.js:256
+msgid ""
+"or specify other engine as 'Voice command' parameter in applet configuration."
+msgstr ""
+
+#: applet.js:257
+msgid "Do you want to continue ?"
+msgstr ""
+
+#: applet.js:567
+msgid "Error parsing command parameters"
+msgstr "Errore durante l'analisi dei parametri del comando"
+
+#: applet.js:568
+msgid "Try to use less parameters to determine which one is causing the error"
+msgstr ""
+"Prova a utilizzare meno parametri per determinare qual è la causa dell'errore"
+
+#. metadata.json->description
+msgid "A text reading applet"
+msgstr "Un'applet per la lettura di testi"
+
+#. metadata.json->name
+msgid "Text to speech applet"
+msgstr "Applet di sintesi vocale"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Configurazione"
+
+#. settings-schema.json->clipboard_type->description
+msgid "Clipboard"
+msgstr "Clipboard"
+
+#. settings-schema.json->clipboard_type->options
+msgid "Primary selection"
+msgstr "Selezione primaria"
+
+#. settings-schema.json->clipboard_type->options
+msgid "Clipboard selection"
+msgstr "Selezione da Clipboard"
+
+#. settings-schema.json->clipboard_type->tooltip
+msgid ""
+"The clipboard that contains the text to read. \n"
+"The primary selection stores highlighted text. \n"
+"The clipboard selection stores text copied with Ctrl+C."
+msgstr ""
+"La clipboard che contiene il testo da leggere.\n"
+"La selezione principale memorizza il testo evidenziato.\n"
+"La selezione della clipboard memorizza il testo copiato con Ctrl+C."
+
+#. settings-schema.json->voice_command->description
+msgid "Voice command"
+msgstr "Comando vocale"
+
+#. settings-schema.json->voice_command->tooltip
+msgid ""
+"A command used to read the text. \n"
+"Text to read will be passed as the last command argument."
+msgstr ""
+
+#. settings-schema.json->reading_start->description
+msgid "Reading"
+msgstr "Lettura"
+
+#. settings-schema.json->read_lines_and_stop->description
+msgid "Read lines and stop"
+msgstr "Leggi le righe e fermati"
+
+#. settings-schema.json->read_lines_and_stop->tooltip
+msgid ""
+"If checked reading is stopped after the specified number of lines. Reading "
+"is resumed from the line it was stopped."
+msgstr ""
+"Se selezionato la lettura viene interrotta dopo il numero specificato di "
+"righe. La lettura riprende dalla riga in cui è stata interrotta."
+
+#. settings-schema.json->number_lines_to_read->units
+msgid "lines and stop"
+msgstr "righe e ferma"
+
+#. settings-schema.json->number_lines_to_read->description
+msgid "Read"
+msgstr "Leggi"
+
+#. settings-schema.json->number_lines_to_read->tooltip
+msgid "The number of lines to read"
+msgstr "Il numero di righe da leggere"
+
+#. settings-schema.json->line_separator->description
+msgid "Line separator"
+msgstr "Separatore di riga"
+
+#. settings-schema.json->line_separator->tooltip
+msgid "A regular expression separating lines of text"
+msgstr "Un'espressione regolare che separa le righe di testo"
+
+#. settings-schema.json->gui_start->description
+msgid "Gui"
+msgstr "Interfaccia Grafica"
+
+#. settings-schema.json->gui_idle_icon_filename->description
+msgid "Idle icon"
+msgstr "Icona di inattività"
+
+#. settings-schema.json->gui_idle_icon_filename->tooltip
+msgid "An icon displayed when idle"
+msgstr "Un'icona visualizzata quando è inattivo"
+
+#. settings-schema.json->gui_reading_icon_filename->description
+msgid "Reading icon"
+msgstr "Icona di lettura"
+
+#. settings-schema.json->gui_reading_icon_filename->tooltip
+msgid "An icon displayed when reading"
+msgstr "Un'icona visualizzata durante la lettura"
+
+#. settings-schema.json->gui_pause_icon_filename->description
+msgid "Pause icon"
+msgstr "Icona di pausa"
+
+#. settings-schema.json->gui_pause_icon_filename->tooltip
+msgid "An icon displayed when paused"
+msgstr "Un'icona visualizzata quando in pausa"
+
+#. settings-schema.json->shortcuts_start->description
+msgid "Shortcuts"
+msgstr ""
+
+#. settings-schema.json->start_stop_keys->description
+#, fuzzy
+msgid "Reading shortcut"
+msgstr "Icona di lettura"
+
+#. settings-schema.json->start_stop_keys->tooltip
+msgid "A keyboard shortcut to start or stop reading the text"
+msgstr ""
+
+#. settings-schema.json->pause_resume_keys->description
+msgid "Pause shortcut"
+msgstr ""
+
+#. settings-schema.json->pause_resume_keys->tooltip
+msgid "A keyboard shortcut to pause or resume reading the text"
+msgstr ""
+
+#~ msgid "A command used to read the text"
+#~ msgstr "Un comando utilizzato per leggere il testo"

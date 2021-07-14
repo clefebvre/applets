@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 12:25+0200\n"
+"PO-Revision-Date: 2020-12-17 16:12+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: QRLib.js:682
+msgid "Invalid or unsupported mode."
+msgstr "Ugyldig eller ikke understøttet tilstand."
+
+#: QRLib.js:686
+msgid "Invalid data format."
+msgstr "Ugyldigt dataformat."
+
+#: QRLib.js:688
+msgid "Invalid ECC level."
+msgstr "Ugyldigt ECC-niveau."
+
+#: QRLib.js:694
+msgid "Too much data."
+msgstr "For mange data."
+
+#: QRLib.js:696
+msgid "Invalid version."
+msgstr "Ugyldig version."
+
+#: QRLib.js:699
+msgid "Invalid mask."
+msgstr "Ugyldig maske."
+
+#: QR.js:80 applet.js:194
+msgid "QR generated"
+msgstr "QR dannet"
+
+#: applet.js:63
+msgid "Create QR code from clipboard"
+msgstr "Dan QR-kode fra udklipsholderen"
+
+#: applet.js:75
+#, javascript-format
+msgid "Save QR code as SVG in '~/%s'"
+msgstr "Gem QR-kode som SVG i “~/%s”"
+
+#: applet.js:158
+msgid "Scan QR Code"
+msgstr "Skan QR-kode"
+
+#: applet.js:183 applet.js:197
+msgid "No QR code scanned."
+msgstr "Ingen QR-kode skannet."
+
+#. metadata.json->name
+msgid "Clipboard QR code applet"
+msgstr "QR-kode fra udklipsholderen"
+
+#. metadata.json->description
+msgid "Create QR codes from clipboard content"
+msgstr "Dan QR-koder fra indholdet af udklipsholderen"

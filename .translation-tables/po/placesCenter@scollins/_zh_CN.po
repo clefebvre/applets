@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2017-05-02 21:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr ""
+
+#: search.py:43
+msgid "Open..."
+msgstr ""
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr ""
+
+#: search.py:85
+msgid "Search"
+msgstr ""
+
+#: search.py:106
+msgid "Start in"
+msgstr ""
+
+#: search.py:107
+msgid "Select a folder"
+msgstr ""
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr ""
+
+#: search.py:117
+msgid "Search hidden"
+msgstr ""
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr ""
+
+#: search.py:125
+msgid "Stop"
+msgstr ""
+
+#: search.py:140
+msgid "File"
+msgstr ""
+
+#: search.py:156
+msgid "Path"
+msgstr ""
+
+#: search.py:184
+msgid "Searching..."
+msgstr ""
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr ""
+
+#: search.py:215
+msgid "Searching: "
+msgstr ""
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+#: search.py:252
+msgid "Search Completed"
+msgstr ""
+
+#: search.py:259
+msgid "Skipping"
+msgstr ""
+
+#: search.py:259
+msgid " - directory already searched"
+msgstr ""
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr ""
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr ""
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr ""
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr ""
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr ""
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr ""
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr ""
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr ""

@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 17:00+0200\n"
+"PO-Revision-Date: 2019-10-24 20:51+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:45 applet.js:46
+msgid "GitHub Explorer"
+msgstr "GitHub Explorer"
+
+#: applet.js:45
+msgid "Attempting to Load your GitHub Repos"
+msgstr "Tentative de téléchargement de l'état de vos dépôts Github"
+
+#: applet.js:46
+#, c-format
+msgid "Successfully Loaded GitHub Repos for user %s"
+msgstr "Renseignements sur les dépôts de %s téléchargés avec succès"
+
+#: applet.js:47
+msgid "ERROR:: GitHub Explorer ::ERROR"
+msgstr "ERROR:: GitHub Explorer ::ERROR"
+
+#: applet.js:47
+msgid "Failed to load GitHub Repositories! Check applet Configuration"
+msgstr ""
+"Impossible d'accéder à vos dépôts GitHub. Vérifier la configuration de "
+"l'applet"
+
+#: applet.js:166
+msgid "Settings"
+msgstr "Paramètres"
+
+#: applet.js:177 applet.js:270
+msgid "Check Applet Configuration"
+msgstr "Vérifier la configuration de l'applet"
+
+#: applet.js:266
+msgid "API Rate Exceeded will try again once we are allowed"
+msgstr ""
+"Taux horaire d'utilisation de l'API dépassé ; on essayera à nouveau une fois "
+"que nous serons autorisés"
+
+#: applet.js:281
+msgid "Click here to open GitHub"
+msgstr "Cliquez ici pour ouvrir GitHub"
+
+#: applet.js:331
+msgid "Open Repo In Browser"
+msgstr "Ouvrir le dépôt dans votre navigateur"
+
+#: applet.js:339
+msgid "Project Home"
+msgstr "Page du projet"
+
+#: applet.js:346
+msgid "Details"
+msgstr "Détails"
+
+#: applet.js:349
+msgid "Watchers"
+msgstr "Watchers"
+
+#: applet.js:356
+msgid "Open Issues"
+msgstr "Ouvrir les 'Issues'"
+
+#: applet.js:363
+msgid "Forks"
+msgstr "Forks"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->description
+#: applet.js:393
+msgid "Open GitHub Home"
+msgstr "Ouvrir la page Github de cette applet"
+
+#: applet.js:401
+msgid "Create A Gist"
+msgstr "Créer un Gist"
+
+#. github-projects@morgan-design.com->settings-
+#. schema.json->username->description
+msgid "GitHub username:"
+msgstr "Nom d'utilisateur Github :"
+
+#. github-projects@morgan-design.com->settings-schema.json->username->tooltip
+msgid "Set a username which you want to display public repositories for"
+msgstr ""
+"Saisissez l'identifiant de l'utilisateur dont vous voulez faire afficher les "
+"dépôts"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->description
+msgid "Applet Version:"
+msgstr "Version de l'applet :"
+
+#. github-projects@morgan-design.com->settings-schema.json->applet-
+#. version->tooltip
+msgid "Current version installed"
+msgstr "Version actuellement installée"
+
+#. github-projects@morgan-design.com->settings-schema.json->head->description
+msgid "User Settings"
+msgstr "Paramètres de l'utilisateur"
+
+#. github-projects@morgan-design.com->settings-schema.json->head2->description
+msgid "Version Details"
+msgstr "Détails de la version"
+
+#. github-projects@morgan-design.com->settings-schema.json->head1->description
+msgid "Usage Settings"
+msgstr "Paramètres d'utilisation"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->description
+msgid ""
+"Check this to enable notifications about changes to Watchers, Forks and "
+"Issues"
+msgstr ""
+"Cochez cette case pour activer les notifications concernant les "
+"modifications apportées aux Watchers, Forks et Issues"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-github-
+#. change-notifications->tooltip
+msgid "Checking this will enable more notification messages"
+msgstr "Cocher cette case pour afficher davantage de messages de notification"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->description
+msgid "Open Developer Home"
+msgstr "Ouvrir la page web du développeur de cette applet"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-developer-
+#. homepage-button->tooltip
+msgid "Open morgan-design.com - my personal blog"
+msgstr "Ouvrir morgan-design.com - mon blog personnel"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->description
+msgid "Refresh Interval:"
+msgstr "Intervalle de rafraîchissement :"
+
+#. github-projects@morgan-design.com->settings-schema.json->refresh-
+#. interval->tooltip
+msgid ""
+"Change the amount of time between checking GitHub for changes to your "
+"Repositories"
+msgstr "Changer le délai entre deux vérifications de vos dépôts Github"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->description
+msgid "Check this to enable automatic refreshing"
+msgstr "Cochez cette case pour activer le rafraîchissement automatique"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-auto-
+#. refresh->tooltip
+msgid ""
+"Checking this will mean the applet will update itself according to your "
+"refresh interval"
+msgstr ""
+"En cochant cette case, l'applet se mettra à jour en fonction de votre "
+"intervalle d'actualisation"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->description
+msgid "Visit Cinnamon Applet Home"
+msgstr "Visiter la page de cette Applet sur le site de Cinnamon"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-cinnamon-
+#. homepage-button->tooltip
+msgid "Open cinnamon.com - rate the application"
+msgstr "Ouvrir cinnamon.com - évaluer cette applet"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->description
+msgid "Check this to enable lots of logging in Looking Glass"
+msgstr "Cochez cette case pour activer la journalisation dans Looking Glass"
+
+#. github-projects@morgan-design.com->settings-schema.json->enable-verbose-
+#. logging->tooltip
+msgid "Checking this will enable lots of logging"
+msgstr ""
+"Cocher cette case provoquera l'apparition de nombreux messages de "
+"notification"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->description
+msgid "Check this show the number of open issues next to the repository"
+msgstr ""
+"Cochez cette case pour afficher entre parenthèses le nombre de problèmes "
+"ouverts (Open Issues) à côté du nom du dépôt"
+
+#. github-projects@morgan-design.com->settings-schema.json->show-issues-icon-
+#. on-repo-name->tooltip
+msgid "Checking this show the number of issues next to each repository"
+msgstr ""
+"Cochez cette case pour afficher le nombre de problèmes (Issues) à côté de "
+"chaque dépôt"
+
+#. github-projects@morgan-design.com->settings-schema.json->open-github-
+#. homepage-button->tooltip
+msgid "Open github.com - fork the code or add features"
+msgstr "Ouvrir github.com - 'forker' le code ou ajouter des fonctionnalités"
+
+#. github-projects@morgan-design.com->metadata.json->description
+msgid "Click on the applet to explore your Public Github repositories"
+msgstr "Cliquez sur l'applet pour explorer vos dépôts publics Github"
+
+#. github-projects@morgan-design.com->metadata.json->name
+msgid "Github Explorer"
+msgstr "GitHub Explorer"

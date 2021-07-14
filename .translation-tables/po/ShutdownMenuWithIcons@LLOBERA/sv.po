@@ -1,0 +1,222 @@
+# Swedish translation for ShutdownMenuWithIcons@LLOBERA.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ShutdownMenuWithIcons@LLOBERA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 18:44+0800\n"
+"PO-Revision-Date: 2017-05-23 21:19+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:143
+msgid "Quit"
+msgstr "Stäng av"
+
+#: applet.js:146
+msgid "Suspend"
+msgstr "Vänteläge"
+
+#: applet.js:149
+msgid "Hibernate"
+msgstr "Viloläge"
+
+#: applet.js:152
+msgid "Hybrid sleep"
+msgstr "Strömsparläge"
+
+#: applet.js:155
+msgid "Restart"
+msgstr "Starta om"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->switch_users_label->description
+#: applet.js:160
+msgid "Switch users"
+msgstr "Växla användare"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->log_out_label->description
+#: applet.js:163
+msgid "Log out"
+msgstr "Logga ut"
+
+#: applet.js:166
+msgid "Screen Lock"
+msgstr "Lås skärmen"
+
+#: applet.js:185
+msgid "Settings"
+msgstr "Inställningar"
+
+#: applet.js:190
+msgid "Help"
+msgstr "Hjälp"
+
+#: applet.js:195
+msgid "About"
+msgstr "Om"
+
+#. ShutdownMenuWithIcons@LLOBERA->metadata.json->description
+msgid ""
+"An applet to help you shutdown, restart and suspend your system with single "
+"click"
+msgstr ""
+"Ett panelprogram som hjälper dig stänga av, starta om och försätta datorn i "
+"vänteläge med ett klick"
+
+#. ShutdownMenuWithIcons@LLOBERA->metadata.json->name
+msgid "Shutdown Menu With Icons"
+msgstr "Avstängningsmeny med ikoner"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->screen_lock->description
+msgid "Add screen lock to the menu"
+msgstr "Lägg till \"Lås skärmen\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->suspend->description
+msgid "Add suspend to the menu"
+msgstr "Lägg till \"Vänteläge\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->suspend_cmd->description
+msgid "The suspend command "
+msgstr "Väntelägeskommando"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hibernate_icon->description
+msgid "The hibernate icon "
+msgstr "Vilolägesikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->log_out_icon->description
+msgid "The log out icon "
+msgstr "Utloggningsikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hibernate_cmd->description
+msgid "The hibernate command "
+msgstr "Vilolägeskommando"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->log_out->description
+msgid "Add log out to the menu"
+msgstr "Lägg till \"Logga ut\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->switch_users_cmd->description
+msgid "The switch users command"
+msgstr "Kommando för att byta användare"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->switch_users->description
+msgid "Add switch users to the menu"
+msgstr "Lägg till \"Växla användare\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hybrid_sleep_cmd->description
+msgid "The hybrid sleep command "
+msgstr "Kommando för strömsparläge"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->suspend_icon->description
+msgid "The suspend icon "
+msgstr "Väntelägesikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->quit->description
+msgid "Add quit to the menu"
+msgstr "Lägg till \"Stäng av\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->restart_label->description
+msgid "Restart: shut down and reboot the system"
+msgstr "Starta om: Starta om systemet"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->suspend_label->description
+msgid "Suspend: suspend the system"
+msgstr "Vänteläge: Försätt systemet i vänteläge"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hibernate_label->description
+msgid "Hibernate: hibernate the system"
+msgstr "Viloläge: Försätt systemet i viloläge"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->log_out_cmd->description
+msgid "The log out command "
+msgstr "Utloggningskommando"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hybrid_sleep->description
+msgid "Add hybrid sleep to the menu"
+msgstr "Lägg till \"Strömsparläge\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->quit_icon->description
+msgid "The quit icon "
+msgstr "Avstängningsikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->hibernate->description
+msgid "Add hibernate to the menu"
+msgstr "Lägg till \"Viloläge\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->screen_lock_cmd->description
+msgid "The screen lock command "
+msgstr "Låsskärmskommando"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hybrid_sleep_icon->description
+msgid "The hybrid sleep icon "
+msgstr "Strömsparikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->quit_cmd->description
+msgid "The quit command "
+msgstr "Avstängningskommando"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->restart_icon->description
+msgid "The restart icon "
+msgstr "Omstartsikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->screen_lock_icon->description
+msgid "The screen lock icon "
+msgstr "Skärmlåsikon"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->restart->description
+msgid "Add restart to the menu"
+msgstr "Lägg till \"Starta om\" i menyn"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->switch_users_icon->description
+msgid "The switch users icon"
+msgstr "Ikon för växla användare"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->quit_label->description
+msgid "Quit: shut down and power-off the system"
+msgstr "Stäng av: Stäng av systemet och bryt strömmen"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->hybrid_sleep_label->description
+msgid "Hybrid sleep: hibernate and suspend the system"
+msgstr "Strömsparläge: Försätt datorn i strömsparläge"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->screen_lock_label->description
+msgid "Screen lock: lock the screen"
+msgstr "Lås skärmen: Lås skärmen"
+
+#. ShutdownMenuWithIcons@LLOBERA->settings-
+#. schema.json->restart_cmd->description
+msgid "The restart command "
+msgstr "Omstartskommando"

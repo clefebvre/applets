@@ -1,0 +1,139 @@
+# Swedish translation for gpaste-reloaded@feuerfuchs.eu.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gpaste-reloaded@feuerfuchs.eu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-08 06:24+0100\n"
+"PO-Revision-Date: 2017-12-08 06:26+0100\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:55
+msgid "[GPaste is not installed]"
+msgstr "[GPaste är inte installerat]"
+
+#: applet.js:91
+msgid "GPaste clipboard"
+msgstr "GPaste urklipp"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->gpaste-
+#. settings->description
+#: applet.js:97 applet.js:135
+msgid "GPaste Main Program"
+msgstr "GPaste huvudprogram"
+
+#: applet.js:102
+msgid "Select History"
+msgstr "Välj historik"
+
+#: applet.js:111
+msgid "Track clipboard changes"
+msgstr "Spåra urklippsändringar"
+
+#: applet.js:119
+msgid "(Empty)"
+msgstr "(tomt)"
+
+#: applet.js:122
+msgid "(No results)"
+msgstr "(inga träffar)"
+
+#: applet.js:127
+msgid "New item"
+msgstr "Ny post"
+
+#: applet.js:130
+msgid "Empty history"
+msgstr "Töm historiken"
+
+#: applet.js:447
+msgid "Do you really want to empty the current history?"
+msgstr "Vill du verkligen tömma den aktuella historiken?"
+
+#: GPasteNewItemDialog.js:48
+msgid "Please enter the text you want to add to the current history:"
+msgstr "Ange den text du vill lägga till i aktuell historik:"
+
+#: GPasteNewItemDialog.js:54 GPasteNotInstalledDialog.js:27
+msgid "OK"
+msgstr "OK"
+
+#: GPasteNewItemDialog.js:58
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: GPasteSearchItem.js:29
+msgid "Type to search..."
+msgstr "Skriv för att söka..."
+
+#: GPasteNotInstalledDialog.js:22
+msgid ""
+"GPaste is not installed. Please install the necessary packages and then "
+"restart Cinnamon for this applet to start working."
+msgstr ""
+"GPaste är inte installerat. Installera de nödvändiga paketen och starta om "
+"Cinnamon, för att det här panelprogrammet skall börja fungera."
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->name
+msgid "GPaste Reloaded"
+msgstr "GPaste Reloaded"
+
+#. gpaste-reloaded@feuerfuchs.eu->metadata.json->description
+msgid ""
+"A complete rewrite of the GPaste applet based on the Gnome Shell extension"
+msgstr ""
+"En fullständig omskrivning av GPaste applet, baserad på Gnome-insticket"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-gpaste-
+#. ui->description
+msgid "Display 'GPaste Main Program'"
+msgstr "Visa \"GPaste huvudprogram\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->kb-show-
+#. history->description
+msgid "Show history"
+msgstr "Visa historik"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->other->description
+msgid "Other"
+msgstr "Annat"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->key-
+#. bindings->description
+msgid "Key bindings"
+msgstr "Snabbtangenter"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->shown-
+#. entries->description
+msgid "Shown entries"
+msgstr "Visade poster"
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-empty-
+#. history->description
+msgid "Display 'Empty history'"
+msgstr "Visa \"Töm historiken\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-track-
+#. switch->description
+msgid "Display 'Track clipboard changes'"
+msgstr "Visa \"Spåra urklippsändringar\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-new-
+#. item->description
+msgid "Display 'New item'"
+msgstr "Visa \"Ny post\""
+
+#. gpaste-reloaded@feuerfuchs.eu->settings-schema.json->display-
+#. searchbar->description
+msgid "Display search bar"
+msgstr "Visa sökfält"

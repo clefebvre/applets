@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bumblebee@pdcurtis 3.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-19 16:09+0100\n"
+"PO-Revision-Date: 2017-11-19 16:18+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:152
+msgid "Bumblebee program not installed"
+msgstr "Bumblebee program nije instaliran"
+
+#: applet.js:152
+msgid ""
+"You appear to be missing some of the required programs for 'bumblebee' to "
+"switch graphics processors using NVIDIA Optimus."
+msgstr ""
+"Izgleda da vam nedostaje potreban program za 'bumblebee' da bi se mogli "
+"prebacivati grafički procesori koristeći NVIDIU Optimus."
+
+#: applet.js:152
+msgid "Please read the help file."
+msgstr "Pročitajte datoteku pomoći."
+
+#: applet.js:172
+msgid "Waiting for Bumblebee"
+msgstr "Čekanje Bumblebeea"
+
+#: applet.js:232
+msgid "Open nVidia Settings Program"
+msgstr "Otvori nVidia Settings program"
+
+#: applet.js:238
+msgid "Open Power Statistics"
+msgstr "Otvori energetsku statistiku"
+
+#: applet.js:244
+msgid "Open System Monitor"
+msgstr "Otvori nadgledatelja sustava"
+
+#: applet.js:253
+msgid "Housekeeping and System Sub Menu"
+msgstr "Upravljanje i podizbornici sustava"
+
+#: applet.js:256
+msgid "View the Changelog"
+msgstr "Pogledaj zapis promjena"
+
+#: applet.js:262
+msgid "Open the Help file"
+msgstr "Otvori datoteku pomoći"
+
+#: applet.js:278
+msgid "Launch programs using the nVidia Graphics Processor"
+msgstr "Pokreni programe pomoću nVidia grafičkog procesora"
+
+#: applet.js:359
+msgid "NVidia based GPU is Off"
+msgstr "NVidia temeljeni GPU je isključen"
+
+#: applet.js:384
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr "NVidia temljeni GPU je uključen i temperatura jezgre je"
+
+#: applet.js:392
+msgid "Err"
+msgstr "Greška"
+
+#: applet.js:393
+msgid ""
+"Bumblebee is not set up correctly - are bbswitch, bumblebee and nvidia "
+"drivers installed?"
+msgstr ""
+"Bumblebee nije ispravno podešen - jesu li bbswitch, bumblebee i nvidia "
+"upravljački programi instalirani?"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr "Prikaži GPU temperaturu kao i ikonu"
+
+#. bumblebee@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid ""
+"Available in Horizontal and Vertical Panels. Display is in Degrees "
+"Centigrade."
+msgstr ""
+"Dostupno u okomitim i vodoravnim panelima. Prikazano u stupnjevima celzijusa."
+
+#. bumblebee@pdcurtis->settings-schema.json->head2->description
+msgid "Programs settings for Optimus"
+msgstr "Postavke programa za Optimus"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->description
+msgid "Command String for Program 2"
+msgstr "Naredbeni niz za Program 2"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->tooltip
+msgid ""
+"Put the command string to run the program here starting with optirun or "
+"primusrun"
+msgstr ""
+"Postavite ovdje naredbeni niz za pokretanje programa počevši sa optirun ili "
+"primusrun"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString3->description
+msgid "Command String for Program 3"
+msgstr "Naredbeni niz za Program 3"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString1->description
+msgid "Command String for Program 1"
+msgstr "Naredbeni niz za Program 1"
+
+#. bumblebee@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Monitoring Applet"
+msgstr "Opće postavke za aplet nVidia nadgledanja"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString4->description
+msgid "Command String for Program 4"
+msgstr "Naredbeni niz za Program 4"
+
+#. bumblebee@pdcurtis->settings-schema.json->commandString5->description
+msgid "Command String for Program 5"
+msgstr "Naredbeni niz za Program 5"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->description
+msgid "Display Name of Program 4 to be run using Optimus technology"
+msgstr ""
+"Prikaži naziv Programa 4 kako bi se mogao pokrenuti koristeći Optimus "
+"tehnologiju"
+
+#. bumblebee@pdcurtis->settings-schema.json->description4->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description5->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description2->tooltip
+#. bumblebee@pdcurtis->settings-schema.json->description3->tooltip
+msgid ""
+"Put the name of the program here or none if you do not want it displayed"
+msgstr "Postavite ovdje naziv programa, ili 'none' ako ga ne želite prikazati"
+
+#. bumblebee@pdcurtis->settings-schema.json->description5->description
+msgid "Display Name of Program 5 to be run using Optimus technology"
+msgstr ""
+"Prikaži naziv Programa 5 kako bi se mogao pokrenuti koristeći Optimus "
+"tehnologiju"
+
+#. bumblebee@pdcurtis->settings-schema.json->description2->description
+msgid "Display Name of Program 2 to be run using Optimus technology"
+msgstr ""
+"Prikaži naziv Programa 2 kako bi se mogao pokrenuti koristeći Optimus "
+"tehnologiju"
+
+#. bumblebee@pdcurtis->settings-schema.json->description3->description
+msgid "Display Name of Program 3 to be run using Optimus technology"
+msgstr ""
+"Prikaži naziv Programa 3 kako bi se mogao pokrenuti koristeći Optimus "
+"tehnologiju"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->description
+msgid "Display Name of Program 1 to be run using Optimus technology"
+msgstr ""
+"Prikaži naziv Programa 1 kako bi se mogao pokrenuti koristeći Optimus "
+"tehnologiju"
+
+#. bumblebee@pdcurtis->settings-schema.json->description1->tooltip
+msgid ""
+"Put the name of the program here or null if you do not want it displayed"
+msgstr "Postavite ovdje naziv programa, ili 'null' ako ga ne želite prikazati"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Razdoblje osvježavanja prikaza:"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine"
+msgstr ""
+"Povećajte ili smanjite vrijednost za promjenu razdoblja osvježavanja - "
+"koristite sporije osvježavanje ako imate sporo računalo"
+
+#. bumblebee@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunde"
+
+#. bumblebee@pdcurtis->metadata.json->description
+msgid ""
+"Displays Status of Bumblebee and nVidia GPU Temperature with associated "
+"support functions including starting selected programs with optirun or "
+"primusrun"
+msgstr ""
+"Prikazuje stanje temperature Bumblebee i nVidia GPU-a s pridruženim "
+"funkcijama uključujući odabir programa pokretanja sa optirun ili primusrun"
+
+#. bumblebee@pdcurtis->metadata.json->name
+msgid "Bumblebee Status with NVidia Temperature Display"
+msgstr "Bumblebee stanje s prikazom NVidia temperature"
+
+#~ msgid "ERROR"
+#~ msgstr "GREŠKA"
+
+#~ msgid "Bumblebee is not installed so applet willl not work"
+#~ msgstr "Bumblebee nije instaliran stoga aplet neće raditi"
+
+#~ msgid "GPU OFF"
+#~ msgstr "GPU ISKLJUČEN"
+
+#~ msgid "NVidia based GPU is"
+#~ msgstr "NVidia temeljen GPU je"
+
+#~ msgid "GPU"
+#~ msgstr "GPU"
+
+#~ msgid "and Core Temperature is"
+#~ msgstr "a temperatura jezgre je"
+
+#~ msgid "Displays Status of Bumblebee and nVidia GPU Temperature"
+#~ msgstr "Prikazuje Bumblebee stanje i nVidia GPU temperaturu"
+
+#~ msgid "Bumblebee and nVidia Display"
+#~ msgstr "Bumblebee i nVidia prikaz"

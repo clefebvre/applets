@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-26 17:55+0200\n"
+"PO-Revision-Date: 2017-04-26 18:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: applet.js:56
+msgid "Your percieved location."
+msgstr "Ihr ermittelter Standort."
+
+#: applet.js:104
+msgid "Your IPInfoDB account has been suspended."
+msgstr "Ihr IPInfoDB-Konto wurde gesperrt."
+
+#: applet.js:104 applet.js:107
+msgid "Please set a valid API key in the applets settings."
+msgstr ""
+"Bitte geben Sie einen gültigen API-Key in den Einstellungen dieses Applets "
+"ein."
+
+#: applet.js:107
+msgid "Invalid API key."
+msgstr "Ungültiger API-Key."
+
+#: applet.js:119
+msgid "Something went Wrong!"
+msgstr "Etwas ist schief gelaufen!"
+
+#. location-detection@heimdall->metadata.json->description
+msgid "Shows the geographic location of your public IP and country-flag."
+msgstr ""
+"Zeigt die geographische Lage Ihrer öffentlichen IP-Adresse und die "
+"entsprechende Länderflagge an."
+
+#. location-detection@heimdall->metadata.json->name
+msgid "Location Detection + Flags"
+msgstr "Standorterkennung + Flaggen"
+
+#. location-detection@heimdall->settings-schema.json->register-
+#. ipinfodb->description
+msgid "Register on IPInfoDB to get an API key"
+msgstr "Registrieren Sie sich bei IPInfoDB, um einen API-Key zu erhalten"
+
+#. location-detection@heimdall->settings-schema.json->api-key->description
+msgid "API key from IPInfoDB"
+msgstr "API-Key von IPInfoDB"
+
+#. location-detection@heimdall->settings-schema.json->api-key->tooltip
+msgid "Get your API key from IPInfoDB and place it here."
+msgstr "Holen Sie sich Ihren API-Key von IPInfoDB und geben Sie ihn hier ein."

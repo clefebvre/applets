@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-25 18:19+0200\n"
+"PO-Revision-Date: 2020-06-25 18:19+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:102
+msgid "Make a new snapshot"
+msgstr "Lancer la création d'un nouvel instantané"
+
+#: applet.js:314
+msgid "Timeshift not configured"
+msgstr "Timeshift n'est pas configuré"
+
+#: applet.js:317
+msgid "Backup device not found"
+msgstr ""
+"Périphérique d'enregistrement des instantanés (disque, clé USB...) non "
+"connecté"
+
+#: applet.js:322
+msgid "Wait for snapshot to begin"
+msgstr "En attente de création d'un instantané"
+
+#: applet.js:328
+msgid "Making snapshot..."
+msgstr "Création d'un instantané en cours..."
+
+#. metadata.json->description
+msgid ""
+"Show the state of Timeshift, if it is currently making snapshots in the "
+"background"
+msgstr ""
+"Affiche l'état de Timeshift. Signale lorsqu'un instantané est en cours de "
+"création en tâche de fond."
+
+#. metadata.json->name
+msgid "Timeshift Spy"
+msgstr "Timeshift Spy - Détecteur d'activité de Timeshift"

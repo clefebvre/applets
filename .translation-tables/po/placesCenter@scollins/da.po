@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:57+0100\n"
+"PO-Revision-Date: 2019-12-03 18:13+0100\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:148
+msgid "(Right click to open folder)"
+msgstr "(Højreklik for at åbne mappen)"
+
+#: applet.js:170
+msgid "Places"
+msgstr "Steder"
+
+#: applet.js:284
+msgid "Search Home Folder"
+msgstr "Søg i mappen Hjem"
+
+#: applet.js:307
+msgid "SYSTEM"
+msgstr "SYSTEM"
+
+#: applet.js:316
+msgid "Search File System"
+msgstr "Søg i Filsystem"
+
+#: applet.js:341
+msgid "RECENT DOCUMENTS"
+msgstr "SENESTE DOKUMENTER"
+
+#: applet.js:355
+msgid "Clear"
+msgstr "Ryd"
+
+#: applet.js:398
+msgid "Computer"
+msgstr "Computer"
+
+#: applet.js:404
+msgid "File System"
+msgstr "Filsystem"
+
+#: applet.js:420
+msgid "Network"
+msgstr "Netværk"
+
+#: applet.js:560
+msgid "Trash"
+msgstr "Papirkurven"
+
+#: search.py:43
+msgid "Open..."
+msgstr "Åbn …"
+
+#: search.py:48
+msgid "Open Containing Folder..."
+msgstr "Åbn indeholdende mappe …"
+
+#: search.py:85
+msgid "Search"
+msgstr "Søg"
+
+#: search.py:106
+msgid "Start in"
+msgstr "Start i"
+
+#: search.py:107
+msgid "Select a folder"
+msgstr "Vælg en mappe"
+
+#: search.py:113
+msgid "Follow symlinks"
+msgstr "Følg symbolske henvisninger"
+
+#: search.py:117
+msgid "Search hidden"
+msgstr "Søg skjulte"
+
+#: search.py:121
+msgid "Use regular expressions"
+msgstr "Brug regulære udtryk"
+
+#: search.py:125
+msgid "Stop"
+msgstr "Stop"
+
+#: search.py:140
+msgid "File"
+msgstr "Fil"
+
+#: search.py:156
+msgid "Path"
+msgstr "Sti"
+
+#: search.py:184
+msgid "Searching..."
+msgstr "Søger …"
+
+#: search.py:198 search.py:199
+msgid "Search Stopped"
+msgstr "Søgning stoppede"
+
+#: search.py:215
+msgid "Searching: "
+msgstr "Søger: "
+
+#: search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr "Fejl: utilstrækkelige rettigheder til at læse mappen "
+
+#: search.py:252
+msgid "Search Completed"
+msgstr "Søgning færdig"
+
+#: search.py:259
+msgid "Skipping"
+msgstr "Springer over"
+
+#: search.py:259
+#, fuzzy
+msgid " - directory already searched"
+msgstr " - allerede søgt i mappe"
+
+#. metadata.json->name
+msgid "Places Center"
+msgstr "Stedercenter"
+
+#. metadata.json->description
+msgid "Provides an easy-to-read layout to access your places"
+msgstr "Letlæseligt layout med adgang til dine steder"
+
+#. metadata.json->comments
+msgid ""
+"Places Center is a feature-rich, cross-platform Cinnamon applet that "
+"provides easy access to all of your most-used places. Feel free to "
+"contribute by submitting pull requests, bug reports and feature requests to "
+"my github repo."
+msgstr ""
+"Stedercenter er et Cinnamon-panelprogram med mange funktioner, som giver nem "
+"adgang til alle dine hyppigst brugte steder. Du er velkommen til at bidrage "
+"ved at indsende pull-anmodninger, fejlrapporter og ønsker til nye funktioner "
+"til mit github-arkiv."
+
+#. metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - forfatter"
+
+#. metadata.json->contributors
+msgid "kehugter - Added configurability to middle click"
+msgstr "kehugter - Tilføjede konfigurering af midterklik"
+
+#. settings-schema.json->generalPage->title
+msgid "General"
+msgstr "Generelt"
+
+#. settings-schema.json->userPage->title
+msgid "User"
+msgstr "Bruger"
+
+#. settings-schema.json->systemPage->title
+msgid "System"
+msgstr "System"
+
+#. settings-schema.json->recentPage->title
+#. settings-schema.json->recentSection->title
+msgid "Recent documents"
+msgstr "Seneste dokumenter"
+
+#. settings-schema.json->panel->title
+msgid "Panel settings"
+msgstr "Panelindstillinger"
+
+#. settings-schema.json->menu->title
+msgid "Menu settings"
+msgstr "Menuindstillinger"
+
+#. settings-schema.json->userSection->title
+msgid "User section"
+msgstr "Brugersektion"
+
+#. settings-schema.json->systemSection->title
+msgid "System section"
+msgstr "Systemsektion"
+
+#. settings-schema.json->panelIcon->description
+msgid "Panel icon"
+msgstr "Panelikon"
+
+#. settings-schema.json->panelIcon->tooltip
+msgid "Accepts icon name or direct path (supports symbolic icons)"
+msgstr "Godtager ikonnavn eller direkte sti (understøtter symbolske ikoner)"
+
+#. settings-schema.json->panelText->description
+msgid "Panel text"
+msgstr "Paneltekst"
+
+#. settings-schema.json->keyOpen->description
+msgid "Menu shortcut key"
+msgstr "Genvejstast til åbning af menuen"
+
+#. settings-schema.json->iconSize->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->iconSize->description
+msgid "Menu icon size"
+msgstr "Menuens ikonstørrelse"
+
+#. settings-schema.json->middleClickPath->description
+msgid "Open on middle click"
+msgstr "Åbn ved klik på midterste museknap"
+
+#. settings-schema.json->middleClickPath->tooltip
+msgid "Leave blank to disable"
+msgstr "Efterlad tom for at deaktivere"
+
+#. settings-schema.json->showDesktop->description
+msgid "Show desktop"
+msgstr "Vis skrivebord"
+
+#. settings-schema.json->userCustomPlaces->description
+#. settings-schema.json->systemCustomPlaces->description
+msgid "Custom places"
+msgstr "Brugerdefinederede steder"
+
+#. settings-schema.json->userCustomPlaces->tooltip
+#. settings-schema.json->systemCustomPlaces->tooltip
+msgid ""
+"List of uris/file paths to be included. Entries may be separated by either a "
+"comma(,) or by a new-line. You can set the name to be displayed by adding :"
+"customName after the location. You can likewise set an icon name by adding :"
+"iconName after the custom name."
+msgstr ""
+"Liste over URI'er/filstier som skal inkluderes. Poster kan adskilles med "
+"enten et komma (,) eller en ny linje. Du kan angive navnet, der skal vises, "
+"ved at tilføje :tilpassetNavn efter placeringen. Du kan også angive et "
+"ikonnavn ved at tilføje :ikonNavn efter det tilpassede navn."
+
+#. settings-schema.json->showTrash->description
+msgid "Show trash"
+msgstr "Vis papirkurven"
+
+#. settings-schema.json->showTrash->options
+msgid "Never"
+msgstr "Aldrig"
+
+#. settings-schema.json->showTrash->options
+msgid "Always"
+msgstr "Altid"
+
+#. settings-schema.json->showTrash->options
+msgid "When not empty"
+msgstr "Når den ikke er tom"
+
+#. settings-schema.json->showComputer->description
+msgid "Show computer"
+msgstr "Vis computer"
+
+#. settings-schema.json->showRoot->description
+msgid "Show file system"
+msgstr "Vis filsystem"
+
+#. settings-schema.json->showVolumes->description
+msgid "Show volumes"
+msgstr "Vis diskenheder"
+
+#. settings-schema.json->onlyShowMounted->description
+msgid "Only show mounted drives"
+msgstr "Vis kun monterede drev"
+
+#. settings-schema.json->showNetwork->description
+msgid "Show network"
+msgstr "Vis netværk"
+
+#. settings-schema.json->showRecentDocuments->description
+msgid "Show recent documents"
+msgstr "Vis seneste dokumenter"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "5"
+msgstr "5"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "10"
+msgstr "10"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "15"
+msgstr "15"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "20"
+msgstr "20"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "25"
+msgstr "25"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "30"
+msgstr "30"
+
+#. settings-schema.json->recentSizeLimit->options
+msgid "All Recent Documents"
+msgstr "Alle seneste dokumenter"
+
+#. settings-schema.json->recentSizeLimit->description
+msgid "Number to show"
+msgstr "Antal der skal vises"
+
+#. settings-schema.json->btnPrivacy->description
+msgid "Privacy"
+msgstr "Privatliv"

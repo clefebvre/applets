@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 23:15+0800\n"
+"PO-Revision-Date: 2021-04-05 11:48+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:40
+msgid "Xampp Panel"
+msgstr "Xampp Panel"
+
+#: applet.js:48
+msgid "Start XAMPP manager"
+msgstr "XAMPP Kezelő Indítása"
+
+#: applet.js:51
+msgid "XAMPP Start"
+msgstr "XAMPP indítása"
+
+#: applet.js:55
+msgid "XAMPP Stop"
+msgstr "XAMPP leállítása"
+
+#: applet.js:59
+msgid "XAMPP Restart"
+msgstr "XAMPP újraindítása"
+
+#: applet.js:66
+msgid "Open Web Dir"
+msgstr "Webmappa megnyitása"
+
+#: applet.js:70
+msgid "Launch Web Dir"
+msgstr "Webmappa elindítása"
+
+#: applet.js:74
+msgid "Launch phpMyAdmin"
+msgstr "PhpMyAdmin elindítása"
+
+#: applet.js:78
+msgid "Edit default php.ini"
+msgstr "Alapértelmezett php.ini szerkesztése"
+
+#. xampp-panel@backids99->metadata.json->description
+msgid "A Panel Menu for XAMPP Web Developers"
+msgstr "Egy panel menü XAMPP webfejlesztőknek"
+
+#. xampp-panel@backids99->metadata.json->name
+msgid "Xampp Panel Menu"
+msgstr "Xampp panel menü"

@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-28 19:32+0800\n"
+"PO-Revision-Date: 2017-04-28 19:33+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:89
+msgid "Use Cron"
+msgstr "使用定时任务"
+
+#: applet.js:94
+msgid "Next Wallpaper"
+msgstr "下一张壁纸"
+
+#: applet.js:99
+msgid "Save Wallpaper"
+msgstr "保存壁纸"
+
+#. rwall@typicalfoobar->metadata.json->description
+msgid ""
+"Random Wallpaper Changer\n"
+"Version: 1.0.1"
+msgstr ""
+"随机壁纸更改程序\n"
+"版本：1.0.1"
+
+#. rwall@typicalfoobar->metadata.json->name
+msgid "rwall"
+msgstr "随机壁纸"
+
+#. rwall@typicalfoobar->settings-schema.json->head2->description
+msgid "Random Wallpaper Settings"
+msgstr "随机壁纸设置"
+
+#. rwall@typicalfoobar->settings-schema.json->head1->description
+msgid "Wallpaper Saving"
+msgstr "壁纸保存"
+
+#. rwall@typicalfoobar->settings-schema.json->resolution-string->description
+msgid "The resolution of the wallpaper:"
+msgstr "壁纸的分辨率："
+
+#. rwall@typicalfoobar->settings-schema.json->query-string->description
+msgid "Word(s) to use when searching for wallpapers:"
+msgstr "搜索壁纸时要使用的字词："
+
+#. rwall@typicalfoobar->settings-schema.json->wallpaper-save-
+#. directory->description
+msgid ""
+"The location to save wallpapers to when the \"Save Wallpaper\" button is "
+"clicked:"
+msgstr "点击“保存壁纸”按钮时用来保存壁纸的位置："
+
+#. rwall@typicalfoobar->settings-schema.json->cron-frequency-
+#. string->description
+msgid "Change Frequency (cron syntax):"
+msgstr "更改频率（定时任务语法）"
+
+#. rwall@typicalfoobar->settings-schema.json->update-cron-button->description
+msgid "Update Cron (click here if you modified the Change Frequency)"
+msgstr "更新定时任务（如果您修改了更改频率请点击这里）"
+
+#. rwall@typicalfoobar->settings-schema.json->update-cron-button->tooltip
+msgid "Update the cron job with these settings"
+msgstr "用这些设置更新定时任务工作"

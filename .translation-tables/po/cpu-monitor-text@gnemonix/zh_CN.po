@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:59+0800\n"
+"PO-Revision-Date: 2017-04-20 11:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:37
+msgid "Open System Monitor"
+msgstr "打开系统监视器"
+
+#. cpu-monitor-text@gnemonix->metadata.json->description
+msgid "A simple applet that displays the cpu usage."
+msgstr "一个显示cpu使用率的简单的小程序。"
+
+#. cpu-monitor-text@gnemonix->metadata.json->name
+msgid "Simple CPU Monitor"
+msgstr "简单的CPU监视器"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-
+#. interval->description
+msgid "Update Interval:"
+msgstr "更新间隔："
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->tooltip
+msgid "Enter the interval in milliseconds between updates."
+msgstr "以毫秒输入更新之间的间隔。"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->units
+msgid "milliseconds"
+msgstr "毫秒"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-
+#. percentage->description
+msgid "Max Percentage:"
+msgstr "最大百分比："
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-percentage->tooltip
+msgid ""
+"Change the max percentage.\n"
+"\n"
+"If not 100% than typically a multiple corresponding to the number of cores.\n"
+"\n"
+"Example: 4 cores (100 x 4) = 400%"
+msgstr ""
+"更改最大百分比。\n"
+"\n"
+"如果不是100%，通常是与核心数相对应的倍数。\n"
+"\n"
+"例如：4个核心 (100 x 4) = 400%"
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->description
+msgid "Text:"
+msgstr "文本："
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr "输入要在面板中显示的自定义文本。"

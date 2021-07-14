@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-13 12:52+0100\n"
+"PO-Revision-Date: 2017-03-09 18:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 3.2/applet.js:73 applet.js:73
+msgid "Type to search..."
+msgstr "键入以搜索..."
+
+#: applet.js:84
+msgid "Change default programs..."
+msgstr "更改默认程序..."
+
+#: applet.js:86
+msgid "Edit providers"
+msgstr "编辑提供者"
+
+#. 3.2->settings-schema.json->custom-provider-label->description
+msgid "Name of custom provider"
+msgstr "自定义提供者的名称"
+
+#. 3.2->settings-schema.json->custom-provider-label->tooltip
+msgid "Enter label of the custom provider to show in the panel."
+msgstr "输入要显示在面板中自定义提供者的标签。"
+
+#. 3.2->settings-schema.json->selected-provider->description
+msgid "Select provider"
+msgstr "选择提供者"
+
+#. 3.2->settings-schema.json->selected-provider->tooltip
+msgid "Select a search provider"
+msgstr "选择搜索提供者"
+
+#. 3.2->settings-schema.json->selected-provider->options
+msgid "Bing"
+msgstr "Bing"
+
+#. 3.2->settings-schema.json->selected-provider->options
+msgid "Google"
+msgstr "Google"
+
+#. 3.2->settings-schema.json->selected-provider->options
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#. 3.2->settings-schema.json->selected-provider->options
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#. 3.2->settings-schema.json->selected-provider->options
+msgid "Ask "
+msgstr "Ask"
+
+#. 3.2->settings-schema.json->header-provider->description
+msgid "Search Provider Settings"
+msgstr "搜索提供者设置"
+
+#. 3.2->settings-schema.json->custom-keybinding->description
+msgid "Keybinding, which opens the search box"
+msgstr ""
+
+#. 3.2->settings-schema.json->custom-provider-url->description
+msgid "URL of custom provider"
+msgstr "自定义提供者的URL"
+
+#. 3.2->settings-schema.json->custom-provider-url->tooltip
+msgid "Enter the URL of the custom search provider"
+msgstr "输入自定义搜索提供者的URL"
+
+#. 3.2->settings-schema.json->use-custom-provider->description
+msgid "Use custom provider"
+msgstr "使用自定义提供者"
+
+#. 3.2->settings-schema.json->use-custom-provider->tooltip
+msgid "Use your own search provider"
+msgstr "使用您自己的搜索提供者"
+
+#. 3.2->settings-schema.json->header-keybinding->description
+msgid "Keybinding"
+msgstr ""
+
+#. 3.2->settings-schema.json->show-provider->description
+msgid "Show provider"
+msgstr "显示提供者"
+
+#. 3.2->settings-schema.json->show-provider->tooltip
+msgid "Show selected provider in the panel"
+msgstr "在面板中显示所选的提供者"
+
+#. search-box@mtwebster->metadata.json->description
+msgid "Perform an Internet search, using your favorite engine"
+msgstr "使用您喜爱的引擎执行互联网搜索"
+
+#. search-box@mtwebster->metadata.json->name
+msgid "Internet Search Box"
+msgstr "互联网搜索框"

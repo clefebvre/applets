@@ -1,0 +1,243 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-25 00:24+0100\n"
+"PO-Revision-Date: 2017-09-28 19:42+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:156
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: applet.js:174
+msgid "Editing Homestead configuration..."
+msgstr "Redigerer konfigurationen af Homestead …"
+
+#: applet.js:180
+msgid "Rancher: Bringing Homestead up, please wait..."
+msgstr "Rancher: Bringer Homestead på banen, vent venligst …"
+
+#: applet.js:182
+msgid "Bringing Homestead up..."
+msgstr "Bringer Homestead på banen …"
+
+#: applet.js:185
+msgid "Rancher: Taking Homestead down, please wait..."
+msgstr "Rancher: Lukker Homestead ned, vent venligst …"
+
+#: applet.js:187
+msgid "Taking Homestead down..."
+msgstr "Lukker Homestead ned …"
+
+#: applet.js:194
+msgid "Rancher: Provisioning Homestead, please wait..."
+msgstr "Rancher: Klargør Homestead, vent venligst …"
+
+#: applet.js:196
+msgid "Provisioning Homestead..."
+msgstr "Klargør Homestead …"
+
+#: applet.js:200
+msgid "Rancher: Destroying Homestead, please wait..."
+msgstr "Rancher: Ødelægger Homestead, vent venligst …"
+
+#: applet.js:202
+msgid "Destroying Homestead..."
+msgstr "Ødelægger Homestead …"
+
+#: applet.js:206
+msgid "Rancher: Suspending Homestead, please wait..."
+msgstr "Rancher: Afbryder Homestead, vent venligst …"
+
+#: applet.js:208
+msgid "Suspending Homestead..."
+msgstr "Afbryder Homestead …"
+
+#: applet.js:213
+msgid "Homestead SSH Terminal opened"
+msgstr "Homestead-SSH-Terminal blev åbnet"
+
+#: applet.js:217
+msgid "Rancher: Recompiling Kernel, please wait..."
+msgstr "Rancher: Genkompilerer kernen, vent venligst …"
+
+#: applet.js:219
+msgid "Recompiling Kernel..."
+msgstr "Genkompilerer kernen …"
+
+#: applet.js:262
+msgid "Rancher: Homestead missing or not configured."
+msgstr "Rancher: Homestead mangler eller er ikke konfigureret."
+
+#: applet.js:263 applet.js:309
+msgid "Homestead missing or not configured."
+msgstr "Homestead mangler eller er ikke konfigureret."
+
+#: applet.js:270 applet.js:271 applet.js:315
+msgid "Kernel Module not loaded. Needs recompilation."
+msgstr "Kernemodulet er ikke indlæst. Genkompilering er nødvendig."
+
+#: applet.js:276
+msgid "Rancher: Homestead up."
+msgstr "Rancher: Homestead er oppe."
+
+#: applet.js:277
+msgid "Homestead up."
+msgstr "Homestead er oppe."
+
+#: applet.js:278
+msgid " (Running)"
+msgstr "(Kører)"
+
+#: applet.js:282
+msgid "Rancher: Homestead suspended."
+msgstr "Rancher: Homestead er afbrudt."
+
+#: applet.js:283
+msgid "Homestead suspended."
+msgstr "Homestead er afbrudt."
+
+#: applet.js:284
+msgid " (Suspended)"
+msgstr "(Afbrudt)"
+
+#: applet.js:287
+msgid "Rancher: Homestead down."
+msgstr "Rancher: Homestead er nede."
+
+#: applet.js:288
+msgid "Homestead down."
+msgstr "Homestead er nede."
+
+#: applet.js:289
+msgid " (Down)"
+msgstr "(Nede)"
+
+#: applet.js:292
+msgid "Rancher: Homestead not created."
+msgstr "Rancher: Homestead er ikke oprettet."
+
+#: applet.js:293
+msgid "Homestead not created"
+msgstr "Homestead er ikke oprettet."
+
+#: applet.js:294 applet.js:299
+msgid " (Not created/Destroyed)"
+msgstr "(Ikke oprettet/Ødelagt)"
+
+#: applet.js:297
+msgid "Rancher: Homestead not installed."
+msgstr "Rancher: Homestead er ikke installeret."
+
+#: applet.js:298 applet.js 305
+msgid "Homestead not installed"
+msgstr "Homestead er ikke installeret."
+
+#: applet.js 306
+msgid "Click here for installation instructions"
+msgstr "Klik her for vejledning til installering"
+
+#: applet.js 307 applet.js:310 applet.js:370
+msgid "Refresh this menu"
+msgstr "Opdatér denne menu"
+
+#: applet.js 316
+msgid "Recompile Kernel Module."
+msgstr "Genkompilér kernemodulet."
+
+#: applet.js 320
+msgid "Status"
+msgstr "Status"
+
+#: applet.js 323
+msgid "Run provisioning"
+msgstr "Kør klargøring"
+
+#: applet.js 324
+msgid "Suspend Homestead"
+msgstr "Afbryd Homestead"
+
+#: applet.js 325
+msgid "SSH Terminal..."
+msgstr "SSH-Terminal …"
+
+#: applet.js 329
+msgid "Destroy Homestead"
+msgstr "Ødelæg Homestead"
+
+#: applet.js 336
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: applet.js 337
+msgid "IP: "
+msgstr "IP: "
+
+#: applet.js 338
+msgid "Memory: "
+msgstr "Hukommelse: "
+
+#: applet.js 339
+msgid "CPU: "
+msgstr "CPU: "
+
+#: applet.js 340
+msgid "Provider: "
+msgstr "Udbyder: "
+
+#: applet.js 342
+msgid "Edit Homestead configuration..."
+msgstr "Redigér konfigurationen af Homestead …"
+
+#: applet.js 345
+msgid "Hosted Sites"
+msgstr "Hostede steder"
+
+#: applet.js 355
+msgid "Edit hosts file..."
+msgstr "Redigér hostfiler …"
+
+#: applet.js 358
+msgid "Hosted Databases"
+msgstr "Hostede databaser"
+
+#: terminal_reader.js:58
+msgid "Command not found."
+msgstr "Kommandoen blev ikke fundet."
+
+#. rancher@centurix->settings-schema.json->editor->description
+msgid "Default text editor"
+msgstr "Standardprogram til tekstredigering"
+
+#. rancher@centurix->settings-schema.json->homesteadProjectFolder->description
+msgid "Homestead project folder"
+msgstr "Homestead-projektmappe"
+
+#. rancher@centurix->settings-schema.json->homesteadConfigFolder->description
+msgid "Homestead config folder"
+msgstr "Homestead-konfigurationsmappe"
+
+#. rancher@centurix->settings-schema.json->vagrantCmd->description
+msgid "Vagrant command"
+msgstr "Vagrant-kommando"
+
+#. rancher@centurix->metadata.json->description
+msgid "An applet to manage Homestead."
+msgstr "Håndtér Homestead."
+
+#. rancher@centurix->metadata.json->name
+msgid "Homestead manager"
+msgstr "Homestead-håndtering"

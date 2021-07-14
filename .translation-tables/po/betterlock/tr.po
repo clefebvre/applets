@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-15 21:34+0200\n"
+"PO-Revision-Date: 2019-12-22 00:09+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:97
+msgid "Num Lock"
+msgstr "Sayı Kilidi"
+
+#: applet.js:103
+msgid "Caps Lock"
+msgstr "Başlık Kilidi"
+
+#: applet.js:142
+msgid "Lock Keys"
+msgstr "Tuşları Kilitle"
+
+#: applet.js:190
+msgid "Num lock on"
+msgstr "Sayı kilidi açık"
+
+#: applet.js:193
+msgid "Num lock off"
+msgstr "Sayı kilidi kapalı"
+
+#: applet.js:201
+msgid "Caps lock on"
+msgstr "Başlık kilidi açık"
+
+#: applet.js:204
+msgid "Caps lock off"
+msgstr "Başlık kilidi kapalı"
+
+#. betterlock->settings-schema.json->show-notifications->description
+msgid "Show notifications"
+msgstr "Bildirim göster"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock only"
+msgstr "Sadece Sayı Kilidi"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Caps Lock only"
+msgstr "Sadece Başlık Kilidi"
+
+#. betterlock->settings-schema.json->indicator-type->options
+msgid "Num Lock and Caps Lock"
+msgstr "Sayı Kilidi ve Başlık Kilidi"
+
+#. betterlock->settings-schema.json->indicator-type->description
+msgid "Choose which indicator to show"
+msgstr "Hangi göstergenin gösterileceğini seçin"
+
+#. betterlock->metadata.json->description
+msgid ""
+"Shows whether caps lock/num lock is on, and displays a notification when "
+"these change."
+msgstr ""
+"Başlık kilidi ve sayı kilidinin durumu ile bunlar değiştiğinde bildirim "
+"gösterir."
+
+#. betterlock->metadata.json->name
+msgid "Num Lock/Caps Lock indicator with notifications"
+msgstr "Sayı Kilidi/Başlık Kilidi göstergesi ve bildirimleri"

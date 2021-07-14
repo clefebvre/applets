@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2D workspace grid and switcher for cinnamon\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jurien (French77) <Jurien@protonmail.com>\n"
+"Language-Team: NL\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. workspace-grid@hernejj->metadata.json->description
+msgid "2D workspace grid and switcher for Cinnamon"
+msgstr "2D bureaublad raster en bureaublad wisselaar voor Cinnamon"
+
+#. workspace-grid@hernejj->metadata.json->name
+msgid "Workspace grid (2D) and switcher"
+msgstr "Bureaublad raster (2D) en wisselaar"
+
+#. workspace-grid@hernejj->settings-schema.json->numRows->description
+msgid "Number of rows:"
+msgstr "Aantal rijen:"
+
+#. workspace-grid@hernejj->settings-schema.json->numRows->units
+#. workspace-grid@hernejj->settings-schema.json->numCols->units
+msgid "desktops"
+msgstr "bureaubladen"
+
+#. workspace-grid@hernejj->settings-schema.json->style->description
+msgid "Style:"
+msgstr "Stijl:"
+
+#. workspace-grid@hernejj->settings-schema.json->style->options
+msgid "Single Row"
+msgstr "Enkele rij"
+
+#. workspace-grid@hernejj->settings-schema.json->style->options
+msgid "Grid"
+msgstr "Raster"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->registerUpDownKeyBindings->description
+msgid "Use Keyboard shortcuts (Ctrl+Alt+Up/Down) to switch desktop rows"
+msgstr "Gebruik sneltoetsen (Ctrl+Alt+Up/Down) om van bureaublad te wisselen"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->registerUpDownKeyBindings->tooltip
+msgid ""
+"This prevents the use of the Expo and Scale keyboard shortcuts in Cinnamon"
+msgstr "Dit voorkomt het gebruik van de sneltoetsen Expo en Scale in Cinnamon"
+
+#. workspace-grid@hernejj->settings-schema.json->numCols->description
+msgid "Number of columns:"
+msgstr "Aantal columns:"
+
+#. workspace-grid@hernejj->settings-
+#. schema.json->scrollWheelBehavior->description
+msgid "Scroll Wheel Behavior:"
+msgstr "Muis wiel gedrag:"
+
+#. workspace-grid@hernejj->settings-schema.json->scrollWheelBehavior->options
+msgid "Scroll By Column"
+msgstr "Scroll op kolom"
+
+#. workspace-grid@hernejj->settings-schema.json->scrollWheelBehavior->options
+msgid "Scroll By Row"
+msgstr "Scroll op rij"

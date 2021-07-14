@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 21:52+0000\n"
+"PO-Revision-Date: 2019-10-17 21:01+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ../settings-schema.json:5
+msgid "Show icon"
+msgstr "Mostra icona"
+
+#: ../settings-schema.json:6
+msgid "Always"
+msgstr "Sempre"
+
+#: ../settings-schema.json:6
+msgid "When printers exist"
+msgstr "Quando esiste una stampante"
+
+#: ../settings-schema.json:6
+msgid "When printing"
+msgstr "Durante la stampa"
+
+#: ../settings-schema.json:7
+msgid "When to show the icon"
+msgstr "Quando mostrare l'icona"
+
+#: ../settings-schema.json:12
+msgid "Printer errors"
+msgstr "Errori di stampa"
+
+#: ../settings-schema.json:13
+msgid "Show printer error icon"
+msgstr "Mostra icone d'errore di stampa"
+
+#: ../settings-schema.json:18
+msgid "Documents count"
+msgstr "Numero documenti"
+
+#: ../settings-schema.json:19
+msgid "Show documents count next to icon"
+msgstr "Mostra il numero di documenti accanto all'icona"
+
+#: ../settings-schema.json:24
+msgid "Document number"
+msgstr "Numero documento"
+
+#: ../settings-schema.json:25
+msgid "Show each document number on print list"
+msgstr "Mostra ogni numero di documento nell'elenco di stampa"
+
+#: ../settings-schema.json:30 ../applet.js:195
+msgid "Send to front"
+msgstr "Invia in primo piano"
+
+#: ../settings-schema.json:31
+msgid "Documents can be sent to front"
+msgstr "I documenti possono essere inviati in primo piano"
+
+#: ../settings-schema.json:36
+msgid "Symbolic icons"
+msgstr "Icone simboliche"
+
+#: ../settings-schema.json:37
+msgid "Use symbolic icons"
+msgstr "Usa icona simbolica"
+
+#: ../settings-schema.json:43
+msgid "Reload Applet"
+msgstr "Ricarica Applet"
+
+#: ../settings-schema.json:49
+msgid "Restart CUPS"
+msgstr "Riavvia CUPS"
+
+#: ../metadata.json:10 ../applet.js:37 ../applet.js:134
+msgid "Printers"
+msgstr "Stampanti"
+
+#: ../applet.js:159
+msgid "Cancel all jobs"
+msgstr "Annulla tutti i lavori"
+
+#: ../applet.js:181
+msgid "at"
+msgstr "al"
+
+#. printers@linux-man->metadata.json->description
+msgid "Manage Jobs and Printers"
+msgstr "Gestisci Lavori e Stampanti"

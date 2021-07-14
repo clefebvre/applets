@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CPU Temperature Indicator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 23:44+0200\n"
+"PO-Revision-Date: 2020-05-16 11:57+0200\n"
+"Last-Translator: Jurien (French77) <Jurien@protonmail.com>\n"
+"Language-Team: Jurien Jurein@protonmail.com\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: applet.js:80 applet.js:159
+msgid "Temperature"
+msgstr "Temperatuur"
+
+#: applet.js:148
+msgid "Error"
+msgstr "Fout"
+
+#: applet.js:149
+msgid ""
+"Run sensors-detect as root. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Sensoren detecteren uitvoeren   als root. Als het niet helpt, klik dan hier "
+"om te rapporteren met uw sensoruitgang!"
+
+#: applet.js:151
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: applet.js:152
+msgid ""
+"Please install lm_sensors. If it doesn't help, click here to report with "
+"your sensors output!"
+msgstr ""
+"Installeer a.u.b lm_sensors. Als het niet helpt, klik dan hier om te "
+"rapporteren met uw sensoruitgang!"
+
+#: applet.js:224
+msgid "Thresholds Info"
+msgstr "Drempelwaarde Informatie"
+
+#: applet.js:225
+msgid "High Temp"
+msgstr "Hoge temperatuur"
+
+#: applet.js:226
+msgid "Crit. Temp"
+msgstr "Kritieke Temperatuur"
+
+#: applet.js:237
+msgid "Critical"
+msgstr "Kritisch"
+
+#: applet.js:240
+msgid "High"
+msgstr "Hoog"
+
+#: applet.js:253
+msgid "Current Temperature"
+msgstr "Huidige temperatuur"
+
+#: applet.js:255
+msgid "Critical Temperature"
+msgstr "Kritische Temperatuur"
+
+#. metadata.json->name
+msgid "CPU Temperature Indicator"
+msgstr "CPU Temperatuur Indicator"
+
+#. metadata.json->description
+msgid "Shows CPU Temperature"
+msgstr "Toont CPU Temperatuur"
+
+#. settings-schema.json->use-fahrenheit->description
+msgid "Show temperature in Fahrenheit"
+msgstr "Temperatuur weergeven in Fahrenheit"
+
+#. settings-schema.json->only-integer-part->description
+msgid "Use integer values for temperature"
+msgstr "Gebruik integere waarden voor temperatuur"
+
+#. settings-schema.json->show-unit->description
+msgid "Show unit"
+msgstr "Toon eenheid"
+
+#. settings-schema.json->show-unit->tooltip
+msgid "Whether or not show the unit after the temperature value."
+msgstr "Al dan niet tonen van de eenheid na de temperatuur waarde."
+
+#. settings-schema.json->show-unit-letter->description
+msgid "Show unit letter"
+msgstr "Laat eenheid letter zien"
+
+#. settings-schema.json->show-unit-letter->tooltip
+msgid "Whether or not show the unit letter (C or F)."
+msgstr "Geeft eenheidsletter (C of F) weer of niet."
+
+#. settings-schema.json->show-label-prefix->description
+msgid "Show label prefix"
+msgstr "Toon labelvoorvoegsel"
+
+#. settings-schema.json->show-label-prefix->tooltip
+msgid "Whether or not to add a label before the temperature value."
+msgstr "Het al dan niet toevoegen van een label voor de temperatuurwaarde."
+
+#. settings-schema.json->label-prefix->description
+msgid "Label prefix"
+msgstr "Label voorvoegsel"
+
+#. settings-schema.json->label-prefix->tooltip
+msgid "The label to be shown before the temperature value."
+msgstr "Het label dat voor de temperatuurwaarde moet worden weergegeven."
+
+#. settings-schema.json->interval->units
+msgid "ms"
+msgstr "ms"
+
+#. settings-schema.json->interval->description
+msgid "Update interval"
+msgstr "Bijwerkings interval"
+
+#. settings-schema.json->change-color->description
+msgid "Change color when the temperature becomes High or Critical"
+msgstr "Wijzig de kleur wanneer de temperatuur te hoog of te kritiek wordt"
+
+#. settings-schema.json->change-color->tooltip
+msgid ""
+"Selecting this option, this applet becomes\n"
+" orange when the High Temperature Threshold is reached,\n"
+" red when the Critical Temperature Threshold is reached."
+msgstr ""
+"Als u deze optie selecteert, wordt deze hulptoepassing\n"
+"  oranje wanneer de hoge temperatuurdrempel is bereikt,\n"
+"  rood wanneer de kritieke temperatuurdrempel is bereikt."
+
+#. settings-schema.json->only-colors->description
+msgid "Only use colors to alert me"
+msgstr "Gebruik alleen kleuren om te waarschuwen"
+
+#. settings-schema.json->only-colors->tooltip
+msgid ""
+"Select this option to not display text alerts in horizontal panels.\n"
+"(No text alert is ever displayed on vertical panels.)"
+msgstr ""
+"Selecteer deze optie om geen tekstwaarschuwingen in horizontale panelen weer "
+"te geven.\n"
+"(Er wordt nooit een tekstalarm weergegeven op verticale panelen.)"
+
+
+
+
+

@@ -1,0 +1,435 @@
+# Main translation file for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2017-11-20 22:44+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:437
+#, fuzzy
+msgid "Network interfaces"
+msgstr "Мрежов интерфейс"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "Общи данни начало"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "Стартиране на аплета"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "Днес"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "Вчера"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "Отпреди 3 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "Отпреди 5 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "Отпреди 7 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "Отпреди 10 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "Отпреди 14 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "Отпреди 30 дни"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "Потребителска дата"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "Гпи"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "Компактен"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "Голям"
+
+#: applet.js:825
+msgid "b"
+msgstr ""
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "Общо сваляне:"
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "Общо качване:"
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "Показвай използването на мрежовия интерфейс"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "Скорост на сваляне и качване"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "Показване"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "Средна скорост в секунда"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "Количество на прехвърлени данни"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "Стойности показвани в панела"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "Единица"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "Байта"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "Бита"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "Базова единица за данни, показвана в панела"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "секунди"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "Пресмятай на всеки"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "Колко често да се пресмята скоростта на сваляне и качване"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr ""
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "Тип"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "Гпи на аплета"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr ""
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Download first"
+msgstr "Иконка за сваляне"
+
+#. settings-schema.json->gui_value_order->options
+#, fuzzy
+msgid "Upload first"
+msgstr "Иконка за качване"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "Място на десетицата"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "Авто"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0"
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1"
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2"
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3"
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr ""
+"Място на десетичния знак за скоростта на сваляне и качване, показвана в "
+"панела"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "CSS на текста"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "CSS стила, прилаган за текста в панела"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "Иконка за сваляне"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "Иконка за качване"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr ""
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "CSS на изскачащия текст"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr "CSS стила, приложен за текстовото описание в изскачащото прозороче"
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "CSS на изскачащите числа"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr "CSS стила, приложен за числата в изскачащото прозороче"
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+#, fuzzy
+msgid "bytes"
+msgstr "Байта"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+#, fuzzy
+msgid "A minimum download value to display in the panel"
+msgstr "Иконката, показвано до скоростта за качване в панела"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr ""
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+#, fuzzy
+msgid "A minimum upload value to display in the panel"
+msgstr "Иконката, показвано до скоростта за качване в панела"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "Общи данни"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr "Показване на общите данни на сваляне и качване при показване"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr ""
+"Показване на общото количество данни за сваляне и качване в изскачащия "
+"прозорец при посочване"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "Начало"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr "Начално време на общото количество свалени и качени данни"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "Потребителска дата"
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"Потребителска дата във формат YYYY-MM-DD, използвана за начално време. "
+"Опцията се използва ако е избрано \"Потребителска дата\" в падащото меню на "
+"\"Начало\""
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "Запазвай на всеки"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr ""
+"Колко често да се запазва общото количество данни за сваляне и качване във "
+"файл. 0 означава без запазване във файл."
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "Лимити на данни"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "МБ"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "Лимит на данни"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr ""
+"Максималното количество данни за сваляне и качване. 0 означава без лимити."
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "Показвай употребата на лимитирани данни"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "Без"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "Кръг"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "Текст"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr "Показвай процент от употребата на лимита за данни в панела"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr "Извикай команда, когато лиимита за данни е достигнат"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr ""
+"Извикай команда, когато общото количество на свалени и качени данни е "
+"достигнал лимита"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "Команда"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "Команда за извикване"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "Връзки"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "Списък на текущите интернет връзки при клик с ляв бутон"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr ""
+"Отваряне на терминал със списък на текущите връзки при ляв клик. Следващия "
+"клик ще затвори терминала."
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "Команда"
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr "Команда използвана за списък на текущите интернет връзки"
+
+#~ msgid "Settings for download-and-upload-speed@cardsurf"
+#~ msgstr "Настройки за скорост-на-сваляне-и-качване@cardsurf"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr "Иконката, показвано до скоростта за сваляне в панела"

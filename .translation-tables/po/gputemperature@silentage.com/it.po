@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27 12:49+0800\n"
+"PO-Revision-Date: 2019-10-24 20:51+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:58
+msgid "GPU: ??ᴼC"
+msgstr "GPU: ??ᴼC"
+
+#: applet.js:70
+msgid "Current Temperature of your NVidia based GPU"
+msgstr "Temperatura Attuale della tua GPU nVidia"
+
+#: applet.js:75
+msgid "Current Temperature of your ATI based GPU"
+msgstr "Temperatura Attuale della tua GPU ATI"
+
+#: applet.js:80
+msgid "No supported GPUs detected."
+msgstr "Nessuna GPU supportata rilevata."
+
+#: applet.js:133 applet.js:348
+msgid "Temperature"
+msgstr "Temperatura"
+
+#: applet.js:152 applet.js:441
+msgid "GPU:"
+msgstr "GPU:"
+
+#: applet.js:352
+msgid "Driver"
+msgstr "Driver"
+
+#: applet.js:360
+msgid "Video Memory"
+msgstr "Memoria Video"
+
+#: applet.js:363
+msgid "Total"
+msgstr "Totale"
+
+#: applet.js:367
+msgid "Used"
+msgstr "Usata"
+
+#: applet.js:371
+msgid "Interface"
+msgstr "Interfaccia"
+
+#: applet.js:375
+msgid "Memory Clock"
+msgstr "Clock Memoria:"
+
+#: applet.js:380
+msgid "Cuda Cores"
+msgstr "Cuda Cores"
+
+#: applet.js:384
+msgid "Gpu Clock"
+msgstr "Clock GPU"
+
+#: applet.js:388
+msgid "PCI Speed"
+msgstr "Velocità PCI"
+
+#: applet.js:403
+msgid "Fan "
+msgstr "Ventola"
+
+#: applet.js:411
+msgid "Displays:"
+msgstr "Mostra:"
+
+#: applet.js:740
+msgid "No GPU Name"
+msgstr "Nessun Nome GPU"
+
+#: applet.js:805
+msgid "No Display Name"
+msgstr "Nessun Nome Visualizzato"
+
+#: applet.js:844
+msgid " GPU: ??ᴼC ERROR"
+msgstr " GPU: ??ᴼC ERRORE"
+
+#: applet.js:846
+msgid "We couldn't determine your GPU's temperature."
+msgstr "Non siamo riusciti a determinare la temperatura della tua GPU."
+
+#: applet.js:848
+msgid "If you have a NVIDIA GPU, please try installing"
+msgstr "Se hai una GPU NVIDIA, prova a installare"
+
+#: applet.js:849
+msgid "the binary drivers from http://geforce.com/drivers"
+msgstr "i driver binari da http://geforce.com/drivers"
+
+#: applet.js:850
+msgid "and the nvidia-settings package for your distribution."
+msgstr "e il pacchetto nvidia-settings per la tua distribuzione."
+
+#: applet.js:852
+msgid "If you have an ATI GPU, please install the LM-SENSORS"
+msgstr "Se si dispone di una GPU ATI, installare il pacchetto LM-SENSORS"
+
+#: applet.js:853
+msgid "packages for your distribution."
+msgstr "per la tua distribuzione."
+
+#. gputemperature@silentage.com->metadata.json->name
+msgid "GPU Temperature"
+msgstr "Temperatura GPU"
+
+#. gputemperature@silentage.com->metadata.json->description
+msgid ""
+"Shows NVidia/ATI GPU temperature in the panel, and detailed/multi-gpu "
+"information in a popup menu."
+msgstr ""
+"Mostra la temperatura della GPU nVidia/ATI nel pannello e informazioni "
+"dettagliate/multi-gpu in un menù popup."

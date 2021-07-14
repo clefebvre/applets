@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2021-03-06 15:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:79
+msgid "Error: Still waiting for command to finish!"
+msgstr "Erreur: En attente de la fin de la commande !"
+
+#. metadata.json->name
+msgid "Bash Sensors"
+msgstr "Capteurs Bash"
+
+#. metadata.json->description
+msgid ""
+"Write your Bash commands to specify applet output (temperature sensors and "
+"not only!)"
+msgstr ""
+"Écrivez vos commandes Bash pour produire l'affichage désiré (  capteurs de "
+"températures mais pas que !  )"
+
+#. settings-schema.json->head->description
+msgid "Settings - Bash Sensors (write commands in Bash!)"
+msgstr "Paramètres - Bash Sensors ( écrivez vos commandes en Bash ! )"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr "Titre"
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr "TItre utilisé lors de l'affichage des notifications"
+
+#. settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "secondes"
+
+#. settings-schema.json->refreshInterval->description
+msgid "Refresh interval [0 for no refresh]"
+msgstr "Fréquence de rafraîchissement ( 0 pour ne pas rafraîchir )"
+
+#. settings-schema.json->shell->description
+msgid "Shell"
+msgstr "Shell"
+
+#. settings-schema.json->shell->tooltip
+msgid "Shell to be used ('-c' will be used to call commands)"
+msgstr "Shell à utiliser ( '-c' va être utilisé pour appeler les commandes )"
+
+#. settings-schema.json->head1->description
+msgid "Commands"
+msgstr "Commandes"
+
+#. settings-schema.json->script1->description
+msgid "Command 1"
+msgstr "Commande n°1"
+
+#. settings-schema.json->script1->tooltip
+msgid "first line of output (use \\f for more lines)"
+msgstr ""
+"première ligne d'affichage de sortie ( utilisez \\f pour plus de lignes )"
+
+#. settings-schema.json->enableScript2->description
+msgid "Two-line mode (command 2 enabled)"
+msgstr "Mode double commandes ( commande 2 activée )"
+
+#. settings-schema.json->script2->description
+msgid "Command 2"
+msgstr "Commande n°2"
+
+#. settings-schema.json->script2->tooltip
+msgid "second line of output (optional)"
+msgstr "deuxième ligne d'affichage de sortie ( optionnelle )"
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr "Icon"
+
+#. settings-schema.json->dynamicIcon->description
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr ""
+"Icône dynamique ( utilisez le sortie de la commande icône comme icône )"
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr "Icône statique ou commande retournant le chemin complet vers une icône"
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr "commande qui doit retourner une icône ( vide pour pas d'icône )"
+
+#. settings-schema.json->head3->description
+msgid "Tooltip"
+msgstr "Info-bulle"
+
+#. settings-schema.json->dynamicTooltip->description
+msgid "Dynamic tooltip (use output of tooltip command as tooltip)"
+msgstr ""
+"Info-bulle dynamique ( utilisez la sortie de la commande info-bulle comme "
+"info-bulle)"
+
+#. settings-schema.json->tooltipScript->description
+msgid "Tooltip command or static tooltip text"
+msgstr "Commande info-bulle ou texte statique comme info-bulle"
+
+#. settings-schema.json->tooltipScript->tooltip
+msgid "tooltip (static or dynamic)"
+msgstr "commande Info-bulle ( statique ou dynamique )"
+
+#. settings-schema.json->head4->description
+msgid "Command on applet click"
+msgstr "Commande lors d'un clique sur l'applet"
+
+#. settings-schema.json->menuScript->description
+msgid "Menu command (on applet left-click)"
+msgstr "Commande de Menu ( lors d'un clique gauche sur l'applet )"
+
+#. settings-schema.json->menuScript->tooltip
+msgid "allows to display lots of information in popup menu"
+msgstr "permet d'afficher plus d'information dans le menu Popup"
+
+#. settings-schema.json->menuScriptDisplay->description
+msgid "Display output of menu command"
+msgstr "Affiche la sortie de la Commande de Menu"
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr "Commande au démarrage"
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr "Commande à lancer au démarrage"

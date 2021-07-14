@@ -1,0 +1,60 @@
+# Swedish translation for cheaty@centurix.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheaty@centurix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 08:50+0800\n"
+"PO-Revision-Date: 2017-06-01 18:13+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:53
+msgid "version"
+msgstr "version"
+
+#: applet.js:53
+msgid "Author:"
+msgstr "Upphovsman:"
+
+#: applet.js:53
+msgid "Email:"
+msgstr "E-post:"
+
+#: applet.js:53
+msgid "Repository:"
+msgstr "Förråd:"
+
+#: applet.js:124
+msgid "Cheaty: Easy access cheatsheets"
+msgstr "Cheaty: Enkel åtkomst till lathundar"
+
+#: applet.js:209
+msgid "Configure..."
+msgstr "Konfigurera..."
+
+#: applet.js:223
+msgid "Code copied to the clipboard"
+msgstr "Kod kopierad till urklipp"
+
+#. cheaty@centurix->metadata.json->description
+msgid "An applet to provide quick access to a variety of cheat sheets."
+msgstr ""
+"Ett panelprogram som tillhandahåller snabb åtkomst till diverse lathundar."
+
+#. cheaty@centurix->metadata.json->name
+msgid "Cheaty - Cheatsheet keeper"
+msgstr "Cheaty - Lathundsarkiv"
+
+#. cheaty@centurix->settings-schema.json->cheatsheetFolder->description
+msgid "cheatsheetFolder"
+msgstr "Lathundsmapp"

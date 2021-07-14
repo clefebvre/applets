@@ -1,0 +1,449 @@
+# Main translation file for download-and-upload-speed@cardsurf.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: download-and-upload-speed@cardsurf 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:05+0100\n"
+"PO-Revision-Date: 2021-02-27 00:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:437
+msgid "Network interfaces"
+msgstr "Netzwerkschnittstellen"
+
+#: applet.js:506
+msgid "Total data start"
+msgstr "Start der Gesamtdaten"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:513
+msgid "Launch of applet"
+msgstr "Start des Applets"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:514
+msgid "Today"
+msgstr "Heute"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:515
+msgid "Yesterday"
+msgstr "Gestern"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:516
+msgid "3 days ago"
+msgstr "vor 3 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:517
+msgid "5 days ago"
+msgstr "vor 5 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:518
+msgid "7 days ago"
+msgstr "vor 7 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:519
+msgid "10 days ago"
+msgstr "vor 10 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:520
+msgid "14 days ago"
+msgstr "vor 14 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:521
+msgid "30 days ago"
+msgstr "vor 30 Tagen"
+
+#. settings-schema.json->bytes_start_time->options
+#: applet.js:522
+msgid "Custom date"
+msgstr "Benutzerdefiniertes Datum"
+
+#. settings-schema.json->gui_start->description
+#: applet.js:559
+msgid "Gui"
+msgstr "Darstellung in der Leiste"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Compact"
+msgstr "Kompakt"
+
+#. settings-schema.json->gui_speed_type->options
+#: applet.js:559
+msgid "Large"
+msgstr "Groß"
+
+#: applet.js:825
+msgid "b"
+msgstr "b"
+
+#: appletGui.js:470
+msgid "Total download:"
+msgstr "Gesamt-Download:"
+
+#: appletGui.js:471
+msgid "Total upload:"
+msgstr "Gesamt-Upload:"
+
+#. metadata.json->description
+msgid "Shows usage of a network interface"
+msgstr "Zeigt die Nutzung einer Netzwerkschnittstelle an"
+
+#. metadata.json->name
+msgid "Download and upload speed"
+msgstr "Download- und Upload-Geschwindigkeit"
+
+#. settings-schema.json->configuration->description
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#. settings-schema.json->display_mode->description
+msgid "Show"
+msgstr "Anzeigen"
+
+#. settings-schema.json->display_mode->options
+msgid "Average speed per second"
+msgstr "Durchschnittsgeschwindigkeit pro Sekunde"
+
+#. settings-schema.json->display_mode->options
+msgid "Amount of data transferred"
+msgstr "Übertragene Datenmenge"
+
+#. settings-schema.json->display_mode->tooltip
+msgid "Values shown in the panel"
+msgstr "Werte, die in der Leiste angezeigt werden"
+
+#. settings-schema.json->unit_type->description
+msgid "Unit"
+msgstr "Einheit"
+
+#. settings-schema.json->unit_type->options
+msgid "Bytes"
+msgstr "Bytes"
+
+#. settings-schema.json->unit_type->options
+msgid "Bits"
+msgstr "Bits"
+
+#. settings-schema.json->unit_type->tooltip
+msgid "Base data unit shown in the panel"
+msgstr "Basisdateneinheit, welche in der Leiste angezeigt wird"
+
+#. settings-schema.json->update_every->units
+#. settings-schema.json->update_available_interfaces_every->units
+#. settings-schema.json->write_every->units
+msgid "seconds"
+msgstr "Sekunden"
+
+#. settings-schema.json->update_every->description
+msgid "Calculate every"
+msgstr "Berechne alle"
+
+#. settings-schema.json->update_every->tooltip
+msgid "How often to calculate download and upload speed"
+msgstr "Wie oft die Download- und Upload-Geschwindigkeit berechnet werden soll"
+
+#. settings-schema.json->update_available_interfaces_every->description
+msgid "Update available interfaces every"
+msgstr "Verfügbare Schnittstellen aktualisieren alle"
+
+#. settings-schema.json->update_available_interfaces_every->tooltip
+msgid ""
+"How often to update list of available network interfaces. 0 means list of "
+"available network interfaces is not updated periodically."
+msgstr ""
+"Wie oft die Liste der verfügbaren Netzwerkschnittstellen aktualisiert werden "
+"soll. 0 bedeutet, dass die Liste der verfügbaren Netzwerkschnittstellen "
+"nicht periodisch aktualisiert wird."
+
+#. settings-schema.json->gui_speed_type->description
+msgid "Type"
+msgstr "Typ"
+
+#. settings-schema.json->gui_speed_type->tooltip
+msgid "Applet Gui"
+msgstr "Appletdarstellung in der Leiste"
+
+#. settings-schema.json->gui_value_order->description
+msgid "Value order"
+msgstr "Wertreihenfolge"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Download first"
+msgstr "Zuerst herunterladen"
+
+#. settings-schema.json->gui_value_order->options
+msgid "Upload first"
+msgstr "Zuerst hochladen"
+
+#. settings-schema.json->gui_value_order->tooltip
+msgid "An order of values shown in the panel and in the hover popup"
+msgstr ""
+"Eine Reihenfolge der in der Leiste und im Hover-Popup angezeigten Werte"
+
+#. settings-schema.json->decimal_places->description
+msgid "Decimal places"
+msgstr "Nachkommastellen"
+
+#. settings-schema.json->decimal_places->options
+msgid "Auto"
+msgstr "Automatisch"
+
+#. settings-schema.json->decimal_places->options
+msgid "0 "
+msgstr "0 "
+
+#. settings-schema.json->decimal_places->options
+msgid "1 "
+msgstr "1 "
+
+#. settings-schema.json->decimal_places->options
+msgid "2 "
+msgstr "2 "
+
+#. settings-schema.json->decimal_places->options
+msgid "3 "
+msgstr "3 "
+
+#. settings-schema.json->decimal_places->tooltip
+msgid "Decimal places of download and upload speed shown in the panel"
+msgstr ""
+"Nachkommastellen der Download- und Upload-Geschwindigkeit in der Leiste"
+
+#. settings-schema.json->gui_text_css->description
+msgid "Text CSS"
+msgstr "Text CSS"
+
+#. settings-schema.json->gui_text_css->tooltip
+msgid "A CSS style applied to the text in the panel"
+msgstr "Ein CSS-Stil, der auf den Text in der Leiste angewendet wird"
+
+#. settings-schema.json->gui_received_icon_filename->description
+msgid "Download icon"
+msgstr "Download-Symbol"
+
+#. settings-schema.json->gui_received_icon_filename->tooltip
+msgid ""
+"An icon displayed next to download speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+"Ein Symbol, das neben der Download-Geschwindigkeit in der Leiste angezeigt "
+"wird.\n"
+"Um ein symbolisches Icon anzuzeigen, stellen Sie sicher, dass der Name mit »-"
+"symbolic.svg« endet."
+
+#. settings-schema.json->gui_sent_icon_filename->description
+msgid "Upload icon"
+msgstr "Upload-Symbol"
+
+#. settings-schema.json->gui_sent_icon_filename->tooltip
+msgid ""
+"An icon displayed next to upload speed in the panel.\n"
+"To display a symbolic icon make sure its name ends with '-symbolic.svg'."
+msgstr ""
+"Ein Symbol, das neben der Upload-Geschwindigkeit in der Leiste angezeigt "
+"wird.\n"
+"Um ein symbolisches Icon anzuzeigen, stellen Sie sicher, dass der Name mit »-"
+"symbolic.svg« endet."
+
+#. settings-schema.json->gui_symbolic_icon->description
+msgid "Show a default set of symbolic icons"
+msgstr "Ein Standardsatz von symbolischen Icons verwenden"
+
+#. settings-schema.json->hover_popup_text_css->description
+msgid "Popup text CSS"
+msgstr "CSS für den Text im Popup-Fenster"
+
+#. settings-schema.json->hover_popup_text_css->tooltip
+msgid "A CSS style applied to the description text in the hover popup"
+msgstr ""
+"Ein CSS-Stil, der auf den Beschreibungstext in dem Fenster angewendet wird, "
+"welches erscheint, wenn die Maus über das Applet bewegt wird."
+
+#. settings-schema.json->hover_popup_numbers_css->description
+msgid "Popup numbers CSS"
+msgstr "CSS für die Zahlen im Popup-Fenster"
+
+#. settings-schema.json->hover_popup_numbers_css->tooltip
+msgid "A CSS style applied to numbers in the hover popup"
+msgstr ""
+"Ein CSS-Stil, der auf die Zahlen in dem Fenster angewendet wird, welches "
+"erscheint, wenn die Maus über das Applet bewegt wird."
+
+#. settings-schema.json->minimum_bytes_received_to_display->units
+#. settings-schema.json->minimum_bytes_sent_to_display->units
+msgid "bytes"
+msgstr "Bytes"
+
+#. settings-schema.json->minimum_bytes_received_to_display->description
+msgid "Minimum displayed download value"
+msgstr "Minimaler angezeigter Download-Wert"
+
+#. settings-schema.json->minimum_bytes_received_to_display->tooltip
+msgid "A minimum download value to display in the panel"
+msgstr "Ein minimaler Download-Wert, der in der Leiste angezeigt werden soll"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->description
+msgid "Minimum displayed upload value"
+msgstr "Minimaler angezeigter Upload-Wert"
+
+#. settings-schema.json->minimum_bytes_sent_to_display->tooltip
+msgid "A minimum upload value to display in the panel"
+msgstr "Ein minimaler Upload-Wert, der in der Leiste angezeigt werden soll"
+
+#. settings-schema.json->total_data_start->description
+msgid "Total data"
+msgstr "Gesamtdatenmenge"
+
+#. settings-schema.json->show_hover->description
+msgid "Show total download and upload on hover"
+msgstr "Gesamt-Download und Gesamt-Upload beim Darüberbewegen anzeigen"
+
+#. settings-schema.json->show_hover->tooltip
+msgid "Show the hover popup with total amount of data downloaded and uploaded"
+msgstr ""
+"Ein Popup-Fenster mit der Download- und Upload-Gesamtdatenmenge anzeigen, "
+"wenn die Maus über das Applet bewegt wird"
+
+#. settings-schema.json->bytes_start_time->description
+msgid "Start"
+msgstr "Start"
+
+#. settings-schema.json->bytes_start_time->tooltip
+msgid "Start time to count total amount of data downloaded and uploaded"
+msgstr ""
+"Startzeit zum Berechnen der heruntergeladenen und hochgeladenen "
+"Gesamtdatenmenge"
+
+#. settings-schema.json->custom_start_date->description
+msgid "Custom date "
+msgstr "Benutzerdefiniertes Datum "
+
+#. settings-schema.json->custom_start_date->tooltip
+msgid ""
+"A custom date in YYYY-MM-DD format used as start time. The option is used if "
+"\"Custom date\" is selected in \"Start\" combobox."
+msgstr ""
+"Ein eigenes Datum im Format JJJJ-MM-TT, welches als Startzeit verwendet "
+"wird. Dieses Datum wird verwendet, wenn »Benutzerdefiniertes Datum« im "
+"»Start«-Auswahlfeld ausgewählt ist."
+
+#. settings-schema.json->write_every->description
+msgid "Save every"
+msgstr "Speichern alle"
+
+#. settings-schema.json->write_every->tooltip
+msgid ""
+"How often to save total amount of data downloaded and uploaded to the file. "
+"0 means no saving to the file."
+msgstr ""
+"Wie oft die Download- und Upload-Gesamtdatenmenge in der Datei gespeichert "
+"werden soll. 0 bedeutet kein Speichern in der Datei."
+
+#. settings-schema.json->data_limit_start->description
+msgid "Data limits"
+msgstr "Datengrenzen"
+
+#. settings-schema.json->data_limit->units
+msgid "MB"
+msgstr "MB"
+
+#. settings-schema.json->data_limit->description
+msgid "Data limit"
+msgstr "Datenlimit"
+
+#. settings-schema.json->data_limit->tooltip
+msgid "The maximum amount of data to download and upload. 0 means no limits."
+msgstr ""
+"Die Höchstgrenze für die Download- und Upload-Datenmenge. 0 bedeutet kein "
+"Datenlimit."
+
+#. settings-schema.json->gui_data_limit_type->description
+msgid "Show data limit usage"
+msgstr "Verwendung des Datenlimits anzeigen"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "None"
+msgstr "–"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Circle"
+msgstr "Kreis"
+
+#. settings-schema.json->gui_data_limit_type->options
+msgid "Text"
+msgstr "Text"
+
+#. settings-schema.json->gui_data_limit_type->tooltip
+msgid "Show the percentage of data limit used in the panel"
+msgstr "Den Prozentsatz des genutzten Datenlimits in der Leiste anzeigen"
+
+#. settings-schema.json->data_limit_command_enabled->description
+msgid "Invoke command when data limit exceeded"
+msgstr "Bei Überschreitung des Datenlimits Befehl aufrufen"
+
+#. settings-schema.json->data_limit_command_enabled->tooltip
+msgid ""
+"Invoke a command when amount of data downloaded and uploaded exceeded the "
+"limit"
+msgstr ""
+"Den Befehl ausführen, wenn die Download- und Upload-Datenmenge das "
+"Datenlimit überschreitet"
+
+#. settings-schema.json->data_limit_command->description
+msgid "Command"
+msgstr "Befehl"
+
+#. settings-schema.json->data_limit_command->tooltip
+msgid "A command to invoke"
+msgstr "Ein Befehl, der ausgeführt werden soll"
+
+#. settings-schema.json->connections_start->description
+msgid "Connections"
+msgstr "Verbindungen"
+
+#. settings-schema.json->launch_terminal->description
+msgid "List current Internet connections on left mouse click"
+msgstr "Bei Linksklick Liste der aktuellen Internetverbindungen anzeigen"
+
+#. settings-schema.json->launch_terminal->tooltip
+msgid ""
+"Open a terminal with a list of current connections on a left mouse click. "
+"The next click closes the terminal."
+msgstr ""
+"Bei Linksklick auf das Applet wird ein Terminal mit einer Liste aktueller "
+"Verbindungen geöffnet. Der nächste Linksklick schließt das Terminal."
+
+#. settings-schema.json->list_connections_command->description
+msgid "Command "
+msgstr "Befehl "
+
+#. settings-schema.json->list_connections_command->tooltip
+msgid "A command used to list current Internet connections"
+msgstr "Befehl, der zur Auflistung aktueller Internetverbindungen genutzt wird"
+
+#~ msgid "Settings for download-and-upload-speed@cardsurf"
+#~ msgstr "Einstellungen für download-and-upload-speed@cardsurf"
+
+#~ msgid "An icon displayed next to download speed in the panel"
+#~ msgstr ""
+#~ "Ein Symbol, welches neben der Downloadgeschwindigkeit in der Leiste "
+#~ "angezeigt wird"

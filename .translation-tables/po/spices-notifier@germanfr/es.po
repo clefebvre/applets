@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-10 14:25+0200\n"
+"PO-Revision-Date: 2018-06-10 14:29+0200\n"
+"Last-Translator: Germán Franco <dev.germanfr@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:92
+msgid "Mark all as read"
+msgstr "Marcar todos como leídos"
+
+#: applet.js:104
+msgid "No xlets found, click to reload"
+msgstr "Sin resultados, click para recargar"
+
+#. settings-schema.json->username->description
+msgid "GitHub user name"
+msgstr "Nombre de usuario de GitHub"
+
+#. settings-schema.json->update-interval->description
+msgid "Update interval"
+msgstr "Intervalo de actualización"
+
+#. settings-schema.json->update-interval->units
+msgid "minutes"
+msgstr "minutos"
+
+#. settings-schema.json->show-nonzero-only->description
+msgid "Hide panel icon when there are no unread comments"
+msgstr "Ocultar icono del panel cuando no hay comentarios sin leer"
+
+#. metadata.json->name
+msgid "Spices notifier"
+msgstr "Notificaciones de Spices"
+
+#. metadata.json->description
+msgid "Notifies of comments on the Cinnamon Spices website"
+msgstr "Notifica sobre los comentarios en la página de Spices de Cinnamon"

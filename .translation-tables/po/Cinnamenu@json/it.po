@@ -1,0 +1,599 @@
+# Livedevelop Live User <mortaromarcello@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinnamenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-01 00:50+0100\n"
+"PO-Revision-Date: 2021-03-24 21:22+0000\n"
+"Last-Translator: Livedevelop Live User <mortaromarcello@gmail.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Project-Style: gnome\n"
+
+msgid "Type to search..."
+msgstr "Ricerca..."
+
+msgid "Initializing"
+msgstr "Inizializzazione"
+
+msgid "No description available"
+msgstr "Nessuna descrizione disponibile"
+
+#, fuzzy
+msgid "All applications"
+msgstr "Tutte le applicazioni"
+
+msgid "Places"
+msgstr "Posizioni"
+
+#, fuzzy
+msgid "Recent files"
+msgstr "Recenti"
+
+msgid "Bookmarks"
+msgstr "Segnalibri"
+
+#, fuzzy
+msgid "Favorite apps"
+msgstr "App Preferite"
+
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr ""
+"Il pacchetto gir1.2-gda-5.0 è richiesto per i segnalibri di Firefox e di "
+"Midori."
+
+msgid "Clear List"
+msgstr "Svuota Elenco"
+
+#, fuzzy
+msgid "No recent files"
+msgstr "Recenti"
+
+msgid "Account details"
+msgstr "Dettagli account"
+
+msgid "Grid View"
+msgstr "Vista griglia"
+
+msgid "List View"
+msgstr "Vista ad elenco"
+
+msgid "Switch to grid view"
+msgstr "Passa alla vista a griglia"
+
+msgid "Switch to list view"
+msgstr "Passa alla vista ad elenco"
+
+#, fuzzy
+msgid "Lock screen"
+msgstr "Blocca schermo"
+
+msgid "Lock the screen"
+msgstr "Blocca lo schermo"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Leave the session"
+msgstr "Esce dalla sessione"
+
+msgid "Quit"
+msgstr "Esci"
+
+msgid "Shutdown the computer"
+msgstr "Spegni il computer"
+
+msgid "Run with NVIDIA GPU"
+msgstr "Esegui con GPU NVIDIA"
+
+msgid "Add to panel"
+msgstr "Aggiungi al pannello"
+
+msgid "Add to desktop"
+msgstr "Aggiungi al desktop"
+
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "Rimuovi preferito"
+
+msgid "Add to favorites"
+msgstr "Aggiungi ai preferiti"
+
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Browse network"
+msgstr "Esplora rete"
+
+msgid "Find files..."
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+#, fuzzy
+msgid "No recent Items"
+msgstr "Nessun documento recente"
+
+msgid "Click to copy"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+#, fuzzy
+msgid "Favorites"
+msgstr "App Preferite"
+
+#, fuzzy
+msgid "Recent"
+msgstr "Recenti"
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+msgid "Reset category order"
+msgstr "Ripristina l'ordine delle categorie"
+
+msgid "This file is no longer available"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+#, fuzzy
+msgid "Other application..."
+msgstr "Mostra le icone delle applicazioni"
+
+msgid "Open containing folder"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Error while moving file to trash:"
+msgstr ""
+
+msgid "Error while opening file:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start in"
+msgstr ""
+
+msgid "Select a folder"
+msgstr ""
+
+msgid "Follow symlinks"
+msgstr ""
+
+#, fuzzy
+msgid "Search hidden"
+msgstr "Provider di Ricerca"
+
+msgid "Use regular expressions"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+#, fuzzy
+msgid "Search Stopped"
+msgstr "Provider di Ricerca"
+
+msgid "Searching: "
+msgstr ""
+
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+msgid "Search Completed"
+msgstr ""
+
+msgid "Skipping"
+msgstr ""
+
+msgid " - directory already searched"
+msgstr ""
+
+msgid "Cinnamenu"
+msgstr "Cinnamenu"
+
+msgid ""
+"A flexible menu with grid or list layout options, file browser and emoji "
+"search."
+msgstr ""
+
+msgid "Behavior"
+msgstr "Comportamento"
+
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgid "Layout and Content"
+msgstr "Layout e Contenuto"
+
+msgid "Search Providers"
+msgstr "Provider di Ricerca"
+
+msgid "No search provider extensions found"
+msgstr "Nessuna estensione del provider di ricerca trovata"
+
+msgid "Panel"
+msgstr "Pannello"
+
+msgid "Menu"
+msgstr "Menù"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Content"
+msgstr "Contenuto"
+
+msgid "Recent files settings"
+msgstr "Impostazioni dei file recenti"
+
+msgid "Open the menu editor"
+msgstr "Apri l'editor del menù"
+
+msgid "Use a custom icon"
+msgstr "Usa un'icona personalizzata"
+
+msgid "Use a custom icon in the panel"
+msgstr "Usa un'icona personalizzata"
+
+msgid "Panel icon"
+msgstr "Icona del pannello"
+
+msgid "Panel text"
+msgstr "Testo del pannello"
+
+msgid "Text to show beside the panel icon"
+msgstr "Testo da mostrare accanto all'icona del pannello"
+
+msgid "pixels"
+msgstr "pixels"
+
+msgid "Category icon size"
+msgstr "Dimensione dell'icona della categoria"
+
+msgid "Applications list icon size"
+msgstr "Dimensione icona elenco applicazioni"
+
+msgid "Applications grid icon size"
+msgstr "Dimensione dell'icona della griglia delle applicazioni"
+
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Scorciatoia da tastiera per aprire e chiudere il menù"
+
+msgid "Open menu on hover"
+msgstr "Apri il menu al passaggio del mouse"
+
+#, fuzzy
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr "Apri il menù al passaggio del mouse"
+
+msgid "milliseconds"
+msgstr "millisecondi"
+
+msgid "Menu hover delay"
+msgstr "Ritardo passaggio sul menù"
+
+msgid "Use menu animations"
+msgstr "Usa animazioni del menù"
+
+#, fuzzy
+msgid "Animate the menu on open and close"
+msgstr "Consenti al menù di animarsi all'apertura e alla chiusura"
+
+msgid "Activate categories on click"
+msgstr "Attiva le categorie al clic"
+
+#, fuzzy
+msgid "Activate categories on click instead of on hover"
+msgstr "Attiva le categorie al clic"
+
+msgid "Enable autoscrolling"
+msgstr ""
+
+msgid "Enable autoscrolling in application list"
+msgstr "Abilita scorrimento automatico nell'elenco delle applicazioni"
+
+msgid "Show web bookmarks"
+msgstr "Mostra segnalibri Web"
+
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+msgid "Enable searching of open windows"
+msgstr "Abilita la ricerca di finestre aperte"
+
+msgid "Enable search providers"
+msgstr "Abilita i provider di ricerca"
+
+#, fuzzy
+msgid "Include search provider results in searches"
+msgstr ""
+"Scegliere se indicizzare o meno i risultati del provider di ricerca nelle "
+"ricerche di menù."
+
+msgid "Example Search Providers"
+msgstr "Provider di Ricerca di Esempio"
+
+#, fuzzy
+msgid "Open menu on category:"
+msgstr "Apri il menu al passaggio del mouse"
+
+msgid "List"
+msgstr "Elenco"
+
+msgid "Grid"
+msgstr "Griglia"
+
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+msgid "columns"
+msgstr "colonne"
+
+msgid "Number of columns in apps grid"
+msgstr "Numero di colonne nella griglia delle app"
+
+msgid "Show bookmarks and places"
+msgstr "Mostra segnalibri e luoghi"
+
+#, fuzzy
+msgid "Show bookmarks and places category in the menu"
+msgstr "Mostra segnalibri e luoghi"
+
+msgid "Show application icons"
+msgstr "Mostra le icone delle applicazioni"
+
+msgid "Show category icons"
+msgstr "Mostra le icone di categoria"
+
+msgid "Show application descriptions under titles"
+msgstr "Mostra le descrizioni delle applicazioni sotto i titoli"
+
+msgid "Show tooltips"
+msgstr "Mostra suggerimenti"
+
+msgid "Tooltip delay"
+msgstr "Ritardo dei suggerimenti"
+
+msgid "Use a custom menu height"
+msgstr "Usa un'altezza del menù personalizzata"
+
+msgid "Custom menu height"
+msgstr "Altezza menù personalizzata"
+
+msgid "Applications view mode"
+msgstr "Modalità di visualizzazione applicazioni"
+
+msgid "View applications as list or grid"
+msgstr "Visualizza le applicazioni come elenco o griglia"
+
+msgid "Application description placement"
+msgstr "Posizionamento della descrizione dell'applicazione"
+
+msgid "Tooltips"
+msgstr "Tooltips"
+
+msgid "Under titles"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Choose where to show application descriptions"
+msgstr "Scegli dove mostrare le descrizioni delle applicazioni"
+
+msgid "Sidebar location"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+#, fuzzy
+msgid "Choose where to show the sidebar"
+msgstr "Scegli dove mostrare le descrizioni delle applicazioni"
+
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+msgid "Show favorites on sidebar"
+msgstr ""
+
+msgid "Show your favorite app and file icons on the sidebar"
+msgstr ""
+
+#, fuzzy
+msgid "Show recent items"
+msgstr "Recenti"
+
+#, fuzzy
+msgid "Show recent items category in the menu"
+msgstr "Mostra segnalibri e luoghi"
+
+msgid "Show favorite apps category"
+msgstr ""
+
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "Mostra segnalibri e luoghi"
+
+msgid "Show home folder"
+msgstr ""
+
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "Mostra segnalibri e luoghi"
+
+msgid "Last used category"
+msgstr ""
+
+#, fuzzy
+msgid "Autoscroll the application list on mouse hover"
+msgstr "Abilita scorrimento automatico nell'elenco delle applicazioni"
+
+msgid "Show hidden files"
+msgstr ""
+
+msgid "Show hidden files in folder view"
+msgstr ""
+
+msgid "Emoji search"
+msgstr ""
+
+msgid "Show emojis in search results"
+msgstr ""
+
+msgid "Web search option"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Bing"
+msgstr ""
+
+msgid "Baidu"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Yandex"
+msgstr ""
+
+msgid "DuckDuckGo"
+msgstr ""
+
+msgid "Ask"
+msgstr ""
+
+msgid "Ecosia"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Show an internet search option in search results"
+msgstr ""
+
+#, fuzzy
+msgid "Search home folder"
+msgstr "Provider di Ricerca"
+
+msgid "When searching, also search my home folder for files"
+msgstr ""
+
+#, fuzzy
+msgid "Web bookmarks search"
+msgstr "Mostra segnalibri Web"
+
+msgid ""
+"When searching, also search my browser's web bookmarks (Google Chrome, "
+"Firefox, Chromium, Opera, Brave)\n"
+"Note: To search Firefox bookmarks you will need to install package gir1.2-"
+"gda-5.0 (Debian based distributions inc. Ubuntu & Linux Mint) or package "
+"libgda (Arch based distributions) and restart your computer."
+msgstr ""
+
+msgid "Wikipedia search"
+msgstr ""
+
+msgid "Show some Wikipedia results"
+msgstr ""
+
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "Usa un'icona personalizzata"
+
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "Usa un'icona personalizzata"
+
+#, fuzzy
+msgid "Panel icon size"
+msgstr "Icona del pannello"
+
+#, fuzzy
+msgid "Choose a custom size for the panel icon"
+msgstr "Usa un'icona personalizzata"
+
+#, fuzzy
+msgid "Sidebar icon size"
+msgstr "Dimensione dell'icona della categoria"
+
+msgid "Use sidebar box style"
+msgstr ""
+
+msgid "Use a sidebar box style"
+msgstr ""
+
+msgid "Use tile style"
+msgstr ""
+
+msgid ""
+"Use a tile style for the application buttons (Note: may not work on some "
+"themes)"
+msgstr ""
+
+#~ msgid ""
+#~ "A flexible menu providing formatting options, web bookmarks, search "
+#~ "provider support and fuzzy searching."
+#~ msgstr ""
+#~ "Un menu flessibile che offre opzioni di formattazione, segnalibri Web, "
+#~ "supporto del provider di ricerca e ricerca confusa."
+
+#~ msgid "Startup applications view mode"
+#~ msgstr "Modalità di visualizzazione delle applicazioni di avvio"
+
+#~ msgid "px"
+#~ msgstr "px"

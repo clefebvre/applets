@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-22 04:18+0200\n"
+"PO-Revision-Date: 2017-09-24 19:50+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:109
+msgid "Places and bookmarks"
+msgstr "Steder og bogmærker"
+
+#: applet.js:116
+msgid "Refresh bookmarks..."
+msgstr "Genindlæs bogmærker …"
+
+#: applet.js:119
+msgid "Change default programs..."
+msgstr "Ændr standardprogrammer …"
+
+#: applet.js:163
+msgid "Computer"
+msgstr "Computer"
+
+#: applet.js:171
+msgid "File System"
+msgstr "Filsystem"
+
+#. places-with-terminal@mtwebster->settings-schema.json->show-
+#. terminal->description
+msgid "Add terminal button to menu items"
+msgstr "Tilføj terminal-knap til menupunkter"
+
+#. places-with-terminal@mtwebster->settings-schema.json->icon->description
+msgid "icon"
+msgstr "ikon"
+
+#. places-with-terminal@mtwebster->metadata.json->description
+msgid "Access your places and bookmarks, or launch a terminal at that location"
+msgstr ""
+"Tilgå dine steder og bogmærker eller start en terminal på den placering"
+
+#. places-with-terminal@mtwebster->metadata.json->name
+msgid "Places with Terminal Launcher"
+msgstr "Steder med genvej til terminal"

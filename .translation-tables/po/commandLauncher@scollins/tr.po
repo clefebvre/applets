@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 14:01+0100\n"
+"PO-Revision-Date: 2018-12-07 00:48+0300\n"
+"Last-Translator: Gökhan GÖKKAYA <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye <gokhanlnx@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. commandLauncher@scollins->metadata.json->name
+#: applet.js:106 applet.js:159
+msgid "Command Launcher"
+msgstr "Komut Başlatıcı"
+
+#: applet.js:106
+msgid "Process started"
+msgstr "İşlem başladı"
+
+#. commandLauncher@scollins->settings-schema.json->command->description
+#: applet.js:106 applet.js:159
+msgid "Command"
+msgstr "Komut"
+
+#: applet.js:107 applet.js:160
+msgid "Process Id"
+msgstr "İşlem Kimliği (Id)"
+
+#: applet.js:110
+#, c-format
+msgid "Error while trying to run \"%s\""
+msgstr "\"%s\" çalıştırma denenirken hata oluştu"
+
+#: applet.js:159
+msgid "Process ended"
+msgstr "İşlem bitti"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->description
+msgid "Panel Icon"
+msgstr "Panel Simgesi"
+
+#. commandLauncher@scollins->settings-schema.json->panelIcon->tooltip
+msgid ""
+"Supports both icon name and icon path.\n"
+"To use a symbolic icon, include '-symbolic' (or '-symbolic.svg') at the end."
+msgstr ""
+"Simge adı ve simge yolunu destekler.\n"
+"Sembolik bir simge kullanmak için, sonuna '-symbolic' (veya '-symbolic.svg') "
+"ekleyin."
+
+#. commandLauncher@scollins->settings-schema.json->useRoot->description
+msgid "Run as root"
+msgstr "Yönetici olarak çalıştır"
+
+#. commandLauncher@scollins->settings-schema.json->apearance->description
+msgid "Appearance and behavior"
+msgstr "Görünüm ve davranış"
+
+#. commandLauncher@scollins->settings-schema.json->commandTitle->description
+msgid "Command settings"
+msgstr "Komut ayarları"
+
+#. commandLauncher@scollins->settings-schema.json->useAltEnv->description
+msgid "Run in alternate directory"
+msgstr "Alternatif dizinde çalıştır"
+
+#. commandLauncher@scollins->settings-
+#. schema.json->showNotifications->description
+msgid "Show notifications on completion"
+msgstr "Tamamlandığında bildirimleri göster"
+
+#. commandLauncher@scollins->settings-schema.json->keyLaunch->description
+msgid "Keyboard shortcut"
+msgstr "Klavye kısayolu"
+
+#. commandLauncher@scollins->settings-schema.json->altEnv->description
+msgid "Environment path"
+msgstr "Ortam yolu"
+
+#. commandLauncher@scollins->settings-schema.json->tooltipText->description
+msgid "Tooltip"
+msgstr "İpucu"
+
+#. commandLauncher@scollins->metadata.json->description
+msgid "Lets you to run command-line commands with the click of a button"
+msgstr "Bir düğme tıklaması ile komut satırı komutlarını çalıştırmanızı sağlar"
+
+#. commandLauncher@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Geliştirici"
+
+#. commandLauncher@scollins->metadata.json->comments
+msgid ""
+"This is a simple multi-instance applet for Cinnamon which allows the user to "
+"launch commands as though from a command prompt with the click of a button. "
+"Unlike a program launcher, which typically uses a .desktop to launch a "
+"program, Command Launcher uses a direct command-line command. This means you "
+"can use any command you could use from a terminal (eg run a script, launch "
+"program with complicated command-line arguments, etc)."
+msgstr ""
+"Bu, kullanıcının ayarladığı bir komutu bir tuşa basarak başlatmasına olanak "
+"tanıyan; Cinnamon için basit, çok örneklemeli bir uygulamacıktır. Bir "
+"programı başlatmak için genellikle bir .desktop kullanan bir program "
+"başlatıcısından farklı olarak, Komut Başlatıcı doğrudan komut satırı "
+"komutunu kullanır. Bu, bir uçbirimden kullanabileceğiniz herhangi bir komutu "
+"bu uygulama ile çalıştırabileceğiniz anlamına gelir (örneğin bir betik "
+"çalıştırabilir, bir uygulamayı karmaşık komut satırı argümanlarıyla "
+"başlatabilirsiniz, vb)."

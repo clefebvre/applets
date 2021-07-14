@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-21 19:10+0100\n"
+"PO-Revision-Date: 2017-10-29 22:10+0200\n"
+"Last-Translator: Peyu Yovev <spacy00001@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: feedreader.js:151
+msgid "Invalid feed url"
+msgstr "Невалиден url на източник"
+
+#: feedreader.js:227
+msgid " unread items!"
+msgstr " непрочетени новини!"
+
+#: feedreader.js:362 feedreader.js:375
+msgid "Loading feed"
+msgstr "Зареждане на емисия"
+
+#: applet.js:106
+msgid "Feed reader"
+msgstr "Четец на новини"
+
+#: applet.js:141
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr ""
+
+#: applet.js:221
+msgid "Mark all read"
+msgstr "Маркирай всичко като прочетено"
+
+#: applet.js:232
+msgid "Reload"
+msgstr "Презареди"
+
+#: applet.js:241
+msgid "Manage feeds"
+msgstr "Управление на източници"
+
+#: applet.js:252
+msgid "Settings"
+msgstr "Настройки"
+
+#: applet.js:337
+msgid "No unread feeds"
+msgstr "Няма непрочетени новини"
+
+#: applet.js:566
+msgid "Feeds"
+msgstr "Източници"
+
+#: applet.js:718
+msgid "Right Click to open feed: \n"
+msgstr "Десен клик за отваряне на емисия:\n"
+
+#: applet.js:775
+msgid "Mark All Posts Read"
+msgstr "Маркирай всички постове като прочетени"
+
+#: applet.js:782
+msgid "Mark Next "
+msgstr "Маркирай следващите "
+
+#: applet.js:782
+msgid " Posts Read"
+msgstr " поста като прочетени"
+
+#: applet.js:788
+msgid "Update feed URL"
+msgstr "Актуализирай от URL"
+
+#: applet.js:847 applet.js:863
+msgid "Published: "
+msgstr "Публикувани:"
+
+#: applet.js:926
+msgid "Mark Post Read"
+msgstr "Отбележи всички постове като прочетени"
+
+#: applet.js:958
+msgid "d) "
+msgstr "д) "
+
+#: applet.js:960
+msgid "h) "
+msgstr "ч) "
+
+#: applet.js:962
+msgid "(<1h) "
+msgstr "(<1ч) "
+
+#: manage_feeds.py:53
+msgid "Manage your feeds"
+msgstr "Управлявай източниците си"
+
+#: manage_feeds.py:88
+msgid "Instance Name:"
+msgstr "Име на инстанцията"
+
+#: manage_feeds.py:92
+msgid "Add/remove feed list"
+msgstr "Списък за добавяне/премахване на източници"
+
+#: manage_feeds.py:113
+msgid "Enable"
+msgstr "Включено"
+
+#: manage_feeds.py:120
+msgid "Url"
+msgstr "Url"
+
+#: manage_feeds.py:127
+msgid "Custom title"
+msgstr "Потребителско заглавие"
+
+#: manage_feeds.py:133
+msgid "Notify"
+msgstr "Известие"
+
+#: manage_feeds.py:139
+msgid "Show Read"
+msgstr "Покажи прочетените"
+
+#: manage_feeds.py:146
+msgid "Interval"
+msgstr "Интервал"
+
+#: manage_feeds.py:154
+msgid "Show Image"
+msgstr "Покажи изображение"
+
+#: manage_feeds.py:200
+msgid "Import"
+msgstr "Импортирай"
+
+#: manage_feeds.py:204
+msgid "_Import OPML"
+msgstr "_Импортирай OPML"
+
+#: manage_feeds.py:205
+msgid "Import feeds from OPML file"
+msgstr "Импортирай източници от OPML файл"
+
+#: manage_feeds.py:211
+msgid "_Import Feeds File"
+msgstr "_Импортирай източници от файл"
+
+#: manage_feeds.py:212
+msgid "Import feeds from file"
+msgstr "Импортира източници от файл"
+
+#: manage_feeds.py:218
+msgid "Export"
+msgstr "Експортирай"
+
+#: manage_feeds.py:222
+msgid "_Export Feeds File"
+msgstr "_Експортирай файл с източници"
+
+#: manage_feeds.py:223
+msgid "Export feeds to file"
+msgstr "Експортира източниците във файл"
+
+#: manage_feeds.py:229
+msgid "Options"
+msgstr "Опции"
+
+#: manage_feeds.py:233
+msgid "_Toggle Hidden Fields"
+msgstr "_Включване на скрити полета"
+
+#: manage_feeds.py:234
+msgid "Show or Hide hidden fields"
+msgstr "Показва или скрива скритите полета"
+
+#: manage_feeds.py:251
+msgid "Changes will be discarded, continue?"
+msgstr "Промените ще бъдат забравени, продължаваме ли?"
+
+#: manage_feeds.py:252
+msgid "Are you sure?"
+msgstr "Сигурни ли сте?"
+
+#: manage_feeds.py:260
+msgid "New Instance (List) Name"
+msgstr "Име на нова инстанция (списък)"
+
+#: manage_feeds.py:262
+msgid "Add New Instance (List)"
+msgstr "Добави нова инстанция (списък)"
+
+#: manage_feeds.py:335
+msgid "Failed to save config file"
+msgstr "Провал при запазването на конфигурационен файл"
+
+#: manage_feeds.py:345
+msgid "Choose a OPML feed file"
+msgstr "Изберете OPML файл с източници"
+
+#: manage_feeds.py:346
+msgid "OPML files"
+msgstr "OPML файлове"
+
+#: manage_feeds.py:349
+msgid "Choose a feed file"
+msgstr "Изберете файл с източници"
+
+#: manage_feeds.py:350 manage_feeds.py:411
+msgid "Text files"
+msgstr "Текстови файлове"
+
+#: manage_feeds.py:367 manage_feeds.py:416
+msgid "All files"
+msgstr "Всички файлове"
+
+#: manage_feeds.py:384
+msgid "file imported"
+msgstr "файла е импортиран"
+
+#: manage_feeds.py:385
+#, python-format
+msgid "Imported %d feeds"
+msgstr "Импортирани са %d източника"
+
+#: manage_feeds.py:393
+msgid "Failed to import file"
+msgstr "Провал при импортирането на файл"
+
+#: manage_feeds.py:400
+msgid "Save a feed file"
+msgstr "Запази източниците във файл"
+
+#: manage_feeds.py:429
+#, python-format
+msgid "Unable to export file, exception: %s"
+msgstr "Не може да се експортира файл, причина: %s"
+
+#: manage_feeds.py:433
+msgid "Unable to export file"
+msgstr "Не може да се експортира файл"
+
+#. metadata.json->description
+msgid "Displays RSS news feeds"
+msgstr "Показва RSS новини"
+
+#. metadata.json->name
+msgid "Feeds Reader"
+msgstr "Четец на новини"
+
+#. settings-schema.json->heading1->description
+msgid "Feed URLs"
+msgstr "Адреси на източници"
+
+#. settings-schema.json->manage_feeds_button->description
+msgid "Manage Feeds..."
+msgstr "Управление на източници..."
+
+#. settings-schema.json->manage_feeds_button->tooltip
+msgid "Launch the feed management app to add/remove/edit feeds"
+msgstr ""
+"Стартирана на приложението за добавяне/премахване/редактиране на източници"
+
+#. settings-schema.json->max_items->units
+msgid "feeds"
+msgstr "емисии"
+
+#. settings-schema.json->max_items->description
+msgid "Maximum number of items"
+msgstr "Максимален брой новини"
+
+#. settings-schema.json->max_items->tooltip
+msgid "Maximum number of items to display for this feed"
+msgstr "Максимален брой на показвани емисии от източник"
+
+#. settings-schema.json->refresh_interval->units
+msgid "minutes"
+msgstr "минути"
+
+#. settings-schema.json->refresh_interval->description
+msgid "Update interval"
+msgstr "Интервал на обновяване"
+
+#. settings-schema.json->refresh_interval->tooltip
+msgid "Interval between checking for new items"
+msgstr "Интервал между проверките за нови емисии"
+
+#. settings-schema.json->notifications_enabled->description
+msgid "Show notifications for new items"
+msgstr "Показвай известия при нови емисии"
+
+#. settings-schema.json->notifications_enabled->tooltip
+msgid "If checked a popup notification will be displayed for new items"
+msgstr "Ако е маркирано, при нова емисия ще се показва известие"
+
+#. settings-schema.json->enable-verbose-logging->description
+msgid "Check this to enable debug logging in Looking Glass"
+msgstr "Маркирайте, за да включите дебъгването на Looking Glass"
+
+#. settings-schema.json->enable-verbose-logging->tooltip
+msgid "Checking this will enable debug level logging"
+msgstr "Отбелязването на това че включи отчета за дебъгване"
+
+#. settings-schema.json->instance_name->description
+msgid "Feed Instance Name"
+msgstr "Име на инстанцията за емисси"
+
+#. settings-schema.json->instance_name->tooltip
+msgid "Do not change, this is modified by the Manage Feeds window."
+msgstr "Не променяй, този прозорец се модифицира от мениджъра на емисии"

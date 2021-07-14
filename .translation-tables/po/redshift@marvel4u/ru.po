@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-12 12:05+0200\n"
+"PO-Revision-Date: 2017-09-24 20:28+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. redshift@marvel4u->settings-schema.json->brightness->description
+#: applet.js:59 applet.js:224
+msgid "Brightness"
+msgstr "Яркость"
+
+#. redshift@marvel4u->metadata.json->name
+#: applet.js:78
+msgid "Redshift"
+msgstr "Redshift"
+
+#: applet.js:97
+msgid "Transition on night"
+msgstr "Переход в ночное время"
+
+#: applet.js:203
+msgid "Redshift day colour"
+msgstr "Redshift цвет днем"
+
+#: applet.js:208
+msgid "Redshift day brightness"
+msgstr "Redshift яркость днем"
+
+#: applet.js:213
+msgid "Redshift night colour"
+msgstr "Redshift цвет ночью"
+
+#: applet.js:218
+msgid "Redshift night brightness"
+msgstr "Redshift яркость ночью"
+
+#: applet.js:330
+msgid "On"
+msgstr ""
+
+#: applet.js:330
+msgid "Off"
+msgstr ""
+
+#: applet.js:334
+#, fuzzy
+msgid "Day colour temperature"
+msgstr "Redshift цветовая температура днем"
+
+#: applet.js:335
+#, fuzzy
+msgid "Night colour temperature"
+msgstr "Redshift цветовая температура ночью"
+
+#: applet.js:336
+#, fuzzy
+msgid "Day Redshift brightness"
+msgstr "Redshift яркость днем"
+
+#: applet.js:337
+#, fuzzy
+msgid "Night Redshift brightness"
+msgstr "Redshift яркость днем"
+
+#. redshift@marvel4u->settings-schema.json->brightness-section->title
+msgid "Brightness level"
+msgstr "Уровень яркости"
+
+#. redshift@marvel4u->settings-schema.json->redshift-transition-section->title
+msgid "Transition between day and night configuration"
+msgstr "Переход между дневной и ночной конфигурацией"
+
+#. redshift@marvel4u->settings-schema.json->redshift-section->title
+msgid "Redshift configuration"
+msgstr "Конфигурация Redshift"
+
+#. redshift@marvel4u->settings-schema.json->panel->title
+msgid "Redshift settings"
+msgstr "Настройки Redshift"
+
+#. redshift@marvel4u->settings-schema.json->brightness->units
+#. redshift@marvel4u->settings-schema.json->redshiftDayBrightness->units
+#. redshift@marvel4u->settings-schema.json->redshiftNightBrightness->units
+msgid "%"
+msgstr "%"
+
+#. redshift@marvel4u->settings-schema.json->redshiftDayBrightness->description
+msgid "Redshift Day Brightness"
+msgstr "Redshift яркость днем"
+
+#. redshift@marvel4u->settings-schema.json->longitude->description
+msgid "Longitude"
+msgstr "Долгота"
+
+#. redshift@marvel4u->settings-schema.json->longitude->tooltip
+#. redshift@marvel4u->settings-schema.json->latitude->tooltip
+msgid "If not entered Redshift would use GeoClue2 provider"
+msgstr "Если не введен, Redshift будет использовать поставщика GeoClue2"
+
+#. redshift@marvel4u->settings-schema.json->changeOnNight->description
+msgid "Change temperature colour and Redshift brightness between day and night"
+msgstr "Изменение цветовой температуры и яркости Redshift между днем и ночью"
+
+#. redshift@marvel4u->settings-schema.json->dayColour->description
+msgid "Redshift Day colour temperature"
+msgstr "Redshift цветовая температура днем"
+
+#. redshift@marvel4u->settings-schema.json->dayColour->units
+#. redshift@marvel4u->settings-schema.json->nightColour->units
+msgid "K"
+msgstr "K"
+
+#. redshift@marvel4u->settings-schema.json->nightColour->description
+msgid "Redshift Night colour temperature"
+msgstr "Redshift цветовая температура ночью"
+
+#. redshift@marvel4u->settings-schema.json->latitude->description
+msgid "Latitude"
+msgstr "Широта"
+
+#. redshift@marvel4u->settings-
+#. schema.json->redshiftNightBrightness->description
+msgid "Redshift Night Brightness"
+msgstr "Redshift яркость ночью"
+
+#. redshift@marvel4u->settings-schema.json->enabledOnStartup->description
+msgid "Redshift Enabled"
+msgstr "Redshift включен"
+
+#. redshift@marvel4u->metadata.json->description
+msgid ""
+"An app to change the red filter level for late night screen time. Requires "
+"redshift: sudo apt-get install redshift"
+msgstr ""
+"Приложение, чтобы изменить красный уровень фильтра для экрана в ночное "
+"время. Требуется redshift: sudo apt-get install redshift"

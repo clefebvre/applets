@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 12:38+0800\n"
+"PO-Revision-Date: 2020-01-22 14:30+0100\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:52
+msgid "Apache Web Server"
+msgstr "Serveur web Apache"
+
+#: applet.js:53
+msgid "MySQL Server"
+msgstr "Serveur MySQL"
+
+#: applet.js:61
+msgid "Open Web Dir"
+msgstr "Ouvrir /var/www"
+
+#: applet.js:66
+msgid "Launch Web Dir"
+msgstr "Afficher la page localhost"
+
+#: applet.js:70
+msgid "Launch phpMyAdmin"
+msgstr "Lancer phpMyAdmin"
+
+#: applet.js:75
+msgid "Edit default php.ini"
+msgstr "Éditer le fichier php.ini par défaut"
+
+#: applet.js:79
+msgid "Edit Apache Conf"
+msgstr "Éditer la config d'Apache"
+
+#. web-developer-menu@infiniteshroom->metadata.json->description
+msgid "A Menu for PHP/MySQL Web Developers"
+msgstr "Un menu pour les développeurs web PHP/MySQL"
+
+#. web-developer-menu@infiniteshroom->metadata.json->name
+msgid "Web Developer Menu"
+msgstr "Menu Développeur Web"

@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 20:27+0100\n"
+"PO-Revision-Date: 2021-03-30 08:02+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:79
+msgid "Error: Still waiting for command to finish!"
+msgstr "Hiba: Még mindig vár a parancs befejezésére!"
+
+#. metadata.json->name
+msgid "Bash Sensors"
+msgstr "Bash érzékelők"
+
+#. metadata.json->description
+msgid ""
+"Write your Bash commands to specify applet output (temperature sensors and "
+"not only!)"
+msgstr ""
+"Írja meg a Bash parancsokat a kisalkalmazás kimenetének meghatározásához "
+"(hőmérséklet-érzékelők és továbbiak!)"
+
+#. settings-schema.json->head->description
+msgid "Settings - Bash Sensors (write commands in Bash!)"
+msgstr "Beállítások - Bash Sensors (parancsokat írja a Bash-be!)"
+
+#. settings-schema.json->title1->description
+msgid "Title"
+msgstr "Cím"
+
+#. settings-schema.json->title1->tooltip
+msgid "Title used when displaying notifications"
+msgstr "Az értesítések megjelenítésekor használt cím"
+
+#. settings-schema.json->refreshInterval->units
+msgid "seconds"
+msgstr "másodperc"
+
+#. settings-schema.json->refreshInterval->description
+msgid "Refresh interval [0 for no refresh]"
+msgstr "Frissítési intervallum [0 = nem frissül]"
+
+#. settings-schema.json->shell->description
+msgid "Shell"
+msgstr "Héj"
+
+#. settings-schema.json->shell->tooltip
+msgid "Shell to be used ('-c' will be used to call commands)"
+msgstr "Használandó héj (a '-c' parancsok hívására szolgál)"
+
+#. settings-schema.json->head1->description
+msgid "Commands"
+msgstr "Parancsok"
+
+#. settings-schema.json->script1->description
+msgid "Command 1"
+msgstr "Parancs 1"
+
+#. settings-schema.json->script1->tooltip
+msgid "first line of output (use \\f for more lines)"
+msgstr "a kimenet első sora (további sorokhoz használja a \\ f parancsot)"
+
+#. settings-schema.json->enableScript2->description
+msgid "Two-line mode (command 2 enabled)"
+msgstr "Kétsoros mód (parancs 2 engedélyezve)"
+
+#. settings-schema.json->script2->description
+msgid "Command 2"
+msgstr "Parancs 2"
+
+#. settings-schema.json->script2->tooltip
+msgid "second line of output (optional)"
+msgstr "a kimenet második sora (opcionális)"
+
+#. settings-schema.json->head2->description
+msgid "Icon"
+msgstr "Ikon"
+
+#. settings-schema.json->dynamicIcon->description
+msgid "Dynamic icon (use output of icon command as icon)"
+msgstr "Dinamikus ikon (az ikon parancs kimenetét használja ikonként)"
+
+#. settings-schema.json->iconScript->description
+msgid "Static icon or command returning the full path to an icon"
+msgstr ""
+"Statikus ikon vagy parancs, amely visszaadja az ikon teljes elérési útját"
+
+#. settings-schema.json->iconScript->tooltip
+msgid "command should return an icon (leave empty for no icon)"
+msgstr ""
+"a parancsnak vissza kell adnia egy ikont (hagyja üresen, ha nincs ikon)"
+
+#. settings-schema.json->head3->description
+msgid "Tooltip"
+msgstr "Eszköztipp"
+
+#. settings-schema.json->dynamicTooltip->description
+msgid "Dynamic tooltip (use output of tooltip command as tooltip)"
+msgstr ""
+"Dinamikus eszköztipp (az eszköztipp parancs kimenetét használja "
+"eszköztippként)"
+
+#. settings-schema.json->tooltipScript->description
+msgid "Tooltip command or static tooltip text"
+msgstr "Eszköztipp parancs vagy statikus eszköztipp szöveg"
+
+#. settings-schema.json->tooltipScript->tooltip
+msgid "tooltip (static or dynamic)"
+msgstr "eszköztipp (statikus vagy dinamikus)"
+
+#. settings-schema.json->head4->description
+msgid "Command on applet click"
+msgstr "Parancs a kisalkalmazás kattintásával"
+
+#. settings-schema.json->menuScript->description
+msgid "Menu command (on applet left-click)"
+msgstr "Menüparancs (a kisalkalmazás bal oldali kattintásával)"
+
+#. settings-schema.json->menuScript->tooltip
+msgid "allows to display lots of information in popup menu"
+msgstr "lehetővé teszi sok információ megjelenítését a felugró menüben"
+
+#. settings-schema.json->menuScriptDisplay->description
+msgid "Display output of menu command"
+msgstr "A menüparancs kimenetének megjelenítése"
+
+#. settings-schema.json->head5->description
+msgid "Command on start-up"
+msgstr "Parancs az indításkor"
+
+#. settings-schema.json->startupScript->description
+msgid "Command run at start-up"
+msgstr "Parancsfuttatás indításkor"

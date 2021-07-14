@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-15 14:50+0100\n"
+"PO-Revision-Date: 2019-10-24 19:40+0200\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: applet.js:80
+msgid "Click here to pick a color"
+msgstr "Cliquer ici pour cueillir une couleur"
+
+#: applet.js:136
+#, javascript-format
+msgid "Please install the '%s' package."
+msgstr "Veuillez installer le paquet '%s'."
+
+#: applet.js:158
+#, javascript-format
+msgid "Color code '%s' copied to clipboard."
+msgstr "Code couleur '%s' copié dans le presse-papier."
+
+#. color-picker@fmete->settings-schema.json->pick-notification->description
+msgid "Show picked color code in a popup notification"
+msgstr "Afficher dans une notification le code de la couleur cueillie"
+
+#. color-picker@fmete->settings-schema.json->pick-notification->tooltip
+msgid ""
+"Show the picked color code, which has been copied to the clipboard, in a "
+"popup notification."
+msgstr ""
+"Affiche dans une notification le code de la couleur qui a été cueillie et "
+"placée dans le presse-papier."
+
+#. color-picker@fmete->settings-schema.json->head->description
+msgid "Color Pick Settings"
+msgstr "Paramètres de la cueillette de couleur"
+
+#. color-picker@fmete->settings-schema.json->head1->description
+msgid "Applet Settings"
+msgstr "Paramètres de l'applet"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->description
+msgid "Color code format"
+msgstr "Format du code couleur"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->tooltip
+msgid ""
+"Select the format of the color code, which will be copied to the clipboard "
+"by the color picker."
+msgstr ""
+"Sélectionnez le format du code de couleur, tel qu'il sera copié dans le "
+"presse-papiers par le cueilleur de couleur."
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #XXXXXX"
+msgstr "Hexadécimal majuscule : #XXXXXX"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: 250,250,250"
+msgstr "RGB non parenthésé : (250,250,250)"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "HEX-Color: #xxxxxx"
+msgstr "Hexadécimal minuscule : #xxxxxx"
+
+#. color-picker@fmete->settings-schema.json->combo-selection->options
+msgid "RGB-Color: (250,250,250)"
+msgstr "RGB parenthésé : (250,250,250)"
+
+#. color-picker@fmete->settings-schema.json->icon-name->description
+msgid "The icon to use in the panel"
+msgstr "L'icône affichée dans le panneau"
+
+#. color-picker@fmete->settings-schema.json->icon-name->tooltip
+msgid "Select an icon file, or you can type an icon name into the entry box"
+msgstr ""
+"Choisir une icône (par un fichier, ou par son nom si c'est une icône du "
+"système)"
+
+#. color-picker@fmete->settings-schema.json->keybinding-test->description
+msgid "Keybinding, which activates the color picker"
+msgstr "Raccourci-clavier, qui active le cueilleur de couleur"
+
+#. color-picker@fmete->metadata.json->description
+msgid ""
+"Use the color picker to select a color on the screen. The color value (HEX "
+"or RGB) will be copied to the clipboard."
+msgstr ""
+"Utilisez le cueilleur de couleur pour capturer une couleur présente sur "
+"l'écran. La valeur de la couleur (au format hexadécimal ou RGB, au choix) "
+"sera copiée dans le presse-papier ; vous pourrez ainsi la coller où vous "
+"voudrez."
+
+#. color-picker@fmete->metadata.json->name
+msgid "Color Picker"
+msgstr "Cueilleur de couleur (Color Picker)"

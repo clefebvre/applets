@@ -1,0 +1,487 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-04 21:15+0300\n"
+"PO-Revision-Date: 2021-04-03 09:31+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. metadata.json->name
+msgid "Fiat and cryptocurrency quote rates"
+msgstr "Fiat- és kriptovaluta jegyzési árfolyamok"
+
+#. metadata.json->description
+msgid ""
+"Displays the current price and trends of cryptocurrencies (TOP 150 coins "
+"with CoinMarketCap) and popular fiat currencies (Dollar, Euro, Ruble etc.). "
+"Monitoring daily percentage changes."
+msgstr ""
+"Megjeleníti a kriptovaluták (TOP 150 érmét a CoinMarketCap segítségével) és "
+"a népszerű fiat pénznemek (dollár, euró, rubel stb.) aktuális árát és "
+"trendjeit. A napi százalékos változások figyelése."
+
+#. settings-schema.json->layout->general->title
+msgid "General"
+msgstr "Általános"
+
+#. settings-schema.json->country->description
+msgid "Choosing a server for fiat currency"
+msgstr "Szerver kiválasztása a fiat pénznemhez"
+
+#. settings-schema.json->country->tooltip
+msgid "Affects the load data fiat currency quotes"
+msgstr "Befolyásolja a terhelési adatokat a fiat pénznem jegyzésekben"
+
+#. settings-schema.json->country->options
+msgid "European Union"
+msgstr "Európai Unió"
+
+#. settings-schema.json->country->options
+msgid "Russian Federation"
+msgstr "Oroszország"
+
+#. settings-schema.json->select-coin->description
+msgid "Display cryptocurrency quotes instead of fiat currency"
+msgstr "A kriptovaluta jegyzések megjelenítése a fiat pénznem helyett"
+
+#. settings-schema.json->layout->cfgCoin->title
+msgid "Cryptocurrency options"
+msgstr "Kriptovaluta beállítások"
+
+#. settings-schema.json->apiKey->description
+msgid "Your CoinMarketCap API Key"
+msgstr "Az ön CoinMarketCap API kulcsa"
+
+#. settings-schema.json->apiKey->tooltip
+msgid ""
+"If you don`t have one you can get it for free at https://pro.coinmarketcap."
+"com"
+msgstr "Ha nincs, akkor ingyen beszerezheti itt: https://pro.coinmarketcap.com"
+
+#. settings-schema.json->website->description
+msgid "Go to CoinMarketCap website"
+msgstr "Látogasson el a CoinMarketCap weboldalra"
+
+#. settings-schema.json->website->tooltip
+msgid "Click this button to visit the website"
+msgstr "Kattintson erre a gombra a weboldal meglátogatásához"
+
+#. settings-schema.json->coin->description
+msgid "Select base currency (coin)"
+msgstr "Válassza ki az alap pénznemet (érme)"
+
+#. settings-schema.json->coin->tooltip
+msgid "For which coin to display a quote?"
+msgstr "Melyik érme jegyzését jelenítse meg?"
+
+#. settings-schema.json->ApiInterval->description
+msgid "Select update interval (using API credits)"
+msgstr "Frissítési gyakoriság kiválasztása (API-kreditek használatával)"
+
+#. settings-schema.json->ApiInterval->tooltip
+msgid ""
+"Determines how often to receive new data. Each update is one credit. For a "
+"free basic plan, an interval of 30+ minutes is recommended"
+msgstr ""
+"Meghatározza, hogy milyen gyakran fogadjanak új adatokat. Minden frissítés "
+"egy kredit. Ingyenes alaptervhez 30+ perces időköz ajánlott"
+
+#. settings-schema.json->ApiInterval->options
+msgid "5 minutes"
+msgstr "5 perc"
+
+#. settings-schema.json->ApiInterval->options
+msgid "15 minutes"
+msgstr "15 perc"
+
+#. settings-schema.json->ApiInterval->options
+msgid "30 minutes"
+msgstr "30 perc"
+
+#. settings-schema.json->ApiInterval->options
+msgid "45 minutes"
+msgstr "45 perc"
+
+#. settings-schema.json->ApiInterval->options
+msgid "1 hour"
+msgstr "1 óra"
+
+#. settings-schema.json->ApiInterval->options
+msgid "2 hours"
+msgstr "2 óra"
+
+#. settings-schema.json->ApiInterval->options
+msgid "4 hours"
+msgstr "4 óra"
+
+#. settings-schema.json->layout->cfgDisplay->title
+msgid "Display options"
+msgstr "Megjelenítési beállítások"
+
+#. settings-schema.json->currency->description
+msgid "Select quote currency"
+msgstr "Válassza ki a jegyzett valutát"
+
+#. settings-schema.json->currency->tooltip
+msgid "In which currency to show quote information"
+msgstr "Megjelenítendő valuta jegyzési információ"
+
+#. settings-schema.json->currency->options
+msgid "Australian dollar (AUD)"
+msgstr "Ausztrál dollár (AUD)"
+
+#. settings-schema.json->currency->options
+msgid "Brazilian real (BRL)"
+msgstr "Brazil real (BRL)"
+
+#. settings-schema.json->currency->options
+msgid "Bulgarian lev (BGN)"
+msgstr "Bulgár lev (BGN)"
+
+#. settings-schema.json->currency->options
+msgid "Canadian dollar (CAD)"
+msgstr "Kanadai dollár (CAD)"
+
+#. settings-schema.json->currency->options
+msgid "Chinese yuan renminbi (CNY)"
+msgstr "Kínai jüan renminbi (CNY)"
+
+#. settings-schema.json->currency->options
+msgid "Czech koruna (CZK)"
+msgstr "Cseh korona (CZK)"
+
+#. settings-schema.json->currency->options
+msgid "Danish krone (DKK)"
+msgstr "Dán korona (DKK)"
+
+#. settings-schema.json->currency->options
+msgid "Euro (EUR)"
+msgstr "Euró (EUR)"
+
+#. settings-schema.json->currency->options
+msgid "Hong Kong dollar (HKD)"
+msgstr "Hongkongi dollár (HKD)"
+
+#. settings-schema.json->currency->options
+msgid "Hungarian forint (HUF)"
+msgstr "Magyar forint (HUF)"
+
+#. settings-schema.json->currency->options
+msgid "Indian rupee (INR)"
+msgstr "Indiai rúpia (INR)"
+
+#. settings-schema.json->currency->options
+msgid "Japanese yen (JPY)"
+msgstr "Japán jen (JPY)"
+
+#. settings-schema.json->currency->options
+msgid "Norwegian krone (NOK)"
+msgstr "Norvég korona (NOK)"
+
+#. settings-schema.json->currency->options
+msgid "Polish zloty (PLN)"
+msgstr "Lengyel zloty (PLN)"
+
+#. settings-schema.json->currency->options
+msgid "Pound sterling (GBP)"
+msgstr "Font sterling (GBP)"
+
+#. settings-schema.json->currency->options
+msgid "Romanian leu (RON)"
+msgstr "Román lei (RON)"
+
+#. settings-schema.json->currency->options
+msgid "Russian rouble (RUB)"
+msgstr "Orosz rubel (RUB)"
+
+#. settings-schema.json->currency->options
+msgid "Singapore dollar (SGD)"
+msgstr "Szingapúri dollár (SGD)"
+
+#. settings-schema.json->currency->options
+msgid "South African rand (ZAR)"
+msgstr "Dél-Afrikai rand (ZAR)"
+
+#. settings-schema.json->currency->options
+msgid "South Korean won (KRW)"
+msgstr "Dél-Koreai won (KRW)"
+
+#. settings-schema.json->currency->options
+msgid "Swedish krona (SEK)"
+msgstr "Svéd korona (SEK)"
+
+#. settings-schema.json->currency->options
+msgid "Swiss franc (CHF)"
+msgstr "Svájci frank (CHF)"
+
+#. settings-schema.json->currency->options
+msgid "Turkish lira (TRY)"
+msgstr "Török líra (TRY)"
+
+#. settings-schema.json->currency->options
+msgid "US dollar (USD)"
+msgstr "USA dollár (USD)"
+
+#. settings-schema.json->display->description
+msgid "Display type quotes"
+msgstr "Jegyzések megjelenítésének típusa"
+
+#. settings-schema.json->display->options
+msgid "Money (e.g. 8,261.20 $)"
+msgstr "Pénz (pl. 8,261.20 $)"
+
+#. settings-schema.json->display->options
+msgid "Delta (e.g. -0.426 $)"
+msgstr "Változás (pl. -0.426 $)"
+
+#. settings-schema.json->display->options
+msgid "Percent (e.g. 0.26%)"
+msgstr "Százalék (pl. 0.26%)"
+
+#. settings-schema.json->show-icon->description
+msgid "Show icon"
+msgstr "Ikon megjelenítése"
+
+#. settings-schema.json->show-name->description
+msgid "Show currency name"
+msgstr "Valuta nevének megjelenítése"
+
+#. settings-schema.json->layout->graph->title
+msgid "Graph"
+msgstr "Grafikon"
+
+#. settings-schema.json->graph-On->description
+msgid "Show currency history on graph"
+msgstr "Valuta előzményeinek megjelenítése grafikonon"
+
+#. settings-schema.json->layout->graphOption->title
+msgid "Graph options"
+msgstr "Grafikon beállítások"
+
+#. settings-schema.json->graphDuration->description
+msgid "Duration history (in days)"
+msgstr "Időtartam előzményei (napokban)"
+
+#. settings-schema.json->graphColor->description
+msgid "Color"
+msgstr "Szín"
+
+#. settings-schema.json->layout->alert->title
+msgid "Alerts"
+msgstr "Riasztás"
+
+#. settings-schema.json->alert-On->description
+msgid "Enable alerts"
+msgstr "Riasztás bekapcsolása"
+
+#. settings-schema.json->layout->alertOption->title
+msgid "Alerts options"
+msgstr "Riasztás beállításai"
+
+#. settings-schema.json->alertAbove->description
+msgid "Maximum value"
+msgstr "Maximális érték"
+
+#. settings-schema.json->alertAbove->tooltip
+msgid "Alert is triggered when the current value is higher than this value"
+msgstr "A riasztás akkor aktiválódik, ha az aktuális érték ennél magasabb"
+
+#. settings-schema.json->alertBelow->description
+msgid "Minimum value"
+msgstr "Minimum érték"
+
+#. settings-schema.json->alertBelow->tooltip
+msgid "Alert is triggered when the current value is lower than this value"
+msgstr "A riasztás akkor aktiválódik, ha az aktuális érték ennél alacsonyabb"
+
+#. settings-schema.json->alertType->description
+msgid "Unit"
+msgstr "Egység"
+
+#. settings-schema.json->alertType->options
+msgid "Percentages"
+msgstr "Százalék"
+
+#. settings-schema.json->alertType->options
+msgid "Money"
+msgstr "Pénz"
+
+#. modules/stringsForTranslation.js:17
+msgid "Australian dollar"
+msgstr "Ausztrál dollár"
+
+#. modules/stringsForTranslation.js:18
+msgid "Brazilian real"
+msgstr "Brazil real"
+
+#. modules/stringsForTranslation.js:19
+msgid "Bulgarian lev"
+msgstr "Bulgár lev"
+
+#. modules/stringsForTranslation.js:20
+msgid "Canadian dollar"
+msgstr "Kanadai dollár"
+
+#. modules/stringsForTranslation.js:21
+msgid "Chinese yuan renminbi"
+msgstr "Kínai jüan renminbi"
+
+#. modules/stringsForTranslation.js:22
+msgid "Czech koruna"
+msgstr "Cseh korona"
+
+#. modules/stringsForTranslation.js:23
+msgid "Danish krone"
+msgstr "Dán korona"
+
+#. modules/stringsForTranslation.js:24
+msgid "Euro"
+msgstr "Euró"
+
+#. modules/stringsForTranslation.js:25
+msgid "Hong Kong dollar"
+msgstr "Hongkongi dollár"
+
+#. modules/stringsForTranslation.js:26
+msgid "Hungarian forint"
+msgstr "Magyar forint"
+
+#. modules/stringsForTranslation.js:27
+msgid "Indian rupee"
+msgstr "Indiai rúpia"
+
+#. modules/stringsForTranslation.js:28
+msgid "Japanese yen"
+msgstr "Japán jen"
+
+#. modules/stringsForTranslation.js:29
+msgid "Norwegian krone"
+msgstr "Norvég korona"
+
+#. modules/stringsForTranslation.js:30
+msgid "Polish zloty"
+msgstr "Lengyel zloty"
+
+#. modules/stringsForTranslation.js:31
+msgid "Pound sterling"
+msgstr "Font sterling"
+
+#. modules/stringsForTranslation.js:32
+msgid "Romanian leu"
+msgstr "Román lei"
+
+#. modules/stringsForTranslation.js:33
+msgid "Russian rouble"
+msgstr "Orosz rubel"
+
+#. modules/stringsForTranslation.js:34
+msgid "Singapore dollar"
+msgstr "Szingapúri dollár"
+
+#. modules/stringsForTranslation.js:35
+msgid "South African rand"
+msgstr "Dél-Afrikai rand"
+
+#. modules/stringsForTranslation.js:36
+msgid "South Korean won"
+msgstr "Dél-Koreai won"
+
+#. modules/stringsForTranslation.js:37
+msgid "Swedish krona"
+msgstr "Svéd korona"
+
+#. modules/stringsForTranslation.js:38
+msgid "Swiss franc"
+msgstr "Svájci frank"
+
+#. modules/stringsForTranslation.js:39
+msgid "Turkish lira"
+msgstr "Török líra"
+
+#. modules/stringsForTranslation.js:40
+msgid "US dollar"
+msgstr "USA dollár"
+
+#. modules/stringsForTranslation.js:43
+msgid "Set API key..."
+msgstr "API kulcs megadása..."
+
+#. modules/stringsForTranslation.js:44
+msgid "Error"
+msgstr "Hiba"
+
+#. modules/stringsForTranslation.js:45
+msgid "Reconnect"
+msgstr "Újrakapcsolódás"
+
+#. modules/stringsForTranslation.js:46
+msgid "Update: "
+msgstr "Frissítés: "
+
+#. modules/stringsForTranslation.js:47
+msgid "Rank: #"
+msgstr "Helyezés: #"
+
+#. modules/stringsForTranslation.js:48
+msgid "1H:"
+msgstr "1ó:"
+
+#. modules/stringsForTranslation.js:49
+msgid "24H:"
+msgstr "24ó:"
+
+#. modules/stringsForTranslation.js:50
+msgid "7D:"
+msgstr "7n:"
+
+#. modules/stringsForTranslation.js:51
+msgid "Max.: "
+msgstr "Max.: "
+
+#. modules/stringsForTranslation.js:52
+msgid "Min.: "
+msgstr "Min.: "
+
+#. modules/stringsForTranslation.js:53
+msgid "For the Russian server, try again in 15 seconds."
+msgstr "Az orosz szerver esetében próbálkozzon újra 15 másodperc múlva."
+
+#. modules/stringsForTranslation.js:54
+msgid "History for "
+msgstr "Előzmények ehhez "
+
+#. modules/stringsForTranslation.js:55
+msgid " day"
+msgstr " nap"
+
+#. modules/stringsForTranslation.js:56
+msgid " days"
+msgstr " nap"
+
+# TRANSLATORS: for some countries the third declension of the word
+#. modules/stringsForTranslation.js:57
+msgid " _days"
+msgstr " _nap"
+
+#. modules/stringsForTranslation.js:58
+msgid "Average:"
+msgstr "Átlag:"
+
+#. modules/stringsForTranslation.js:59
+msgid "Click to open graph"
+msgstr "Kattintson a grafikon megnyitásához"
+
+#. modules/stringsForTranslation.js:60
+msgid "Update quote"
+msgstr "Jegyzés frissítése"

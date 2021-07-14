@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gogo <trebelnik2@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scripts@paucapo.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-20 15:11+0200\n"
+"PO-Revision-Date: 2017-02-18 20:54+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: hr@li.org\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: applet.js:24
+msgid ""
+"No terminals are found. Switch the setting <Find automatically a terminal> "
+"off to fix this."
+msgstr ""
+
+#: applet.js:64
+msgid "Desktop env default terminal: "
+msgstr ""
+
+#: applet.js:65 applet.js:90 applet.js:115
+msgid "Command to execute a script: "
+msgstr ""
+
+#: applet.js:89
+msgid "Sym-link of x-terminal-emulator: "
+msgstr ""
+
+#: applet.js:172
+#, javascript-format
+msgid "The script: <%s> doesn't exist"
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:211
+msgid "Execute silently"
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:216
+msgid "Execute in terminal"
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+#: applet.js:221
+msgid "Edit the script"
+msgstr ""
+
+#: applet.js:227
+msgid "Open the document"
+msgstr ""
+
+#: applet.js:425
+msgid ""
+"The applet Script Menu cant run due to missing dependencies. The missing "
+"dependencies are:"
+msgstr ""
+
+#: applet.js:433
+msgid ""
+"Terminal emulator. Switch the setting <Find automatically a terminal> off to "
+"fix this."
+msgstr ""
+
+#: applet.js:482
+msgid "Applet 'Script Menu'"
+msgstr ""
+
+#. settings-schema.json->head_scriptExecution->description
+msgid "Script execution"
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->description
+msgid "Script execution method on left click"
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->tooltip
+msgid "How the scripts are processed when you left click on them."
+msgstr ""
+
+#. settings-schema.json->leftClickBehavior->options
+#. settings-schema.json->rightClickBehavior->options
+msgid "Ask what to do"
+msgstr ""
+
+#. settings-schema.json->rightClickBehavior->description
+msgid "Script execution method on right click"
+msgstr ""
+
+#. settings-schema.json->rightClickBehavior->tooltip
+msgid "How the scripts are processed when you right click on them."
+msgstr ""
+
+#. settings-schema.json->findTerminalAutomatically->description
+msgid "Find automatically a terminal? (To execute the scripts in a terminal)"
+msgstr ""
+
+#. settings-schema.json->foundTerminalDescription->description
+msgid "The found terminal is:"
+msgstr ""
+
+#. settings-schema.json->overrideCommandToExecuteInTerminal->description
+msgid "Prepended command to execute the scripts in the terminal"
+msgstr ""
+
+#. settings-schema.json->overrideCommandToExecuteInTerminal->tooltip
+msgid ""
+"To execute the scripts 'in terminal', the scripts are executed with this "
+"command prepended.\n"
+"Some potential valid commands are:\n"
+"    gnome-terminal --\n"
+"    nxterm -e\n"
+"    rxvt -e\n"
+"    xterm -e"
+msgstr ""
+
+#. settings-schema.json->useDefaultTextEditorWithScripts->description
+msgid "Use the default editor to edit scripts?"
+msgstr ""
+
+#. settings-schema.json->overrideCommandToEditScripts->description
+msgid "Prepended command to edit the scripts"
+msgstr ""
+
+#. settings-schema.json->overrideCommandToEditScripts->tooltip
+msgid ""
+"To edit the scripts, the scripts are executed with this command prepended."
+msgstr ""

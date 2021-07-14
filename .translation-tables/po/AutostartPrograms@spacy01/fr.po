@@ -1,0 +1,30 @@
+# French translation.
+# Copyright (C) 2019 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Med Amine <amine.griche77@protonmail.ch>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 16:02+0200\n"
+"PO-Revision-Date: 2019-04-30 11:17+0100\n"
+"Last-Translator: Med amine <amine.griche77@protonmail.ch>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. AutostartPrograms@spacy01->metadata.json->description
+#: applet.js:25
+msgid "Click here to add or remove programs to start with the session."
+msgstr ""
+"Cliquez ici pour ajouter ou supprimer des programmes pour démarrer avec la "
+"session."
+
+#. AutostartPrograms@spacy01->metadata.json->name
+msgid "Autostart programs"
+msgstr "Programmes de démarrage automatique"

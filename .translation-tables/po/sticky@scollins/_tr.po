@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-07 18:47+0200\n"
+"PO-Revision-Date: 2018-04-05 20:30+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: Linux Mint Türkiye\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 3.2/applet.js:87
+msgid "Cancel"
+msgstr ""
+
+#: 3.2/applet.js:92
+msgid "Ok"
+msgstr ""
+
+#: 3.2/applet.js:533
+msgid "Enter a name for the template."
+msgstr ""
+
+#: 3.2/applet.js:816
+msgid "Unselect all items"
+msgstr ""
+
+#: 3.2/applet.js:1743
+msgid "New from template"
+msgstr ""
+
+#. 3.2->settings-schema.json->theme->options
+#. sticky@scollins->settings-schema.json->theme->options
+msgid "Yellow"
+msgstr ""

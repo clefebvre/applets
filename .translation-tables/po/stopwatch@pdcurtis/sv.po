@@ -1,0 +1,165 @@
+# Swedish translation for stopwatch@pdcurtis.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Åke Engelbrektson <eson@svenskasprakfiler.se>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stopwatch@pdcurtis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 16:14+0100\n"
+"PO-Revision-Date: 2017-05-11 06:36+0200\n"
+"Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
+"Language-Team: Svenska Språkfiler <contactform@svenskasprakfiler.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:133
+msgid "Start"
+msgstr "Starta"
+
+#: applet.js:141
+msgid "Pause"
+msgstr "Pausa"
+
+#: applet.js:149
+msgid "Reset counter"
+msgstr "Återställ räknaren"
+
+#: applet.js:156
+msgid "If paused, continue counting from now"
+msgstr "Om pausad, fortsätt räkna från nu"
+
+#: applet.js:167
+msgid "If paused, continue counting from original start time"
+msgstr "Om pausad, fortsätt räkna från ursprunglig starttid"
+
+#: applet.js:179
+msgid "Housekeeping and System Sub Menu"
+msgstr "Underhåll och systemfunktioner"
+
+#: applet.js:182
+msgid "View the Changelog"
+msgstr "Visa ändringsloggen"
+
+#: applet.js:188
+msgid "Open the Help file"
+msgstr "Öppna hjälpfilen"
+
+#: applet.js:195
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Öppna stylesheet.css  (avancerad funktion)"
+
+#: applet.js:201
+msgid "Open the gnome system monitor (Advanced testing function)"
+msgstr "Öppna Systemövervakaren (systemmätverktyg)"
+
+#: applet.js:210
+msgid "Configure..."
+msgstr "Konfigurera..."
+
+#: applet.js:255
+msgid "days"
+msgstr "dagar"
+
+#: applet.js:258
+msgid "hours"
+msgstr "timmar"
+
+#: applet.js:313
+msgid "Running for"
+msgstr "Räknar"
+
+#: applet.js:313
+msgid "Click to Pause"
+msgstr "Klicka för att pausa"
+
+#: applet.js:323 applet.js:325
+msgid "Paused at"
+msgstr "Pausad på"
+
+#: applet.js:323
+msgid "Click to Continue Counting"
+msgstr "Klicka för att återuppta tidräkning"
+
+#: applet.js:325
+msgid "Click to Reset"
+msgstr "Klicka för att återställa"
+
+#: applet.js:335
+msgid "Ready - Click to Start"
+msgstr "Klar - Klicka för att starta"
+
+#. stopwatch@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the Stopwatch Applet"
+msgstr "Allmänna inställningar för stoppursprogrammet"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterStatus->description
+msgid "Should not be changed"
+msgstr "Bör inte ändras"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->description
+msgid "Check box to continue counting on clicking applet when paused"
+msgstr "Aktivera återupptagen tidräkning vid klick på panelikonen, om pausad"
+
+#. stopwatch@pdcurtis->settings-schema.json->modeContinueCounting->tooltip
+msgid ""
+"Normal sequence on clicking is 'start -> pause -> reset' this changes to "
+"'start -> pause -> continue -> pause -> continue etc'. In this mode one has "
+"to use the Right Click (Context) Menu to reset the counter"
+msgstr ""
+"Normal sekvens för klick på räknaren är: Starta -> Pausa -> Återställ. Vid "
+"aktivering ändras detta till: Starta -> Pausa -> Återuppta -> Pausa -> "
+"Återuppta ...etc. I detta läge används högerklick (kontextmenyn) för att "
+"återställa räknaren."
+
+#. stopwatch@pdcurtis->settings-schema.json->pausedAt->description
+#. stopwatch@pdcurtis->settings-schema.json->startTime->description
+msgid "Must not be changed"
+msgstr "Får inte ändras"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->description
+msgid "Provide a meaningful title to the counter"
+msgstr "Ange ett meningsfullt namn på den här räknaren"
+
+#. stopwatch@pdcurtis->settings-schema.json->counterTitle->tooltip
+msgid ""
+"This forms the first part of the tooltip and is useful for identification if "
+"you have multiple instances of counters - default is Stopwatch"
+msgstr ""
+"Det här anger första delen i verktygsbeskrivningen (mus över) och är "
+"användbart för identifiering om du har flera räknarinstanser igång. "
+"Standardnamn är Stopwatch."
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Uppdateringsintervall för panelvisning:"
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have multiple active counters and/or a slow machine"
+msgstr ""
+"Öka eller minska tiden mellan uppdateringarna - Använd långsam uppdatering "
+"om du har flera räknare igång och/eller en långsam dator."
+
+#. stopwatch@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "sekunder"
+
+#. stopwatch@pdcurtis->metadata.json->description
+msgid ""
+"Allows one to time activities such as the time online with multiple "
+"instances possible"
+msgstr ""
+"Låter dig klocka aktiviteter såsom online-tid, med möjlighet till flera "
+"instanser"
+
+#. stopwatch@pdcurtis->metadata.json->name
+msgid "Stopwatch for Cinnamon 1.8+"
+msgstr "Stoppur för Cinnamon 1.8+"

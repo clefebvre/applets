@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-22 12:21-0300\n"
+"PO-Revision-Date: 2021-04-01 22:31+0200\n"
+"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: applet.js:199
+msgid "Computer"
+msgstr "Számítógép"
+
+#: applet.js:211
+msgid "File System"
+msgstr "Fájlrendszer"
+
+#. places-bookmarks@dmo60.de->metadata.json->name
+msgid "Places"
+msgstr "Helyek"
+
+#. places-bookmarks@dmo60.de->metadata.json->description
+msgid "Access your places and bookmarks"
+msgstr "Könyvjelzői és helyek elérése"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_icon_size->description
+msgid "Menu items icon size"
+msgstr "Menüpontok ikonmérete"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_icon_size->units
+msgid "pixels"
+msgstr "képpont"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->head->description
+msgid "Settings for places-bookmarks@dmo60.de"
+msgstr "A places-bookmarks@dmo60.de beállításai"
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_icon->description
+msgid "Applet icon"
+msgstr "Kisalkalmazás ikon"
+
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_icon->tooltip
+#. places-bookmarks@dmo60.de->settings-schema.json->pref_applet_label->tooltip
+msgid "Leave blank to remove."
+msgstr "Hagyja üresen az eltávolításhoz."
+
+#. places-bookmarks@dmo60.de->settings-
+#. schema.json->pref_applet_label->description
+msgid "Applet label"
+msgstr "Kisalkalmazás címke"

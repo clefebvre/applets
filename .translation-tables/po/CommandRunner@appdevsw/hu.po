@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 21:57+0800\n"
+"PO-Revision-Date: 2021-02-14 19:29+0100\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. CommandRunner@appdevsw->metadata.json->name
+#: applet.js:47
+msgid "CommandRunner"
+msgstr "Parancsfuttató"
+
+#: applet.js:102
+msgid "<no text>"
+msgstr "<nincs szöveg>"
+
+#: applet.js:136
+msgid "starting..."
+msgstr "Indítás…"
+
+#: appletgui.js:142
+msgid "Compare error "
+msgstr "Összehasonlítás hiba "
+
+#: appletgui.js:255 appletgui.js:283
+msgid "XML/JSON error: missing tag "
+msgstr "XML/JSON hiba: hiányzó címke "
+
+#: appletgui.js:291
+msgid "xml error:"
+msgstr "XML hiba:"
+
+#: appletgui.js:316 appletgui.js:325
+msgid "property not found "
+msgstr "Tulajdonság nem található "
+
+#: cmdrunner.js:51
+msgid "undefined command!"
+msgstr "Nincs parancs megadva,"
+
+#: cmdrunner.js:143
+msgid "cannot execute command!"
+msgstr "A parancs nem hajtható végre."
+
+#: simplexml.js:259
+msgid "xml parse error at pos "
+msgstr "XML feldolgozási hiba itt: "
+
+#: simplexml.js:259
+msgid ", level "
+msgstr ", szint "
+
+#: simplexml.js:259
+msgid ", inside tag "
+msgstr ", belső címke "
+
+#. CommandRunner@appdevsw->metadata.json->description
+msgid ""
+"Applet runs script or application periodically and displays its output on "
+"the taskbar"
+msgstr ""
+"Kisalkalmazás amely megadott időközönként parancsfájlt futtat  és "
+"megjeleníti a kimenetet a Panelen"
+
+#. CommandRunner@appdevsw->settings-
+#. schema.json->form_interval_unit->description
+msgid "Unit"
+msgstr "Egység"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->tooltip
+msgid "Unit of the interval: seconds or milliseconds"
+msgstr "Az időköz mértékegysége: másodperc vagy ezredmásodperc"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " milliseconds"
+msgstr " ezredmásodperc"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval_unit->options
+msgid " seconds"
+msgstr " másodperc"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->description
+msgid "Run interval"
+msgstr "Futtatási időköz"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_interval->tooltip
+msgid "Specifies how often the command is run"
+msgstr "Meghatározza, hogy milyen gyakorisággal fusson le a parancs"
+
+#. CommandRunner@appdevsw->settings-schema.json->head_title->description
+msgid "CommandRunner settings"
+msgstr "Parancsfuttató beállítások"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->description
+msgid "Suffix"
+msgstr "Utótag"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_suffix->tooltip
+msgid ""
+"Text or character displayed at the end of the command result (in text mode "
+"only)."
+msgstr ""
+"A parancs futtatása végén megjelenő szöveg vagy karakter (szöveges "
+"üzemmódban)."
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->description
+msgid "Command"
+msgstr "Parancs"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_command->tooltip
+msgid ""
+"Command or script or applitaction to run.\n"
+"e.g.\n"
+" /home/user/myscript.sh\n"
+" echo Hello\n"
+"\n"
+"The command should print the result to the standard output, which will be "
+"displayed on the taskbar.\n"
+"\n"
+"You can use predefined parameters:\n"
+" $counter$ - number of command executions\n"
+" $appletdir$ - applet directory\n"
+"\n"
+"  e.g. echo \"I was executed $counter$ times\""
+msgstr ""
+"A futtatni kíván parancs vagy parancsfájl.\n"
+"Például:\n"
+" /home/user/myscript.sh\n"
+" echo Hello\n"
+"\n"
+"A parancsnak a terminál szabványos kimenetére kell kiírnia a futás "
+"eredményét, amely megjelenik majd a Panelon.\n"
+"\n"
+"Ezeket az előre megadott változókat használhatja:\n"
+" $counter$ - a végrehajtások száma\n"
+" $appletdir$ - kisalkalmazás mappa\n"
+"\n"
+"Például: echo \"Végrehajtva $counter$ alkalommal.\""
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->description
+msgid "Prefix"
+msgstr "Előtag"
+
+#. CommandRunner@appdevsw->settings-schema.json->form_prefix->tooltip
+msgid ""
+"Text or character displayed at the beginning of the command result (in text "
+"mode only)."
+msgstr ""
+"A parancs futtatása előtt megjelenő szöveg vagy karakter (szöveges "
+"üzemmódban)."
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->description
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#. CommandRunner@appdevsw->settings-schema.json->apply->tooltip
+msgid "Apply changes"
+msgstr "Változtatások alkalmazása"

@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-16 18:44-0500\n"
+"PO-Revision-Date: 2017-08-05 19:23+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applet.js:98
+msgid "What are you doing?"
+msgstr "Hvad laver du?"
+
+#: applet.js:104
+msgid "Enter activity..."
+msgstr "Indtast aktivitet ..."
+
+#: applet.js:120
+msgid "Todays activities"
+msgstr "Dagens aktiviteter"
+
+#: applet.js:287
+msgid "Loading..."
+msgstr "Indlæser …"
+
+#: applet.js:311
+msgid "Show Overview"
+msgstr "Vis oversigt"
+
+#: applet.js:316
+msgid "Stop Tracking"
+msgstr "Stop sporing"
+
+#: applet.js:321
+msgid "Add Earlier Activity"
+msgstr "Tilføj tidligere aktivitet"
+
+#: applet.js:327
+msgid "Tracking Settings"
+msgstr "Indstillinger for sporing"
+
+#: applet.js:332
+msgid "Applet Settings"
+msgstr "Indstillinger for panelprogram"
+
+#: applet.js:514
+msgid "No Activity"
+msgstr "Ingen aktivitet"
+
+#: convenience.js:20
+#, c-format
+msgid "Schema \"%s\" not found."
+msgstr "Skemaet \"%s\" blev ikke fundet."
+
+#. hamster@projecthamster.wordpress.com->metadata.json->description
+msgid "Cinnamon applet for project hamster - the GNOME time tracker"
+msgstr "Panelprogram til projekt hamster - GNOME's tidsmåler"
+
+#. hamster@projecthamster.wordpress.com->metadata.json->name
+msgid "Project Hamster Applet"
+msgstr "Projekt Hamster"

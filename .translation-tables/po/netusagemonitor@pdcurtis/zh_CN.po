@@ -1,0 +1,795 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 12:29+0100\n"
+"PO-Revision-Date: 2021-02-16 12:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid "Some Dependencies not Installed"
+msgstr ""
+
+#: applet.js:62 4.0/applet.js:56 3.2/applet.js:62
+msgid ""
+"You appear to be missing some of the programs or libraries required for this "
+"applet to run.\n"
+"\n"
+"Please read the help file on how to install them."
+msgstr ""
+
+#: applet.js:83
+msgid "Ok"
+msgstr "确定"
+
+#: applet.js:346 4.0/applet.js:348 3.2/applet.js:346
+msgid "No Interface being Monitored - right click to select"
+msgstr "没有正在监视的接口 - 右键点击以选择"
+
+#: applet.js:476 4.0/applet.js:494 3.2/applet.js:492
+msgid ""
+"NOTE: The last time the network traffic statistics were updated by vnStat is "
+"at the top right"
+msgstr "注意：上次的网络流量统计已经由顶部右侧的vnStat更新"
+
+#: applet.js:481 4.0/applet.js:499 3.2/applet.js:497
+msgid ""
+"If no Interface is Active, the last available information has been displayed"
+msgstr "如果没有活动的接口，显示上次可用的信息"
+
+#: applet.js:488 4.0/applet.js:506 3.2/applet.js:504
+msgid ""
+"ERROR: Please make sure vnstat and vnstati are installed and that the vnstat "
+"daemon is running!"
+msgstr "错误：请确保已安装vnstat和vnstati，并且vnstat守护程序正在运行！"
+
+#: applet.js:501 4.0/applet.js:519 3.2/applet.js:517
+msgid "Cumulative Data Usage Information:"
+msgstr "累计数据使用情况信息："
+
+#: applet.js:528 4.0/applet.js:546 3.2/applet.js:544
+msgid "Current Connection and Interface Information"
+msgstr "当前连接和接口信息"
+
+#: applet.js:540 4.0/applet.js:558 3.2/applet.js:556
+msgid "No network monitored. Please select one right-clicking the applet."
+msgstr "没有监视的网络。请右键点击小程序选择一个。"
+
+#: applet.js:547 4.0/applet.js:565 3.2/applet.js:563
+msgid "Note: Alerts not enabled in Settings"
+msgstr "注意：未在设置中启用警报"
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+msgid "Alert level (Orange):"
+msgstr "警报级别（橙色）："
+
+#: applet.js:564 4.0/applet.js:582 3.2/applet.js:580
+#, no-javascript-format
+msgid "% of Data Limit of"
+msgstr "% 的数据限制的"
+
+#: applet.js:569 applet.js:571 applet.js:577 applet.js:579 applet.js:585
+#: 4.0/applet.js:587 4.0/applet.js:589 4.0/applet.js:595 4.0/applet.js:597
+#: 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:587 3.2/applet.js:593
+#: 3.2/applet.js:595 3.2/applet.js:601
+msgid "Cumulative Data Use"
+msgstr "累计数据使用量"
+
+#: applet.js:569 applet.js:577 applet.js:585 4.0/applet.js:587
+#: 4.0/applet.js:595 4.0/applet.js:603 3.2/applet.js:585 3.2/applet.js:593
+#: 3.2/applet.js:601
+msgid "with offset of"
+msgstr "和偏移的"
+
+#: applet.js:608 4.0/applet.js:626 3.2/applet.js:624
+msgid "Select a network manager interface to be monitored:"
+msgstr "选择要监视的网络管理器接口："
+
+#: applet.js:621 4.0/applet.js:639 3.2/applet.js:637
+msgid "(Active)"
+msgstr "(活动)"
+
+#: applet.js:634 4.0/applet.js:652 3.2/applet.js:650
+msgid "or Select an independent interface to be monitored:"
+msgstr "或选择一个要监视的独立接口："
+
+#: applet.js:638 4.0/applet.js:656 3.2/applet.js:654
+msgid "for most USB Mobile Internet Modems)"
+msgstr "用于大多数USB移动互联网调制解调器)"
+
+#: applet.js:650 4.0/applet.js:668 3.2/applet.js:666
+msgid "for Android Bluetooth PAN Connections)"
+msgstr "用于安卓蓝牙PAN连接)"
+
+#: applet.js:660 4.0/applet.js:678 3.2/applet.js:676
+msgid "Check for Changes in Devices and Display Options"
+msgstr "检查设备和显示选项中的更改"
+
+#: applet.js:668 4.0/applet.js:686 3.2/applet.js:684
+msgid "Toggle Display from ↓ and ↑ to ⇵"
+msgstr "从↓和↑到⇵间切换显示"
+
+#: applet.js:682 applet.js:692 applet.js:702 4.0/applet.js:700
+#: 4.0/applet.js:710 4.0/applet.js:720 3.2/applet.js:698 3.2/applet.js:708
+#: 3.2/applet.js:718
+msgid "Reset Cumulative Data Usage"
+msgstr "重置累计数据使用量"
+
+#: applet.js:715 4.0/applet.js:733 3.2/applet.js:731
+msgid "Housekeeping and System Sub Menu"
+msgstr "内务处理和系统子菜单"
+
+#: applet.js:718 4.0/applet.js:736 3.2/applet.js:734
+msgid "Open System Monitor"
+msgstr "打开系统监视器"
+
+#: applet.js:724 4.0/applet.js:742 3.2/applet.js:740
+msgid "View the Changelog"
+msgstr "查看变更日志"
+
+#: applet.js:730 4.0/applet.js:748 3.2/applet.js:746
+msgid "View the Help File"
+msgstr "打开帮助文件"
+
+#: applet.js:739 4.0/applet.js:757 3.2/applet.js:755
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "打开stylesheet.css（高级功能）"
+
+#: applet.js:745 4.0/applet.js:763 3.2/applet.js:761
+msgid "Open alertScript  (Advanced Function)"
+msgstr "打开alertScript（高级功能）"
+
+#: applet.js:751 4.0/applet.js:769 3.2/applet.js:767
+msgid "Open suspendScript  (Advanced Function)"
+msgstr "打开suspendScript（高级功能）"
+
+#: applet.js:759 4.0/applet.js:777 3.2/applet.js:775
+msgid "Test alertScript  (Advanced Test Function)"
+msgstr "测试alertScript（高级测试功能）"
+
+#: applet.js:765 4.0/applet.js:783 3.2/applet.js:781
+msgid "Test suspendScript  (Advanced Test Function)"
+msgstr "测试suspendScript（高级测试功能）"
+
+#: applet.js:771 4.0/applet.js:789 3.2/applet.js:787
+msgid "Test Crisis Management Function (Advanced Test Function)"
+msgstr "测试危机管理功能（高级测试功能）"
+
+#: applet.js:841
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using right click -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet"
+msgstr ""
+"已经超出数据使用量限制\n"
+"\n"
+" 使用右键点击设置新的限制 -> 设置 \n"
+"\n"
+"或使用网络管理器小程序断开连接"
+
+#: applet.js:914 4.0/applet.js:930 3.2/applet.js:928
+msgid "Interface:"
+msgstr "接口："
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Downloaded:"
+msgstr "已下载："
+
+#: applet.js:914 applet.js:917 4.0/applet.js:930 4.0/applet.js:933
+#: 3.2/applet.js:928 3.2/applet.js:931
+msgid "Uploaded:"
+msgstr "已上传："
+
+#: 4.0/applet.js:256
+msgid "Network Usage Monitor with Alerts - Stylesheet persistence active"
+msgstr ""
+
+#: 4.0/applet.js:842 3.2/applet.js:840
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+"All Network connections managed by the Network Manager have been Disabled\n"
+"\n"
+"You will need to use the Network Manager Applet to Re-enable them\n"
+"when the data usage problem has been resolved\n"
+"\n"
+" Some connections using ppp0 may not have been disabled or may need to be "
+"restarted manually"
+msgstr ""
+
+#: 4.0/applet.js:859 3.2/applet.js:857
+#, fuzzy
+msgid ""
+"THE DATA USAGE LIMIT HAS BEEN EXCEEDED\n"
+"\n"
+" Either set a new limit using \n"
+"\n"
+"a right click on The Network Data Management Applet -> Settings \n"
+"\n"
+"or disconnect using the Network Manager Applet\n"
+"\n"
+msgstr ""
+"已经超出数据使用量限制\n"
+"\n"
+" 使用右键点击设置新的限制 -> 设置 \n"
+"\n"
+"或使用网络管理器小程序断开连接"
+
+#. metadata.json->name
+msgid "Network Data Usage Monitor"
+msgstr "网络数据使用量监视器"
+
+#. metadata.json->description
+msgid ""
+"A Comprehensive Data Usage Monitor with alerts and cumulative data functions"
+msgstr "一个具有警报和累计数据功能的综合数据使用情况监视器"
+
+#. settings-schema.json->head->description
+#. 4.0->settings-schema.json->section0->title
+#. 3.2->settings-schema.json->section0->title
+msgid "General Settings for the Network Usage Monitor Applet"
+msgstr "网络使用量监视器小程序的常规设置"
+
+#. settings-schema.json->refreshInterval-spinner->units
+#. 4.0->settings-schema.json->refreshInterval-spinner->units
+#. 3.2->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr "秒"
+
+#. settings-schema.json->refreshInterval-spinner->description
+#. 4.0->settings-schema.json->refreshInterval-spinner->description
+#. 3.2->settings-schema.json->refreshInterval-spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "刷新显示的间隔："
+
+#. settings-schema.json->refreshInterval-spinner->tooltip
+#. 4.0->settings-schema.json->refreshInterval-spinner->tooltip
+#. 3.2->settings-schema.json->refreshInterval-spinner->tooltip
+msgid "Increase or decrease this spinner value to change the Refresh Interval"
+msgstr "增大或减小这个微调值用以更改刷新间隔"
+
+#. settings-schema.json->decimalsToShow-spinner->units
+#. 4.0->settings-schema.json->decimalsToShow-spinner->units
+#. 3.2->settings-schema.json->decimalsToShow-spinner->units
+msgid "decimal places"
+msgstr "小数位"
+
+#. settings-schema.json->decimalsToShow-spinner->description
+#. 4.0->settings-schema.json->decimalsToShow-spinner->description
+#. 3.2->settings-schema.json->decimalsToShow-spinner->description
+msgid "Display Resolution:"
+msgstr "显示分辨率："
+
+#. settings-schema.json->decimalsToShow-spinner->tooltip
+#. 4.0->settings-schema.json->decimalsToShow-spinner->tooltip
+#. 3.2->settings-schema.json->decimalsToShow-spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to make the change the number of "
+"decimal places displayed"
+msgstr "增大或减小这个微调值以使显示的小数位数更改"
+
+#. settings-schema.json->monitored-interface->description
+#. 4.0->settings-schema.json->monitored-interface->description
+#. 3.2->settings-schema.json->monitored-interface->description
+msgid "Last Interface Monitored - no need to change as set by Applet:"
+msgstr "上次监视的接口 - 无需更改因为小程序已设置："
+
+#. settings-schema.json->monitored-interface->tooltip
+#. 4.0->settings-schema.json->monitored-interface->tooltip
+#. 3.2->settings-schema.json->monitored-interface->tooltip
+msgid ""
+"This is normally set by the Applet and should not be changed here except for "
+"experimental or diagnostic use"
+msgstr "这通常通过小程序来设置而不应该在这里更改。实验或诊断用途除外"
+
+#. settings-schema.json->useDefaultInterface->description
+#. 4.0->settings-schema.json->useDefaultInterface->description
+#. 3.2->settings-schema.json->useDefaultInterface->description
+msgid ""
+"Use the following Interface as default to monitor when no other Interface is "
+"Active at start up :"
+msgstr "在启动没有其他活动的接口时默认监视以下的接口："
+
+#. settings-schema.json->useDefaultInterface->tooltip
+#. 4.0->settings-schema.json->useDefaultInterface->tooltip
+#. 3.2->settings-schema.json->useDefaultInterface->tooltip
+msgid ""
+"Checking this box allows you to set up to use an interface for connections "
+"which is not always active at start up such as Wifi or Mobile Broadband - "
+"usually wlan0 or ppp0. If not checked the first active interface know to the "
+"Network Monitor will be used or PPP0 if that was the last connection."
+msgstr ""
+"选中此项允许您为启动时不总是活动的连接例如Wifi或移动互联网设置使用一个接口 - "
+"通常是wlan0或ppp0。如果没有选中，网络监视器将会使用已知第一个活动的接口，如果"
+"是上次的连接，则使用PPP0。"
+
+#. settings-schema.json->defaultInterface->description
+#. 4.0->settings-schema.json->defaultInterface->description
+#. 3.2->settings-schema.json->defaultInterface->description
+msgid "Default Interface (usually ppp0 or wlan0):"
+msgstr "默认接口（通常是ppp0或wlan0）："
+
+#. settings-schema.json->defaultInterface->tooltip
+#. 4.0->settings-schema.json->defaultInterface->tooltip
+#. 3.2->settings-schema.json->defaultInterface->tooltip
+msgid ""
+"The Default  interface to use for connections which are not always active at "
+"start up such as Mobile Broadband or Wifi - usually set to ppp0 or wlan0"
+msgstr ""
+"用于启动时不总是活动的连接例如移动宽带或Wifi的默认接口 - 通常设置为ppp0或"
+"wlan0"
+
+#. settings-schema.json->compactDisplay->description
+#. 4.0->settings-schema.json->compactDisplay->description
+#. 3.2->settings-schema.json->compactDisplay->description
+msgid "Use a Compact Display with total traffic only"
+msgstr "仅使用带有总流量的紧凑显示"
+
+#. settings-schema.json->compactDisplay->tooltip
+#. 4.0->settings-schema.json->compactDisplay->tooltip
+#. 3.2->settings-schema.json->compactDisplay->tooltip
+msgid "This just displays the total of upload and download rate in the applet"
+msgstr "这仅在小程序中显示下载和上传的总速率"
+
+#. settings-schema.json->appletWidthSetting->units
+#. 4.0->settings-schema.json->appletWidthSetting->units
+#. 3.2->settings-schema.json->appletWidthSetting->units
+msgid "pixels"
+msgstr "像素"
+
+#. settings-schema.json->appletWidthSetting->description
+#. 4.0->settings-schema.json->appletWidthSetting->description
+#. 3.2->settings-schema.json->appletWidthSetting->description
+msgid ""
+"Applet Width Adjustment (Only for fine tuning - normally leave alone at 180:"
+msgstr "小程序宽度调整（仅用于微调 - 通常只有180度："
+
+#. settings-schema.json->appletWidthSetting->tooltip
+#. 4.0->settings-schema.json->appletWidthSetting->tooltip
+#. 3.2->settings-schema.json->appletWidthSetting->tooltip
+msgid ""
+"Fine tuning of applet width for changes in theme and decimal places "
+"displayed - needs to be used in conjuction with changes in stylesheet.css. "
+"Value is halved when Compact Display selected"
+msgstr ""
+"小程序宽度的微调用于主题和小数位中显示的更改 - 需要与stylesheet.css的更改结合"
+"使用。选择紧凑显示时值减半"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Mbytes"
+msgstr "兆字节"
+
+#. settings-schema.json->dataUnit->options
+#. 4.0->settings-schema.json->dataUnit->options
+#. 3.2->settings-schema.json->dataUnit->options
+msgid "Gbytes"
+msgstr "吉字节"
+
+#. settings-schema.json->dataUnit->description
+#. 4.0->settings-schema.json->dataUnit->description
+#. 3.2->settings-schema.json->dataUnit->description
+msgid "Data Unit used to set Alert Levels and Cumulative Offsets"
+msgstr "用来设置警报级别和累计偏移量的数据单位"
+
+#. settings-schema.json->dataUnit->tooltip
+#. 4.0->settings-schema.json->dataUnit->tooltip
+#. 3.2->settings-schema.json->dataUnit->tooltip
+msgid ""
+"These are the units which will be used for setting the alert limit and "
+"cumulative offsets."
+msgstr "这些单位将会用于设置警报限制和累计偏移量。"
+
+#. settings-schema.json->head1->description
+#. 4.0->settings-schema.json->section1->title
+#. 3.2->settings-schema.json->section1->title
+msgid ""
+"Settings specific to Data Usage and Alert functions for Current Connection"
+msgstr "当前连接的数据使用情况和警报功能的特定设置"
+
+#. settings-schema.json->useTotalLimit->description
+#. 4.0->settings-schema.json->useTotalLimit->description
+#. 3.2->settings-schema.json->useTotalLimit->description
+msgid "Check this box to use the Alert function"
+msgstr "选中此项使用警报功能"
+
+#. settings-schema.json->useTotalLimit->tooltip
+#. 4.0->settings-schema.json->useTotalLimit->tooltip
+#. 3.2->settings-schema.json->useTotalLimit->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link"
+msgstr "这对于移动宽带或您可能要为使用Wifi连接数据付费的地方是有用的"
+
+#. settings-schema.json->totalLimit->units
+#. settings-schema.json->cumulativeOffset1->units
+#. settings-schema.json->cumulativeOffset2->units
+#. settings-schema.json->cumulativeOffset3->units
+#. 4.0->settings-schema.json->totalLimit->units
+#. 4.0->settings-schema.json->cumulativeOffset1->units
+#. 4.0->settings-schema.json->cumulativeOffset2->units
+#. 4.0->settings-schema.json->cumulativeOffset3->units
+#. 3.2->settings-schema.json->totalLimit->units
+#. 3.2->settings-schema.json->cumulativeOffset1->units
+#. 3.2->settings-schema.json->cumulativeOffset2->units
+#. 3.2->settings-schema.json->cumulativeOffset3->units
+msgid "Mbytes or Gbytes as set above"
+msgstr "兆字节或吉字节如上设定"
+
+#. settings-schema.json->totalLimit->description
+#. 4.0->settings-schema.json->totalLimit->description
+#. 3.2->settings-schema.json->totalLimit->description
+msgid "Data Limit before a Red Warning background is displayed in the Applet"
+msgstr "在小程序显示红色警告背景前的数据限制"
+
+#. settings-schema.json->totalLimit->tooltip
+#. 4.0->settings-schema.json->totalLimit->tooltip
+#. 3.2->settings-schema.json->totalLimit->tooltip
+msgid ""
+"This is the Total Data which can be uploaded and downloaded before the "
+"background of the applet goes red - by default it goes orange at 80% of this "
+"- reset by disconnection, reboot and/or suspend depending on system"
+msgstr ""
+"这是在小程序的背景变为红色之前可以上传和下载的总数据 - 默认情况下它会在80％变"
+"为橙色 - 系统根据断开连接、重新启动和/或挂起进行重置"
+
+#. settings-schema.json->alertPercentage->description
+#. 4.0->settings-schema.json->alertPercentage->description
+#. 3.2->settings-schema.json->alertPercentage->description
+msgid "Percentage of Data Limit at which Orange Warning Displayed"
+msgstr "橙色警告显示的数据限制百分比"
+
+#. settings-schema.json->alertPercentage->tooltip
+#. 4.0->settings-schema.json->alertPercentage->tooltip
+#. 3.2->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Data Limit at which Orange Warning Background is displayed - "
+"It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"显示橙色警告背景的数据限制百分比 - 可以左键点击小程序中的菜单进行调整和显示"
+
+#. settings-schema.json->head2->description
+#. 4.0->settings-schema.json->section2->title
+#. 3.2->settings-schema.json->section2->title
+msgid "Settings specific to Cumulative Data Usage functions"
+msgstr "累计数据使用量功能的特定设置"
+
+#. settings-schema.json->cumulativeInterface1->description
+#. 4.0->settings-schema.json->cumulativeInterface1->description
+#. 3.2->settings-schema.json->cumulativeInterface1->description
+msgid ""
+"Interface 1 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr "用于监视累计数据使用量的接口1 - null将禁止显示"
+
+#. settings-schema.json->cumulativeInterface1->tooltip
+#. settings-schema.json->cumulativeInterface2->tooltip
+#. settings-schema.json->cumulativeInterface3->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface1->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface2->tooltip
+#. 4.0->settings-schema.json->cumulativeInterface3->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface1->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface2->tooltip
+#. 3.2->settings-schema.json->cumulativeInterface3->tooltip
+msgid ""
+"This is normally set to ppp0 or wlan0 to allow monitoring data usage during "
+"a period by mobile internet or Wifi charged by the Mbyte"
+msgstr ""
+"这通常设置为ppp0或wlan0，以允许监视使用移动互联网或按Mbyte收费的Wifi期间的数"
+"据使用情况"
+
+#. settings-schema.json->cumulativeOffset1->description
+#. 4.0->settings-schema.json->cumulativeOffset1->description
+#. 3.2->settings-schema.json->cumulativeOffset1->description
+msgid "Offset applied to Cumulative Data Usage 1"
+msgstr "应用到累计数据使用量1的偏移量"
+
+#. settings-schema.json->cumulativeOffset1->tooltip
+#. settings-schema.json->cumulativeOffset2->tooltip
+#. settings-schema.json->cumulativeOffset3->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset1->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset2->tooltip
+#. 4.0->settings-schema.json->cumulativeOffset3->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset1->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset2->tooltip
+#. 3.2->settings-schema.json->cumulativeOffset3->tooltip
+msgid ""
+"This can be used to offset the data usage to take into account usage on "
+"other machines or correct for other causes"
+msgstr "这可以用于抵消数据使用情况，以便考虑其他机器上的使用情况或其他原因"
+
+#. settings-schema.json->cumulativeInterface2->description
+#. 4.0->settings-schema.json->cumulativeInterface2->description
+#. 3.2->settings-schema.json->cumulativeInterface2->description
+msgid ""
+"Interface 2 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr "用于监视累计数据使用量的接口2 - null将禁止显示"
+
+#. settings-schema.json->cumulativeOffset2->description
+#. 4.0->settings-schema.json->cumulativeOffset2->description
+#. 3.2->settings-schema.json->cumulativeOffset2->description
+msgid "Offset applied to Cumulative Data Usage 2"
+msgstr "应用到累计数据使用量2的偏移量"
+
+#. settings-schema.json->cumulativeInterface3->description
+#. 4.0->settings-schema.json->cumulativeInterface3->description
+#. 3.2->settings-schema.json->cumulativeInterface3->description
+msgid ""
+"Interface 3 for monitoring Cumulative Data Usage - null will inhibit display"
+msgstr "用于监视累计数据使用量的接口3 - null将禁止显示"
+
+#. settings-schema.json->cumulativeOffset3->description
+#. 4.0->settings-schema.json->cumulativeOffset3->description
+#. 3.2->settings-schema.json->cumulativeOffset3->description
+msgid "Offset applied to Cumulative Data Usage 3"
+msgstr "应用到累计数据使用量3的偏移量"
+
+#. settings-schema.json->head3->description
+#. 4.0->settings-schema.json->section3->title
+#. 3.2->settings-schema.json->section3->title
+msgid "Settings specific to Long Term Traffic Statistics"
+msgstr "长期流量统计的特定设置"
+
+#. settings-schema.json->useVnstat->description
+#. 4.0->settings-schema.json->useVnstat->description
+#. 3.2->settings-schema.json->useVnstat->description
+msgid ""
+"Display long term traffic statistics (vnstat and vnstati Must be installed). "
+msgstr "显示长期流量统计（必须安装vnstat和vnstati）。"
+
+#. settings-schema.json->useVnstat->tooltip
+#. 4.0->settings-schema.json->useVnstat->tooltip
+#. 3.2->settings-schema.json->useVnstat->tooltip
+msgid ""
+"This requires vnstat and vnstati to be installed prior to being enabled."
+msgstr "这需要在启用之前安装vnstat和vnstati。"
+
+#. settings-schema.json->head4->description
+msgid "Settings for response to exceeding the current data usage limits"
+msgstr "用于响应超出当前数据使用量限制的设置"
+
+#. settings-schema.json->useCrisisManagement->description
+#. 4.0->settings-schema.json->useCrisisManagement->description
+#. 3.2->settings-schema.json->useCrisisManagement->description
+msgid "Take action when the current data usage limit is exceed"
+msgstr "当前数据使用量超出时采取行动"
+
+#. settings-schema.json->useCrisisManagement->tooltip
+#. 4.0->settings-schema.json->useCrisisManagement->tooltip
+#. 3.2->settings-schema.json->useCrisisManagement->tooltip
+msgid ""
+"This is useful for mobile broadband or where you may be paying for data on a "
+"Wifi link as it can, for example, suspend the machine after the limit has "
+"been exceeded"
+msgstr ""
+"这对于移动宽带或您可能要为使用Wifi连接数据付费的地方是有用的，例如在超出限制"
+"后挂起机器"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a notification"
+msgstr "显示通知"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Display a high priority notification"
+msgstr "显示高优先级通知"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Put up a full screen 'modal dialog' warning"
+msgstr "放置全屏“模式对话框”警告"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Run a user configurable Script (alertScript)"
+msgstr "运行用户配置的脚本(alertScript)"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Disable All Networking managed by NMClient after opportunity to abort"
+msgstr "用以中止的短暂时间结束后禁用所有NMClient管理的网络"
+
+#. settings-schema.json->crisisManagement->options
+#. 4.0->settings-schema.json->crisisManagement->options
+#. 3.2->settings-schema.json->crisisManagement->options
+msgid "Suspend Machine after a brief opportunity to abort (via suspendScript)"
+msgstr "用以中止挂起的短暂时间结束后挂起机器（通过suspendScript）"
+
+#. settings-schema.json->crisisManagement->description
+#. 4.0->settings-schema.json->crisisManagement->description
+#. 3.2->settings-schema.json->crisisManagement->description
+msgid "Action to take when Data Usage Limit exceeded:"
+msgstr "超出数据使用量限制时要采取的动作："
+
+#. settings-schema.json->crisisManagement->tooltip
+#. 4.0->settings-schema.json->crisisManagement->tooltip
+#. 3.2->settings-schema.json->crisisManagement->tooltip
+msgid ""
+"These are a mixture of preset options and scripts which can be changed by "
+"the user (Note: changes in scripts may not survive an update and should be "
+"backed up)"
+msgstr ""
+"这些是用户可以更改的预设选项和脚本的混合（注意：脚本中的更改可能在更新后失"
+"效，应做好备份）"
+
+#. settings-schema.json->disconnectDelay->units
+#. 4.0->settings-schema.json->disconnectDelay->units
+#. 3.2->settings-schema.json->disconnectDelay->units
+msgid "Seconds"
+msgstr "秒"
+
+#. settings-schema.json->disconnectDelay->description
+#. 4.0->settings-schema.json->disconnectDelay->description
+#. 3.2->settings-schema.json->disconnectDelay->description
+msgid "Delay before Disabling Networking managed by NMClient"
+msgstr "禁用NMClient管理的网络之前的延迟"
+
+#. settings-schema.json->disconnectDelay->tooltip
+#. 4.0->settings-schema.json->disconnectDelay->tooltip
+#. 3.2->settings-schema.json->disconnectDelay->tooltip
+msgid ""
+"This is the delay during which you can click the Applet to abort automatic "
+"disconnection of the machine when the Data Usage Limit is exceeded."
+msgstr "这是超过数据限制时，您点击小程序中止机器自动断开连接期间的延迟。"
+
+#. settings-schema.json->useAlertSound->description
+#. 4.0->settings-schema.json->useAlertSound->description
+#. 3.2->settings-schema.json->useAlertSound->description
+msgid "Sound an audible alert when Data Usage Limit Exceeded"
+msgstr "数据使用量超出限制时发出声音警报"
+
+#. settings-schema.json->useAlertSound->tooltip
+#. 4.0->settings-schema.json->useAlertSound->tooltip
+#. 3.2->settings-schema.json->useAlertSound->tooltip
+msgid ""
+"Only for built in alerts - hard code into scripts. Must have Sox installed"
+msgstr "仅用于内建的警报 - 硬编码到脚本。必须安装Sox"
+
+#. settings-schema.json->alertSound->description
+msgid "Full path and filename of alert sound file"
+msgstr "警报声音文件的完整路径和文件名"
+
+#. settings-schema.json->alertSound->tooltip
+#, fuzzy
+msgid "Must have Sox installed. Most sound file types supported"
+msgstr "仅用于内建的警报 - 硬编码到脚本。必须安装Sox。支持大多数声音类型"
+
+#. settings-schema.json->displayExtraHousekeeping->description
+#. 4.0->settings-schema.json->displayExtraHousekeeping->description
+#. 3.2->settings-schema.json->displayExtraHousekeeping->description
+msgid "Add development and test functions to Context Menu"
+msgstr "添加开发和测试功能到右键菜单"
+
+#. settings-schema.json->displayExtraHousekeeping->tooltip
+#. 4.0->settings-schema.json->displayExtraHousekeeping->tooltip
+#. 3.2->settings-schema.json->displayExtraHousekeeping->tooltip
+msgid ""
+"Very useful for development of scripts and testing without actually "
+"exceeding a limit"
+msgstr "对于脚本开发和测试非常有用而实际上不会超出限制"
+
+#. 4.0->settings-schema.json->page1->title
+#. 3.2->settings-schema.json->page1->title
+msgid "General"
+msgstr ""
+
+#. 4.0->settings-schema.json->page2->title
+#. 3.2->settings-schema.json->page2->title
+msgid "Data Use, Alerts and Responses"
+msgstr ""
+
+#. 4.0->settings-schema.json->page3->title
+#. 3.2->settings-schema.json->page3->title
+#, fuzzy
+msgid "Cumulative Data"
+msgstr "累计数据使用量"
+
+#. 4.0->settings-schema.json->page4->title
+#. 3.2->settings-schema.json->page4->title
+msgid "Longer Term Statistics"
+msgstr ""
+
+#. 4.0->settings-schema.json->section4->title
+#. 3.2->settings-schema.json->section4->title
+#, fuzzy
+msgid "Response to exceeding the current data usage limit"
+msgstr "用于响应超出当前数据使用量限制的设置"
+
+#. 4.0->settings-schema.json->useExtendedDisplay->description
+#. 3.2->settings-schema.json->useExtendedDisplay->description
+msgid "Enable Extended Display Options"
+msgstr ""
+
+#. 4.0->settings-schema.json->useExtendedDisplay->tooltip
+#. 3.2->settings-schema.json->useExtendedDisplay->tooltip
+msgid "This is new option version 1.0.2"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Classic - Summary of Data Usage for last Days and Months"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid ""
+"Classic Plus - Classic with addition of breakdown by hour for last 24 hours"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->options
+#. 3.2->settings-schema.json->extendedDisplay->options
+msgid "Custom Display - requires enabling below"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->description
+#. 3.2->settings-schema.json->extendedDisplay->description
+msgid "Type of Display - default 'classic'"
+msgstr ""
+
+#. 4.0->settings-schema.json->extendedDisplay->tooltip
+#. 3.2->settings-schema.json->extendedDisplay->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional of adding "
+"an hourly breakdown over the last 24 hours and an experimental option of a "
+"user defined string for vnstati when enabled below"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->description
+#. 3.2->settings-schema.json->useVnstatiCommandString->description
+msgid "Enable Custom Display Option"
+msgstr ""
+
+#. 4.0->settings-schema.json->useVnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->useVnstatiCommandString->tooltip
+msgid "Check box"
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->description
+#. 3.2->settings-schema.json->vnstatiCommandString->description
+msgid "Custom options to pass to vnstati - default is '-vs' "
+msgstr ""
+
+#. 4.0->settings-schema.json->vnstatiCommandString->tooltip
+#. 3.2->settings-schema.json->vnstatiCommandString->tooltip
+msgid ""
+"The default is the options used for the extended display. Note: this is not "
+"the whole vnstati option string - the interface and output file options are "
+"added to it automatically. Please read the vnstati manual for further "
+"information on options avaiilable"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->description
+#. 3.2->settings-schema.json->alertSound->description
+msgid "Choose alert sound file"
+msgstr ""
+
+#. 4.0->settings-schema.json->alertSound->tooltip
+#. 3.2->settings-schema.json->alertSound->tooltip
+msgid "Must have Sox installed. Limited file types supported (.oga and .wav)"
+msgstr ""
+
+#~ msgid ""
+#~ "A Comprehensive Data Usage Monitor with alerts and cumulative data "
+#~ "functions for Cinnamon"
+#~ msgstr "一个具有警告和累计数据功能的Cinnamon综合数据使用情况监视器"

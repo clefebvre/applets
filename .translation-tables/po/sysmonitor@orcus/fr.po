@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# roxfr <roxfr@outlook.fr>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-21 13:51+0300\n"
+"PO-Revision-Date: 2020-04-30 19:40+0200\n"
+"Last-Translator: roxfr <roxfr@outlook.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#: 3.2/providers.js:56 3.0/providers.js:49
+msgid "CPU:"
+msgstr "CPU :"
+
+#: 3.2/providers.js:82 3.2/providers.js:108 3.0/providers.js:75
+#: 3.0/providers.js:101
+msgid " MB"
+msgstr " Mo"
+
+#: 3.2/providers.js:87 3.0/providers.js:80
+msgid "Memory:"
+msgstr "Mémoire :"
+
+#: 3.2/providers.js:113 3.0/providers.js:106
+msgid "Swap:"
+msgstr "Échange :"
+
+#: 3.2/providers.js:159 3.0/providers.js:152
+msgid " KB/s"
+msgstr " Ko/s"
+
+#: 3.2/providers.js:164 3.0/providers.js:157
+msgid "Network D/U:"
+msgstr "Réseau D/U :"
+
+#: 3.2/providers.js:203 3.0/providers.js:196
+msgid "Load average:"
+msgstr "Charge moyenne :"
+
+#. metadata.json->description
+msgid "Displays CPU, memory, swap and network usage and load in graphs"
+msgstr ""
+"Affiche l'utilisation du processeur, de la mémoire, de l'espace d'échange, "
+"du réseau et la charge dans les graphiques"
+
+#. metadata.json->name
+msgid "System Monitor"
+msgstr "Moniteur système"
+
+#. 3.2->settings-schema.json->common->title
+#. 3.0->settings-schema.json->header_common->description
+msgid "Common"
+msgstr "Commun"
+
+#. 3.2->settings-schema.json->common_g->title
+#. 3.2->settings-schema.json->cpu_g->title
+#. 3.2->settings-schema.json->mem_g->title
+#. 3.2->settings-schema.json->swap_g->title
+#. 3.2->settings-schema.json->net_g->title
+#. 3.2->settings-schema.json->load_g->title
+msgid "General"
+msgstr "Général"
+
+#. 3.2->settings-schema.json->common_c->title
+#. 3.2->settings-schema.json->cpu_c->title
+#. 3.2->settings-schema.json->mem_c->title
+#. 3.2->settings-schema.json->swap_c->title
+#. 3.2->settings-schema.json->net_c->title
+#. 3.2->settings-schema.json->load_c->title
+msgid "Colors"
+msgstr "Couleurs"
+
+#. 3.2->settings-schema.json->cpu->title
+#. 3.0->settings-schema.json->header_cpu->description
+msgid "CPU"
+msgstr "CPU"
+
+#. 3.2->settings-schema.json->mem->title
+#. 3.0->settings-schema.json->header_mem->description
+msgid "Memory"
+msgstr "Mémoire"
+
+#. 3.2->settings-schema.json->swap->title
+#. 3.0->settings-schema.json->header_swap->description
+msgid "Swap"
+msgstr "Échange"
+
+#. 3.2->settings-schema.json->net->title
+#. 3.0->settings-schema.json->header_net->description
+msgid "Network"
+msgstr "Réseau"
+
+#. 3.2->settings-schema.json->load->title
+#. 3.0->settings-schema.json->header_load->description
+msgid "Load"
+msgstr "Charge"
+
+#. 3.2->settings-schema.json->onclick_program->description
+#. 3.0->settings-schema.json->onclick_program->description
+msgid "Program to launch on click"
+msgstr "Programme à lancer en un clic"
+
+#. 3.2->settings-schema.json->smooth->description
+#. 3.0->settings-schema.json->smooth->description
+msgid "Smooth graphs"
+msgstr "Graphiques lisses"
+
+#. 3.2->settings-schema.json->draw_border->description
+#. 3.0->settings-schema.json->draw_border->description
+msgid "Draw border"
+msgstr "Dessiner les bordures"
+
+#. 3.2->settings-schema.json->graph_width->description
+#. 3.0->settings-schema.json->graph_width->description
+msgid "Common graph width"
+msgstr "Largeur de graphique commune"
+
+#. 3.2->settings-schema.json->graph_width->units
+#. 3.2->settings-schema.json->graph_spacing->units
+#. 3.2->settings-schema.json->padding_lr->units
+#. 3.2->settings-schema.json->padding_tb->units
+#. 3.2->settings-schema.json->cpu_graph_width->units
+#. 3.2->settings-schema.json->mem_graph_width->units
+#. 3.2->settings-schema.json->swap_graph_width->units
+#. 3.2->settings-schema.json->net_graph_width->units
+#. 3.2->settings-schema.json->load_graph_width->units
+#. 3.0->settings-schema.json->graph_width->units
+#. 3.0->settings-schema.json->graph_spacing->units
+#. 3.0->settings-schema.json->padding_lr->units
+#. 3.0->settings-schema.json->padding_tb->units
+#. 3.0->settings-schema.json->cpu_graph_width->units
+#. 3.0->settings-schema.json->mem_graph_width->units
+#. 3.0->settings-schema.json->swap_graph_width->units
+#. 3.0->settings-schema.json->net_graph_width->units
+#. 3.0->settings-schema.json->load_graph_width->units
+msgid "pixels"
+msgstr "pixels"
+
+#. 3.2->settings-schema.json->graph_width->tooltip
+#. 3.0->settings-schema.json->graph_width->tooltip
+msgid ""
+"If the applet is in a vertical panel, this sets the graph height. The graph "
+"width is then the panel width minus padding"
+msgstr ""
+"Si l'applet se trouve dans un panneau vertical, cela définit la hauteur du "
+"graphique. La largeur du graphique est alors la largeur du panneau moins le "
+"remplissage"
+
+#. 3.2->settings-schema.json->graph_spacing->description
+#. 3.0->settings-schema.json->graph_spacing->description
+msgid "Graph spacing"
+msgstr "Espacement des graphiques"
+
+#. 3.2->settings-schema.json->graph_spacing->tooltip
+#. 3.0->settings-schema.json->graph_spacing->tooltip
+msgid ""
+"The number of pixels between each graph. Can be set to -1 to allow single "
+"line borders between graphs if borders are enabled"
+msgstr ""
+"Le nombre de pixels entre chaque graphique. Peut être défini sur -1 pour "
+"autoriser les bordures d'une seule ligne entre les graphiques si les "
+"bordures sont activées"
+
+#. 3.2->settings-schema.json->refresh_rate->description
+#. 3.0->settings-schema.json->refresh_rate->description
+msgid "Refresh rate"
+msgstr "Fréquence de rafraîchissement"
+
+#. 3.2->settings-schema.json->refresh_rate->units
+#. 3.0->settings-schema.json->refresh_rate->units
+msgid "ms"
+msgstr "ms"
+
+#. 3.2->settings-schema.json->use_padding->description
+#. 3.0->settings-schema.json->use_padding->description
+msgid "Use custom applet padding"
+msgstr "Utiliser un remplissage d'applet personnalisé"
+
+#. 3.2->settings-schema.json->padding_lr->description
+#. 3.0->settings-schema.json->padding_lr->description
+msgid "Left/right padding"
+msgstr "Remplissage gauche/droite"
+
+#. 3.2->settings-schema.json->padding_tb->description
+#. 3.0->settings-schema.json->padding_tb->description
+msgid "Top/bottom padding"
+msgstr "Remplissage haut/bas"
+
+#. 3.2->settings-schema.json->bg_color->description
+#. 3.0->settings-schema.json->bg_color->description
+msgid "Background color"
+msgstr "Couleur de l'arrière plan"
+
+#. 3.2->settings-schema.json->border_color->description
+#. 3.0->settings-schema.json->border_color->description
+msgid "Border color"
+msgstr "Couleur des bordures"
+
+#. 3.2->settings-schema.json->cpu_enabled->description
+#. 3.2->settings-schema.json->mem_enabled->description
+#. 3.2->settings-schema.json->swap_enabled->description
+#. 3.2->settings-schema.json->net_enabled->description
+#. 3.2->settings-schema.json->load_enabled->description
+#. 3.0->settings-schema.json->cpu_enabled->description
+#. 3.0->settings-schema.json->mem_enabled->description
+#. 3.0->settings-schema.json->swap_enabled->description
+#. 3.0->settings-schema.json->net_enabled->description
+#. 3.0->settings-schema.json->load_enabled->description
+msgid "Enable"
+msgstr "Activer"
+
+#. 3.2->settings-schema.json->cpu_override_graph_width->description
+#. 3.2->settings-schema.json->mem_override_graph_width->description
+#. 3.2->settings-schema.json->swap_override_graph_width->description
+#. 3.2->settings-schema.json->net_override_graph_width->description
+#. 3.2->settings-schema.json->load_override_graph_width->description
+#. 3.0->settings-schema.json->cpu_override_graph_width->description
+#. 3.0->settings-schema.json->mem_override_graph_width->description
+#. 3.0->settings-schema.json->swap_override_graph_width->description
+#. 3.0->settings-schema.json->net_override_graph_width->description
+#. 3.0->settings-schema.json->load_override_graph_width->description
+msgid "Override graph width"
+msgstr "Remplacer la largeur du graphique"
+
+#. 3.2->settings-schema.json->cpu_graph_width->description
+#. 3.2->settings-schema.json->mem_graph_width->description
+#. 3.2->settings-schema.json->swap_graph_width->description
+#. 3.2->settings-schema.json->net_graph_width->description
+#. 3.2->settings-schema.json->load_graph_width->description
+#. 3.0->settings-schema.json->cpu_graph_width->description
+#. 3.0->settings-schema.json->mem_graph_width->description
+#. 3.0->settings-schema.json->swap_graph_width->description
+#. 3.0->settings-schema.json->net_graph_width->description
+#. 3.0->settings-schema.json->load_graph_width->description
+msgid "Graph width"
+msgstr "Largeur du graphique"
+
+#. 3.2->settings-schema.json->cpu_tooltip_decimals->description
+#. 3.0->settings-schema.json->cpu_tooltip_decimals->description
+msgid "Show this many decimals in the tooltip"
+msgstr "Afficher ce nombre de décimales dans l'info-bulle"
+
+#. 3.2->settings-schema.json->cpu_tooltip_decimals->units
+#. 3.0->settings-schema.json->cpu_tooltip_decimals->units
+msgid "decimals"
+msgstr "décimales"
+
+#. 3.2->settings-schema.json->cpu_color_0->description
+#. 3.0->settings-schema.json->cpu_color_0->description
+msgid "User color"
+msgstr "Couleur Utilisateur"
+
+#. 3.2->settings-schema.json->cpu_color_1->description
+#. 3.0->settings-schema.json->cpu_color_1->description
+msgid "Nice color"
+msgstr "Couleur Nice"
+
+#. 3.2->settings-schema.json->cpu_color_2->description
+#. 3.0->settings-schema.json->cpu_color_2->description
+msgid "Kernel color"
+msgstr "Couleur Noyau"
+
+#. 3.2->settings-schema.json->cpu_color_3->description
+#. 3.0->settings-schema.json->cpu_color_3->description
+msgid "IOWait color"
+msgstr "Couleur IOWait"
+
+#. 3.2->settings-schema.json->mem_color_0->description
+#. 3.2->settings-schema.json->swap_color_0->description
+#. 3.0->settings-schema.json->mem_color_0->description
+#. 3.0->settings-schema.json->swap_color_0->description
+msgid "Used color"
+msgstr "Couleur Utilisée"
+
+#. 3.2->settings-schema.json->mem_color_1->description
+#. 3.0->settings-schema.json->mem_color_1->description
+msgid "Cached color"
+msgstr "Couleur Cache"
+
+#. 3.2->settings-schema.json->net_color_0->description
+#. 3.0->settings-schema.json->net_color_0->description
+msgid "Download color"
+msgstr "Télécharger la couleur"
+
+#. 3.2->settings-schema.json->net_color_1->description
+#. 3.0->settings-schema.json->net_color_1->description
+msgid "Upload color"
+msgstr "Transférer la couleur"
+
+#. 3.2->settings-schema.json->load_color_0->description
+#. 3.0->settings-schema.json->load_color_0->description
+msgid "Color"
+msgstr "Couleur"
